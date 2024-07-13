@@ -64,42 +64,11 @@ def findfiles(root, source = True):
 
 if __name__ == "__main__":
 
-
-
-    # path = "json_ext_ext_msg/porbr/item_dlc01-msgbnd-dcx/GR/data/INTERROOT_win64/msg/porBR/AccessoryCaption.fmg.json"
-    # root = "json_ext_ext_msg/porbr/item_dlc01-msgbnd-dcx/GR/data/INTERROOT_win64/msg/porBR/"
-    # ext_file = "comp_json_ext_ext_msg/porbr/item_dlc01-msgbnd-dcx/item_dlc01-msgbnd-dcx.json"
-    
-
- 
     jp = {"fmg": {"compression": "None", "version": "DarkSouls3", "bigendian": "False", 
                   "entries": {
                       "text": {"@id": "9", "#text": "asd"}
                       
                       }}}
-    
- 
-   
-
-    #result = {element["@id"]:element["#text"] for element in (jp['fmg']['entries']['text'])}
-    #print(result) 
-
-    # result = {element['@id']: element['#text'] for element in jp['fmg']['entries']['text']}
-    # origin = os.path.splitext("N://"+("/".join(i for i in path.split("/")[-6:])))[0]
-    # jc = {origin:result}
-        
-    # with open(ext_file, "r", encoding="utf8") as jfull:
-    #     jf = json.load(jfull)
-    # jf.update(jc)
-
-    # with open(ext_file, "w", encoding="utf8") as jfull:
-    #     json.dump(jf, jfull)
-
-
-    # print(jf)
-        
-        #print
-    #root = str(input("Name the folder that will be looped: "))
     root = "json_ext_ext_msg"
     findfiles(root)
 
