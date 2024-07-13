@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="200000">Cendres de guerre : Tourbillon de Mortefeuille</text>
+<text id="200100">Cendres de guerre : Aspects du Creuset : ailes</text>
+<text id="400000">Cendres de guerre : Frappe gravitationnelle rotative</text>
+<text id="401000">Cendres de guerre : Coup de paume</text>
+<text id="402000">Cendres de guerre : Lancer perforant</text>
+<text id="403000">Cendres de guerre : Lancer multiple</text>
+<text id="404000">Cendres de guerre : Mur étincelant</text>
+<text id="405000">Cendres de guerre : Déferlement étincelant</text>
+<text id="406000">Cendres de guerre : Fureur bestiale</text>
+<text id="407000">Cendres de guerre : Griffes sauvages</text>
+<text id="409000">Cendres de guerre : Angle mort</text>
+<text id="410000">Cendres de guerre : Taillade rapide</text>
+<text id="411000">Cendres de guerre : Quinte</text>
+<text id="412000">Cendres de guerre : Posture unilatérale</text>
+<text id="413000">Cendres de guerre : Charge fulminante</text>
+<text id="414000">Cendres de guerre : Embrochement ardent</text>
+<text id="415000">Cendres de guerre : Griffe du lion sauvage</text>
+<text id="416000">Cendres de guerre : Écrasement glacial divin</text>
+<text id="417000">Cendres de guerre : Lance de feu</text>
+<text id="418000">Cendres de guerre : Souveraineté de Caria</text>
+<text id="419000">Cendres de guerre : Cri de désespoir</text>
+<text id="422000">Cendres de guerre : Invocation de flammes spectrales</text>
+<text id="505000">Cendres de guerre : Floraison toxique</text>
+<text id="548000">Cendres de guerre : Traque du dragon d'Igon</text>
+<text id="800000">Cendres de guerre : Frappe de bouclier</text>
+</entries>
+</fmg>

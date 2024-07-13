@@ -1,0 +1,903 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="2000">Compétence : Tourbillon de Mortefeuille
+
+Cette compétence représente l'apogée de l'expertise martiale de Dane basé sur le jeu de jambes. Vous bondissez dans les airs en donnant plusieurs coups de pied tournoyants, avant de vous laisser retomber sur le sol en frappant une dernière fois. Imprègne les coups de pied d'énergie, ce qui augmente leur portée.</text>
+<text id="2001">Compétence : Aspects du Creuset : ailes
+
+Cette compétence tire son origine de l'énergie vitale du Creuset.
+Vous conjurez une paire d'ailes dans votre dos, avant de vous élever dans les airs, puis de plonger vers le sol en pointant votre arme vers votre ennemi. Si vous portez une lame double, cette attaque tournoie.</text>
+<text id="4000">Compétence : Frappe gravitationnelle rotative
+
+Une compétence gravitationnelle conçue par les disciples du seigneur d'albâtre. Vous puisez dans la gravité pour vous suspendre dans les airs, avant de vous mettre à tourbillonner férocement vers l'avant. Enchaînez cette compétence pour effectuer une attaque supplémentaire.</text>
+<text id="4001">%null%</text>
+<text id="4002">%null%</text>
+<text id="4003">%null%</text>
+<text id="4004">%null%</text>
+<text id="4005">%null%</text>
+<text id="4006">%null%</text>
+<text id="4007">%null%</text>
+<text id="4008">%null%</text>
+<text id="4009">%null%</text>
+<text id="4010">Compétence : Coup de paume
+
+Compétence des chercheurs spirituels appartenant à la secte de Mortefeuille. Vous imprégnez votre main d'énergie et frappez avec votre paume, ce qui produit une onde de choc. Chargez cette attaque pour accroître sa puissance et son effet.</text>
+<text id="4011">%null%</text>
+<text id="4012">%null%</text>
+<text id="4013">%null%</text>
+<text id="4014">%null%</text>
+<text id="4015">%null%</text>
+<text id="4016">%null%</text>
+<text id="4017">%null%</text>
+<text id="4018">%null%</text>
+<text id="4019">%null%</text>
+<text id="4020">Compétence : Lancer perforant
+
+Vous lancez votre arme et la faites tournoyer, ce qui lui permet de transpercer les cibles atteintes. En utilisant cette compétence, l'arme peut être lancée plus loin que la normale et transpercer les ennemis.</text>
+<text id="4021">%null%</text>
+<text id="4022">%null%</text>
+<text id="4023">%null%</text>
+<text id="4024">%null%</text>
+<text id="4025">%null%</text>
+<text id="4026">%null%</text>
+<text id="4027">%null%</text>
+<text id="4028">%null%</text>
+<text id="4029">%null%</text>
+<text id="4030">Compétence : Lancer multiple
+
+Vous faites appel aux arts de la forge pour conjurer plusieurs exemplaires de votre arme dans chaque main, avant de toutes les lancer d'un coup. Réutilisez la compétence pour lancer à nouveau.</text>
+<text id="4031">%null%</text>
+<text id="4032">%null%</text>
+<text id="4033">%null%</text>
+<text id="4034">%null%</text>
+<text id="4035">%null%</text>
+<text id="4036">%null%</text>
+<text id="4037">%null%</text>
+<text id="4038">%null%</text>
+<text id="4039">%null%</text>
+<text id="4040">Compétence : Mur étincelant
+
+Vous parsemez de la poudre parfumée près de vous, ce qui produit de vives étincelles après un certain temps. Chargez cette compétence pour augmenter la puissance et la portée.
+Leurs propriétés dépendent du flacon de parfum utilisé.</text>
+<text id="4041">%null%</text>
+<text id="4042">%null%</text>
+<text id="4043">%null%</text>
+<text id="4044">%null%</text>
+<text id="4045">%null%</text>
+<text id="4046">%null%</text>
+<text id="4047">%null%</text>
+<text id="4048">%null%</text>
+<text id="4049">%null%</text>
+<text id="4050">Compétence : Déferlement étincelant
+
+Vous parsemez de la poudre parfumée devant vous, ce qui produit un déferlement d'explosions étincelantes.
+Leurs propriétés dépendent du flacon de parfum utilisé.</text>
+<text id="4051">%null%</text>
+<text id="4052">%null%</text>
+<text id="4053">%null%</text>
+<text id="4054">%null%</text>
+<text id="4055">%null%</text>
+<text id="4056">%null%</text>
+<text id="4057">%null%</text>
+<text id="4058">%null%</text>
+<text id="4059">%null%</text>
+<text id="4060">Compétence : Fureur bestiale
+
+Vous foncez telle une bête, puis bondissez et tailladez vos ennemis depuis les airs. Vous pouvez choisir d'effectuer le mouvement initial vers l'avant, l'arrière, la gauche ou la droite. Enchaînez avec une attaque puissante pour effectuer une autre attaque.</text>
+<text id="4061">%null%</text>
+<text id="4062">%null%</text>
+<text id="4063">%null%</text>
+<text id="4064">%null%</text>
+<text id="4065">%null%</text>
+<text id="4066">%null%</text>
+<text id="4067">%null%</text>
+<text id="4068">%null%</text>
+<text id="4069">%null%</text>
+<text id="4070">Compétence : Griffes sauvages
+
+Vous bondissez telle une bête et tailladez vos ennemis avec un coup de griffes droit et gauche.</text>
+<text id="4071">%null%</text>
+<text id="4072">%null%</text>
+<text id="4073">%null%</text>
+<text id="4074">%null%</text>
+<text id="4075">%null%</text>
+<text id="4076">%null%</text>
+<text id="4077">%null%</text>
+<text id="4078">%null%</text>
+<text id="4079">%null%</text>
+<text id="4080">Compétence unique : Traque de l'ours écarlate
+
+Vous assénez plusieurs coups de griffes et déchiquetez vos ennemis à l'aide de griffes acérées. Cette attaque crée un appel d'air infligeant des dégâts continus. Enchaînez cette compétence pour effectuer jusqu'à deux attaques supplémentaires.</text>
+<text id="4081">%null%</text>
+<text id="4082">%null%</text>
+<text id="4083">%null%</text>
+<text id="4084">%null%</text>
+<text id="4085">%null%</text>
+<text id="4086">%null%</text>
+<text id="4087">%null%</text>
+<text id="4088">%null%</text>
+<text id="4089">%null%</text>
+<text id="4090">Compétence : Angle mort
+
+Vous bondissez vers votre ennemi pour vous rapprocher et atteindre son angle mort, puis lui assénez un violent coup sur le côté. Vous pouvez diriger la direction de l'attaque. Cette attaque passe sous la garde de votre adversaire.</text>
+<text id="4091">%null%</text>
+<text id="4092">%null%</text>
+<text id="4093">%null%</text>
+<text id="4094">%null%</text>
+<text id="4095">%null%</text>
+<text id="4096">%null%</text>
+<text id="4097">%null%</text>
+<text id="4098">%null%</text>
+<text id="4099">%null%</text>
+<text id="4100">Compétence : Taillade rapide
+
+Une compétence que se transmettent les épéistes kérastiens. Vous faites un pas brusque vers l'avant et transpercez vos ennemis. Cette attaque crée également une zone de vide tranchante. Chargez cette compétence pour augmenter sa puissance et la distance du pas en avant.</text>
+<text id="4101">%null%</text>
+<text id="4102">%null%</text>
+<text id="4103">%null%</text>
+<text id="4104">%null%</text>
+<text id="4105">%null%</text>
+<text id="4106">%null%</text>
+<text id="4107">%null%</text>
+<text id="4108">%null%</text>
+<text id="4109">%null%</text>
+<text id="4110">Compétence : Quinte
+
+Une compétence qui vous met dans une posture de combat, l'arme tenue en l'air.
+Vous partez de votre posture et avancez pour effectuer une attaque normale, puis reculez en frappant à nouveau. Vous pouvez également asséner une attaque puissante pour administrer plusieurs coups vers le bas.</text>
+<text id="4111">%null%</text>
+<text id="4112">%null%</text>
+<text id="4113">%null%</text>
+<text id="4114">%null%</text>
+<text id="4115">%null%</text>
+<text id="4116">%null%</text>
+<text id="4117">%null%</text>
+<text id="4118">%null%</text>
+<text id="4119">%null%</text>
+<text id="4120">Compétence : Posture unilatérale
+
+Vous adoptez avec sérénité une posture s'appuyant sur votre côté droit. Les attaques normales déclenchent une volée de trois coups. Les attaques puissantes vous font bondir dans une frappe d'estoc ascendante.</text>
+<text id="4121">%null%</text>
+<text id="4122">%null%</text>
+<text id="4123">%null%</text>
+<text id="4124">%null%</text>
+<text id="4125">%null%</text>
+<text id="4126">%null%</text>
+<text id="4127">%null%</text>
+<text id="4128">%null%</text>
+<text id="4129">%null%</text>
+<text id="4130">Compétence : Charge fulminante
+
+Compétence utilisée par les chevaliers de l'Ordre d'or au service de Godwyn. Vous adoptez une posture basse et laissez votre corps se transformer en un éclair crépitant, avant de charger vers l'avant à une vitesse fulgurante.</text>
+<text id="4131">%null%</text>
+<text id="4132">%null%</text>
+<text id="4133">%null%</text>
+<text id="4134">%null%</text>
+<text id="4135">%null%</text>
+<text id="4136">%null%</text>
+<text id="4137">%null%</text>
+<text id="4138">%null%</text>
+<text id="4139">%null%</text>
+<text id="4140">Compétence : Embrochement ardent
+
+Compétence de Queelign, membre des chevaliers de Feu. Vous enveloppez votre arme de flammes et adoptez une posture basse, avant d'embrocher votre ennemi d'un coup net. Enchaînez avec une attaque puissante pour effectuer une attaque enflammée supplémentaire.</text>
+<text id="4141">%null%</text>
+<text id="4142">%null%</text>
+<text id="4143">%null%</text>
+<text id="4144">%null%</text>
+<text id="4145">%null%</text>
+<text id="4146">%null%</text>
+<text id="4147">%null%</text>
+<text id="4148">%null%</text>
+<text id="4149">%null%</text>
+<text id="4150">Compétence : Griffe du lion sauvage
+
+Compétence provenant d'une personne particulièrement courageuse, même pour un Lion rouge. Vous bondissez vers l'avant et frappez vos ennemis à l'aide votre arme. Enchaînez cette compétence pour effectuer une autre attaque.</text>
+<text id="4151">%null%</text>
+<text id="4152">%null%</text>
+<text id="4153">%null%</text>
+<text id="4154">%null%</text>
+<text id="4155">%null%</text>
+<text id="4156">%null%</text>
+<text id="4157">%null%</text>
+<text id="4158">%null%</text>
+<text id="4159">%null%</text>
+<text id="4160">Compétence : Écrasement glacial divin
+
+Une compétence qui imite la rage de la bête divine lorsqu'elle danse. Vous levez une jambe en l'air et la laissez retomber lourdement et puissamment, ce qui projette une redoutable onde de givre au ras du sol. Chargez cette compétence pour augmenter sa puissance et sa portée.</text>
+<text id="4161">%null%</text>
+<text id="4162">%null%</text>
+<text id="4163">%null%</text>
+<text id="4164">%null%</text>
+<text id="4165">%null%</text>
+<text id="4166">%null%</text>
+<text id="4167">%null%</text>
+<text id="4168">%null%</text>
+<text id="4169">%null%</text>
+<text id="4170">Compétence : Lance de feu
+
+Compétence de Kood, capitaine des chevaliers de Feu.
+Vous vous préparez à asséner une frappe d'estoc et effectuez une attaque enflammée face à vous. Chargez cette attaque pour augmenter ses dégâts et la distance parcourue.</text>
+<text id="4171">%null%</text>
+<text id="4172">%null%</text>
+<text id="4173">%null%</text>
+<text id="4174">%null%</text>
+<text id="4175">%null%</text>
+<text id="4176">%null%</text>
+<text id="4177">%null%</text>
+<text id="4178">%null%</text>
+<text id="4179">%null%</text>
+<text id="4180">Compétence : Souveraineté de Caria
+
+Une compétence transmise dans la famille royale de Caria. Vous transformez votre arme en un espadon magique et l'utilisez pour asséner un coup. Enchaînez cette compétence pour effectuer une attaque horizontale de zone. Chargez ces attaques pour augmenter leur puissance.</text>
+<text id="4181">%null%</text>
+<text id="4182">%null%</text>
+<text id="4183">%null%</text>
+<text id="4184">%null%</text>
+<text id="4185">%null%</text>
+<text id="4186">%null%</text>
+<text id="4187">%null%</text>
+<text id="4188">%null%</text>
+<text id="4189">%null%</text>
+<text id="4190">Compétence : Cri de désespoir
+
+Compétence utilisée par les opprimés. Vous hurlez, ce qui fait vaciller les ennemis proches tout en faisant monter en vous un profond ressentiment qui augmente votre puissance d'attaque en fonction de vos PV. Plus vos PV sont bas, plus l'effet est important.</text>
+<text id="4191">%null%</text>
+<text id="4192">%null%</text>
+<text id="4193">%null%</text>
+<text id="4194">%null%</text>
+<text id="4195">%null%</text>
+<text id="4196">%null%</text>
+<text id="4197">%null%</text>
+<text id="4198">%null%</text>
+<text id="4199">%null%</text>
+<text id="4200">Compétence : Frappe de bouclier
+
+Une compétence qui utilise le bouclier pour attaquer.
+Enchaînez cette compétence pour asséner jusqu'à trois attaques supplémentaires.</text>
+<text id="4201">%null%</text>
+<text id="4202">%null%</text>
+<text id="4203">%null%</text>
+<text id="4204">%null%</text>
+<text id="4205">%null%</text>
+<text id="4206">%null%</text>
+<text id="4207">%null%</text>
+<text id="4208">%null%</text>
+<text id="4209">%null%</text>
+<text id="4210">Compétence : Traque du dragon d'Igon
+
+Compétence d'Igon, le guerrier draconique. Vous bandez votre arc, puis assénez un tir difforme et dévastateur dans un hurlement strident.</text>
+<text id="4211">%null%</text>
+<text id="4212">%null%</text>
+<text id="4213">%null%</text>
+<text id="4214">%null%</text>
+<text id="4215">%null%</text>
+<text id="4216">%null%</text>
+<text id="4217">%null%</text>
+<text id="4218">%null%</text>
+<text id="4219">%null%</text>
+<text id="4220">Compétence : Invocation de flammes spectrales
+
+Vous portez un coup d'estoc conjurant des flammes spectrales.
+Enchaînez avec une attaque normale pour couvrir le sol de flammes spectrales, ou une attaque puissante pour déclencher une forte explosion.</text>
+<text id="5000">Compétence unique : Estafilade draconique
+
+Utilisée dans la traque de dragons colossaux, cette compétence enveloppe l'arme d'une aura de pierres dentelées. Vous effectuez ensuite une attaque bondissante. Chargez cette attaque pour projeter également l'aura.</text>
+<text id="5001">%null%</text>
+<text id="5002">%null%</text>
+<text id="5003">%null%</text>
+<text id="5004">%null%</text>
+<text id="5005">%null%</text>
+<text id="5006">%null%</text>
+<text id="5007">%null%</text>
+<text id="5008">%null%</text>
+<text id="5009">%null%</text>
+<text id="5010">Compétence unique : Aiguilles perforantes
+
+Compétence de Leda, chevaleresse de l'Aiguille. Fait apparaître dix aiguilles dorées qui transpercent votre ennemi d'un coup. Les ennemis transpercés sont purgés de toutes les altérations et effets spéciaux semblables.</text>
+<text id="5011">%null%</text>
+<text id="5012">%null%</text>
+<text id="5013">%null%</text>
+<text id="5014">%null%</text>
+<text id="5015">%null%</text>
+<text id="5016">%null%</text>
+<text id="5017">%null%</text>
+<text id="5018">%null%</text>
+<text id="5019">%null%</text>
+<text id="5020">Compétence unique : Lumière
+
+Vous faites jaillir la lumière que recèle la lame de votre arme en la brandissant, ce qui crée des rais lumineux qui balaient les alentours. Augmente aussi temporairement les attaques sacrées.</text>
+<text id="5021">%null%</text>
+<text id="5022">%null%</text>
+<text id="5023">%null%</text>
+<text id="5024">%null%</text>
+<text id="5025">%null%</text>
+<text id="5026">%null%</text>
+<text id="5027">%null%</text>
+<text id="5028">%null%</text>
+<text id="5029">%null%</text>
+<text id="5030">Compétence unique : Ténèbres
+
+Vous brandissez votre arme et plongez les alentours dans l'obscurité. Vous infligez ainsi des dégâts sacrés et réduisez temporairement la résistance aux dégâts sacrés.</text>
+<text id="5031">%null%</text>
+<text id="5032">%null%</text>
+<text id="5033">%null%</text>
+<text id="5034">%null%</text>
+<text id="5035">%null%</text>
+<text id="5036">%null%</text>
+<text id="5037">%null%</text>
+<text id="5038">%null%</text>
+<text id="5039">%null%</text>
+<text id="5040">Compétence unique : Ligne d'étoiles d'Onze
+
+Cette compétence doit son nom à un épéiste semi-humain. Vous imprégnez une rangée de pierres d'éclat d'énergie magique avant d'effectuer plusieurs attaques tranchantes. Enchaînez cette compétence pour effectuer jusqu'à deux attaques supplémentaires qui infligent à chaque fois davantage de dégâts.</text>
+<text id="5041">%null%</text>
+<text id="5042">%null%</text>
+<text id="5043">%null%</text>
+<text id="5044">%null%</text>
+<text id="5045">%null%</text>
+<text id="5046">%null%</text>
+<text id="5047">%null%</text>
+<text id="5048">%null%</text>
+<text id="5049">%null%</text>
+<text id="5050">Compétence : Floraison toxique
+
+Vous bondissez et conjurez un dard recouvert de putréfaction écarlate sous vos pieds, avant de l'utiliser pour fondre sur votre ennemi. Si cette attaque touche un ennemi déjà empoisonné ou putréfié, elle lui assène un coup unique aux dégâts considérables.</text>
+<text id="5080">Compétence unique : Guillotine tournoyante
+
+Vous saisissez la lame putride de votre arme par les deux extrémités et vous penchez en arrière avant d'asséner un puissant coup descendant. Tant qu'il vous reste de l'endurance, enchaînez cette compétence pour asséner des attaques supplémentaires. Une attaque puissante permet d'enchaîner avec un saut en avant, suivi d'une attaque tournoyante.</text>
+<text id="5081">%null%</text>
+<text id="5082">%null%</text>
+<text id="5083">%null%</text>
+<text id="5084">%null%</text>
+<text id="5085">%null%</text>
+<text id="5086">%null%</text>
+<text id="5087">%null%</text>
+<text id="5088">%null%</text>
+<text id="5089">%null%</text>
+<text id="5090">Compétence unique : Danse éternelle
+
+Vous vous mettez à danser frénétiquement et assénez plusieurs attaques tranchantes d'affilée. Tant qu'il vous reste de l'endurance, vous pouvez maintenir la compétence pour continuer à danser.</text>
+<text id="5091">%null%</text>
+<text id="5092">%null%</text>
+<text id="5093">%null%</text>
+<text id="5094">%null%</text>
+<text id="5095">%null%</text>
+<text id="5096">%null%</text>
+<text id="5097">%null%</text>
+<text id="5098">%null%</text>
+<text id="5099">%null%</text>
+<text id="5100">Compétence unique : Lame vengeresse
+
+Vous empoignez une lame dans chacune de vos mains et vous ruez sur un ennemi pour l'éventrer. Maintenez la compétence pour accroître la portée de la ruée initiale. Enchaînez avec une attaque puissante pour taillader votre adversaire.</text>
+<text id="5101">%null%</text>
+<text id="5102">%null%</text>
+<text id="5103">%null%</text>
+<text id="5104">%null%</text>
+<text id="5105">%null%</text>
+<text id="5106">%null%</text>
+<text id="5107">%null%</text>
+<text id="5108">%null%</text>
+<text id="5109">%null%</text>
+<text id="5110">Compétence unique : Brumes du sommeil éternel
+
+Répand une brume pourpre et veloutée dans une large zone frontale. Plonge les ennemis touchés dans un sommeil éternel.</text>
+<text id="5111">%null%</text>
+<text id="5112">%null%</text>
+<text id="5113">%null%</text>
+<text id="5114">%null%</text>
+<text id="5115">%null%</text>
+<text id="5116">%null%</text>
+<text id="5117">%null%</text>
+<text id="5118">%null%</text>
+<text id="5119">%null%</text>
+<text id="5120">Compétence unique : Faucille dynastique
+
+Une habile manœuvre évasive permettant de créer de la distance. La compétence détermine la direction du pas en arrière. Exécutez une attaque puissante pour avancer en effectuant une attaque ascendante. Enchaînez une seconde attaque puissante pour asséner plusieurs coups avant de reculer.</text>
+<text id="5121">%null%</text>
+<text id="5122">%null%</text>
+<text id="5123">%null%</text>
+<text id="5124">%null%</text>
+<text id="5125">%null%</text>
+<text id="5126">%null%</text>
+<text id="5127">%null%</text>
+<text id="5128">%null%</text>
+<text id="5129">%null%</text>
+<text id="5130">Compétence unique : Charge fulminante : haches jumelles
+
+Vous adoptez une posture basse et laissez votre corps se transformer en un éclair crépitant, avant de charger vers l'avant à une vitesse fulgurante. Enchaînez avec une attaque puissante pour effectuer une attaque tournoyante imprégnée de foudre.</text>
+<text id="5131">%null%</text>
+<text id="5132">%null%</text>
+<text id="5133">%null%</text>
+<text id="5134">%null%</text>
+<text id="5135">%null%</text>
+<text id="5136">%null%</text>
+<text id="5137">%null%</text>
+<text id="5138">%null%</text>
+<text id="5139">%null%</text>
+<text id="5140">Compétence unique : Charge fulminante : hache à long manche
+
+Vous adoptez une posture basse et laissez votre corps se transformer en un éclair crépitant, avant de charger vers l'avant à une vitesse fulgurante. Enchaînez avec une attaque puissante pour effectuer une attaque bondissante imprégnée de foudre.</text>
+<text id="5141">%null%</text>
+<text id="5142">%null%</text>
+<text id="5143">%null%</text>
+<text id="5144">%null%</text>
+<text id="5145">%null%</text>
+<text id="5146">%null%</text>
+<text id="5147">%null%</text>
+<text id="5148">%null%</text>
+<text id="5149">%null%</text>
+<text id="5150">Compétence unique : Futur consort
+
+Vous imprégnez les deux espadons de la lumière de Miquella, avant d'asséner une attaque tranchante créant des piliers de lumière. Enchaînez cette compétence pour effectuer jusqu'à deux attaques supplémentaires.</text>
+<text id="5151">%null%</text>
+<text id="5152">%null%</text>
+<text id="5153">%null%</text>
+<text id="5154">%null%</text>
+<text id="5155">%null%</text>
+<text id="5156">%null%</text>
+<text id="5157">%null%</text>
+<text id="5158">%null%</text>
+<text id="5159">%null%</text>
+<text id="5160">Compétence unique : Frappe de l'ombreflore
+
+Vous abattez la fleur d'une grande ombreflore sur le sol, ce qui projette une onde de choc aplatissant vos adversaires. Enchaînez cette compétence pour effectuer jusqu'à deux attaques supplémentaires.</text>
+<text id="5161">%null%</text>
+<text id="5162">%null%</text>
+<text id="5163">%null%</text>
+<text id="5164">%null%</text>
+<text id="5165">%null%</text>
+<text id="5166">%null%</text>
+<text id="5167">%null%</text>
+<text id="5168">%null%</text>
+<text id="5169">%null%</text>
+<text id="5170">Compétence unique : Posture du feu et de la lune
+
+Vous imprégnez deux épées de magie et adoptez une posture offensive. Enchaînez avec une attaque normale pour lancer des ondes de lumière des pierres d'éclat, ou une attaque puissante pour asséner un coup tournoyant qui baigne la zone de flammes. Enchaînez cette compétence pour lancer jusqu'à deux ondes de lumière.</text>
+<text id="5171">%null%</text>
+<text id="5172">%null%</text>
+<text id="5173">%null%</text>
+<text id="5174">%null%</text>
+<text id="5175">%null%</text>
+<text id="5176">%null%</text>
+<text id="5177">%null%</text>
+<text id="5178">%null%</text>
+<text id="5179">%null%</text>
+<text id="5180">Compétence unique : Vortex de Devonia
+
+Vous canalisez le pouvoir du vortex du Creuset et faites tournoyer votre marteau en l'air avant de l'abattre sur le sol pour provoquer une onde de choc. Chargez cette compétence pour augmenter sa puissance.</text>
+<text id="5181">%null%</text>
+<text id="5182">%null%</text>
+<text id="5183">%null%</text>
+<text id="5184">%null%</text>
+<text id="5185">%null%</text>
+<text id="5186">%null%</text>
+<text id="5187">%null%</text>
+<text id="5188">%null%</text>
+<text id="5189">%null%</text>
+<text id="5190">Compétence unique : Assaut de Messmer
+
+Une féroce succession d'attaques effectuées à l'aide d'une lance enveloppée de flammes. Enchaînez cette compétence pour asséner jusqu'à deux attaques supplémentaires. Lors du dernier coup, vous l'enfoncez dans le sol et faites apparaître d'innombrables autres lances autour de vous.</text>
+<text id="5210">Compétence unique : Sommeil profond
+
+Vous utilisez une aiguille recouverte de poison pour transpercer votre ennemi profondément et le plonger dans un sommeil éternel. Si l'attaque qui suit touche un ennemi déjà plongé dans un sommeil éternel, vous lui infligez de lourds dégâts.</text>
+<text id="5211">%null%</text>
+<text id="5212">%null%</text>
+<text id="5213">%null%</text>
+<text id="5214">%null%</text>
+<text id="5215">%null%</text>
+<text id="5216">%null%</text>
+<text id="5217">%null%</text>
+<text id="5218">%null%</text>
+<text id="5219">%null%</text>
+<text id="5220">Compétence unique : Crucifix doré
+
+Vous bondissez avec grâce dans les airs et effectuez une attaque descendante. Les pointes de l'arme jaillissent alors, ce qui inflige de lourds dégâts à l'ennemi si ce dernier s'est fait embrocher par l'attaque initiale. Cette technique évoque étrangement l'Ordre d'or.</text>
+<text id="5221">%null%</text>
+<text id="5222">%null%</text>
+<text id="5223">%null%</text>
+<text id="5224">%null%</text>
+<text id="5225">%null%</text>
+<text id="5226">%null%</text>
+<text id="5227">%null%</text>
+<text id="5228">%null%</text>
+<text id="5229">%null%</text>
+<text id="5230">Compétence unique : Charge de Moore
+
+Vous brandissez votre bouclier à deux mains, puis chargez devant vous tout en vous protégeant, avant de terminer par une attaque de poussée imprégnée de magie vert-de-gris. Cette compétence repousse les ennemis proches, mais n'inflige que de légers dégâts. Maintenez la compétence pour augmenter la portée de la charge.</text>
+<text id="5231">%null%</text>
+<text id="5232">%null%</text>
+<text id="5233">%null%</text>
+<text id="5234">%null%</text>
+<text id="5235">%null%</text>
+<text id="5236">%null%</text>
+<text id="5237">%null%</text>
+<text id="5238">%null%</text>
+<text id="5239">%null%</text>
+<text id="5240">Compétence unique : Lumière blanche
+
+Vous conjurez une lueur blanche dans le sillon qui parcourt votre arme faite d'antique minerai de météorite, puis utilisez son pouvoir pour effectuer une charge transperçant vos ennemis. Enchaînez cette compétence pour faire exploser la lueur.</text>
+<text id="5241">%null%</text>
+<text id="5242">%null%</text>
+<text id="5243">%null%</text>
+<text id="5244">%null%</text>
+<text id="5245">%null%</text>
+<text id="5246">%null%</text>
+<text id="5247">%null%</text>
+<text id="5248">%null%</text>
+<text id="5249">%null%</text>
+<text id="5250">Compétence unique : Frappe de rancune
+
+Vous tournoyez et entaillez vos ennemis, tout en invoquant des esprits vengeurs qui les poursuivent. Enchaînez cette compétence pour effectuer une attaque supplémentaire.</text>
+<text id="5251">%null%</text>
+<text id="5252">%null%</text>
+<text id="5253">%null%</text>
+<text id="5254">%null%</text>
+<text id="5255">%null%</text>
+<text id="5256">%null%</text>
+<text id="5257">%null%</text>
+<text id="5258">%null%</text>
+<text id="5259">%null%</text>
+<text id="5260">Compétence unique : Frappe de minuit
+
+Vous brandissez votre arme et l'imprégnez du pouvoir de la nuit avant d'asséner plusieurs attaques immatérielles. Cette compétence est imparable. Chargez la compétence pour en accroître la puissance.</text>
+<text id="5261">%null%</text>
+<text id="5262">%null%</text>
+<text id="5263">%null%</text>
+<text id="5264">%null%</text>
+<text id="5265">%null%</text>
+<text id="5266">%null%</text>
+<text id="5267">%null%</text>
+<text id="5268">%null%</text>
+<text id="5269">%null%</text>
+<text id="5270">Compétence unique : Vortex euphorisant
+
+Puisant dans le pouvoir du vortex, vous faites tourbillonner votre arme avec violence et frappez à plusieurs reprises devant vous. Plus l'éclat des lames est restauré, plus la compétence inflige de dégâts. Cependant, l'utilisation de cette compétence consomme l'éclat des lames.</text>
+<text id="5271">%null%</text>
+<text id="5272">%null%</text>
+<text id="5273">%null%</text>
+<text id="5274">%null%</text>
+<text id="5275">%null%</text>
+<text id="5276">%null%</text>
+<text id="5277">%null%</text>
+<text id="5278">%null%</text>
+<text id="5279">%null%</text>
+<text id="5280">Compétence unique : Lances de forge
+
+Vous enfoncez l'enclume ardente dans le sol, puis la retirez pour faire jaillir d'innombrables lances qui disparaissent aussitôt.</text>
+<text id="5281">%null%</text>
+<text id="5282">%null%</text>
+<text id="5283">%null%</text>
+<text id="5284">%null%</text>
+<text id="5285">%null%</text>
+<text id="5286">%null%</text>
+<text id="5287">%null%</text>
+<text id="5288">%null%</text>
+<text id="5289">%null%</text>
+<text id="5290">Compétence unique : Frappe de rancune
+
+Vous tournoyez et entaillez vos ennemis, tout en invoquant des esprits vengeurs qui les poursuivent. Enchaînez cette compétence pour effectuer une attaque supplémentaire.</text>
+<text id="5291">%null%</text>
+<text id="5292">%null%</text>
+<text id="5293">%null%</text>
+<text id="5294">%null%</text>
+<text id="5295">%null%</text>
+<text id="5296">%null%</text>
+<text id="5297">%null%</text>
+<text id="5298">%null%</text>
+<text id="5299">%null%</text>
+<text id="5300">Compétence unique : Purification de Romina
+
+Vous enveloppez votre lame de papillons putréfiés, puis assénez deux attaques larges. Cette technique était autrefois considérée comme un acte sacré de purification.</text>
+<text id="5301">%null%</text>
+<text id="5302">%null%</text>
+<text id="5303">%null%</text>
+<text id="5304">%null%</text>
+<text id="5305">%null%</text>
+<text id="5306">%null%</text>
+<text id="5307">%null%</text>
+<text id="5308">%null%</text>
+<text id="5309">%null%</text>
+<text id="5310">Compétence unique : Pugilat empoisonné
+
+Vous transformez votre main en lance et l'utilisez pour transpercer le corps de votre cible. Instille une grande dose de poison mortel.</text>
+<text id="5311">%null%</text>
+<text id="5312">%null%</text>
+<text id="5313">%null%</text>
+<text id="5314">%null%</text>
+<text id="5315">%null%</text>
+<text id="5316">%null%</text>
+<text id="5317">%null%</text>
+<text id="5318">%null%</text>
+<text id="5319">%null%</text>
+<text id="5320">Compétence unique : Pugilat aliénant
+
+Vous transformez votre main en lance et l'utilisez pour transpercer le corps de votre cible. Instille une grande dose de démence.</text>
+<text id="5321">%null%</text>
+<text id="5322">%null%</text>
+<text id="5323">%null%</text>
+<text id="5324">%null%</text>
+<text id="5325">%null%</text>
+<text id="5326">%null%</text>
+<text id="5327">%null%</text>
+<text id="5328">%null%</text>
+<text id="5329">%null%</text>
+<text id="5330">Compétence unique : Flamme exaltée fébrile
+
+Vous levez votre torche face à vous et projetez une Flamme exaltée. Toutes les cibles dans la zone d'effet et l'utilisateur de la compétence sont pris de démence. Maintenez la compétence pour prolonger l'effet. Peut être utilisée en se déplaçant.</text>
+<text id="5331">%null%</text>
+<text id="5332">%null%</text>
+<text id="5333">%null%</text>
+<text id="5334">%null%</text>
+<text id="5335">%null%</text>
+<text id="5336">%null%</text>
+<text id="5337">%null%</text>
+<text id="5338">%null%</text>
+<text id="5339">%null%</text>
+<text id="5340">Compétence unique : Tir répété
+
+Vous actionnez le mécanisme de tir rapide de l'arme, puis pressez la détente ce qui déclenche une succession rapide de tirs.</text>
+<text id="5341">%null%</text>
+<text id="5342">%null%</text>
+<text id="5343">%null%</text>
+<text id="5344">%null%</text>
+<text id="5345">%null%</text>
+<text id="5346">%null%</text>
+<text id="5347">%null%</text>
+<text id="5348">%null%</text>
+<text id="5349">%null%</text>
+<text id="5350">Compétence unique : Danse mortelle
+
+Vous brandissez la lame circulaire dans chacune de vos mains et foncez en tournoyant violemment vers vos ennemis. Enchaînez cette compétence pour effectuer une attaque tranchante.</text>
+<text id="5351">%null%</text>
+<text id="5352">%null%</text>
+<text id="5353">%null%</text>
+<text id="5354">%null%</text>
+<text id="5355">%null%</text>
+<text id="5356">%null%</text>
+<text id="5357">%null%</text>
+<text id="5358">%null%</text>
+<text id="5359">%null%</text>
+<text id="5360">Compétence unique : Tir épars
+
+Vous placez votre arc horizontalement, puis saisissez une poignée de flèches avant de toutes les décocher dans un cône face à vous.</text>
+<text id="5361">%null%</text>
+<text id="5362">%null%</text>
+<text id="5363">%null%</text>
+<text id="5364">%null%</text>
+<text id="5365">%null%</text>
+<text id="5366">%null%</text>
+<text id="5367">%null%</text>
+<text id="5368">%null%</text>
+<text id="5369">%null%</text>
+<text id="5370">Compétence unique : Lancer de disque
+
+Vous lancez votre bouclier tel un disque et puisez dans les arts de la forge pour le faire réapparaître immédiatement dans votre main.</text>
+<text id="5371">%null%</text>
+<text id="5372">%null%</text>
+<text id="5373">%null%</text>
+<text id="5374">%null%</text>
+<text id="5375">%null%</text>
+<text id="5376">%null%</text>
+<text id="5377">%null%</text>
+<text id="5378">%null%</text>
+<text id="5379">%null%</text>
+<text id="5380">Compétence unique : Foudre draconique
+
+Vous faites appel à la foudre rouge des dragons anciens pour frapper votre cible et lui infliger des dégâts de foudre, en plus de réduire sa résistance aux dégâts de foudre. Chargez cette compétence pour accroître sa puissance.</text>
+<text id="5381">%null%</text>
+<text id="5382">%null%</text>
+<text id="5383">%null%</text>
+<text id="5384">%null%</text>
+<text id="5385">%null%</text>
+<text id="5386">%null%</text>
+<text id="5387">%null%</text>
+<text id="5388">%null%</text>
+<text id="5389">%null%</text>
+<text id="5390">Compétence unique : Rancœur avilissante
+
+Vous abattez la phalange dans vos mains sur votre cible, ce qui provoque en elle un sentiment de rancœur si profond qu'il finit par exploser en colère. Maintenez la compétence pour accroître ce sentiment. </text>
+<text id="5420">Compétence unique : Frappe lancinante
+
+Un coup de fouet conçu pour infliger une souffrance atroce. Réduit temporairement le taux de régénération d'endurance. La douleur rend la victime plus servile.</text>
+<text id="5421">%null%</text>
+<text id="5422">%null%</text>
+<text id="5423">%null%</text>
+<text id="5424">%null%</text>
+<text id="5425">%null%</text>
+<text id="5426">%null%</text>
+<text id="5427">%null%</text>
+<text id="5428">%null%</text>
+<text id="5429">%null%</text>
+<text id="5430">Compétence unique : Lune solitaire
+
+Vous assénez un coup descendant à l'aide de votre espadon ce qui projette un arc de lumière. Enchaînez avec une attaque puissante pour frapper une seconde fois.</text>
+<text id="5431">%null%</text>
+<text id="5432">%null%</text>
+<text id="5433">%null%</text>
+<text id="5434">%null%</text>
+<text id="5435">%null%</text>
+<text id="5436">%null%</text>
+<text id="5437">%null%</text>
+<text id="5438">%null%</text>
+<text id="5439">%null%</text>
+<text id="5440">Compétence unique : Vengeance nocturne
+
+Vous déchaînez toute la puissance de la nuit dans un projectile magique. Utilisez cette compétence après avoir bloqué un coup pour absorber sa puissance et renforcer votre attaque.</text>
+<text id="5441">%null%</text>
+<text id="5442">%null%</text>
+<text id="5443">%null%</text>
+<text id="5444">%null%</text>
+<text id="5445">%null%</text>
+<text id="5446">%null%</text>
+<text id="5447">%null%</text>
+<text id="5448">%null%</text>
+<text id="5449">%null%</text>
+<text id="5450">Compétence unique : Fauchage
+
+Vous assénez de grands coups horizontaux à l'aide de votre épée, fauchant vos adversaires comme le blé. Vous pouvez enchaîner cette compétence tant qu'il vous reste de l'endurance.</text>
+<text id="5451">%null%</text>
+<text id="5452">%null%</text>
+<text id="5453">%null%</text>
+<text id="5454">%null%</text>
+<text id="5455">%null%</text>
+<text id="5456">%null%</text>
+<text id="5457">%null%</text>
+<text id="5458">%null%</text>
+<text id="5459">%null%</text>
+<text id="5460">Compétence unique : Bandeau de joie
+
+Vous brandissez la tête dans vos mains tout en lui couvrant les yeux. Elle pousse alors un râle de lamentation qui vous rend plus difficile à percevoir. Pour ceux recherchant le bonheur, la cécité est une bénédiction.</text>
+<text id="5461">%null%</text>
+<text id="5462">%null%</text>
+<text id="5463">%null%</text>
+<text id="5464">%null%</text>
+<text id="5465">%null%</text>
+<text id="5466">%null%</text>
+<text id="5467">%null%</text>
+<text id="5468">%null%</text>
+<text id="5469">%null%</text>
+<text id="5470">Compétence unique : Inquisition de Jori
+
+Vous brandissez le grand bâton en l'air et projetez plusieurs anneaux dorés vers votre ennemi. Maintenez la compétence pour rallonger le barrage pendant un court instant.</text>
+<text id="5471">%null%</text>
+<text id="5472">%null%</text>
+<text id="5473">%null%</text>
+<text id="5474">%null%</text>
+<text id="5475">%null%</text>
+<text id="5476">%null%</text>
+<text id="5477">%null%</text>
+<text id="5478">%null%</text>
+<text id="5479">%null%</text>
+<text id="5480">Compétence unique : Coup rugissant
+
+Vous adoptez une posture défensive et assénez un coup de bouclier en rugissant tel un lion. Vous repoussez ainsi les ennemis dans une zone face à vous, ce qui les fait chanceler.</text>
+<text id="5481">%null%</text>
+<text id="5482">%null%</text>
+<text id="5483">%null%</text>
+<text id="5484">%null%</text>
+<text id="5485">%null%</text>
+<text id="5486">%null%</text>
+<text id="5487">%null%</text>
+<text id="5488">%null%</text>
+<text id="5489">%null%</text>
+<text id="5490">Compétence unique : Vaporisation toxique
+
+Vous agitez le flacon de parfum au-dessus de vous et vaporisez une poudre fragrante et empoisonnée dans une large zone. Le poison flotte dans les airs avant de se poser délicatement au sol.</text>
+<text id="5491">%null%</text>
+<text id="5492">%null%</text>
+<text id="5493">%null%</text>
+<text id="5494">%null%</text>
+<text id="5495">%null%</text>
+<text id="5496">%null%</text>
+<text id="5497">%null%</text>
+<text id="5498">%null%</text>
+<text id="5499">%null%</text>
+<text id="5500">Compétence unique : Flamboiement vipérin
+
+Vous allumez la flamme contenue dans les serpents, ce qui vous octroie temporairement des attaques de feu. Enchaîner avec une attaque puissante ou toute autre technique nécessitant de frapper le sol déclenche une explosion.</text>
+<text id="5501">%null%</text>
+<text id="5502">%null%</text>
+<text id="5503">%null%</text>
+<text id="5504">%null%</text>
+<text id="5505">%null%</text>
+<text id="5506">%null%</text>
+<text id="5507">%null%</text>
+<text id="5508">%null%</text>
+<text id="5509">%null%</text>
+<text id="5510">Compétence unique : Griffes de lancer
+
+Vous puisez dans les arts de la forge pour créer plusieurs copies des griffes dans vos mains, avant de toutes les projeter à la fois. Réutilisez la compétence pour lancer à nouveau.</text>
+<text id="5511">%null%</text>
+<text id="5512">%null%</text>
+<text id="5513">%null%</text>
+<text id="5514">%null%</text>
+<text id="5515">%null%</text>
+<text id="5516">%null%</text>
+<text id="5517">%null%</text>
+<text id="5518">%null%</text>
+<text id="5519">%null%</text>
+<text id="5520">Compétence unique : Lame affûtée
+
+D'un geste, vous aiguisez votre lame, ce qui accroît son tranchant et augmente le montant de PV récupérés. Les plus illustres potentats conservent jalousement leurs pratiques.</text>
+<text id="5521">%null%</text>
+<text id="5522">%null%</text>
+<text id="5523">%null%</text>
+<text id="5524">%null%</text>
+<text id="5525">%null%</text>
+<text id="5526">%null%</text>
+<text id="5527">%null%</text>
+<text id="5528">%null%</text>
+<text id="5529">%null%</text>
+<text id="5530">Compétence unique : Appel des cornes
+
+Vous faites apparaître un enchevêtrement de cornes sur la lame de votre arme. Transpercez ensuite le sol pour générer des pointes.</text>
+<text id="5531">%null%</text>
+<text id="5532">%null%</text>
+<text id="5533">%null%</text>
+<text id="5534">%null%</text>
+<text id="5535">%null%</text>
+<text id="5536">%null%</text>
+<text id="5537">%null%</text>
+<text id="5538">%null%</text>
+<text id="5539">%null%</text>
+<text id="5540">Compétence unique : Appel des cornes : tempête
+
+Vous faites apparaître un enchevêtrement de cornes sur la lame de votre arme, ce qui conjure une tempête tournoyante fondant sur vos ennemis. Enchaînez cette compétence pour effectuer jusqu'à deux attaques supplémentaires.</text>
+<text id="5541">%null%</text>
+<text id="5542">%null%</text>
+<text id="5543">%null%</text>
+<text id="5544">%null%</text>
+<text id="5545">%null%</text>
+<text id="5546">%null%</text>
+<text id="5547">%null%</text>
+<text id="5548">%null%</text>
+<text id="5549">%null%</text>
+<text id="5550">Compétence unique : Phalange effroyable
+
+Compétence des chevaliers trolls enchantés. Génère dans les airs un arc défensif composé de grandes laméclats magiques. Attaque automatiquement tous les ennemis à proximité. Enchaînez avec une attaque puissante pour exécuter une frappe d'estoc.</text>
+<text id="5551">%null%</text>
+<text id="5552">%null%</text>
+<text id="5553">%null%</text>
+<text id="5554">%null%</text>
+<text id="5555">%null%</text>
+<text id="5556">%null%</text>
+<text id="5557">%null%</text>
+<text id="5558">%null%</text>
+<text id="5559">%null%</text>
+<text id="5560">Compétence unique : Faveur sanguine démoniaque
+
+Vous brandissez la lance sacrée et perforez le corps de la mère de la vérité, ce qui déclenche une explosion de feu sanguin dans une zone autour de la cible. Enchaînez cette compétence pour effectuer jusqu'à trois attaques supplémentaires.</text>
+<text id="5561">%null%</text>
+<text id="5562">%null%</text>
+<text id="5563">%null%</text>
+<text id="5564">%null%</text>
+<text id="5565">%null%</text>
+<text id="5566">%null%</text>
+<text id="5567">%null%</text>
+<text id="5568">%null%</text>
+<text id="5569">%null%</text>
+<text id="5570">Compétence unique : Souffle draconique
+
+Vous conjurez une gueule de dragon crachant du feu dans un cône face à vous. Les flammes persistent sur le sol pour une courte durée.</text>
+<text id="5571">%null%</text>
+<text id="5572">%null%</text>
+<text id="5573">%null%</text>
+<text id="5574">%null%</text>
+<text id="5575">%null%</text>
+<text id="5576">%null%</text>
+<text id="5577">%null%</text>
+<text id="5578">%null%</text>
+<text id="5579">%null%</text>
+<text id="5580">Compétence unique : Frappe éclair
+
+Vous adoptez une forme lumineuse et bondissez avant d'asséner un coup descendant à la vitesse de la lumière. Enchaînez cette compétence pour effectuer une attaque légère supplémentaire. Chargez-la pour accroître sa puissance et le nombre d'attaques supplémentaires.</text>
+<text id="5600">Compétence unique : Tir de rancœur
+
+Imprègne les flèches d'esprits vengeurs avant de tirer un barrage. Les flèches imprégnées poursuivent les ennemis en fendant l'air.</text>
+</entries>
+</fmg>

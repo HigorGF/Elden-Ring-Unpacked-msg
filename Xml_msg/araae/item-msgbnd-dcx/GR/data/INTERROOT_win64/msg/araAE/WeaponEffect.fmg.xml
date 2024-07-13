@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">%null%</text>
+<text id="2">%null%</text>
+<text id="3">%null%</text>
+<text id="100">%null%</text>
+<text id="1000">ﻻ ﻳُﻠﻐﻰ ﺑﻌﺽ اﻟﺿﺭر ﻋﻧﺩ اﻟﺣﻣﺎﻳﺔ</text>
+<text id="1001">اﺳﺗﻌﺎدة ﻧﻘﺎط اﻟﺻﺣﺔ ﻣﻥ اﻷﻋﺩاء اﻟﻣﻬﺯوﻣﻳﻥ</text>
+<text id="1002">اﺳﺗﻌﺎدة ﻧﻘﺎط اﻟﺗﺭﻛﻳﺯ ﻣﻥ اﻷﻋﺩاء اﻟﻣﻬﺯوﻣﻳﻥ</text>
+<text id="1003">اﻟﻬﺟﻣﺎت اﻟﻧﺎﺟﺣﺔ ﺗﺳﺗﻌﻳﺩ ﻧﻘﺎط اﻟﺻﺣﺔ</text>
+<text id="1004">اﻟﻬﺟﻣﺎت اﻟﻧﺎﺟﺣﺔ ﺗﺳﺗﻌﻳﺩ ﻧﻘﺎط اﻟﺗﺭﻛﻳﺯ</text>
+<text id="1005">اﺳﺗﻌﺎدة ﻧﻘﺎط اﻟﺻﺣﺔ ﺑﺑﻁء</text>
+<text id="1006">اﺳﺗﻌﺎدة ﻧﻘﺎط اﻟﺗﺭﻛﻳﺯ ﺑﺑﻁء</text>
+<text id="1007">ﺗﻌﺯﻳﺯ ﺳﺭﻋﺔ اﺳﺗﻌﺎدة ﻗﻭة اﻟﺗﺣﻣﻝ</text>
+<text id="1008">ﺗﺭﺗﻔﻊ ﻗﻭة اﻟﻬﺟﻭم ﺑﻳﻧﻣﺎ ﺗﺳﺗﻣﺭ اﻟﻬﺟﻣﺎت</text>
+<text id="1009">%null%</text>
+<text id="1010">اﺳﺗﻧﺯاف إرادة اﻟﻭﺣﻭش ﻟﻠﻘﺗﺎل</text>
+<text id="1011">%null%</text>
+<text id="1012">%null%</text>
+<text id="1013">%null%</text>
+<text id="1014">%null%</text>
+<text id="1015">%null%</text>
+<text id="1016">%null%</text>
+<text id="1017">%null%</text>
+<text id="1018">%null%</text>
+<text id="1019">%null%</text>
+<text id="1020">%null%</text>
+<text id="1021">اﻟﻬﺟﻣﺎت اﻟﻣﺗﺗﺎﺑﻌﺔ ﺗﺳﺗﻌﻳﺩ ﻧﻘﺎط اﻟﺻﺣﺔ</text>
+<text id="1022">اﻟﻬﺟﻣﺎت اﻟﻣﺗﺗﺎﺑﻌﺔ ﺗﺳﺗﻌﻳﺩ ﻧﻘﺎط اﻟﺗﺭﻛﻳﺯ</text>
+<text id="1100">ﺗﻌﺯﻳﺯ ﺳﺣﺭ اﻟﺣﺎرس اﻟﺑﻠﻭري</text>
+<text id="1101">ﺗﻌﺯﻳﺯ ﺳﺣﺭ اﻟﺟﺎذﺑﻳﺔ</text>
+<text id="1102">ﺗﻌﺯﻳﺯ ﺳﺣﺭ اﻷﺷﻭاك</text>
+<text id="1103">ﺗﻌﺯﻳﺯ ﺳﺣﺭ اﻟﻣﻭت</text>
+<text id="1104">ﺗﻌﺯﻳﺯ ﺳﺣﺭ اﻟﻘﻣﺭ اﻟﻛﺎﻣﻝ</text>
+<text id="1105">ﺗﻌﺯﻳﺯ ﺳﺣﺭ ﺣﻔﺎر اﻟﺣﺟﺭ</text>
+<text id="1106">ﺗﻌﺯﻳﺯ ﺳﺣﺭ اﻟﻧﺻﻝ اﻟﻼﻣﻊ</text>
+<text id="1107">ﺗﻌﺯﻳﺯ ﺳﺣﺭ ﺳﻳﻑ ﻛﺎرﻳﺎ</text>
+<text id="1108">ﺗﻌﺯﻳﺯ ﺳﺣﺭ آزور اﻟﺑﺩاﺋﻲ</text>
+<text id="1109">ﺗﻌﺯﻳﺯ ﺳﺣﺭ ﻟﻭﺳﺎت اﻟﺑﺩاﺋﻲ</text>
+<text id="1110">ﺗﻌﺯﻳﺯ ﺳﺣﺭ اﻟﺗﺧﻔﻲ</text>
+<text id="1111">ﺗﻌﺯﻳﺯ ﺗﻌﺎوﻳﺫ ﻟﻬﺏ اﻟﻌﻣﺎﻟﻘﺔ</text>
+<text id="1112">ﺗﻌﺯﻳﺯ ﺗﻌﺎوﻳﺫ اﻷﺻﻭﻟﻳﻳﻥ</text>
+<text id="1113">ﺗﻌﺯﻳﺯ اﻟﺗﻌﺎوﻳﺫ اﻟﻭﺣﺷﻳﺔ</text>
+<text id="1114">ﺗﻌﺯﻳﺯ ﺗﻌﺎوﻳﺫ ﻁﺎﺋﻔﺔ اﻟﺗﻧﻳﻥ</text>
+<text id="1115">ﺗﻌﺯﻳﺯ ﺗﻌﺎوﻳﺫ ﻗﺭﺑﺎن اﻟﺗﻧﻳﻥ</text>
+<text id="1116">ﺗﻌﺯﻳﺯ ﺗﻌﺎوﻳﺫ اﻟﻠﻬﺏ اﻟﻣﺳﺗﻌﺭ</text>
+<text id="1117">ﺗﻌﺯﻳﺯ ﺳﺣﺭ اﻟﺣﻣﻡ اﻟﺑﺭﻛﺎﻧﻳﺔ</text>
+<text id="1118">ﺗﻌﺯﻳﺯ ﺗﻌﺎوﻳﺫ ﻗﺎﺗﻝ اﻟﺣﻛﺎم</text>
+<text id="6400">اﻟﺗﺳﺑﺏ ﻓﻲ ﺗﺭاﻛﻡ ﺧﻔﻳﻑ ﻟﻠﺳﻡ (&lt;?poisonATKpwr?&gt;)</text>
+<text id="6401">اﻟﺗﺳﺑﺏ ﻓﻲ ﺗﺭاﻛﻡ اﻟﺳﻡ (&lt;?poisonATKpwr?&gt;)</text>
+<text id="6402">اﻟﺗﺳﺑﺏ ﻓﻲ ﺗﺭاﻛﻡ ﺛﻘﻳﻝ ﻟﻠﺳﻡ (&lt;?poisonATKpwr?&gt;)</text>
+<text id="6403">%null%</text>
+<text id="6404">%null%</text>
+<text id="6405">%null%</text>
+<text id="6406">%null%</text>
+<text id="6407">%null%</text>
+<text id="6408">%null%</text>
+<text id="6409">%null%</text>
+<text id="6410">اﻟﺗﺳﺑﺏ ﻓﻲ ﺗﺭاﻛﻡ ﻛﺛﻳﻑ ﻟﻠﺳﻡ (&lt;?poisonATKpwr?&gt;)</text>
+<text id="6450">اﻟﺗﺳﺑﺏ ﻓﻲ ﺗﺭاﻛﻡ ﺧﻔﻳﻑ ﻟﻠﻌﻔﻥ اﻟﻘﺭﻣﺯي (&lt;?diseaseATKpwr?&gt;)</text>
+<text id="6451">اﻟﺗﺳﺑﺏ ﻓﻲ ﺗﺭاﻛﻡ اﻟﻌﻔﻥ اﻟﻘﺭﻣﺯي (&lt;?diseaseATKpwr?&gt;)</text>
+<text id="6452">اﻟﺗﺳﺑﺏ ﻓﻲ ﺗﺭاﻛﻡ ﺛﻘﻳﻝ ﻟﻠﻌﻔﻥ اﻟﻘﺭﻣﺯي (&lt;?diseaseATKpwr?&gt;)</text>
+<text id="6500">اﻟﺗﺳﺑﺏ ﻓﻲ ﺗﺭاﻛﻡ ﺧﻔﻳﻑ ﻟﻠﻧﺯﻳﻑ (&lt;?bleedATKpwr?&gt;)</text>
+<text id="6501">اﻟﺗﺳﺑﺏ ﻓﻲ ﺗﺭاﻛﻡ اﻟﻧﺯﻳﻑ (&lt;?bleedATKpwr?&gt;)</text>
+<text id="6502">اﻟﺗﺳﺑﺏ ﻓﻲ ﺗﺭاﻛﻡ ﺛﻘﻳﻝ ﻟﻠﻧﺯﻳﻑ (&lt;?bleedATKpwr?&gt;)</text>
+<text id="6503">%null%</text>
+<text id="6504">%null%</text>
+<text id="6505">%null%</text>
+<text id="6506">%null%</text>
+<text id="6507">%null%</text>
+<text id="6508">%null%</text>
+<text id="6509">%null%</text>
+<text id="6510">اﻟﺗﺳﺑﺏ ﻓﻲ ﺗﺭاﻛﻡ ﻛﺛﻳﻑ ﻟﻠﻧﺯﻳﻑ (&lt;?bleedATKpwr?&gt;)</text>
+<text id="6550">اﻟﺗﺳﺑﺏ ﻓﻲ ﺗﺭاﻛﻡ ﺧﻔﻳﻑ ﻟﻠﻣﻭت (&lt;?curseATKpwr?&gt;)</text>
+<text id="6551">اﻟﺗﺳﺑﺏ ﻓﻲ ﺗﺭاﻛﻡ اﻟﻣﻭت (&lt;?curseATKpwr?&gt;)</text>
+<text id="6552">اﻟﺗﺳﺑﺏ ﻓﻲ ﺗﺭاﻛﻡ ﺛﻘﻳﻝ ﻟﻠﻣﻭت (&lt;?curseATKpwr?&gt;)</text>
+<text id="6600">اﻟﺗﺳﺑﺏ ﻓﻲ ﺗﺭاﻛﻡ ﺧﻔﻳﻑ ﻟﻠﺻﻘﻳﻊ (&lt;?freezeATKpwr?&gt;)</text>
+<text id="6601">اﻟﺗﺳﺑﺏ ﻓﻲ ﺗﺭاﻛﻡ اﻟﺻﻘﻳﻊ (&lt;?freezeATKpwr?&gt;)</text>
+<text id="6602">اﻟﺗﺳﺑﺏ ﻓﻲ ﺗﺭاﻛﻡ ﺛﻘﻳﻝ ﻟﻠﺻﻘﻳﻊ (&lt;?freezeATKpwr?&gt;)</text>
+<text id="6650">اﻟﺗﺳﺑﺏ ﻓﻲ ﺗﺭاﻛﻡ ﺧﻔﻳﻑ ﻟﻠﻧﻭم (&lt;?sleepATKpwr?&gt;)</text>
+<text id="6651">اﻟﺗﺳﺑﺏ ﻓﻲ ﺗﺭاﻛﻡ اﻟﻧﻭم (&lt;?sleepATKpwr?&gt;)</text>
+<text id="6652">اﻟﺗﺳﺑﺏ ﻓﻲ ﺗﺭاﻛﻡ ﺛﻘﻳﻝ ﻟﻠﻧﻭم (&lt;?sleepATKpwr?&gt;)</text>
+<text id="6700">اﻟﺗﺳﺑﺏ ﻓﻲ ﺗﺭاﻛﻡ ﺧﻔﻳﻑ ﻟﻠﺟﻧﻭن (&lt;?madnessATKpwr?&gt;)</text>
+<text id="6701">اﻟﺗﺳﺑﺏ ﻓﻲ ﺗﺭاﻛﻡ اﻟﺟﻧﻭن (&lt;?madnessATKpwr?&gt;)</text>
+<text id="6702">اﻟﺗﺳﺑﺏ ﻓﻲ ﺗﺭاﻛﻡ ﺛﻘﻳﻝ ﻟﻠﺟﻧﻭن (&lt;?madnessATKpwr?&gt;)</text>
+</entries>
+</fmg>

@@ -1,0 +1,542 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="3000000">Chapeau couvert de terre et défraîchi par l'éclat du soleil, il est destiné à protéger les yeux de son porteur, Dane Mortefeuille.
+
+Croiser le regard d'un autre être peut submerger les sens et entraîner la chute de ceux qui arpentent la voie noble et solitaire des chercheurs.</text>
+<text id="3000100">Tenue de voyage portée par des prêtres, couverte de terre et défraîchie par l'éclat du soleil.
+
+Le collier en or qui repose sur la poitrine est le symbole d'un groupe de chercheurs spirituels nommé "secte de Mortefeuille".
+
+Ses fidèles rejettent toute notion de dépendance d'autrui, recherchant avant tout l'autodiscipline et l'autosuffisance.</text>
+<text id="3000200">Bandes couvertes de terre et défraîchies par l'éclat du soleil.
+
+Elles sont soigneusement enroulées sur les bras, comme si elles pouvaient supprimer tout risque de fracture.</text>
+<text id="3000300">Tenue de voyage portée par des prêtres, couverte de terre et défraîchie par l'éclat du soleil.
+Bottes conçues dans un cuir solide.</text>
+<text id="3001100">Tenue de voyage portée par des prêtres, couverte de terre et défraîchie par l'éclat du soleil.
+
+Cette sacoche en cuir portée en bandoulière est ornée d'un motif végétal doré, emblème de Miquella.</text>
+<text id="3010000">Heaume en fer noir appartenant au commandant Gaïus.
+Élément d'une armure inspirée de la forme d'une graine.
+
+Gaïus fut le premier disciple du seigneur d'albâtre, qui enseigna à Radahn et Gaea la technique gravitationnelle.</text>
+<text id="3010100">Plastron en fer noir appartenant au commandant Gaïus.
+Élément d'une armure inspirée de la forme d'une graine.
+
+Gaïus fut le premier disciple du seigneur d'albâtre, qui enseigna à Radahn et Gaea la technique gravitationnelle.</text>
+<text id="3010200">Gantelets en fer noir appartenant au commandant Gaïus.
+Élément d'une armure inspirée de la forme d'une graine.
+
+Gaïus fut le premier disciple du seigneur d'albâtre, qui enseigna à Radahn et Gaea la technique gravitationnelle.</text>
+<text id="3010300">Jambières en fer noir appartenant au commandant Gaïus.
+Une plaisanterie bien cruelle, car il était incapable de les porter.
+
+Chevauchant un sanglier qu'il décrivait comme étant "son autre moitié", Gaïus était en vérité un guerrier albinaurique.</text>
+<text id="5000000">Heaume de Quêteur de serment.
+Noir et orné de dorures.
+
+Ces chevaliers partent à la découverte, espérant trouver par eux-mêmes un serment de leur choix pour servir avec un dévouement parfait et éternel.</text>
+<text id="5000100">Plastron de Leda, chevaleresse de l'Aiguille.
+
+Renforce légèrement les attaques suivant une roulade ou un pas en arrière, ainsi que les attaques effectuées en sprintant.
+
+La cape et la tunique blanches brodées d'un enchevêtrement d'or symbolisent l'honneur des chevaliers de l'Aiguille.
+
+"Miquella le Clément a fait de nous ses aiguilles, destinées à tous les réprimer, à tous les repousser."</text>
+<text id="5000200">Gantelets de Quêteur de serment.
+Noir et orné de dorures.
+
+Ces chevaliers partent en quête, déterminés à trouver par eux-mêmes un serment de leur propre choix, à servir avec une dévotion absolue et perpétuelle.</text>
+<text id="5000300">Jambières de Quêteur de serment.
+Noir et orné de dorures.
+
+Ces chevaliers partent en quête, déterminés à trouver par eux-mêmes un serment de leur propre choix, à servir avec une dévotion absolue et perpétuelle.</text>
+<text id="5002100">Plastron de Quêteur de serment.
+Noir et orné de dorures.
+
+Ces chevaliers partent en quête, déterminés à trouver par eux-mêmes un serment de leur propre choix, à servir avec une dévotion absolue et perpétuelle.</text>
+<text id="5010000">Heaume conçu en un métal rare nommé vert-de-gris.
+
+On raconte que le vert-de-gris serait un don d'une Divinité extérieure.
+De par sa nature rouillée, il est à la fois souple et résistant.</text>
+<text id="5010100">Plastron conçu en un métal rare nommé vert-de-gris.
+
+On raconte que le vert-de-gris serait un don d'une Divinité extérieure.
+De par sa nature rouillée, il est à la fois souple et résistant.</text>
+<text id="5010200">Gantelets conçus en un métal rare nommé vert-de-gris.
+
+On raconte que le vert-de-gris serait un don d'une Divinité extérieure.
+De par leur nature rouillée, ils sont à la fois souples et résistants.</text>
+<text id="5010300">Jambières conçues en un métal rare nommé vert-de-gris.
+
+On raconte que le vert-de-gris serait un don d'une Divinité extérieure.
+De par leur nature rouillée, elles sont à la fois souples et résistantes.</text>
+<text id="5020000">La fourrure de Ralva, grand ours écarlate, portée sur la tête sans modification.
+
+Renforce les incantations de ce que certains appellent en plaisantant "la communion ursine".
+
+Cette peau non traitée, gagnée à la fin d'un affrontement sanglant, est juste ce qu'il faut pour transformer un guerrier en véritable ours sauvage.</text>
+<text id="5020100">Plastron de l'ours écarlate, dont le véritable nom fut perdu dans sa folie.
+
+Après avoir terrassé l'animal au cours d'un affrontement sanglant, le guerrier dément ne put s'empêcher d'admirer la pureté de sa force brute.
+"Je veux devenir un ours, ni plus ni moins."
+D'aucuns diraient qu'il est préférable de croiser le chemin d'un véritable ours que de ce guerrier.
+</text>
+<text id="5020200">Gantelets de l'ours écarlate, dont le véritable nom fut effacé par la folie. Renforcés à l'aide de rivets en fer.
+
+Après avoir terrassé l'animal au cours d'un affrontement sanglant, le guerrier dément ne put s'empêcher d'admirer la pureté de sa force brute.
+"Je veux devenir un ours, ni plus ni moins."
+D'aucuns diraient qu'il est préférable de croiser le chemin d'un véritable ours que de ce guerrier.</text>
+<text id="5020300">Jambières de l'ours écarlate, dont le véritable nom fut effacé par la folie. Renforcés à l'aide de rivets en fer.
+
+Après avoir terrassé l'animal au cours d'un affrontement sanglant, le guerrier dément ne put s'empêcher d'admirer la pureté de sa force brute.
+"Je veux devenir un ours, ni plus ni moins."</text>
+<text id="5021000">Casque de l'ours écarlate, dont le véritable nom fut effacé par la folie.
+Les côtés du casque évoquent les crocs d'un lion.
+
+Sa fascination pour la force indomptée de la nature sauvage est peut-être apparue à l'époque où il faisait partie des Lions rouges.</text>
+<text id="5030000">Masque gravé représentant un visage endormi.
+
+Ses cheveux argentés coiffés comme ceux de sainte Trina, améliorent l'ésotérisme.
+
+Thiollier eut un jour la chance de goûter à la douceur du sommeil de velours. Il consacra le reste de sa vie à tenter de revivre cette expérience.</text>
+<text id="5030100">La tenue sombre de ceux qui emploient les poisons en secret.
+
+La chevelure argentée rappelant celle de sainte Trina enveloppe délicatement le corps de son porteur.
+
+En outre, d'innombrables aiguilles sont cousues à l'extérieur, sans doute à des fins talismaniques.</text>
+<text id="5030200">Les gants sombres de ceux qui emploient les poisons en secret, méprisés et détestés de tous.</text>
+<text id="5030300">Le pantalon sombre de ceux qui emploient les poisons en secret, méprisés et détestés de tous.</text>
+<text id="5031100">La tenue sombre de ceux qui emploient les poisons en secret.
+
+D'innombrables aiguilles sont cousues à l'extérieur, sans doute à des fins talismaniques.</text>
+<text id="5060000">Coiffe du comte Ymir, le grand prêtre.
+Le motif circulaire figurant en son sommet symbolise à la fois la Volonté suprême et ses abysses obscurs.
+
+Si le comte Ymir a enseigné l'art de la sorcellerie à Rellana, cela ne l'a pas empêché de renoncer à son allégeance à la lune.
+
+"Il ne s'agissait que du corps céleste le plus proche. Rien de plus."</text>
+<text id="5060100">Robe du comte Ymir, le grand prêtre.
+Dissimule une masse grouillante.
+
+Son tissu pourpre est orné de broderies dorées, tandis que sa collerette sertie de gemmes scintille comme une fleur couverte de rosée.</text>
+<text id="5060200">Gants du comte Ymir, le grand prêtre.
+Souples et de bonne facture.</text>
+<text id="5060300">Sous-vêtements du comte Ymir, le grand prêtre.
+Souples et de bonne facture.</text>
+<text id="5062100">Robe du comte Ymir, le grand prêtre.
+Ouverte à l'avant, elle révèle une masse de doigts grouillants.
+
+Cette robe est l'image de son désir ardent qui s'est libéré, mettant à nu son plus grand souhait, et dont le port améliore les sorcelleries des Doigts.
+
+"Je serai la véritable mère.
+Mes doigts nous apporteront la rédemption !"</text>
+<text id="5070000">Masque grotesque conçu à partir d'innombrables chenilles solidifiées, considéré comme un instrument rituel réservé aux grands potentats du village de Bonny.
+
+Employé pour repousser les pensées impures, les doutes, la tentation et tous les autres signes de faiblesse dont un individu peut être victime lors de l'accomplissement d'un rituel divin.</text>
+<text id="5070100">Guenilles noires agrémentées de cordes tressées, portées par un kérastien en quête de vengeance.
+
+Les cordes tressées symbolisent le serment de vengeance de la victime. Elles ne doivent jamais se défaire.
+
+Améliore les esprits vigilants et les esprits vengeurs invoqués par les poupées cornues.</text>
+<text id="5070200">Guenilles noires attachées avec des cordes tressées, portées par les vengeurs kérastiens.</text>
+<text id="5070300">Ce pagne en guenilles ne dissimule qu'à grand-peine l'intimité de son porteur.</text>
+<text id="5080000">Capuche rouge des danseurs de Ranah.
+Améliore la puissance des attaques dansantes.
+
+La danse de Ranah demande une implication de tout son être. Les danseurs les plus passionnés ne cessent jamais de virevolter, allant jusqu'à oublier leur propre nom.
+
+Éteindre cette flamme qui les anime reviendrait à les priver du sens de leur vie.</text>
+<text id="5080100">Robe rougeoyante des danseurs de Ranah.
+Améliore la puissance des attaques dansantes.
+
+La danse de Ranah demande une implication de tout son être. Les danseurs les plus passionnés ne cessent jamais de virevolter, allant jusqu'à oublier leur propre nom.
+
+Éteindre cette flamme qui les anime reviendrait à les priver du sens de leur vie.</text>
+<text id="5080200">Bracelet en métal des danseurs de Ranah. 
+
+Améliore la puissance des attaques dansantes.
+
+Conçu pour protéger la main directrice.</text>
+<text id="5080300">Pantalon noir porté sous la robe cramoisie des danseurs de Ranah.
+
+Améliore la puissance des attaques dansantes.</text>
+<text id="5081100">Forme altérée de la robe cramoisie des danseurs de Ranah.
+Il s'agit d'un sous-vêtement noir.
+
+Améliore la puissance des attaques dansantes.</text>
+<text id="5090000">Heaume noir de jais, froid au toucher.
+De fines lignes évoquant des empreintes digitales recouvrent toute sa surface. Quiconque le porte est instantanément plongé dans l'obscurité la plus totale.
+
+Il était remis à ceux nés au plus profond de la terre, faisant d'eux des chevaliers de la nuit.</text>
+<text id="5090100">Plastron noir de jais, froid au toucher.
+De fines lignes évoquant des empreintes digitales recouvrent toute sa surface. Quiconque le porte est instantanément plongé dans l'obscurité la plus totale.
+
+Il était remis à ceux nés au plus profond de la terre, faisant d'eux des chevaliers de la nuit.</text>
+<text id="5090200">Gantelets noir de jais, froids au toucher.
+De fines lignes évoquant des empreintes digitales recouvrent toute leur surface. Quiconque les porte est instantanément plongé dans l'obscurité la plus totale.
+
+Ils étaient remis à ceux nés au plus profond de la terre, faisant d'eux des chevaliers de la nuit.</text>
+<text id="5090300">Jambières noir de jais, froides au toucher.
+De fines lignes évoquant des empreintes digitales recouvrent toute leur surface. Quiconque les porte est instantanément plongé dans l'obscurité la plus totale.
+
+Elles étaient remises à ceux nés au plus profond de la terre, faisant d'eux des chevaliers de la nuit.</text>
+<text id="5100000">Casque du guerrier draconique brisé Igon, issu d'une tenue composée d'éléments disparates et dont la forme évoque un clairon.
+
+Le pauvre pilleur de champs de bataille gagna son honneur en se livrant à la communion draconique.</text>
+<text id="5100100">Armure en lambeaux du guerrier draconique brisé Igon, issue d'un ensemble composé d'éléments disparates et recouverte d'objets répugnants.
+
+Le pauvre pilleur de champs de bataille gagna son honneur en se livrant à la communion draconique.</text>
+<text id="5100200">Gantelets du guerrier draconique brisé Igon. Arrachés à un cadavre sur un champ de bataille, leur maille est encore tachée du sang de son premier propriétaire.</text>
+<text id="5100300">Pagne du guerrier draconique brisé Igon. Arraché à un cadavre sur un champ de bataille, le tissu dégage une odeur repoussante.</text>
+<text id="5101000">Casque du guerrier draconique brisé Igon, issu d'une tenue composée d'éléments disparates et raccommodé à l'aide de divers morceaux de tissus.
+
+Le pauvre pilleur de champs de bataille gagna son honneur en se livrant à la communion draconique.</text>
+<text id="5101100">Armure du guerrier draconique brisé Igon, issue d'un ensemble composé d'éléments disparates et réparée à l'aide de divers morceaux de tissus.
+
+Le pauvre pilleur de champs de bataille gagna son honneur en se livrant à la communion draconique.</text>
+<text id="5110000">Masque de fer appartenant à sire Ansbach et représentant le visage d'un vieil homme barbu, sage et paisible.
+
+Toutefois, derrière ce masque se tapit une terreur ancienne, ainsi que les traces de la discipline inflexible avec laquelle il maniait sa lame, désormais employée pour améliorer les compétences de la Dynastie et du Serment sanglant.</text>
+<text id="5110100">Atours appartenant à sire Ansbach, dont le cimier brodé des chevaliers de sang pur n'a jamais pâli.
+
+Améliore légèrement les compétences de la Dynastie et du Serment sanglant.
+
+Ansbach avait conscience que son respect pour le serment qu'il avait prêté à son ancien maître était absurde et ne lui apporterait aucune justice. Mais c'est pour ces mêmes raisons qu'il était incapable de le briser.</text>
+<text id="5110200">Manchettes en cuir noir recouvert de broderies dorées appartenant à sire Ansbach.
+
+Améliore légèrement les compétences de la Dynastie et du Serment sanglant.</text>
+<text id="5110300">Bottes en cuir noir recouvert de broderies dorées appartenant à sire Ansbach.
+
+Améliore légèrement les compétences de la Dynastie et du Serment sanglant.</text>
+<text id="5111100">Atours en tissu noir recouvert de broderies dorées appartenant à sire Ansbach.
+
+Améliore légèrement les compétences de la Dynastie et du Serment sanglant.</text>
+<text id="5120000">Heaume doré de la chevaleresse Freyja du Lion rouge, membre des chevaliers d'élite du général Radahn.
+
+Une affreuse cicatrice écarlate barrait autrefois son visage.
+
+Un jour, Miquella déposa son baiser sur la cicatrice indélébile, qui devint alors le compas de Freyja.</text>
+<text id="5120100">Armure dorée agrémentée d'une cape de laine noire de la chevaleresse Freyja du Lion rouge, membre des chevaliers d'élite du général Radahn.
+
+Après avoir assisté à un combat de gladiatrice de Freyja, le jeune Radahn l'invita à rejoindre les rangs de ses combattants les plus fidèles.</text>
+<text id="5120200">Gantelets dorés de la chevaleresse Freyja du Lion rouge, membre des chevaliers d'élite du général Radahn.
+
+Après avoir assisté à un combat de gladiatrice de Freyja, le jeune Radahn l'invita à rejoindre les rangs de ses combattants les plus fidèles.</text>
+<text id="5120300">Jambières dorées de la chevaleresse Freyja du Lion rouge, membre des chevaliers d'élite du général Radahn.
+
+Après avoir assisté à un combat de gladiatrice de Freyja, le jeune Radahn l'invita à rejoindre les rangs de ses combattants les plus fidèles.</text>
+<text id="5121100">Armure dorée de la chevaleresse Freyja du Lion rouge, membre des chevaliers d'élite du général Radahn.
+
+Après avoir assisté à un combat de gladiatrice de Freyja, le jeune Radahn l'invita à rejoindre les rangs de ses combattants les plus fidèles.</text>
+<text id="5130000">Heaume en acier des chevaliers de la Geôle Solitaire, issu d'un ensemble d'armure lourde en acier qui couvre intégralement le corps de son porteur.
+
+On raconte que les mausolées sans nom du Royaume des ombres abriteraient les esprits des guerriers qui ont perdu leur nom ou leur cœur.</text>
+<text id="5130100">Plastron des chevaliers de la Geôle Solitaire, agrémenté d'une cape noire et issu d'un ensemble d'armure lourde en acier qui couvre intégralement le corps de son porteur.
+
+On raconte que les mausolées sans nom du Royaume des ombres abriteraient les esprits des guerriers qui ont perdu leur nom ou leur cœur.</text>
+<text id="5130200">Gantelets en acier des chevaliers de la Geôle Solitaire, issus d'un ensemble d'armure lourde en acier qui couvre intégralement le corps de son porteur.
+
+On raconte que les mausolées sans nom du Royaume des ombres abriteraient les esprits des guerriers qui ont perdu leur nom ou leur cœur.</text>
+<text id="5130300">Jambières des chevaliers de la Geôle Solitaire, issues d'un ensemble d'armure lourde en acier qui couvre intégralement le corps de son porteur.
+
+On raconte que les mausolées sans nom du Royaume des ombres abriteraient les esprits des guerriers qui ont perdu leur nom ou leur cœur.</text>
+<text id="5131100">Armure des chevaliers de la Geôle de la solitude, issue d'un ensemble d'armure lourde en acier qui couvre intégralement le corps de son porteur.
+
+On raconte que les mausolées sans nom du Royaume des ombres abriteraient les esprits des guerriers qui ont perdu leur nom ou leur cœur.</text>
+<text id="5140000">Heaume en fer orné d'une visière, porté par les soldats au service de Messmer l'Empaleur.
+
+Même si la gravure sur le front représente l'Arbre-Occulte, elle est agrémentée d'or. Il s'agit là d'une bien maigre consolation pour ceux qui étaient contraints de se livrer à une guerre sans grâce ni honneur.</text>
+<text id="5140100">Armure portée par les soldats au service de Messmer l'Empaleur. Une cape élimée enfilée par-dessus une cotte de mailles rouillée.
+
+Même si la gravure sur le plastron représente l'Arbre-Occulte, elle est agrémentée d'or. Il s'agit là d'une bien maigre consolation pour ceux qui étaient contraints de se livrer à une guerre sans grâce ni honneur.</text>
+<text id="5140200">Gantelets portés par les soldats au service de Messmer l'Empaleur, couverts de rouille et de crasse accumulées au fil des combats d'une guerre sans fin.</text>
+<text id="5140300">Jambières portées par les soldats au service de Messmer l'Empaleur, couvertes de rouille et de crasse accumulées au fil des combats d'une guerre sans fin.</text>
+<text id="5141100">Armure portée par les soldats au service de Messmer l'Empaleur. Ses mailles rouillées témoignent des longues années passées à livrer une interminable guerre.
+
+Même si la gravure sur le plastron représente l'Arbre-Occulte, elle est agrémentée d'or. Il s'agit là d'une bien maigre consolation pour ceux qui étaient contraints de se livrer à une guerre sans grâce ni honneur.</text>
+<text id="5150000">Heaume nauséabond en fer noir rehaussé d'or, porté par les chevaliers noirs, au service de Messmer l'Empaleur.
+
+L'odeur répugnante vient peut-être des éclaboussures de sang souillé dont il est recouvert, à moins qu'elle émane de l'âme de son porteur, damnée par les massacres sans fin.</text>
+<text id="5150100">Armure portée par les chevaliers noirs, au service de Messmer l'Empaleur.
+
+Même si la gravure sur le cœur représente l'Arbre-Occulte, elle est agrémentée d'or. Il s'agit là d'une bien maigre consolation pour ceux qui étaient contraints de se livrer à une guerre sans grâce ni honneur.</text>
+<text id="5150200">Gantelets nauséabonds en fer noir rehaussé d'or, portés par les chevaliers noirs, au service de Messmer l'Empaleur.
+
+L'odeur répugnante vient peut-être des éclaboussures de sang souillé dont ils sont recouverts, à moins qu'elle émane de l'âme de son porteur, damnée par les massacres sans fin.</text>
+<text id="5150300">Jambières nauséabondes en fer noir rehaussé d'or, portées par les chevaliers noirs au service de Messmer l'Empaleur.
+
+L'odeur répugnante vient peut-être des éclaboussures de sang souillé dont elles sont recouvertes, à moins qu'elle émane de l'âme de son porteur, damnée par les massacres sans fin.</text>
+<text id="5160000">Heaume de Rakshasa recouvert du sang de ses victimes, et dont le tissu effiloché évoquerait volontairement la soif de sang de sa propriétaire.
+
+Augmente les dégâts infligés aux ennemis, mais augmente drastiquement les dégâts subis.
+
+Pourfendre les hommes. Les dévorer. Ceux qui répètent le cycle sans faiblir peuvent véritablement subvertir le soi et devenir Rakshasa.</text>
+<text id="5160100">Armure de Rakshasa recouverte du sang de ses victimes, et dont le tissu effiloché évoquerait volontairement la soif de sang de sa propriétaire.
+
+Augmente les dégâts infligés aux ennemis, mais augmente drastiquement les dégâts subis.
+
+Pourfendre les hommes. Les dévorer. Ceux qui répètent le cycle sans faiblir peuvent véritablement subvertir le soi et devenir Rakshasa.</text>
+<text id="5160200">Gantelets de Rakshasa recouverts du sang de ses victimes, et dont le tissu effiloché évoquerait volontairement la soif de sang de sa propriétaire.
+
+Augmente les dégâts infligés aux ennemis, mais augmente drastiquement les dégâts subis.
+
+Pourfendre les hommes. Les dévorer. Ceux qui répètent le cycle sans faiblir peuvent véritablement subvertir le soi et devenir Rakshasa.</text>
+<text id="5160300">Jambières de Rakshasa recouvertes du sang de ses victimes, et dont le tissu effiloché évoquerait volontairement la soif de sang de sa propriétaire.
+
+Augmente les dégâts infligés aux ennemis, mais augmente drastiquement les dégâts subis.
+
+Pourfendre les hommes. Les dévorer. Ceux qui répètent le cycle sans faiblir peuvent véritablement subvertir le soi et devenir Rakshasa.</text>
+<text id="5180000">Casque pointu des chevaliers de Feu qui constituaient la garde rapprochée de Messmer l'Empaleur.
+
+Augmente légèrement les PV maximums, l'endurance et la charge d'équipement maximum.
+
+Chacun de ces chevaliers était issu des familles les plus nobles de l'Arbre-Monde. Ces dernières s'empressèrent de les renier et de les chasser quand elles apprirent qu'ils avaient prêté allégeance à Messmer</text>
+<text id="5180100">Armure des chevaliers de Feu qui constituaient la garde rapprochée de Messmer l'Empaleur, reconnaissable à sa cape rouge et aux serpents dorés jumeaux qui ornent son col et améliorent les incantations de la flamme de Messmer.
+
+Eux seuls connaissaient véritablement Messmer. Ses flammes, semblables à des serpents. Le douloureux destin qui accompagnait sa forme damnée.</text>
+<text id="5180200">Gantelets des chevaliers de Feu qui constituaient la garde rapprochée de Messmer l'Empaleur.
+
+Chacun de ces chevaliers était issu des familles les plus nobles de l'Arbre-Monde. Ces dernières s'empressèrent de les renier et de les chasser quand elles apprirent qu'ils avaient prêté allégeance à Messmer.</text>
+<text id="5180300">Jambières des chevaliers de Feu qui constituaient la garde rapprochée de Messmer l'Empaleur.
+
+Chacun de ces chevaliers était issu des familles les plus nobles de l'Arbre-Monde. Ces dernières s'empressèrent de les renier et de les chasser quand elles apprirent qu'ils avaient prêté allégeance à Messmer.</text>
+<text id="5181100">Armure des chevaliers de Feu qui constituaient la garde rapprochée de Messmer l'Empaleur.
+
+Chacun de ces chevaliers était issu des familles les plus nobles de l'Arbre-Monde. Ces dernières s'empressèrent de les renier et de les chasser quand elles apprirent qu'ils avaient prêté allégeance à Messmer.</text>
+<text id="5182000">Heaume de Wego, doyen des chevaliers de Feu, comportant deux masques mortuaires qui se chevauchent.
+
+Réduit le coût en PC utilisé pour invoquer des esprits.
+
+Rongé par la solitude, le vieil homme s'intéressa aux propriétés spirituelles de la flamme de Messmer et s'en servit lors d'un rite de résurrection.
+
+Malheureusement, les corps sans âmes qu'il avait ainsi ressuscités ne lui apportèrent aucun réconfort.</text>
+<text id="5183000">Heaume de Kood, capitaine des chevaliers de Feu, surmonté d'un serpent ailé.
+
+Améliore les compétences des chevaliers de Feu.
+
+Symbole des forces armées de Messmer, le serpent ailé est un fidèle allié capable de contrôler et de repousser le serpent maléfique.</text>
+<text id="5184000">Capuche de Salza, sage des chevaliers de Feu. 
+Constituée d'une impressionante quantité de tissu enturbanné pour donner l'illusion que la tête du porteur est largement enflée.
+Augmente l'intelligence.
+
+Disciple du vieux Wego, Salza refusa d'incendier une ruine, au risque de désobéir et d'y perdre la vie.
+</text>
+<text id="5190000">Bandeau de cuir tressé porté par les guerriers des montagnes. La couleur blanche représente leur village d'origine.
+
+Les guerriers des montagnes sont connus pour chasser l'ours. Pour eux, aucun acte n’est plus glorieux que l'asservissement d’une bête sauvage.</text>
+<text id="5190100">Tenue traditionnelle en tissu tressé et fourrure portée par les guerriers des montagnes. Agrémentée de tissus rouges et bleus.
+
+Seuls les plus valeureux guerriers chassant les ours se voyaient décorés de ces tissus rouges.</text>
+<text id="5190200">Bandes en cuir robuste à sangles portées par les guerriers des montagnes.
+
+Les guerriers des montagnes sont connus pour chasser l'ours. Pour eux, aucun acte n’est plus glorieux que l'asservissement d’une bête sauvage.</text>
+<text id="5190300">Pantalon en cuir robuste à sangles porté par les guerriers des montagnes. La fourrure animale qui l'orne permet de maintenir son propriétaire au chaud.
+
+Les guerriers des montagnes sont connus pour chasser l'ours. Pour eux, aucun acte n’est plus glorieux que l'asservissement d’une bête sauvage.</text>
+<text id="5191000">Heaume assemblé à l'aide de morceaux de cuir porté par les guerriers des montagnes. La couleur blanche représente leur village d'origine.
+
+Les guerriers des montagnes sont connus pour chasser l'ours. Pour eux, aucun acte n’est plus glorieux que l'asservissement d’une bête sauvage.</text>
+<text id="5191100">Tenue traditionnelle en tissu tressé surmontée d'une étoffe à motifs bleus portée par les guerriers des montagnes.
+
+Les guerriers des montagnes sont connus pour chasser l'ours. C'est en affrontant des bêtes sauvages qu'ils gagnent le respect et l'honneur de leurs pairs.</text>
+<text id="5200000">Heaume doré des chevaliers de la Mort. Les masques funèbres qu'ils arborent leur servent de visière.
+
+Améliore les compétences et les incantations du culte de la capitale dévoué aux dragons anciens.
+
+La roue d'or décrépie qui orne ce casque symbolise leur loyauté indéfectible à l'égard de Godwyn, le Prince de la Mort.</text>
+<text id="5200100">Armure portée par les chevaliers de la Mort et ornée d'une antique représentation dorée de l'Arbre-Monde.
+
+Améliore les compétences et les incantations du culte de la capitale dévoué aux dragons anciens.
+
+Ces chevaliers qui constituaient autrefois la garde personnelle de Godwyn se mirent en quête de leur maître. Ils ne trouvèrent que son cadavre transfiguré et l'avènement de l'âge du crépuscule.</text>
+<text id="5200200">Gantelets dorés portés par les chevaliers de la Mort et ornés d'une antique représentation de l'Arbre-Monde.
+
+Améliore les compétences et les incantations du culte de la capitale dévoué aux dragons anciens.
+
+Ces chevaliers qui constituaient autrefois la garde personnelle de Godwyn se mirent en quête de leur maître. Ils ne trouvèrent que son cadavre transfiguré et l'avènement de l'âge du crépuscule.</text>
+<text id="5200300">Jambières dorées portées par les chevaliers de la Mort et ornées d'une antique représentation de l'Arbre-Monde.
+
+Améliore les compétences et les incantations du culte de la capitale dévoué aux dragons anciens.
+
+Ces chevaliers qui constituaient autrefois la garde personnelle de Godwyn se mirent en quête de leur maître. Ils ne trouvèrent que son cadavre transfiguré et l'avènement de l'âge du crépuscule.</text>
+<text id="5210000">Masque orné d'une couronne composée de cornes enchevêtrées, porté par ceux qui invoquèrent une divinité.
+
+L'invocation divine amplifie la dextérité de son porteur, mais rend la bénédiction de l'Arbre-Monde écœurante, réduisant ainsi la puissance des Fioles sacrées.
+
+Le port de ce masque affecte également la focalisation.</text>
+<text id="5210100">Atours des ascètes de la tour, symbolisant leur abandon total à une vie d'austérité et de maîtrise de soi.
+
+Afin de transcender leur enveloppe charnelle et d'atteindre le rang de divinités tutélaires des terres, ces ermites mettent leur spiritualité à l'épreuve au travers d'un entraînement rude et rigoureux.</text>
+<text id="5210200">Brassards des ascètes de la tour, symbolisant leur abandon total à une vie d'austérité et de maîtrise de soi.
+
+Afin de transcender leur enveloppe charnelle et d'atteindre le rang de divinités tutélaires des terres, ces ermites mettent leur spiritualité à l'épreuve au travers d'un entraînement rude et rigoureux.</text>
+<text id="5210300">Chevillières des ascètes de la tour, symbolisant leur abandon total à une vie d'austérité et de maîtrise de soi.
+
+Afin de transcender leur enveloppe charnelle et d'atteindre le rang de divinités tutélaires des terres, ces ermites mettent leur spiritualité à l'épreuve au travers d'un entraînement rude et rigoureux.</text>
+<text id="5220000">Heaume noir de Messmer l'Empaleur, couronné de deux serpents ailés entremêlés.
+Améliore légèrement les incantations de la flamme de Messmer ainsi que les compétences des chevalier de Feu.
+
+Ces animaux tenaient en permanence compagnie à Messmer.
+
+Ils étaient présents lorsque le serpent maléfique fut emprisonné derrière son œil. Ils le soutinrent dans sa souffrance éternelle. Ils restèrent à ses côtés lorsqu'il adopta sa forme hideuse, après qu'il eût détruit la grâce accordée par sa mère. À l'instar de leur maître, ils ont accepté leur sort.</text>
+<text id="5220100">Armure noire de Messmer l'Empaleur.
+Surmontée d'une cape rouge portant son cimier brodé.
+
+Selon le souhait de sa mère, Messmer entreprit la croisade épuratrice qui fit de lui un véritable symbole d'effroi.
+
+"Adresse tes damnations, ton ire et ta peine à moi, et moi seul."</text>
+<text id="5220200">Brassards noirs de Messmer l'Empaleur.
+
+Selon le souhait de sa mère, Messmer entreprit la croisade épuratrice qui fit de lui un véritable symbole d'effroi.
+
+"Adresse tes damnations, ton ire et ta peine à moi, et moi seul."</text>
+<text id="5220300">Jambières noires de Messmer l'Empaleur.
+
+Selon le souhait de sa mère, Messmer entreprit la croisade épuratrice qui fit de lui un véritable symbole d'effroi.
+
+"Adresse tes damnations, ton ire et ta peine à moi, et moi seul."</text>
+<text id="5221000">Heaume noir de Messmer l'Empaleur, couronné de deux serpents ailés entremêlés.
+
+Ces animaux tenaient en permanence compagnie à Messmer.
+
+Ils étaient présents lorsque le serpent maléfique fut emprisonné derrière son œil. Ils le soutinrent dans sa souffrance éternelle. Ils restèrent à ses côtés lorsqu'il adopta sa forme hideuse, après qu'il eût détruit la grâce accordée par sa mère. À l'instar de leur maître, ils ont accepté leur sort.</text>
+<text id="5230000">Heaume en pierre à la teinte légèrement verdâtre, issu de l'ensemble d'armure d'oiseau sépulcral.
+
+Les oiseaux sépulcraux sont des sortes d'antiques golems, créés pour protéger les sépultures spirituelles construites là où toutes les morts finissent par affluer.</text>
+<text id="5230100">Armure en pierre à la teinte légèrement verdâtre, issue de l'ensemble d'armure d'oiseau sépulcral.
+Surmontée d'une cape en plumes noires de rapace funeste, elle améliore les attaques sautées.
+
+Les oiseaux sépulcraux sont des sortes d'antiques golems, créés pour protéger les sépultures spirituelles construites là où toutes les morts finissent par affluer.</text>
+<text id="5230200">Bracelets en pierre à la teinte légèrement verdâtre, issus de l'ensemble d'armure d'oiseau sépulcral.
+
+Les oiseaux sépulcraux sont des sortes d'antiques golems, créés pour protéger les sépultures spirituelles construites là où toutes les morts finissent par affluer.</text>
+<text id="5230300">Chaînes de cheville en pierre à la teinte légèrement verdâtre, issues de l'ensemble d'armure d'oiseau sépulcral.
+
+Les oiseaux sépulcraux sont des sortes d'antiques golems, créés pour protéger les sépultures spirituelles construites là où toutes les morts finissent par affluer.</text>
+<text id="5231100">Armure en pierre à la teinte légèrement verdâtre, issue de l'ensemble d'armure d'oiseau sépulcral.
+
+Les oiseaux sépulcraux sont des sortes d'antiques golems, créés pour protéger les sépultures spirituelles construites là où toutes les morts finissent par affluer.</text>
+<text id="5240000">Heaume des soldats ordinaires de l'armée de Messmer.
+
+Il est recouvert d'une suie d'une noirceur abyssale, tout comme le véritable visage des hommes qui le portent.</text>
+<text id="5240100">Armure en tissu des soldats ordinaires de l'armée de Messmer.
+
+Elle est recouverte d'une suie d'une noirceur abyssale, tout comme le véritable visage des hommes qui la portent.</text>
+<text id="5240200">Gantelets des soldats ordinaires de l'armée de Messmer.
+
+Ils sont recouverts d'une suie d'une noirceur abyssale, tout comme le véritable visage des hommes qui les portent.</text>
+<text id="5240300">Jambières des soldats ordinaires de l'armée de Messmer.
+
+Elles sont recouvertes d'une suie d'une noirceur abyssale, tout comme le véritable visage des hommes qui les portent.</text>
+<text id="5250000">Heaume orné d'une couronne composée de solides cornes enchevêtrées, porté par les guerriers cornus, et permettant à ces gardiens de la tour d'invoquer une divinité.
+
+L'invocation divine amplifie la force de son porteur, mais rend la bénédiction de l'Arbre-Monde écœurante, réduisant ainsi la puissance des Fioles sacrées.
+
+Le port de ce heaume affecte également la focalisation.</text>
+<text id="5250100">Armure des guerriers cornus, gardiens de la tour.
+
+Le tissu ocre se drape sur un plastron façonné de manière à évoquer le torse nu d'un héros des temps anciens.</text>
+<text id="5250200">Gantelets en métal épais des guerriers cornus, gardiens de la tour.</text>
+<text id="5250300">Jambières des guerriers cornus, gardiens de la tour, façonnées de manière à évoquer les jambes nues d'un héros des temps anciens.</text>
+<text id="5252000">Heaume orné de cornes enchevêtrées et rattaché à un masque de bête divine, permettant à son porteur d'invoquer une divinité. Il est porté par les guerriers de la bête divine, élus des guerriers cornus.
+
+L'invocation divine amplifie la puissance des tempêtes de son porteur, ainsi que sa force et sa dextérité, mais diminue la puissance des Fioles sacrées.
+
+Le port de ce heaume affecte également la focalisation.</text>
+<text id="5252100">Armure des guerriers cornus qui ont eu l'honneur d'être désignés guerriers de la bête divine, ornée d'une peau de lion.
+
+Seuls les guerriers de la bête divine qui excellent à l'invocation divine peuvent devenir des colosses, et reçoivent le privilège de participer à la danse du lion.</text>
+<text id="5253000">Heaume orné de cornes enchevêtrées et rattaché à un masque d'oiseau divin, permettant à son porteur d'invoquer une divinité. Il est porté par les guerriers aviaires divins, élus des guerriers cornus.
+
+L'invocation divine amplifie la puissance des plumes d'oiseau divin de son porteur, ainsi que sa force et sa dextérité, mais diminue la puissance des Fioles sacrées.
+
+Le port de ce heaume affecte également la focalisation.</text>
+<text id="5253100">Armure en métal doré des guerriers aviaires divins, les tout premiers guerriers cornus.
+
+Les oiseaux divins au plumage doré sont réputés pour leur cruauté et leur refus de la compagnie humaine. Rares étaient ceux qui invoquaient leur divinité.</text>
+<text id="5253200">Brassards en métal doré des guerriers aviaires divins, les tout premiers guerriers cornus.
+
+Les oiseaux divins au plumage doré sont réputés pour leur cruauté et leur refus de la compagnie humaine. Rares étaient ceux qui invoquaient leur divinité.</text>
+<text id="5253300">Jambières en métal doré des guerriers aviaires divins, les tout premiers guerriers cornus.
+
+Les serres acérées augmentent l'efficacité des coups de pied.</text>
+<text id="5260000">Heaume orné en acier argenté de Rellana, chevaleresse des Lunes jumelles.
+
+On raconte que Rennala, matriarche de la famille royale de Caria, avait fait don d'une sublime chevelure sombre à sa plus jeune sœur qui avait renoncé à sa lignée afin de pourchasser Messmer.</text>
+<text id="5260100">Armure ornée en acier argenté de Rellana, chevaleresse des Lunes jumelles.
+
+Le bleu azur est ici un symbole de Caria, dont la radiance ne saurait jamais se ternir complètement.</text>
+<text id="5260200">Gants en cuir de qualité de Rellana, chevaleresse des Lunes jumelles.</text>
+<text id="5260300">Jambières ornées en acier argenté de Rellana, chevaleresse des Lunes jumelles.</text>
+<text id="5270000">Heaume doré porté par Radahn dans sa jeunesse, mettant en valeur sa chevelure rousse héroïque et digne d'un lion.
+
+Lorsque Malenia, épée de Miquella, laissa la fleur de putréfaction s'épanouir en Ivoine, Radahn entendit ces mots résonner dans son esprit :
+
+"Miquella t'attend, ô futur consort."</text>
+<text id="5270100">Armure dorée portée par Radahn dans sa jeunesse, ornée d'éléments écarlates héroïques et dignes d'un lion.
+
+Lorsque Malenia, épée de Miquella, laissa la fleur de putréfaction s'épanouir en Ivoine, Radahn entendit ces mots résonner dans son esprit :
+
+"Miquella t'attend, ô futur consort."</text>
+<text id="5270200">Gantelets dorés portés par Radahn dans sa jeunesse.
+
+Lorsque Malenia, épée de Miquella, laissa la fleur de putréfaction s'épanouir en Ivoine, Radahn entendit ces mots résonner dans son esprit :
+
+"Miquella t'attend, ô futur consort."</text>
+<text id="5270300">Jambières dorées portées par Radahn, lion redoutable, dans sa jeunesse.
+
+Lorsque Malenia, épée de Miquella, laissa la fleur de putréfaction s'épanouir en Ivoine, Radahn entendit ces mots résonner dans son esprit :
+
+"Miquella t'attend, ô futur consort."</text>
+<text id="5271100">Armure dorée portée par Radahn, lion redoutable, dans sa jeunesse.
+
+Lorsque Malenia, épée de Miquella, laissa la fleur de putréfaction s'épanouir en Ivoine, Radahn entendit ces mots résonner dans son esprit :
+
+"Miquella t'attend, ô futur consort."</text>
+<text id="5272000">Couronne de lumière qui cerclait la tête de Miquella quand il revint dans son aspect divin, qui commence désormais à s'affaiblir et disparaître.
+
+Augmente légèrement l'intelligence, la foi et l'ésotérisme de son porteur, tout en amplifiant la puissance de la lumière de Miquella.
+
+Cet anneau devait être au fondement de l'âge de compassion que Miquella essaya en vain d'amorcer.</text>
+<text id="5280000">Heaume sombre comme l'obscurité, porté par les miliciens vulgaires.
+
+Champs de bataille étranglés par la puanteur des corps en décomposition. Domaines interdits condamnés à être rayés de l'histoire. Où pourrait bien résider une telle armée, sinon dans le Royaume des ombres ?</text>
+<text id="5280100">Armure sombre comme l'obscurité, portée par les miliciens vulgaires.
+
+Champs de bataille étranglés par la puanteur des corps en décomposition. Domaines interdits condamnés à être rayés de l'histoire. Où pourrait bien résider une telle armée, sinon dans le Royaume des ombres ?</text>
+<text id="5280200">Gantelets sombres comme l'obscurité, portés par les miliciens vulgaires.
+
+Champs de bataille étranglés par la puanteur des corps en décomposition. Domaines interdits condamnés à être rayés de l'histoire. Où pourrait bien résider une telle armée, sinon dans le Royaume des ombres ?</text>
+<text id="5280300">Jambières sombres comme l'obscurité, portées par les miliciens vulgaires.
+
+Champs de bataille étranglés par la puanteur des corps en décomposition. Domaines interdits condamnés à être rayés de l'histoire. Où pourrait bien résider une telle armée, sinon dans le Royaume des ombres ?</text>
+<text id="5290000">Couvre-chef représentant la tête d'une bête divine capable d'effectuer la danse du lion. Même si elle fut portée par les plus illustres colosses, elle ne répond plus aux prières éplorées de la vieille femme.
+
+L'invocation divine amplifie la puissance des tempêtes de son porteur, ainsi que sa force et sa dextérité, mais diminue la puissance des Fioles sacrées.
+
+Le port de ce couvre-chef affecte également la focalisation.</text>
+<text id="5300000">La vie de sainte Trina fluctua et prit fin, aussi fugace qu'une saison. Elle laissa derrière elle une unique nymphéa.
+
+Augmente légèrement les PC max.
+
+Contrairement à ce que laisse penser sa teinte pourpre, cette fleur n'est pas toxique et se contente de s'épanouir paisiblement.</text>
+<text id="5310000">Heaume porté par Devonia, la plus ancienne vétérane des chevaliers du Creuset.
+
+Il est imprégnée de l'énergie du Creuset de la vie, forme primordiale de l'Arbre-Monde. Renforce les incantations des aspects du Creuset.
+
+On raconte que Devonia se mit en tête de découvrir les origines du Creuset et quitta, seule, les terres de l'Arbre-Monde.</text>
+<text id="5320000">Grande jarre qui, une fois retournée, repose confortablement sur la tête de son porteur. Elle fait partie de la tenue des chamans qui se recueillent dans les geôles.
+
+Augmente la puissance des pots à lancer, peu importe leur taille.
+
+Ils dédient leurs prières aux entrailles des grandes jarres, espérant un jour renaître sous forme de saints. Il s'agit là du cycle de la mort et de la renaissance, placée entre les mains d'hommes mortels.</text>
+<text id="5330000">Couvre-chef façonné à partir de la tête quasi inaltérée d'un golem malicieux.
+
+Représentant un lion, une faible force vitale semble vouloir s'y agripper.</text>
+</entries>
+</fmg>

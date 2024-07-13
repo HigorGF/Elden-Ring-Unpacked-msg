@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="80">Segen des Scadubaums</text>
+<text id="81">Segen der Verehrten Geisterasche</text>
+<text id="205">Neue Gegenstände im Blick behalten</text>
+<text id="206">Kürzliche Gegenstände im Blick behalten</text>
+<text id="207">Herbeirufungsreserven übertragen</text>
+</entries>
+</fmg>

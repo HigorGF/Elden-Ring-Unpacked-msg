@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="302600">Hay fragmentos del Árbol Umbrío a lo largo y ancho del Reino de las Sombras.
+
+Úsalos en lugares de Gracia y aumenta la bendición del Árbol Umbrío.
+
+Dicha bendición aumenta las habilidades de infligir y anular daño del receptor, pero solo funciona en el Reino de las Sombras.</text>
+<text id="302601">%null%</text>
+<text id="302602">%null%</text>
+<text id="302603">%null%</text>
+<text id="302604">%null%</text>
+<text id="302605">%null%</text>
+<text id="302606">%null%</text>
+<text id="302607">%null%</text>
+<text id="302608">%null%</text>
+<text id="302609">%null%</text>
+<text id="302610">Hay cenizas de espíritu venerado a lo largo y ancho del Reino de las Sombras.
+
+Úsalas en lugares de Gracia para aumentar tu bendición de cenizas de espíritu venerado.
+
+Dicha bendición mejora la capacidad de los espíritus invocados y del corcel espectral de infligir y anular daño, pero solo funciona en el Reino de las Sombras.</text>
+<text id="302611">%null%</text>
+<text id="302612">%null%</text>
+<text id="302613">%null%</text>
+<text id="302614">%null%</text>
+<text id="302615">%null%</text>
+<text id="302616">%null%</text>
+<text id="302617">%null%</text>
+<text id="302618">%null%</text>
+<text id="302619">%null%</text>
+<text id="302620">Las nuevas características se pueden activar desde la sección Pantalla, en el menú «Sistema».
+
+- Los objetos obtenidos por primera vez se pueden marcar con &lt;?newItemIcon?&gt;.
+- Se ha creado una pestaña dedicada para ver los objetos obtenidos recientemente.</text>
+<text id="402600">Consume fragmentos del Árbol Umbrío para aumentar la bendición del Árbol Umbrío.
+
+Dicha bendición mejora la capacidad del receptor de infligir y anular daño, pero solo funciona en el Reino de las Sombras.</text>
+<text id="402601">%null%</text>
+<text id="402602">%null%</text>
+<text id="402603">%null%</text>
+<text id="402604">%null%</text>
+<text id="402605">%null%</text>
+<text id="402606">%null%</text>
+<text id="402607">%null%</text>
+<text id="402608">%null%</text>
+<text id="402609">%null%</text>
+<text id="402610">Consume cenizas de espíritu venerado para aumentar la bendición de cenizas de espíritu venerado.
+
+Dicha bendición mejora la capacidad de los espíritus invocados y del corcel espectral de infligir y anular daño, pero solo funciona en el Reino de las Sombras.</text>
+</entries>
+</fmg>

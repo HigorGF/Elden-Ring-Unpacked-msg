@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1030000">십자의 지도를 입수했습니다
+인벤토리에서 확인해 주십시오</text>
+<text id="1030001">십자의 지도를 입수했습니다
+인벤토리에서 확인해 주십시오</text>
+<text id="1030002">%null%</text>
+<text id="1030003">%null%</text>
+<text id="1030004">%null%</text>
+<text id="1030005">%null%</text>
+<text id="1030006">%null%</text>
+<text id="1030007">%null%</text>
+<text id="1030008">%null%</text>
+<text id="1030009">%null%</text>
+<text id="1030010">유적의 지도를 입수했습니다
+인벤토리에서 확인해 주십시오</text>
+<text id="1030011">유적의 지도를 입수했습니다
+인벤토리에서 확인해 주십시오</text>
+<text id="1030012">유적의 지도를 입수했습니다
+인벤토리에서 확인해 주십시오</text>
+<text id="1030013">%null%</text>
+<text id="1030014">%null%</text>
+<text id="1030015">%null%</text>
+<text id="1030016">%null%</text>
+<text id="1030017">%null%</text>
+<text id="1030018">%null%</text>
+<text id="1030019">%null%</text>
+<text id="1030020">새겨진 말이 마음에 떠오른다
+「나의 왼팔을 이곳에 버린다」</text>
+<text id="1030021">새겨진 말이 마음에 떠오른다
+「나의 눈동자를 이곳에 버린다」</text>
+<text id="1030022">새겨진 말이 마음에 떠오른다
+「나의 첫 육체를 이곳에 버린다」</text>
+<text id="1030023">새겨진 말이 마음에 떠오른다
+「나의 육체를 깎아 이곳에 버린다」</text>
+<text id="1030024">새겨진 말이 마음에 떠오른다
+「나의 심장을 이곳에 버린다」</text>
+<text id="1030025">새겨진 말이 마음에 떠오른다
+「나의 망설임을 이곳에 버린다」</text>
+<text id="1030026">새겨진 말이 마음에 떠오른다
+「나의 마지막 육체를 이곳에 버린다」</text>
+<text id="1030027">새겨진 말이 마음에 떠오른다
+「나의 육체를 깎아 이곳에 버린다」</text>
+<text id="1030028">새겨진 말이 마음에 떠오른다
+「모든 두려움을 이곳에 버린다」</text>
+<text id="1030029">새겨진 말이 마음에 떠오른다
+「나의 사랑을 이곳에 버린다」</text>
+<text id="1030030">내 사랑스러운 아이, 덧없는 유리</text>
+<text id="1030031">%null%</text>
+<text id="1030032">%null%</text>
+<text id="1030033">%null%</text>
+<text id="1030034">%null%</text>
+<text id="1030035">%null%</text>
+<text id="1030036">%null%</text>
+<text id="1030037">%null%</text>
+<text id="1030038">%null%</text>
+<text id="1030039">%null%</text>
+<text id="1030040">어딘가에서 거대한 룬이 부서졌다</text>
+<text id="1030041">매료의 힘도 망가진 것 같다</text>
+<text id="1030042">%null%</text>
+<text id="1030043">%null%</text>
+<text id="1030044">%null%</text>
+<text id="1030045">%null%</text>
+<text id="1030046">%null%</text>
+<text id="1030047">%null%</text>
+<text id="1030048">%null%</text>
+<text id="1030049">%null%</text>
+<text id="1030050">새겨진 말이 마음에 떠오른다
+「나의 육체를 깎아 이곳에 버린다」</text>
+<text id="1030051">새겨진 말이 마음에 떠오른다
+「나의 오른팔을 이곳에 버린다」</text>
+<text id="1030052">새겨진 말이 마음에 떠오른다
+「나의 육체를 깎아 이곳에 버린다」</text>
+<text id="2020000">그림자의 땅으로 가시겠습니까?</text>
+<text id="2020001">%null%</text>
+<text id="2020002">그림자에 숨겨져 봉인되어 있다</text>
+<text id="2020003">%null%</text>
+<text id="2020004">미켈라에 의해 봉인되어 있다</text>
+<text id="2020025">돌칼집의 검을 빛에 바치시겠습니까?</text>
+<text id="2020026">돌칼집의 검을 어둠에 바치시겠습니까?</text>
+<text id="2020027">다크 소드를 빛에 바치시겠습니까?</text>
+<text id="2020028">라이트 소드를 어둠에 바치시겠습니까?</text>
+<text id="2020029">%null%</text>
+<text id="2020030">어딘가에서 영기류의 봉인이 풀렸다</text>
+<text id="2030000">봉인 나무를 불태우시겠습니까?</text>
+<text id="2030001">봉인 나무가 탑을 그림자에 숨기고 있다
+「메스메르의 불씨」가 없으면 불태울 수 없다</text>
+<text id="2062000">틈새의 중심
+온갖 죽음이 흘러들고
+온갖 죽음을 가라앉힌다</text>
+<text id="2080601">「침의 기사 레다」의 협력자로 소환되시겠습니까?</text>
+<text id="2080602">「노병 안스바흐」의 협력자로 소환되시겠습니까?</text>
+<text id="2080603">「침의 기사 레다」의 협력자로 소환되시겠습니까?</text>
+<text id="2080604">「뿔인간」의 협력자로 소환되시겠습니까?</text>
+<text id="2080605">「침의 기사 레다」와 동지들의 적대자로 소환되시겠습니까?</text>
+<text id="2080800">「용의 전사 에이곤」을 소환하시겠습니까?</text>
+<text id="2080801">%null%</text>
+<text id="2080802">%null%</text>
+<text id="2080803">%null%</text>
+<text id="2080804">%null%</text>
+<text id="2080805">%null%</text>
+<text id="2080806">%null%</text>
+<text id="2080807">%null%</text>
+<text id="2080808">%null%</text>
+<text id="2080809">%null%</text>
+<text id="2080810">「티에리에」를 소환하시겠습니까?</text>
+<text id="2080840">「순혈기사 안스바흐」를 소환하시겠습니까?
+이 협력자는 잠시 후 소환됩니다.</text>
+<text id="2080841">%null%</text>
+<text id="2080842">%null%</text>
+<text id="2080843">%null%</text>
+<text id="2080844">%null%</text>
+<text id="2080845">%null%</text>
+<text id="2080846">%null%</text>
+<text id="2080847">%null%</text>
+<text id="2080848">%null%</text>
+<text id="2080849">%null%</text>
+<text id="2080850">「티에리에」를 소환하시겠습니까?
+이 협력자는 잠시 후 소환됩니다.</text>
+<text id="2080851">%null%</text>
+<text id="2080852">%null%</text>
+<text id="2080853">%null%</text>
+<text id="2080854">%null%</text>
+<text id="2080855">%null%</text>
+<text id="2080856">%null%</text>
+<text id="2080857">%null%</text>
+<text id="2080858">%null%</text>
+<text id="2080859">%null%</text>
+<text id="2080860">「피의 귀족 나탄」을 소환하시겠습니까?
+이 협력자는 잠시 후 소환됩니다.</text>
+<text id="2080861">%null%</text>
+<text id="2080862">%null%</text>
+<text id="2080863">%null%</text>
+<text id="2080864">%null%</text>
+<text id="2080865">%null%</text>
+<text id="2080866">%null%</text>
+<text id="2080867">%null%</text>
+<text id="2080868">%null%</text>
+<text id="2080869">%null%</text>
+<text id="2080870">「뿔인간」을 소환하시겠습니까?</text>
+<text id="2080871">%null%</text>
+<text id="2080872">%null%</text>
+<text id="2080873">%null%</text>
+<text id="2080874">%null%</text>
+<text id="2080875">%null%</text>
+<text id="2080876">%null%</text>
+<text id="2080877">%null%</text>
+<text id="2080878">%null%</text>
+<text id="2080879">%null%</text>
+<text id="2080880">「밤의 검사 욜란」을 소환하시겠습니까?</text>
+<text id="20208004">&lt;?gdsparam@2008004?&gt;를 사용했습니다.</text>
+<text id="20208005">&lt;?gdsparam@2008005?&gt;를 사용했습니다.</text>
+<text id="20208006">&lt;?gdsparam@2008006?&gt;를 사용했습니다.</text>
+<text id="20208007">%null%</text>
+<text id="20208008">%null%</text>
+<text id="20208009">%null%</text>
+<text id="20208010">%null%</text>
+<text id="20208011">%null%</text>
+<text id="20208012">%null%</text>
+<text id="20208013">&lt;?gdsparam@2008013?&gt;를 사용했습니다.</text>
+<text id="20208014">%null%</text>
+<text id="20208015">%null%</text>
+<text id="20208016">%null%</text>
+<text id="20208017">%null%</text>
+<text id="20208018">%null%</text>
+<text id="20208019">%null%</text>
+<text id="20208020">%null%</text>
+<text id="20208021">%null%</text>
+<text id="20208022">%null%</text>
+<text id="20208023">&lt;?gdsparam@2008023?&gt;를 사용했습니다.</text>
+<text id="20208036">&lt;?gdsparam@2008036?&gt;를 사용했습니다.</text>
+</entries>
+</fmg>

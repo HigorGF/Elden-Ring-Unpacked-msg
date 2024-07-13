@@ -1,0 +1,636 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="2220">조향병을 본뜬 탈리스만.
+조향술의 위력을 높인다.
+
+조향사에게는 그들만 아는 꽃밭이 있다.
+고원의 가장자리에, 혹은 숨겨진 동굴에
+꽃들은 그저 향기를 내뿜기 위해 핀다.</text>
+<text id="7000">붉은색 호박이 박힌 메달리온.
+HP의 최대치를 가장 크게 높인다.
+
+호박은 황금 나무의 옛 물방울이며
+첫 엘데의 왕, 고드프리의 시대에
+특별한 보석으로 다뤄졌다.
+
+가장 큰 이것은 탁월한 황금의 기사,
+고드윈의 근위대에게 하사되었다고 한다.</text>
+<text id="7001">%null%</text>
+<text id="7002">%null%</text>
+<text id="7003">%null%</text>
+<text id="7004">%null%</text>
+<text id="7005">%null%</text>
+<text id="7006">%null%</text>
+<text id="7007">%null%</text>
+<text id="7008">%null%</text>
+<text id="7009">%null%</text>
+<text id="7010">푸른색 호박이 박힌 메달리온.
+FP의 최대치를 가장 크게 높인다.
+
+호박은 황금 나무의 옛 물방울이며
+첫 엘데의 왕, 고드프리의 시대에
+특별한 보석으로 다뤄졌다.
+
+가장 큰 이것은 탁월한 황금의 기사,
+고드윈의 근위대에게 하사되었다고 한다.</text>
+<text id="7011">%null%</text>
+<text id="7012">%null%</text>
+<text id="7013">%null%</text>
+<text id="7014">%null%</text>
+<text id="7015">%null%</text>
+<text id="7016">%null%</text>
+<text id="7017">%null%</text>
+<text id="7018">%null%</text>
+<text id="7019">%null%</text>
+<text id="7020">초록색 호박이 박힌 메달리온.
+스태미나의 최대치를 가장 크게 높인다.
+
+호박은 황금 나무의 옛 물방울이며
+첫 엘데의 왕, 고드프리의 시대에
+특별한 보석으로 다뤄졌다.
+
+가장 큰 이것은 탁월한 황금의 기사,
+고드윈의 근위대에게 하사되었다고 한다.</text>
+<text id="7021">%null%</text>
+<text id="7022">%null%</text>
+<text id="7023">%null%</text>
+<text id="7024">%null%</text>
+<text id="7025">%null%</text>
+<text id="7026">%null%</text>
+<text id="7027">%null%</text>
+<text id="7028">%null%</text>
+<text id="7029">%null%</text>
+<text id="7030">쌍두 거북을 본뜬 탈리스만.
+스태미나 회복 속도를 크게 높인다.
+
+거북은 자양 성분이 풍부하다고 알려졌고
+끝없는 힘의 상징이었다.
+
+특히 쌍두 거북은
+얽히는 머리가 나선과 닮았기 때문에
+탑의 땅에서 선호되는 제재이다.</text>
+<text id="7031">%null%</text>
+<text id="7032">%null%</text>
+<text id="7033">%null%</text>
+<text id="7034">%null%</text>
+<text id="7035">%null%</text>
+<text id="7036">%null%</text>
+<text id="7037">%null%</text>
+<text id="7038">%null%</text>
+<text id="7039">%null%</text>
+<text id="7040">뿔인간들이 제사에 사용하는 장신구.
+강건 내성을 매우 크게 높인다.
+(강건은 출혈과 동상에 대한 내성이다.)
+
+뿔인간들에게 뿔은 신성함이며
+그렇기에 그들은 선택받은 백성이다.
+
+새롭게 움트는 것을 반복한 혼각은
+특히 영장을 가리키는 상징이라고 한다.</text>
+<text id="7041">%null%</text>
+<text id="7042">%null%</text>
+<text id="7043">%null%</text>
+<text id="7044">%null%</text>
+<text id="7045">%null%</text>
+<text id="7046">%null%</text>
+<text id="7047">%null%</text>
+<text id="7048">%null%</text>
+<text id="7049">%null%</text>
+<text id="7050">뿔인간들이 제사에 사용하는 장신구.
+면역 내성을 매우 크게 높인다.
+(면역은 독과 부패에 대한 내성이다.)
+
+뿔인간들에게 뿔은 신성함이며
+그렇기에 그들은 선택받은 백성이다.
+
+새롭게 움트는 것을 반복한 혼각은
+특히 영장을 가리키는 상징이라고 한다.</text>
+<text id="7051">%null%</text>
+<text id="7052">%null%</text>
+<text id="7053">%null%</text>
+<text id="7054">%null%</text>
+<text id="7055">%null%</text>
+<text id="7056">%null%</text>
+<text id="7057">%null%</text>
+<text id="7058">%null%</text>
+<text id="7059">%null%</text>
+<text id="7060">뿔인간들이 제사에 사용하는 장신구.
+이성 내성을 매우 크게 높인다.
+(이성은 수면과 발광에 대한 내성이다.)
+
+뿔인간들에게 뿔은 신성함이며
+그렇기에 그들은 선택받은 백성이다.
+
+새롭게 움트는 것을 반복한 혼각은
+특히 영장을 가리키는 상징이라고 한다.</text>
+<text id="7080">뿔인간들이 제사에 사용하는 장신구.
+그중에서도 특히 꾸며진 귀중한 물건.
+
+면역, 강건, 이성 내성을 매우 크게 높인다.
+
+뿔인간들에게 뿔은 신성함이며
+그렇기에 그들은 선택받은 백성이다.
+
+새롭게 움트는 것을 반복한 혼각은
+특히 영장을 가리키는 상징이라고 한다.</text>
+<text id="7081">%null%</text>
+<text id="7082">%null%</text>
+<text id="7083">%null%</text>
+<text id="7084">%null%</text>
+<text id="7085">%null%</text>
+<text id="7086">%null%</text>
+<text id="7087">%null%</text>
+<text id="7088">%null%</text>
+<text id="7089">%null%</text>
+<text id="7090">파란 고룡이 크게 그려진 탈리스만.
+마력 경감률을 가장 크게 높인다.
+
+황금률이 없는 선사시대의 주인이었던 고룡은
+왕을 지키는 바위벽이었다고 한다.
+그러므로 용은 온갖 수호의 상징이다.</text>
+<text id="7091">%null%</text>
+<text id="7092">%null%</text>
+<text id="7093">%null%</text>
+<text id="7094">%null%</text>
+<text id="7095">%null%</text>
+<text id="7096">%null%</text>
+<text id="7097">%null%</text>
+<text id="7098">%null%</text>
+<text id="7099">%null%</text>
+<text id="7100">붉은 고룡이 크게 그려진 탈리스만.
+화염 경감률을 가장 크게 높인다.
+
+황금률이 없는 선사시대의 주인이었던 고룡은
+왕을 지키는 바위벽이었다고 한다.
+그러므로 용은 온갖 수호의 상징이다.</text>
+<text id="7101">%null%</text>
+<text id="7102">%null%</text>
+<text id="7103">%null%</text>
+<text id="7104">%null%</text>
+<text id="7105">%null%</text>
+<text id="7106">%null%</text>
+<text id="7107">%null%</text>
+<text id="7108">%null%</text>
+<text id="7109">%null%</text>
+<text id="7110">노란 고룡이 크게 그려진 탈리스만.
+벼락 경감률을 가장 크게 높인다.
+
+황금률이 없는 선사시대의 주인이었던 고룡은
+왕을 지키는 바위벽이었다고 한다.
+그러므로 용은 온갖 수호의 상징이다.</text>
+<text id="7111">%null%</text>
+<text id="7112">%null%</text>
+<text id="7113">%null%</text>
+<text id="7114">%null%</text>
+<text id="7115">%null%</text>
+<text id="7116">%null%</text>
+<text id="7117">%null%</text>
+<text id="7118">%null%</text>
+<text id="7119">%null%</text>
+<text id="7120">황금의 땋은 머리카락을 자른 것.
+여왕 마리카가 대모에게 바친 공물.
+
+신성 경감률을 가장 크게 높인다.
+
+그녀가 무엇을 기도하고 바라고 고해했는지
+아는 자는 없다. 다만 그 후
+마리카가 고향에 돌아오는 일은 없었다.</text>
+<text id="7121">%null%</text>
+<text id="7122">%null%</text>
+<text id="7123">%null%</text>
+<text id="7124">%null%</text>
+<text id="7125">%null%</text>
+<text id="7126">%null%</text>
+<text id="7127">%null%</text>
+<text id="7128">%null%</text>
+<text id="7129">%null%</text>
+<text id="7130">진주색 고룡이 크게 그려진 탈리스만.
+물리 이외의 경감률을 가장 크게 높인다.
+
+황금률이 없는 선사시대의 주인이었던 고룡은
+왕을 지키는 바위벽이었다고 한다.
+그러므로 용은 온갖 수호의 상징이다.</text>
+<text id="7131">%null%</text>
+<text id="7132">%null%</text>
+<text id="7133">%null%</text>
+<text id="7134">%null%</text>
+<text id="7135">%null%</text>
+<text id="7136">%null%</text>
+<text id="7137">%null%</text>
+<text id="7138">%null%</text>
+<text id="7139">%null%</text>
+<text id="7140">황금 나무의 종자를 본뜬 붉은 탈리스만.
+붉은 물방울의 성배병의 회복량을 크게 높인다.
+
+존재하지 않는다고 여겨졌던 종자의 탈리스만.
+가장 오래된 그것에는 두 손가락이 본떠졌다.
+이는 황금 나무의 시작을 나타내는 것일까.</text>
+<text id="7141">%null%</text>
+<text id="7142">%null%</text>
+<text id="7143">%null%</text>
+<text id="7144">%null%</text>
+<text id="7145">%null%</text>
+<text id="7146">%null%</text>
+<text id="7147">%null%</text>
+<text id="7148">%null%</text>
+<text id="7149">%null%</text>
+<text id="7150">황금 나무의 종자를 본뜬 푸른 탈리스만.
+푸른 물방울의 성배병의 회복량을 크게 높인다.
+
+존재하지 않는다고 여겨졌던 종자의 탈리스만.
+가장 오래된 그것에는 두 손가락이 본떠졌다.
+이는 황금 나무의 시작을 나타내는 것일까.</text>
+<text id="8000">황금 나무의 은총인 물방울.
+파랗게 빛나는 그 물방울을 받는 모습을 본뜬
+탈리스만.
+
+서서히 FP를 회복한다.
+
+과거에 은총의 물방울은 마르지 않았다고 한다.
+하지만 풍양의 시대는 매우 짧았으며
+황금 나무는 신앙이 되었다.</text>
+<text id="8001">%null%</text>
+<text id="8002">%null%</text>
+<text id="8003">%null%</text>
+<text id="8004">%null%</text>
+<text id="8005">%null%</text>
+<text id="8006">%null%</text>
+<text id="8007">%null%</text>
+<text id="8008">%null%</text>
+<text id="8009">%null%</text>
+<text id="8010">옛 시대에 사람의 신체에 자랐다는
+여러 모습이 섞인 날개 탈리스만.
+
+백스텝의 회피를 강화하나
+늘 받는 대미지도 커진다.
+
+뿔인간들은 도가니를 신성시한다.
+그 세련된 진화 끝에
+그들의 뿔인 혼각이 있기에.</text>
+<text id="8011">%null%</text>
+<text id="8012">%null%</text>
+<text id="8013">%null%</text>
+<text id="8014">%null%</text>
+<text id="8015">%null%</text>
+<text id="8016">%null%</text>
+<text id="8017">%null%</text>
+<text id="8018">%null%</text>
+<text id="8019">%null%</text>
+<text id="8020">외부의 신 전승이 새겨진 탈리스만.
+신비를 높인다.
+
+모두 불태워지고 빼앗긴 백성은
+고귀할 터인 선조의 사체에서, 그 그림자에서
+이형의 신성을 찾아냈다고 한다.
+
+그 마음이 심히 괴로웠기에
+그들은 꺼림칙한 그것에 매달린 것이다.</text>
+<text id="8021">%null%</text>
+<text id="8022">%null%</text>
+<text id="8023">%null%</text>
+<text id="8024">%null%</text>
+<text id="8025">%null%</text>
+<text id="8026">%null%</text>
+<text id="8027">%null%</text>
+<text id="8028">%null%</text>
+<text id="8029">%null%</text>
+<text id="8030">깨져버린 요석.
+
+발차기와 땅을 밟는 기술의 위력을 높인다.
+
+지진을 진정시킨다고 하는 영석이며
+이것이 깨졌을 때 도시도 땅에 가라앉았다.
+일설에 의하면 달이 떨어졌다고 한다.</text>
+<text id="8031">%null%</text>
+<text id="8032">%null%</text>
+<text id="8033">%null%</text>
+<text id="8034">%null%</text>
+<text id="8035">%null%</text>
+<text id="8036">%null%</text>
+<text id="8037">%null%</text>
+<text id="8038">%null%</text>
+<text id="8039">%null%</text>
+<text id="8040">양손검과 전사를 본뜬 탈리스만.
+양손 잡기의 공격을 강화한다.
+
+뿔 전사는 탑의 수호자이다.
+그 힘은 탑의 무위를 상징하며
+신들린 일격은 모든 것을 베었다고 한다.</text>
+<text id="8041">%null%</text>
+<text id="8042">%null%</text>
+<text id="8043">%null%</text>
+<text id="8044">%null%</text>
+<text id="8045">%null%</text>
+<text id="8046">%null%</text>
+<text id="8047">%null%</text>
+<text id="8048">%null%</text>
+<text id="8049">%null%</text>
+<text id="8050">치켜든 창과 불을 본뜬 탈리스만.
+메스메르와 함께 성전에 몸을 바친
+순사자들의 휘장.
+
+적을 쓰러뜨렸을 때 공격력을 높인다.
+
+그저 더러움을 찌르고 불태운다.
+자비는 없고, 명예도 없다.
+
+그저 그것이 성전이라 믿는 자만이
+절명하는 목소리에 고양되는 것이다.</text>
+<text id="8051">%null%</text>
+<text id="8052">%null%</text>
+<text id="8053">%null%</text>
+<text id="8054">%null%</text>
+<text id="8055">%null%</text>
+<text id="8056">%null%</text>
+<text id="8057">%null%</text>
+<text id="8058">%null%</text>
+<text id="8059">%null%</text>
+<text id="8060">완전히 익은 포도와도 비슷한
+손댈 수 없는 노인의 환희를 본뜬 탈리스만.
+
+주위에서 발광 발생 시 공격력이 상승한다.
+
+우리의 왕께 발광을 바쳐라.
+모두에게 포도를 주어라.
+모두의 포도를 숙성시켜라.</text>
+<text id="8061">%null%</text>
+<text id="8062">%null%</text>
+<text id="8063">%null%</text>
+<text id="8064">%null%</text>
+<text id="8065">%null%</text>
+<text id="8066">%null%</text>
+<text id="8067">%null%</text>
+<text id="8068">%null%</text>
+<text id="8069">%null%</text>
+<text id="8070">깃 화살과 철 화살을 합친 탈리스만.
+
+활의 비거리를 늘리고
+화살과 볼트 사격의 공격력을 높인다.</text>
+<text id="8090">진주색 방패와 기사를 본뜬 탈리스만.
+가드 시, 물리 이외의 경감률을 높인다.
+
+더러움의 힘은 정체를 알 수 없다.
+그렇기에 기사들은 모든 것에 대비했다.</text>
+<text id="8091">%null%</text>
+<text id="8092">%null%</text>
+<text id="8093">%null%</text>
+<text id="8094">%null%</text>
+<text id="8095">%null%</text>
+<text id="8096">%null%</text>
+<text id="8097">%null%</text>
+<text id="8098">%null%</text>
+<text id="8099">%null%</text>
+<text id="8100">바싹 마른 가련한 꽃다발.
+작은 묘비에 바쳐진 것.
+
+자신이 소환한 영체가 사망했을 시
+공격력을 높인다.
+
+사랑하는 자의 생죽음에 품는 마음.
+이는 어디에서든 같다.</text>
+<text id="8101">%null%</text>
+<text id="8102">%null%</text>
+<text id="8103">%null%</text>
+<text id="8104">%null%</text>
+<text id="8105">%null%</text>
+<text id="8106">%null%</text>
+<text id="8107">%null%</text>
+<text id="8108">%null%</text>
+<text id="8109">%null%</text>
+<text id="8110">오래된 단조 망치를 본뜬 탈리스만.
+유문문자가 새겨졌다.
+
+무기를 투척하는 공격을 강화한다.
+
+고대에 단조는 종교 의식이었다.
+대장장이는 녹은 강철에 새겨진 주름에서 문자를
+발견하고 무기의 혼을 고착시켰다고 한다.</text>
+<text id="8111">%null%</text>
+<text id="8112">%null%</text>
+<text id="8113">%null%</text>
+<text id="8114">%null%</text>
+<text id="8115">%null%</text>
+<text id="8116">%null%</text>
+<text id="8117">%null%</text>
+<text id="8118">%null%</text>
+<text id="8119">%null%</text>
+<text id="8120">병으로 죽은 모습을 본뜬 탈리스만.
+
+어떤 상태 이상이 발생했을 때, 잠시
+같은 상태 이상에 대한 내성을 높인다.
+
+약한 자가 두려운 파리병을 앓았을 때는,
+모습이 변하기도 전에 그 생명이 다한다.
+그 임종을 지키고 정성스럽게 매장해준 자만은
+병을 앓지 않았다고 한다.</text>
+<text id="8121">%null%</text>
+<text id="8122">%null%</text>
+<text id="8123">%null%</text>
+<text id="8124">%null%</text>
+<text id="8125">%null%</text>
+<text id="8126">%null%</text>
+<text id="8127">%null%</text>
+<text id="8128">%null%</text>
+<text id="8129">%null%</text>
+<text id="8130">황금 교차수를 본뜬 세공품.
+침의 기사들에게 수여된 물건 중 하나.
+
+구르기, 백스텝 후 공격을 강화한다.
+
+침의 기사들은 과거에 미켈라를 섬겼으나
+지금은 아무도 남지 않았다.
+단 한 명을 제외하고는.</text>
+<text id="8131">%null%</text>
+<text id="8132">%null%</text>
+<text id="8133">%null%</text>
+<text id="8134">%null%</text>
+<text id="8135">%null%</text>
+<text id="8136">%null%</text>
+<text id="8137">%null%</text>
+<text id="8138">%null%</text>
+<text id="8139">%null%</text>
+<text id="8140">황금 교차수를 본뜬 세공품.
+침의 기사들에게 수여된 물건 중 하나.
+
+대시 공격을 강화한다.
+
+침의 기사들은 과거에 미켈라를 섬겼으나
+지금은 아무도 남지 않았다.
+단 한 명을 제외하고는.</text>
+<text id="8141">%null%</text>
+<text id="8142">%null%</text>
+<text id="8143">%null%</text>
+<text id="8144">%null%</text>
+<text id="8145">%null%</text>
+<text id="8146">%null%</text>
+<text id="8147">%null%</text>
+<text id="8148">%null%</text>
+<text id="8149">%null%</text>
+<text id="8150">장궁과 사수를 본뜬 탈리스만.
+정밀사격의 공격력을 높인다.
+
+백금의 사수는 기량이 뛰어나
+두려운 저격자로 알려졌다.</text>
+<text id="8151">%null%</text>
+<text id="8152">%null%</text>
+<text id="8153">%null%</text>
+<text id="8154">%null%</text>
+<text id="8155">%null%</text>
+<text id="8156">%null%</text>
+<text id="8157">%null%</text>
+<text id="8158">%null%</text>
+<text id="8159">%null%</text>
+<text id="8160">성녀 트리나의 미소를 본뜬 탈리스만.
+어느 남자가 마음 깊은 곳에 살게 한 환상.
+
+주위에서 수면 발생 시 공격력이 상승한다.
+
+저만이 알고 있어요.
+당신의 깊은 잠, 그 달콤한 상냥함을.
+그러니까, 저에게만 웃어주세요.</text>
+<text id="8161">%null%</text>
+<text id="8162">%null%</text>
+<text id="8163">%null%</text>
+<text id="8164">%null%</text>
+<text id="8165">%null%</text>
+<text id="8166">%null%</text>
+<text id="8167">%null%</text>
+<text id="8168">%null%</text>
+<text id="8169">%null%</text>
+<text id="8170">톱니산의 폭룡을 본뜬 탈리스만.
+그 포효가 울릴 때 톱니산의 용암이 끓는다.
+
+용암의 위력을 높인다.
+
+그 폭룡의 이름은 베일이다.
+과거에 고룡의 왕에 맞섰다가 함께 상처 입고
+쓰러진, 분노하는 파괴자라고 한다.</text>
+<text id="8171">%null%</text>
+<text id="8172">%null%</text>
+<text id="8173">%null%</text>
+<text id="8174">%null%</text>
+<text id="8175">%null%</text>
+<text id="8176">%null%</text>
+<text id="8177">%null%</text>
+<text id="8178">%null%</text>
+<text id="8179">%null%</text>
+<text id="8180">탑의 제사에서 행해지는 신수의 춤의
+미친 듯이 날뛰는 모습을 본뜬 부적.
+
+폭풍의 위력을 높인다.
+
+신수는 하늘의 심부름꾼이라고 한다.
+그 분노는 하늘을 흐트러뜨리고
+폭풍은 그중 가장 큰 것이다.</text>
+<text id="8181">%null%</text>
+<text id="8182">%null%</text>
+<text id="8183">%null%</text>
+<text id="8184">%null%</text>
+<text id="8185">%null%</text>
+<text id="8186">%null%</text>
+<text id="8187">%null%</text>
+<text id="8188">%null%</text>
+<text id="8189">%null%</text>
+<text id="8190">살며시 휘석을 든 늙은 손가락을 본뜬 탈리스만.
+
+마술, 기도의 사용 속도를 최대로 만드나
+받는 대미지도 커진다.
+
+유미르 경은 호언장담한다.
+별의 낭만을 생각하고 별가루를 사랑하는 마음이
+있다면 누구나 최고의 마술사가 될 수 있습니다.
+당신, 사랑을 아십시오.</text>
+<text id="8191">%null%</text>
+<text id="8192">%null%</text>
+<text id="8193">%null%</text>
+<text id="8194">%null%</text>
+<text id="8195">%null%</text>
+<text id="8196">%null%</text>
+<text id="8197">%null%</text>
+<text id="8198">%null%</text>
+<text id="8199">%null%</text>
+<text id="8200">첫 엘데의 왕 고드프리가
+물방울을 받는 모습을 본뜬 탈리스만.
+
+물방울의 성배병 사용 시 강인도를 높인다.
+
+물방울을 받던 왕의 모습은 당당하고 강하며
+조금도 흔들림이 없었다고 한다.
+황금 나무의 왕은 대지에 우뚝 선다.</text>
+<text id="8201">%null%</text>
+<text id="8202">%null%</text>
+<text id="8203">%null%</text>
+<text id="8204">%null%</text>
+<text id="8205">%null%</text>
+<text id="8206">%null%</text>
+<text id="8207">%null%</text>
+<text id="8208">%null%</text>
+<text id="8209">%null%</text>
+<text id="8210">묵직한, 부패한 금속인
+녹청으로 만든 원반.
+
+장비 중량이 무거울수록 방어력을 높인다.
+
+무게는 곧 강함이다.
+그것은 누군가를 지키는 강함이다.</text>
+<text id="8211">%null%</text>
+<text id="8212">%null%</text>
+<text id="8213">%null%</text>
+<text id="8214">%null%</text>
+<text id="8215">%null%</text>
+<text id="8216">%null%</text>
+<text id="8217">%null%</text>
+<text id="8218">%null%</text>
+<text id="8219">%null%</text>
+<text id="8220">쌍월의 기사 렐라나의
+늠름한 초상화가 새겨진 탈리스만.
+
+일정 시간 자세를 지속할 시
+그 자세에서 이어지는 공격을 강화한다.
+
+그녀를 따라 함께 고향을 떠난 자가
+충성 이상의 마음을 새긴 것.
+
+어디까지든 함께 가게 해주십시오.
+당신의 달의 배에 타고서.</text>
+<text id="8221">%null%</text>
+<text id="8222">%null%</text>
+<text id="8223">%null%</text>
+<text id="8224">%null%</text>
+<text id="8225">%null%</text>
+<text id="8226">%null%</text>
+<text id="8227">%null%</text>
+<text id="8228">%null%</text>
+<text id="8229">%null%</text>
+<text id="8230">피가 밴 가는 칼날의 단도.
+더는 무기로 사용할 수 없다.
+
+치명적인 일격 후 공격력을 높인다.
+
+뿔인간들이 괴로워하는 동포를
+고통에서 해방시키고자 사용한 것.
+많은 생명을 빼앗은 칼날은
+이가 빠졌으나, 대신 요기를 띠었다.</text>
+<text id="8231">%null%</text>
+<text id="8232">%null%</text>
+<text id="8233">%null%</text>
+<text id="8234">%null%</text>
+<text id="8235">%null%</text>
+<text id="8236">%null%</text>
+<text id="8237">%null%</text>
+<text id="8238">%null%</text>
+<text id="8239">%null%</text>
+<text id="8240">도가니의 모습이 모두 섞인 거대한 덩어리.
+
+치명적인 일격과 헤드 샷 대미지를 경감시키고
+구르기, 백스텝의 회피를 강화하나
+늘 받는 대미지도 커진다.
+
+과거에 거인의 몸에 생겨났다고 하며
+탑 신화에서는 도가니의 어미라고도 불린다.</text>
+</entries>
+</fmg>

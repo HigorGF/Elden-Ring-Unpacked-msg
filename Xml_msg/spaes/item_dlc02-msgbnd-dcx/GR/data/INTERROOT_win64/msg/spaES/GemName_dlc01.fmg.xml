@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="200000">C. G.: Torb. hojaseca</text>
+<text id="200100">C. G.: Características del crisol (Alas)</text>
+<text id="400000">C. G.: Embestida gravit. giratoria</text>
+<text id="401000">C. G.: Est. palma</text>
+<text id="402000">Ceniza de Guerra: Lanzamiento perforante</text>
+<text id="403000">Ceniza de Guerra: Lanzamiento disperso</text>
+<text id="404000">Ceniza de Guerra: Muro de chispas</text>
+<text id="405000">Ceniza de Guerra: Chispas ondulantes</text>
+<text id="406000">Ceniza de Guerra: Bestia iracunda</text>
+<text id="407000">Ceniza de Guerra: Garras salvajes</text>
+<text id="409000">Ceniza de Guerra: Punto ciego</text>
+<text id="410000">Ceniza de Guerra: Tajo rápido</text>
+<text id="411000">C. G.: Posición elevada</text>
+<text id="412000">C. G.: Posición lateral</text>
+<text id="413000">C. G.: Rayo titil.</text>
+<text id="414000">C. G.: Ensartado llam.</text>
+<text id="415000">C. G.: Garra de león salvaje</text>
+<text id="416000">C. G.: Pisotón helado de bestia divina</text>
+<text id="417000">C. G.: Lanza llameante</text>
+<text id="418000">C. G.: Soberanía cariana</text>
+<text id="419000">C. G.: Alarido de pesar</text>
+<text id="422000">C. G.: Invocac. llama esp.</text>
+<text id="505000">C. G.: Flor venenosa doble</text>
+<text id="548000">C. G.: Caza dracónica de Igon</text>
+<text id="800000">Ceniza de Guerra: Arremetida con escudo</text>
+</entries>
+</fmg>

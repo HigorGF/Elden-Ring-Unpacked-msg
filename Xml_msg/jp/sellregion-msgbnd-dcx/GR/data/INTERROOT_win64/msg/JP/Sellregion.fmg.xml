@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="0">消すべからず</text>
+<text id="1">なんらかの原因で死亡</text>
+<text id="100000">セーブデータ</text>
+<text id="401000">セーブデータ</text>
+<text id="401001">%null%</text>
+<text id="401002">%null%</text>
+<text id="401003">%null%</text>
+<text id="401004">%null%</text>
+<text id="401005">%null%</text>
+<text id="401006">%null%</text>
+<text id="401007">%null%</text>
+<text id="401008">%null%</text>
+<text id="401009">%null%</text>
+<text id="401010">%null%</text>
+<text id="401011">%null%</text>
+<text id="401012">%null%</text>
+<text id="401013">%null%</text>
+<text id="401014">%null%</text>
+<text id="401015">%null%</text>
+<text id="401016">%null%</text>
+<text id="401017">%null%</text>
+<text id="401018">%null%</text>
+<text id="401019">%null%</text>
+<text id="401020">%null%</text>
+<text id="401100">%null%</text>
+<text id="401101">%null%</text>
+<text id="401102">%null%</text>
+<text id="401103">%null%</text>
+<text id="401104">%null%</text>
+<text id="401105">%null%</text>
+<text id="401106">%null%</text>
+<text id="401107">%null%</text>
+<text id="401108">%null%</text>
+<text id="401109">%null%</text>
+<text id="401110">%null%</text>
+</entries>
+</fmg>

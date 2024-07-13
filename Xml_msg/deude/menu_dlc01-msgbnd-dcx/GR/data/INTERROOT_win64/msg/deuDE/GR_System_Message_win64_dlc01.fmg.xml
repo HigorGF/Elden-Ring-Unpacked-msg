@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="280004">Bitte überprüft Eure Einstellungen. Tasten mit festen Menüfunktionen können keinen anderen Funktionen zugewiesen werden.</text>
+<text id="401130">Der folgende DLC wurde nicht gefunden:
+
+&lt;?requiredDlcList?&gt;
+
+Dieses Profil kann erst geladen werden, wenn der erforderliche DLC wieder installiert wurde.</text>
+<text id="401131">Shadow of the Erdtree</text>
+<text id="401406">Verbindung zu Steamworks fehlgeschlagen: &lt;?errcodeSteam?&gt;
+Rückkehr zum Titelmenü.</text>
+</entries>
+</fmg>

@@ -1,0 +1,528 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="2220">Talisman mit einem Satz Parfümflaschen als Motiv.
+Verstärkt die Wirkung von Künsten, die Parfüm nutzen.
+
+Es gibt Gärten, die nur den Parfümeuren bekannt sind. Ob nun an den Rändern der Hochlande oder verborgen im Schatten finsterer Höhlen, die Blumen blühen im Geheimen und warten auf den Tag, an dem sie ihren Duft verströmen dürfen.</text>
+<text id="7000">Ein Talisman mit eingelegtem Purpurbernstein.
+Erhöht die maximalen LP bis ans Äußerste.
+
+Das versteinerte Harz des Erdenbaums wird zu Bernstein, dem meistgeschätzten Edelstein des Zeitalters von Godfrey, dem ersten Eldenfürsten.
+
+Diese Medaillons der größten Sorte wurden Godwyns angesehenen goldenen Rittern und engsten Vertrauten verliehen. </text>
+<text id="7001">%null%</text>
+<text id="7002">%null%</text>
+<text id="7003">%null%</text>
+<text id="7004">%null%</text>
+<text id="7005">%null%</text>
+<text id="7006">%null%</text>
+<text id="7007">%null%</text>
+<text id="7008">%null%</text>
+<text id="7009">%null%</text>
+<text id="7010">Ein Talisman mit eingelegtem Himmelsbernstein.
+Erhöht die maximalen FP bis ans Äußerste.
+
+Das versteinerte Harz des Erdenbaums wird zu Bernstein, dem meistgeschätzten Edelstein des Zeitalters von Godfrey, dem ersten Eldenfürsten.
+
+Diese Medaillons der größten Sorte wurden Godwyns angesehenen goldenen Rittern und engsten Vertrauten verliehen.</text>
+<text id="7011">%null%</text>
+<text id="7012">%null%</text>
+<text id="7013">%null%</text>
+<text id="7014">%null%</text>
+<text id="7015">%null%</text>
+<text id="7016">%null%</text>
+<text id="7017">%null%</text>
+<text id="7018">%null%</text>
+<text id="7019">%null%</text>
+<text id="7020">Ein Talisman mit eingelegtem Smaragdbernstein.
+Erhöht die maximale Ausdauer bis ans Äußerste
+
+Das versteinerte Harz des Erdenbaums wird zu Bernstein, dem meistgeschätzten Edelstein des Zeitalters von Godfrey, dem ersten Eldenfürsten.
+
+Diese Medaillons der größten Sorte wurden Godwyns angesehenen goldenen Rittern und engsten Vertrauten verliehen. </text>
+<text id="7021">%null%</text>
+<text id="7022">%null%</text>
+<text id="7023">%null%</text>
+<text id="7024">%null%</text>
+<text id="7025">%null%</text>
+<text id="7026">%null%</text>
+<text id="7027">%null%</text>
+<text id="7028">%null%</text>
+<text id="7029">%null%</text>
+<text id="7030">Ein Talisman in Form einer zweiköpfigen grünen Schildkröte.
+Beschleunigt die Ausdauerregeneration deutlich.
+
+Das Volk der Randländer glaubte einst, das Fleisch von Schildkröten stärke die Potenz.
+
+Aufgrund der spiralförmigen Form ihrer ineinander verschlungenen Hälse sind zweiköpfige Schildkröten ein beliebtes Motiv im Land des Turms.</text>
+<text id="7031">%null%</text>
+<text id="7032">%null%</text>
+<text id="7033">%null%</text>
+<text id="7034">%null%</text>
+<text id="7035">%null%</text>
+<text id="7036">%null%</text>
+<text id="7037">%null%</text>
+<text id="7038">%null%</text>
+<text id="7039">%null%</text>
+<text id="7040">Zeremonielles Kleidungsstück, das von Hornherolden getragen wird.
+Erhöht die Robustheit erheblich.
+(Robustheit definiert die Resistenz gegenüber Blutungen und Frost.)
+
+Hörner sind den Hornherolden erhabene Artefakte, deren Dasein bestärkt sie in ihrem Glauben, ein auserwähltes Volk zu sein.
+
+Nur das wiederholte Wachstum neuer Hörner kann ein verschlungenes Horn schaffen, das als unbestreitbares Symbol der Vorherrschaft betrachtet wird.</text>
+<text id="7041">%null%</text>
+<text id="7042">%null%</text>
+<text id="7043">%null%</text>
+<text id="7044">%null%</text>
+<text id="7045">%null%</text>
+<text id="7046">%null%</text>
+<text id="7047">%null%</text>
+<text id="7048">%null%</text>
+<text id="7049">%null%</text>
+<text id="7050">Zeremonielles Kleidungsstück, das von Hornherolden getragen wird.
+Erhöht die Immunität erheblich.
+(Immunität definiert die Resistenz gegenüber Gift und Fäulnis.)
+
+Hörner sind den Hornherolden erhabene Artefakte, deren Dasein sie in ihrem Glauben bestärkt, ein auserwähltes Volk zu sein.
+
+Nur das wiederholte Wachstum neuer Hörner kann ein verschlungenes Horn schaffen, das als unbestreitbares Symbol der Vorherrschaft betrachtet wird.</text>
+<text id="7051">%null%</text>
+<text id="7052">%null%</text>
+<text id="7053">%null%</text>
+<text id="7054">%null%</text>
+<text id="7055">%null%</text>
+<text id="7056">%null%</text>
+<text id="7057">%null%</text>
+<text id="7058">%null%</text>
+<text id="7059">%null%</text>
+<text id="7060">Zeremonielles Kleidungsstück, das von Hornherolden getragen wird.
+Erhöht den Fokus erheblich.
+(Fokus definiert die Resistenz gegenüber Schlaf und Wahnsinn.)
+
+Hörner sind den Hornherolden erhabene Artefakte, deren Dasein bestärkt sie in ihrem Glauben, ein auserwähltes Volk zu sein.
+
+Nur das wiederholte Wachstum neuer Hörner kann ein verschlungenes Horn schaffen, das als unbestreitbares Symbol der Vorherrschaft betrachtet wird.</text>
+<text id="7080">Lebhaft gefärbtes Kleidungsstück, das von Hornherolden getragen wird.
+Erhöht die Immunität, die Robustheit und den Fokus erheblich.
+
+Hörner sind den Hornherolden erhabene Artefakte, deren Dasein sie in ihrem Glauben bestärkt, ein auserwähltes Volk zu sein.
+
+Nur das wiederholte Wachstum neuer Hörner kann ein verschlungenes Horn schaffen, das als unbestreitbares Symbol der Vorherrschaft betrachtet wird.</text>
+<text id="7081">%null%</text>
+<text id="7082">%null%</text>
+<text id="7083">%null%</text>
+<text id="7084">%null%</text>
+<text id="7085">%null%</text>
+<text id="7086">%null%</text>
+<text id="7087">%null%</text>
+<text id="7088">%null%</text>
+<text id="7089">%null%</text>
+<text id="7090">Talisman mit dem Abbild eines uralten blauen Drachen.
+Erhöht die Resistenz gegen Magieschaden bis ans Äußerste.
+
+Die uralten Drachen, die in der Ära vor dem Erdenbaum regierten, beschützten ihren Fürsten wie eine Mauer aus lebenden Felsen.
+So wurde die Form des Drachen zum Symbol für alle Arten von Schutz.</text>
+<text id="7091">%null%</text>
+<text id="7092">%null%</text>
+<text id="7093">%null%</text>
+<text id="7094">%null%</text>
+<text id="7095">%null%</text>
+<text id="7096">%null%</text>
+<text id="7097">%null%</text>
+<text id="7098">%null%</text>
+<text id="7099">%null%</text>
+<text id="7100">Talisman mit dem Abbild eines uralten roten Drachen.
+Erhöht die Resistenz gegen Feuerschaden bis ans Äußerste.
+
+Die uralten Drachen, die in der Ära vor dem Erdenbaum regierten, beschützten ihren Fürsten wie eine Mauer aus lebenden Felsen.
+So wurde die Form des Drachen zum Symbol für alle Arten von Schutz.</text>
+<text id="7101">%null%</text>
+<text id="7102">%null%</text>
+<text id="7103">%null%</text>
+<text id="7104">%null%</text>
+<text id="7105">%null%</text>
+<text id="7106">%null%</text>
+<text id="7107">%null%</text>
+<text id="7108">%null%</text>
+<text id="7109">%null%</text>
+<text id="7110">Talisman mit dem Abbild eines uralten gelben Drachen.
+Erhöht die Resistenz gegen Blitzschaden bis ans Äußerste.
+
+Die uralten Drachen, die in der Ära vor dem Erdenbaum regierten, beschützten ihren Fürsten wie eine Mauer aus lebenden Felsen.
+So wurde die Form des Drachen zum Symbol für alle Arten von Schutz.</text>
+<text id="7111">%null%</text>
+<text id="7112">%null%</text>
+<text id="7113">%null%</text>
+<text id="7114">%null%</text>
+<text id="7115">%null%</text>
+<text id="7116">%null%</text>
+<text id="7117">%null%</text>
+<text id="7118">%null%</text>
+<text id="7119">%null%</text>
+<text id="7120">Ein geschnittener Zopf aus goldenem Haar.
+Eine Gabe von Königin Marika an die Matriarchin.
+Erhöht die Resistenz gegen Heiligschaden bis ans Äußerste.
+
+Was war ihr Gebet? Ihr Wunsch, ihr Geständnis?
+Es gibt niemanden mehr, der darauf antwortet, und Marika kehrte nie wieder in die Heimat zurück.</text>
+<text id="7121">%null%</text>
+<text id="7122">%null%</text>
+<text id="7123">%null%</text>
+<text id="7124">%null%</text>
+<text id="7125">%null%</text>
+<text id="7126">%null%</text>
+<text id="7127">%null%</text>
+<text id="7128">%null%</text>
+<text id="7129">%null%</text>
+<text id="7130">Talisman mit dem Abbild eines uralten Drachen, der wie eine Perle schimmert.
+Erhöht die Resistenz gegen nicht körperlichen Schäden bis ans Äußerste.
+
+Die uralten Drachen, die in der Ära vor dem Erdenbaum regierten, beschützten ihren Fürsten wie eine Mauer aus lebenden Felsen.
+So wurde die Form des Drachen zum Symbol für alle Arten von Schutz.</text>
+<text id="7131">%null%</text>
+<text id="7132">%null%</text>
+<text id="7133">%null%</text>
+<text id="7134">%null%</text>
+<text id="7135">%null%</text>
+<text id="7136">%null%</text>
+<text id="7137">%null%</text>
+<text id="7138">%null%</text>
+<text id="7139">%null%</text>
+<text id="7140">Ein purpurfarbener Talisman nach dem Vorbild der Erdenbaumsaat.
+Verstärkt die LP-Regeneration einer Flasche mit Purpurtränen deutlich.
+
+Die Erdenbaumsaat wurde als Mythos betrachtet. Dieses uralte Artefakt zeigt zudem die Zwei Finger, die womöglich auf die Entstehung des Erdenbaums hinweisen.</text>
+<text id="7141">%null%</text>
+<text id="7142">%null%</text>
+<text id="7143">%null%</text>
+<text id="7144">%null%</text>
+<text id="7145">%null%</text>
+<text id="7146">%null%</text>
+<text id="7147">%null%</text>
+<text id="7148">%null%</text>
+<text id="7149">%null%</text>
+<text id="7150">Ein himmelblauer Talisman nach dem Vorbild der Erdenbaumsaat.
+Verstärkt die FP-Regeneration einer Flasche mit Himmelstränen deutlich.
+
+Die Erdenbaumsaat wurde als Mythos betrachtet. Dieses uralte Artefakt zeigt zudem die Zwei Finger, die womöglich auf die Entstehung des Erdenbaums hinweisen.</text>
+<text id="8000">Ein Talisman auf dem die gesegnete Gunst eines blauen Tropfens des leuchtenden Harzes des Erdenbaums abgebildet ist.
+Regeneriert schrittweise FP.
+
+Einst dachten alle, das Harz des Erdenbaums würde auf ewig von seinen Zweigen tropfen, doch diese Zeit der Fülle ging schnell zu Ende, und mit der Zeit wurde der Erdenbaum zu einem bloßen Symbol des Glaubens.</text>
+<text id="8001">%null%</text>
+<text id="8002">%null%</text>
+<text id="8003">%null%</text>
+<text id="8004">%null%</text>
+<text id="8005">%null%</text>
+<text id="8006">%null%</text>
+<text id="8007">%null%</text>
+<text id="8008">%null%</text>
+<text id="8009">%null%</text>
+<text id="8010">Ein Talisman, gefertigt aus dünnen Federn, die das Wesen verschiedener Kreaturen verkörpern.
+
+Sie wuchsen angeblich vor langer Zeit auf dem Körper eines Menschen.
+
+Verbessert Schritte zurück, erhöht aber den jederzeit erlittenen Schaden.
+
+Hornherolde betrachten den Schmelztiegel aufgrund der Veredelungen, die durch seine evolutionären Gaben entstehen, als heilig. Am deutlichsten sind dabei ihre verschlungenen Hörner.</text>
+<text id="8011">%null%</text>
+<text id="8012">%null%</text>
+<text id="8013">%null%</text>
+<text id="8014">%null%</text>
+<text id="8015">%null%</text>
+<text id="8016">%null%</text>
+<text id="8017">%null%</text>
+<text id="8018">%null%</text>
+<text id="8019">%null%</text>
+<text id="8020">Ein Talisman, in den die Sage einer fremden Gottheit eingraviert wurde.
+Erhöht die Arkanenergie.
+
+Der Clan, der in den großen Bränden alles verlor, betrachtete in einem üblicherweise heiligen Ritual den leblosen Körper eines Vorfahren, und sah in dessen Schatten eine verzerrte Gottheit.
+
+Der Clan hatte solch furchtbare Qualen erlitten, dass dieser schreckliche Anblick zum Objekt der Anbetung wurde.</text>
+<text id="8021">%null%</text>
+<text id="8022">%null%</text>
+<text id="8023">%null%</text>
+<text id="8024">%null%</text>
+<text id="8025">%null%</text>
+<text id="8026">%null%</text>
+<text id="8027">%null%</text>
+<text id="8028">%null%</text>
+<text id="8029">%null%</text>
+<text id="8030">Zerschmetterter Ankerstein.
+Verstärkt die Wirkung von Tritt- und Stampftalenten.
+
+Diese Steine sind spirituelle Anker, die den Boden an Ort und Stelle halten und die Wut von Erdbeben dämpfen sollen – als dieser Stein zerbrach, stürzte die umliegende Stadt in die aufklaffende Erde. In einem Bericht heißt es, dass der Mond selbst herabgestürzt sei.</text>
+<text id="8031">%null%</text>
+<text id="8032">%null%</text>
+<text id="8033">%null%</text>
+<text id="8034">%null%</text>
+<text id="8035">%null%</text>
+<text id="8036">%null%</text>
+<text id="8037">%null%</text>
+<text id="8038">%null%</text>
+<text id="8039">%null%</text>
+<text id="8040">Ein Talisman mit dem Bild eines Kriegers, der ein zweihändiges Schwert führt.
+Verbessert Angriffe mit Zweihandwaffen.
+
+Die Hornkrieger waren die Aushängeschilder der militärischen Macht des Turms, über den sie wachten. Ihre gewandten Angriffe schnitten sich ausnahmslos durch alle Feinde.</text>
+<text id="8041">%null%</text>
+<text id="8042">%null%</text>
+<text id="8043">%null%</text>
+<text id="8044">%null%</text>
+<text id="8045">%null%</text>
+<text id="8046">%null%</text>
+<text id="8047">%null%</text>
+<text id="8048">%null%</text>
+<text id="8049">%null%</text>
+<text id="8050">Ein Talisman mit Flammen, vor denen ein Speer aufragt. Er erinnert an die Leben, die in Messmers heiligem Kreuzzug gelassen wurden.
+Erhöht die Angriffskraft nach dem Sieg über einen Gegner.
+
+Die Krieger, die in diesem Kreuzzug kämpften, ließen Ehre und Barmherzigkeit beiseite, um diejenigen, die als unrein galten, frevelhaft aufzuspeißen und zu verbrennen.
+
+Die Männer, die sich durch jeden Todesschrei gestärkt fühlten, waren ebenfalls von der Heiligkeit des Feldzugs überzeugt. </text>
+<text id="8051">%null%</text>
+<text id="8052">%null%</text>
+<text id="8053">%null%</text>
+<text id="8054">%null%</text>
+<text id="8055">%null%</text>
+<text id="8056">%null%</text>
+<text id="8057">%null%</text>
+<text id="8058">%null%</text>
+<text id="8059">%null%</text>
+<text id="8060">Ein Talisman, auf dem das Frohlocken des alternden Unberührbaren abgebildet ist, dessen Kopf einem Zweig voller reifer Trauben ähnelt.
+Erhöht die Angriffskraft, wenn in der Nähe Wahnsinn ausgelöst wird.
+
+"Schenkt unserem Herrn Euren Wahnsinn.
+Segnet unsere Brüder mit Trauben.
+Stellt sicher, dass sie vollständig reifen."</text>
+<text id="8061">%null%</text>
+<text id="8062">%null%</text>
+<text id="8063">%null%</text>
+<text id="8064">%null%</text>
+<text id="8065">%null%</text>
+<text id="8066">%null%</text>
+<text id="8067">%null%</text>
+<text id="8068">%null%</text>
+<text id="8069">%null%</text>
+<text id="8070">Ein Talisman aus befiederten und eisernen Pfeilen.
+
+Erhöht die effektive Reichweite von Bögen und erhöht die Angriffskraft von Pfeilen und Bolzen.</text>
+<text id="8090">Ein Talisman mit einem Ritter, der einen perlmuttartig schimmernden Großschild trägt.
+Erhöht alle nicht körperlichen Schadensresistenzen beim Abwehren.
+
+Die Natur und das Potenzial der Unreinheit überstiegen das Verständnis der Ritter, weswegen sie sich auf alle Eventualitäten vorbereiteten.</text>
+<text id="8091">%null%</text>
+<text id="8092">%null%</text>
+<text id="8093">%null%</text>
+<text id="8094">%null%</text>
+<text id="8095">%null%</text>
+<text id="8096">%null%</text>
+<text id="8097">%null%</text>
+<text id="8098">%null%</text>
+<text id="8099">%null%</text>
+<text id="8100">Ein malerischer Strauß getrockneter Blumen für ein kleines Grab.
+Der Tod eines von Euch beschworenen Geistes erhöht die Angriffskraft.
+
+Die Trauer, die das frühzeitige Ableben eines geliebten Menschen hervorruft, ist eine Zärtlichkeit, die alle teilen, unabhängig vom Geburtsort.</text>
+<text id="8101">%null%</text>
+<text id="8102">%null%</text>
+<text id="8103">%null%</text>
+<text id="8104">%null%</text>
+<text id="8105">%null%</text>
+<text id="8106">%null%</text>
+<text id="8107">%null%</text>
+<text id="8108">%null%</text>
+<text id="8109">%null%</text>
+<text id="8110">Ein Talisman mit einem alten Schmiedehammer.
+Mit Schmiedeschrift graviert.
+Verbessert Waffen-Wurfangriffe.
+
+In früheren Zeiten war die Schmiedekunst ein göttlicher Akt und Schmiede interpretierten Buchstaben, die sie in den Kerben geschmolzenen Stahls entdeckt hatten, um Waffen mit Seelen auszustatten.</text>
+<text id="8111">%null%</text>
+<text id="8112">%null%</text>
+<text id="8113">%null%</text>
+<text id="8114">%null%</text>
+<text id="8115">%null%</text>
+<text id="8116">%null%</text>
+<text id="8117">%null%</text>
+<text id="8118">%null%</text>
+<text id="8119">%null%</text>
+<text id="8120">Ein Talisman mit einer von Krankheit ergriffenen Seele.
+Erhöht die Resistenz gegen das Euch zuletzt zugefügte Leiden.
+
+Die Schwachen, die sich mit der gefürchteten Fliegenkrankheit infiziert hatten, starben, ehe sich die Metamorphose einsetzen konnte. Seltsamerweise befiel die Krankheit nie diejenigen, die sich um die Infizierten kümmerten und dafür sorgten, dass diese ein anständiges Begräbnis erhielten.</text>
+<text id="8121">%null%</text>
+<text id="8122">%null%</text>
+<text id="8123">%null%</text>
+<text id="8124">%null%</text>
+<text id="8125">%null%</text>
+<text id="8126">%null%</text>
+<text id="8127">%null%</text>
+<text id="8128">%null%</text>
+<text id="8129">%null%</text>
+<text id="8130">Handarbeit, die eine goldene Verflechtung zeigt.
+Einer der Gegenstände, die den Nadelrittern verliehen wurden.
+Verbessert Angriffe, die nach dem Abrollen oder einem Schritt zurück ausgeführt werden.
+
+Vor langer Zeit dienten die Nadelritter Miquella, doch heute existieren sie nicht mehr. Mit Ausnahme von einem.</text>
+<text id="8131">%null%</text>
+<text id="8132">%null%</text>
+<text id="8133">%null%</text>
+<text id="8134">%null%</text>
+<text id="8135">%null%</text>
+<text id="8136">%null%</text>
+<text id="8137">%null%</text>
+<text id="8138">%null%</text>
+<text id="8139">%null%</text>
+<text id="8140">Handarbeit, die eine goldene Verflechtung zeigt.
+Einer der Gegenstände, die den Nadelrittern verliehen wurden.
+Verbessert Sprintangriffe.
+
+Vor langer Zeit dienten die Nadelritter Miquella, doch heute existieren sie nicht mehr. Mit Ausnahme von einem.</text>
+<text id="8141">%null%</text>
+<text id="8142">%null%</text>
+<text id="8143">%null%</text>
+<text id="8144">%null%</text>
+<text id="8145">%null%</text>
+<text id="8146">%null%</text>
+<text id="8147">%null%</text>
+<text id="8148">%null%</text>
+<text id="8149">%null%</text>
+<text id="8150">Ein Talisman mit einem Bogenschützen, der einen Langbogen führt.
+Verbessert die Angriffskraft gezielter Schüsse.
+
+Die Bogenschützen der Albinauric waren unvergleichlich, und ihre Fernkampf-Spezialisten erfüllten die Herzen eines jeden Mannes mit Furcht.</text>
+<text id="8151">%null%</text>
+<text id="8152">%null%</text>
+<text id="8153">%null%</text>
+<text id="8154">%null%</text>
+<text id="8155">%null%</text>
+<text id="8156">%null%</text>
+<text id="8157">%null%</text>
+<text id="8158">%null%</text>
+<text id="8159">%null%</text>
+<text id="8160">Ein Talisman, auf dem eine lächelnde St. Trina abgebildet ist,
+eine Vision, die tief im Herzen eines gewissen Mannes besteht.
+
+Erhöht die Angriffskraft, wenn in der Nähe Schlaf ausgelöst wird.
+
+"Nur ich darf davon wissen. Von unserem seidigen Schlaf. Seiner süßen und zarten Umarmung. Bitte, lächelt. Für mich und nur für mich allein."</text>
+<text id="8161">%null%</text>
+<text id="8162">%null%</text>
+<text id="8163">%null%</text>
+<text id="8164">%null%</text>
+<text id="8165">%null%</text>
+<text id="8166">%null%</text>
+<text id="8167">%null%</text>
+<text id="8168">%null%</text>
+<text id="8169">%null%</text>
+<text id="8170">Talisman, der den grausigen Drachen des Klingengipfels darstellt, dessen Gebrüll die geschmolzene Wut des Gipfels zum Kochen bringt.
+Verstärkt die Wirkung von Magma.
+
+Bayle war der Name des fürchterlichen Drachens – ein schrecklicher Vorbote der Zerstörung, dessen Herausforderung an den utalten Drachenfürsten in einer schweren gegenseitigen Verletzung endete.</text>
+<text id="8171">%null%</text>
+<text id="8172">%null%</text>
+<text id="8173">%null%</text>
+<text id="8174">%null%</text>
+<text id="8175">%null%</text>
+<text id="8176">%null%</text>
+<text id="8177">%null%</text>
+<text id="8178">%null%</text>
+<text id="8179">%null%</text>
+<text id="8180">Ein Anhänger, der den wahnsinnigen, umherspringenden Tanz der göttlichen Bestie am Turmfest zeigt.
+Verstärkt die Wirkung von Stürmen.
+
+Göttliche Bestien sind Boten der Himmel, deren Wut die Unruhe in denselben wiederspiegelt, die in Stürmen gipfelt.</text>
+<text id="8181">%null%</text>
+<text id="8182">%null%</text>
+<text id="8183">%null%</text>
+<text id="8184">%null%</text>
+<text id="8185">%null%</text>
+<text id="8186">%null%</text>
+<text id="8187">%null%</text>
+<text id="8188">%null%</text>
+<text id="8189">%null%</text>
+<text id="8190">Ein Talisman, auf dem eine verschrumpelte Hand sanft einen Schimmerstein ergreift.
+
+Verkürzt die Wirkungsdauer für Zauberei und Anrufung bis ans Äußerste, erhöht aber erlittenen Schaden.
+
+Fürst Ymir war für seine Rezitationen bekannt.
+
+"Es braucht nicht mehr, als sich die Romantik der Sterne mit der Liebe zu Sternenstaub ins Herz zu rufen, um zu einem großartigen Zauberer zu werden. Tut dies, und Ihr werdet Liebe erfahren."</text>
+<text id="8191">%null%</text>
+<text id="8192">%null%</text>
+<text id="8193">%null%</text>
+<text id="8194">%null%</text>
+<text id="8195">%null%</text>
+<text id="8196">%null%</text>
+<text id="8197">%null%</text>
+<text id="8198">%null%</text>
+<text id="8199">%null%</text>
+<text id="8200">Ein Talisman, der Godfrey, den ersten Eldenfürsten zeigt, der das kostbare Harz erhält.
+Verbessert das Gleichgewicht nach Verwendung einer Tränenflasche.
+
+Der Herr akzeptierte den Saft stoisch, ohne sich aus der Ruhe bringen zu lassen. Nur wenig überraschend, dass der Herr des Erdenbaums einen langen Schatten über die Lande wirft.</text>
+<text id="8201">%null%</text>
+<text id="8202">%null%</text>
+<text id="8203">%null%</text>
+<text id="8204">%null%</text>
+<text id="8205">%null%</text>
+<text id="8206">%null%</text>
+<text id="8207">%null%</text>
+<text id="8208">%null%</text>
+<text id="8209">%null%</text>
+<text id="8210">Ein Diskus aus Grünspan, dem korrodierten Metall, das für sein Gewicht bekannt ist.
+Erhöht die Verteidigung bei höherem Ausrüstungsgewicht.
+
+Viel Gewicht bedeutet viel Stärke. Die Stärke, andere zu beschützen.</text>
+<text id="8211">%null%</text>
+<text id="8212">%null%</text>
+<text id="8213">%null%</text>
+<text id="8214">%null%</text>
+<text id="8215">%null%</text>
+<text id="8216">%null%</text>
+<text id="8217">%null%</text>
+<text id="8218">%null%</text>
+<text id="8219">%null%</text>
+<text id="8220">Talisman mit einem galanten Portrait von Rellana, der Zwillings-Mondritterin.
+
+Verbessert Angriffe, die ausgeführt werden, nachdem die Haltung eine gewisse Zeit lang nicht geändert wurde.
+
+Als Erinnerung an die unvergleichliche Hingabe derer, die ihre Heimat verlassen haben, um Rellana zu dienen, graviert.
+
+"Mit Eurem Segen werden wir Euch überall hin folgen, wo Eure Mondhülle Euch hinträgt."</text>
+<text id="8221">%null%</text>
+<text id="8222">%null%</text>
+<text id="8223">%null%</text>
+<text id="8224">%null%</text>
+<text id="8225">%null%</text>
+<text id="8226">%null%</text>
+<text id="8227">%null%</text>
+<text id="8228">%null%</text>
+<text id="8229">%null%</text>
+<text id="8230">Ein dünner, blutverschmierter Dolch. Nicht mehr verwendbar.
+Erhöht die Angriffskraft nach jedem kritischen Treffer.
+
+Hornherolde verwendeten diesen, um das Leid eines Landsmannes ehrenvoll zu beenden. Nachdem er mehrere Leben gefordert hat, ist dieser Dolch zerstört, hat jedoch eine spektrale Aura entwickelt.</text>
+<text id="8231">%null%</text>
+<text id="8232">%null%</text>
+<text id="8233">%null%</text>
+<text id="8234">%null%</text>
+<text id="8235">%null%</text>
+<text id="8236">%null%</text>
+<text id="8237">%null%</text>
+<text id="8238">%null%</text>
+<text id="8239">%null%</text>
+<text id="8240">Eine gewaltige Masse sich vermischender Schmelztiegeleigenschaften.
+
+Verringert erlittenen Schaden durch kritische Treffer und Kopfschüsse, und verbessert die Effektivität von Ausweichrollen und Schritten zurück, erhöht jedoch auch den Schaden in allen Situationen.
+
+Soll auf Riesen gewachsen sein und ist in der alten Turmsage als "Mutter der Schmelztiegel" bekannt.</text>
+</entries>
+</fmg>

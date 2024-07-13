@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="10410">Béné. de l'Arbre-Occulte</text>
+<text id="10411">Béné. de la cendre spirituelle</text>
+<text id="30205">Puissance de la bénédiction de l'Arbre-Occulte.
+Affecte uniquement les résidents du Royaume des ombres
+ayant reçu la bénédiction de l'Arbre-Occulte.</text>
+<text id="30206">Puissance de la bénédiction de la cendre spirituelle vénérée.
+Améliore les esprits invoqués et le destrier spectral, mais seulement au sein du Royaume des ombres.</text>
+<text id="40382">Clavier uniquement</text>
+<text id="40383">Clavier et souris</text>
+<text id="40524">Éléments récents</text>
+<text id="60180">Combat rapproché</text>
+<text id="60181">Flacon de parfum</text>
+<text id="60182">Bouclier d'estoc</text>
+<text id="60183">Lame de lancer</text>
+<text id="60184">Lame-revers</text>
+<text id="60185">Espadon léger</text>
+<text id="60186">Grand katana</text>
+<text id="60187">Griffe bestiale</text>
+<text id="63051">Utilisable sur les armes de combat rapproché.</text>
+<text id="63052">Utilisable sur les flacons de parfum.</text>
+<text id="63053">Utilisable sur les boucliers d'estoc.</text>
+<text id="63054">Utilisable sur les lames de lancer.</text>
+<text id="63055">Utilisable sur les lames-revers</text>
+<text id="63056">Utilisable sur les espadons légers.</text>
+<text id="63057">Utilisable sur les grands katanas.</text>
+<text id="63058">Utilisable sur les griffes bestiales.</text>
+<text id="63059">Utilisable sur les armes capables d'estocades (sauf les griffes et les lames-revers).</text>
+<text id="63060">Utilisable sur les épées de taille grande et colossale.</text>
+<text id="63061">Utilisable sur les épées et les lances (sauf armes de petite taille, lames doubles et lames-revers).</text>
+<text id="80020">Grand pot fissuré</text>
+<text id="110600">Affichage</text>
+<text id="110601">Indiquer nouveaux éléments</text>
+<text id="110602">%null%</text>
+<text id="110603">Affic. onglet Éléments récents</text>
+<text id="110700">Son</text>
+<text id="111024">Déplac. curseur sur menu Carte</text>
+<text id="111025">Sensi. changement de cible</text>
+<text id="225001">Communion draconique de Bayle</text>
+<text id="225002">%null%</text>
+<text id="225003">%null%</text>
+<text id="225004">%null%</text>
+<text id="225005">%null%</text>
+<text id="225006">%null%</text>
+<text id="225007">%null%</text>
+<text id="225008">%null%</text>
+<text id="225009">%null%</text>
+<text id="225010">%null%</text>
+<text id="225011">Offrandes</text>
+<text id="241337">Altus Occulte</text>
+<text id="241338">Côte céruléenne</text>
+<text id="241339">Pied du Pic déchiqueté</text>
+<text id="241340">Pic déchiqueté</text>
+<text id="241341">Tombeau secret de Charo</text>
+<text id="241342">Ruines antiques de Rauh</text>
+<text id="241343">Panorama occulte</text>
+<text id="241344">Bois abyssaux</text>
+<text id="241345">Belurat, colonie de la tour</text>
+<text id="241346">Enir-Ilim</text>
+<text id="241347">Château noir</text>
+<text id="241348">Château noir, quartier religieux</text>
+<text id="241349">Entrepôt à semences</text>
+<text id="241350">Fissure des cercueils de pierre</text>
+<text id="241351">Presbytère de Midra</text>
+<text id="241352">Château d'Ensis</text>
+<text id="241353">Plaine sépulcrale</text>
+<text id="241354">Base de Rauh</text>
+<text id="241417">Plaine sépulcrale</text>
+<text id="241418">Altus Occulte</text>
+<text id="241419">Terres de la tour</text>
+<text id="241420">Château noir</text>
+<text id="241500">Fonctions du menu Carte</text>
+<text id="241501">Affichage statut multijoueur</text>
+<text id="241502">Liste recueils d'invocations</text>
+<text id="241503">Afficher les commandes</text>
+<text id="241504">Menu Explications</text>
+<text id="241600">Liste recueils d'invocations</text>
+<text id="280060">Menu</text>
+<text id="280600">Carte</text>
+<text id="331340">CŒUR DÉROBÉ</text>
+</entries>
+</fmg>

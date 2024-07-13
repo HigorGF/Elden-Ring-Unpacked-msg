@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="110601">Indiquer ou non les nouveaux éléments à l'aide d'une icône</text>
+<text id="110602">%null%</text>
+<text id="110603">Afficher ou masquer l'onglet Éléments récents dans le menu Inventaire</text>
+<text id="111024">Configurer les déplacements du curseur sur le menu Carte</text>
+<text id="111025">Définir la sensibilité de la souris pour changer de cible</text>
+<text id="225001">Choisir quelle compétence de Bayle s'approprier</text>
+<text id="241501">Configurer l'affichage du statut multijoueur</text>
+<text id="241502">Afficher la liste des recueils d'invocations et act./désact. les recueils</text>
+<text id="241503">Afficher la liste des commandes</text>
+<text id="241504">Afficher une explication du menu Carte</text>
+<text id="241600">Sélectionner les recueils d'invocations à activer/désactiver</text>
+<text id="280600">Afficher le menu Carte</text>
+</entries>
+</fmg>

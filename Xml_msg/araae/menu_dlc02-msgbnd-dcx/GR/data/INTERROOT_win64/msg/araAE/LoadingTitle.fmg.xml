@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">اﻟﺟﺛﻭم</text>
+<text id="2">اﻟﻭﻗﺎﻳﺔ</text>
+<text id="3">اﻟﻭﻗﺎﻳﺔ اﻟﻣﺿﺎدة</text>
+<text id="4">اﺳﺗﺧﺩام اﻷﺳﻠﺣﺔ ﺑﻛﻼ اﻟﻳﺩﻳﻥ</text>
+<text id="5">ﻫﺟﻣﺎت اﻟﺷﺣﻥ وﻫﺟﻣﺎت اﻟﻘﻔﺯ</text>
+<text id="6">اﻟﻣﻬﺎرة</text>
+<text id="7">اﻟﺗﺣﺎﺷﻲ</text>
+<text id="8">ﺗﻌﻳﻳﻥ ﻫﺩف</text>
+<text id="9">اﻟﺗﺻﻭﻳﺏ اﻟﺩﻗﻳﻖ</text>
+<text id="10">اﻟﺗﺟﻬﺯ ﺑﺎﻷﺳﻠﺣﺔ</text>
+<text id="11">اﺳﺗﺧﺩام اﻟﻌﻧﺎﺻﺭ</text>
+<text id="12">اﺳﺗﺧﺩام اﻟﺷﻌﻼت</text>
+<text id="13">اﻟﺿﺭﺑﺎت اﻟﺣﺎﺳﻣﺔ</text>
+<text id="14">اﻹﻳﻣﺎءات</text>
+<text id="15">اﻟﺧﺭﻳﻁﺔ</text>
+<text id="16">اﻟﻘﻔﺯ ﻓﻲ ﻳﻧﺑﻭع اﻷرواح</text>
+<text id="17">ﻗﺎﺋﻣﺔ اﻟﻌﻧﺎﺻﺭ اﻟﻣﺧﺗﺻﺭة</text>
+<text id="50">اﻟﻣﻭت وإﺳﻘﺎط اﻟﺭون</text>
+<text id="51">%null%</text>
+<text id="52">اﺳﺗﺩﻋﺎء اﻷرواح</text>
+<text id="53">اﻻﺳﺗﺭاﺣﺔ ﻓﻲ ﻣﻭاﻗﻊ اﻟﻧﻌﻣﺔ</text>
+<text id="54">اﻟﻌﺛﻭر ﻋﻠﻰ ﻣﻭاﻗﻊ اﻟﻧﻌﻣﺔ</text>
+<text id="55">إرﺷﺎد اﻟﻧﻌﻣﺔ</text>
+<text id="56">اﻟﻘﻧﻳﻧﺎت اﻟﻣﻘﺩﺳﺔ</text>
+<text id="57">اﻻﻧﺗﻘﺎل اﻟﺳﺭﻳﻊ إﻟﻰ ﻣﻭاﻗﻊ اﻟﻧﻌﻣﺔ</text>
+<text id="58">ﻫﺟﻣﺎت اﻻﻣﺗﻁﺎء</text>
+<text id="59">ﻣﻧﺎﻁﻖ ﻣﻣﻧﻭع ﻓﻳﻬﺎ اﻻﻣﺗﻁﺎء</text>
+<text id="60">ﺻﻧﺎﻋﺔ ﻋﻧﺻﺭ</text>
+<text id="61">ﻋﻧﺎﺻﺭ اﻟﺣﺎوﻳﺎت</text>
+<text id="62">ﺗﺧﺻﻳﺹ اﻟﺗﺳﻠﻳﺢ</text>
+<text id="63">%null%</text>
+<text id="64">اﻹﻧﻌﺎش ﺑﻌﺩ اﻟﻣﻭت</text>
+<text id="65">ﺣﻣﻭﻟﺔ اﻟﻌﺗﺎد</text>
+<text id="66">ﺧﻼل اﻟﻘﺗﺎل</text>
+<text id="67">ﺗﻘﻭﻳﺔ اﻷرواح</text>
+<text id="68">زﻳﺎدة اﻟﻣﺳﺗﻭى</text>
+<text id="69">%null%</text>
+<text id="70">اﻟﺣﺎﻟﺔ: اﻟﺳﻡ</text>
+<text id="71">اﻟﺣﺎﻟﺔ: اﻟﻌﻔﻥ اﻟﻘﺭﻣﺯي</text>
+<text id="72">اﻟﺣﺎﻟﺔ: اﻟﻧﺯﻳﻑ</text>
+<text id="73">اﻟﺣﺎﻟﺔ: اﻟﺻﻘﻳﻊ/ﻗﺿﻣﺔ اﻟﺻﻘﻳﻊ</text>
+<text id="74">اﻟﺣﺎﻟﺔ: اﻟﻧﻭم</text>
+<text id="75">اﻟﺣﺎﻟﺔ: اﻟﺟﻧﻭن</text>
+<text id="76">اﻟﺣﺎﻟﺔ: اﻟﻣﻭت</text>
+<text id="77">اﻟﺛﺑﺎت</text>
+<text id="100">ﻫﺩف اﻟﻣﺗﻌﺎون (اﻹﺻﺑﻊ اﻟﻣﻠﻔﻭﻓﺔ)</text>
+<text id="101">ﻫﺩف اﻟﺧﺻﻡ (اﻟﻣﺑﺎرز)</text>
+<text id="102">اﻟﺣﺩ اﻷﻗﺻﻰ ﻓﻲ اﻟﻠﻌﺏ اﻟﺟﻣﺎﻋﻲ</text>
+<text id="103">رؤﻳﺔ ﻋﻼﻣﺎت اﻻﺳﺗﺩﻋﺎء</text>
+<text id="104">ﺗﺭك ﻋﻼﻣﺎت ﺗﻌﺎوﻧﻳﺔ</text>
+<text id="105">ﺗﺭك ﻋﻼﻣﺎت ﻋﺩواﻧﻳﺔ</text>
+<text id="106">اﻟﻐﺯو</text>
+<text id="107">ﻁﻠﺏ اﻟﺩﻋﻡ</text>
+<text id="108">ﺟﺎر اﻟﺩﻋﻡ</text>
+<text id="109">ﻣﻭاﺿﻊ اﻻﺳﺗﺩﻋﺎء</text>
+<text id="110">ﻛﻠﻣﺎت ﻣﺭور اﻟﻣﺟﻣﻭﻋﺔ</text>
+<text id="111">ﻛﻠﻣﺎت ﻣﺭور اﻟﻠﻌﺏ اﻟﺟﻣﺎﻋﻲ</text>
+<text id="112">اﻟﺭﺳﺎﺋﻝ</text>
+<text id="113">ﺣﺩود ﺣﺭﻛﺔ اﻟﻠﻌﺏ اﻟﺟﻣﺎﻋﻲ</text>
+<text id="114">اﻷﺷﺑﺎح</text>
+<text id="115">ﺑﻘﻊ اﻟﺩﻣﺎء</text>
+<text id="116">ﻫﺩف اﻟﺩﻋﻡ (اﻟﺻﻳﺎد)</text>
+<text id="117">ﻋﻼﻣﺎت اﻻﺳﺗﺩﻋﺎء</text>
+<text id="118">اﻟﺭﺳﺎﺋﻝ اﻟﻣﺗﻘﺩﻣﺔ</text>
+<text id="119">ﻫﺩف اﻟﻐﺎزي</text>
+<text id="120">اﻟﻛﻭﻟﻭﺳﻳﻭم</text>
+<text id="121">رﺗﺏ اﻟﻛﻭﻟﻭﺳﻳﻭم</text>
+<text id="150">ﺣﺩود اﻟﻭﻗﺎﻳﺔ</text>
+<text id="151">ﻛﺳﺭ اﻟﻭﺿﻌﻳﺔ</text>
+<text id="152">إﻁﺎﺣﺔ اﻷﻋﺩاء ﻋﻠﻰ ﻣﻁﻳﺔ</text>
+<text id="153">اﻷﻋﺩاء اﻷﻗﻭﻳﺎء</text>
+<text id="154">%null%</text>
+<text id="200">ﺧﻧﺎﻓﺱ اﻟﺩﻣﻌﺔ</text>
+<text id="250">%null%</text>
+<text id="251">%null%</text>
+<text id="252">%null%</text>
+<text id="253">%null%</text>
+</entries>
+</fmg>

@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="302600">在幽影之地各處，能獲得幽影樹碎片。
+於賜福消耗後，能加強「幽影樹庇佑」。
+
+接受「幽影樹庇佑」
+能強化自身的攻擊力與減傷率，
+但有效範圍僅限於幽影之地。</text>
+<text id="302601">%null%</text>
+<text id="302602">%null%</text>
+<text id="302603">%null%</text>
+<text id="302604">%null%</text>
+<text id="302605">%null%</text>
+<text id="302606">%null%</text>
+<text id="302607">%null%</text>
+<text id="302608">%null%</text>
+<text id="302609">%null%</text>
+<text id="302610">在幽影之地各處，能獲得靈灰。
+於賜福消耗後，能加強「靈灰庇佑」。
+
+接受「靈灰庇佑」
+能強化受召喚靈魂與靈馬的攻擊力與減傷率，
+但有效範圍僅限於幽影之地。</text>
+<text id="302611">%null%</text>
+<text id="302612">%null%</text>
+<text id="302613">%null%</text>
+<text id="302614">%null%</text>
+<text id="302615">%null%</text>
+<text id="302616">%null%</text>
+<text id="302617">%null%</text>
+<text id="302618">%null%</text>
+<text id="302619">%null%</text>
+<text id="302620">從系統選單的顯示設定，
+能夠詳細設定下列新功能：
+
+‧初次獲得的道具，能以&lt;?newItemIcon?&gt;標示。
+‧最近獲得的道具，能從專用的標籤進行確認。</text>
+<text id="402600">消耗幽影樹碎片，能加強「幽影樹庇佑」。
+
+接受「幽影樹庇佑」
+能強化自身的攻擊力與減傷率，
+但有效範圍僅限於幽影之地。</text>
+<text id="402601">%null%</text>
+<text id="402602">%null%</text>
+<text id="402603">%null%</text>
+<text id="402604">%null%</text>
+<text id="402605">%null%</text>
+<text id="402606">%null%</text>
+<text id="402607">%null%</text>
+<text id="402608">%null%</text>
+<text id="402609">%null%</text>
+<text id="402610">消耗靈灰，能加強「靈灰庇佑」。
+
+接受「靈灰庇佑」
+能強化受召喚靈魂與靈馬的攻擊力與減傷率，
+但有效範圍僅限於幽影之地。</text>
+</entries>
+</fmg>

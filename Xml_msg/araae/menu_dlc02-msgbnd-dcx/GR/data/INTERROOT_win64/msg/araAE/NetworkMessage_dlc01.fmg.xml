@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="2601425">ﺗﻡ اﺳﺗﺩﻋﺎؤك إﻟﻰ ﻋﺎﻟﻡ آﺧﺭ.
+ﻋﻠﻳﻙ ﻫﺯﻳﻣﺔ ﻟﻳﺩا ﻓﺎرﺳﺔ اﻹﺑﺭة وﺣﻠﻔﺎﺋﻬﺎ!</text>
+<text id="2601426">ﺗﻡ اﺳﺗﺩﻋﺎؤك إﻟﻰ ﻋﺎﻟﻡ آﺧﺭ.
+ﻋﻠﻳﻙ ﻫﺯﻳﻣﺔ اﻟﺳﻳﺩ آﻧﺳﺑﺎخ!</text>
+<text id="2601427">ﺗﻡ اﺳﺗﺩﻋﺎؤك إﻟﻰ ﻋﺎﻟﻡ آﺧﺭ.
+ﻋﻠﻳﻙ ﻫﺯﻳﻣﺔ ﻟﻳﺩا ﻓﺎرﺳﺔ اﻹﺑﺭة!</text>
+<text id="2601428">ﺗﻡ اﺳﺗﺩﻋﺎؤك إﻟﻰ ﻋﺎﻟﻡ آﺧﺭ.
+ﻋﻠﻳﻙ ﻫﺯﻳﻣﺔ ﻫﻭرﻧﺳﻧﺕ!</text>
+<text id="2601429">ﺗﻡ اﺳﺗﺩﻋﺎؤك إﻟﻰ ﻋﺎﻟﻡ آﺧﺭ.
+ﻋﻠﻳﻙ ﻫﺯﻳﻣﺔ ﻟﻳﺩا ﻓﺎرﺳﺔ اﻹﺑﺭة!</text>
+<text id="2611425">ﺗﻣﺕ ﻫﺯﻳﻣﺔ ﻟﻳﺩا ﻓﺎرﺳﺔ اﻹﺑﺭة وﺣﻠﻔﺎﺋﻬﺎ.
+ﺟﺎر اﻟﻌﻭدة إﻟﻰ ﻋﺎﻟﻣﻙ.</text>
+<text id="2611426">ﺗﻣﺕ ﻫﺯﻳﻣﺔ اﻟﺳﻳﺩ آﻧﺳﺑﺎخ.
+ﺟﺎر اﻟﻌﻭدة إﻟﻰ ﻋﺎﻟﻣﻙ.</text>
+<text id="2611427">ﺗﻣﺕ ﻫﺯﻳﻣﺔ ﻟﻳﺩا ﻓﺎرﺳﺔ اﻹﺑﺭة.
+ﺟﺎر اﻟﻌﻭدة إﻟﻰ ﻋﺎﻟﻣﻙ.</text>
+<text id="2611428">ﺗﻣﺕ ﻫﺯﻳﻣﺔ ﻫﻭرﻧﺳﻧﺕ.
+ﺟﺎر اﻟﻌﻭدة إﻟﻰ ﻋﺎﻟﻣﻙ.</text>
+<text id="2611429">ﺗﻣﺕ ﻫﺯﻳﻣﺔ ﻟﻳﺩا ﻓﺎرﺳﺔ اﻹﺑﺭة.
+ﺟﺎر اﻟﻌﻭدة إﻟﻰ ﻋﺎﻟﻣﻙ.</text>
+<text id="2621425">ﻧﺎل اﻟﻣﻭت ﻣﻧﻙ. ﺟﺎر اﻟﻌﻭدة إﻟﻰ ﻋﺎﻟﻣﻙ.</text>
+<text id="2621426">ﻧﺎل اﻟﻣﻭت ﻣﻧﻙ. ﺟﺎر اﻟﻌﻭدة إﻟﻰ ﻋﺎﻟﻣﻙ.</text>
+<text id="2621427">ﻧﺎل اﻟﻣﻭت ﻣﻧﻙ. ﺟﺎر اﻟﻌﻭدة إﻟﻰ ﻋﺎﻟﻣﻙ.</text>
+<text id="2621428">ﻧﺎل اﻟﻣﻭت ﻣﻧﻙ. ﺟﺎر اﻟﻌﻭدة إﻟﻰ ﻋﺎﻟﻣﻙ.</text>
+<text id="2621429">ﻧﺎل اﻟﻣﻭت ﻣﻧﻙ. ﺟﺎر اﻟﻌﻭدة إﻟﻰ ﻋﺎﻟﻣﻙ.</text>
+<text id="2622425">ﻣﺎت ﻣﺿﻳﻑ اﻷﺻﺎﺑﻊ.
+ﺟﺎر اﻟﻌﻭدة إﻟﻰ ﻋﺎﻟﻡ اﻟﻣﺿﻳﻑ.</text>
+<text id="2631425">ﺟﺎر اﻟﻌﻭدة إﻟﻰ ﻋﺎﻟﻣﻙ</text>
+<text id="2631426">ﺟﺎر اﻟﻌﻭدة إﻟﻰ ﻋﺎﻟﻣﻙ</text>
+<text id="2631427">ﺟﺎر اﻟﻌﻭدة إﻟﻰ ﻋﺎﻟﻣﻙ</text>
+<text id="2631428">ﺟﺎر اﻟﻌﻭدة إﻟﻰ ﻋﺎﻟﻣﻙ</text>
+<text id="2631429">ﺟﺎر اﻟﻌﻭدة إﻟﻰ ﻋﺎﻟﻣﻙ</text>
+<text id="2632425">ﻋﺎد ﻣﺿﻳﻑ اﻷﺻﺎﺑﻊ إﻟﻰ ﻋﺎﻟﻣﻪ. ﺟﺎر اﻟﻌﻭدة إﻟﻰ ﻋﺎﻟﻡ اﻟﻣﺿﻳﻑ.</text>
+<text id="2640425">ﺗﻡ إرﺳﺎل &lt;?leaveName?&gt; اﻹﺻﺑﻊ اﻟﻣﻠﻔﻭﻓﺔ إﻟﻰ ﻋﺎﻟﻣﻪ</text>
+<text id="2641425">أرﺳﻠﻪ ﻣﺿﻳﻑ اﻷﺻﺎﺑﻊ إﻟﻰ ﻣﻭﻁﻧﻪ.
+ﺟﺎر اﻟﻌﻭدة إﻟﻰ ﻋﺎﻟﻣﻙ.</text>
+<text id="2642425">ﺗﻡ إرﺳﺎل &lt;?leaveName?&gt; اﻹﺻﺑﻊ اﻟﻣﻠﻔﻭﻓﺔ إﻟﻰ ﻋﺎﻟﻣﻪ</text>
+<text id="2691425">ﻧﺎل اﻟﻣﻭت ﻣﻧﻙ. ﺟﺎر اﻟﻌﻭدة إﻟﻰ ﻋﺎﻟﻣﻙ.</text>
+<text id="2692425">ﻣﺎت &lt;?deadName?&gt; اﻹﺻﺑﻊ اﻟﻣﻠﻔﻭﻓﺔ</text>
+<text id="2693425">ﺟﺎر اﻟﻌﻭدة إﻟﻰ ﻋﺎﻟﻣﻙ</text>
+<text id="2694425">ﻋﺎد &lt;?leaveName?&gt; اﻹﺻﺑﻊ اﻟﻣﻠﻔﻭﻓﺔ إﻟﻰ ﻋﺎﻟﻣﻪ</text>
+<text id="4080100">ﺟﺎر اﺳﺗﺩﻋﺎء ﻣﺗﻌﺎون...</text>
+<text id="4080101">%null%</text>
+<text id="4080102">%null%</text>
+<text id="4080103">%null%</text>
+<text id="4080104">%null%</text>
+<text id="4080105">%null%</text>
+<text id="4080106">%null%</text>
+<text id="4080107">%null%</text>
+<text id="4080108">%null%</text>
+<text id="4080109">%null%</text>
+<text id="4080110">ﺟﺎر اﺳﺗﺩﻋﺎء ﻣﺗﻌﺎون آﺧﺭ...</text>
+<text id="4080800">ﺗﻡ اﺳﺗﺩﻋﺎء إﻳﻐﻭن ﻣﺣﺎرب اﻟﺗﻧﻳﻥ ﻛﻣﺗﻌﺎون</text>
+<text id="4080801">ﺗﻡ اﺳﺗﺩﻋﺎء إﻳﻐﻭن ﻣﺣﺎرب اﻟﺗﻧﻳﻥ ﻛﻣﺗﻌﺎون</text>
+<text id="4080802">ﻣﺎت إﻳﻐﻭن ﻣﺣﺎرب اﻟﺗﻧﻳﻥ</text>
+<text id="4080803">%null%</text>
+<text id="4080804">%null%</text>
+<text id="4080805">%null%</text>
+<text id="4080806">%null%</text>
+<text id="4080807">%null%</text>
+<text id="4080808">%null%</text>
+<text id="4080809">%null%</text>
+<text id="4080810">ﺗﻡ اﺳﺗﺩﻋﺎء ﺛﻳﻭﻟﻳﻳﻪ ﻛﻣﺗﻌﺎون</text>
+<text id="4080811">ﺗﻡ اﺳﺗﺩﻋﺎء ﺛﻳﻭﻟﻳﻳﻪ ﻛﻣﺗﻌﺎون</text>
+<text id="4080812">ﻣﺎت ﺛﻳﻭﻟﻳﻳﻪ</text>
+<text id="4080813">%null%</text>
+<text id="4080814">%null%</text>
+<text id="4080815">%null%</text>
+<text id="4080816">%null%</text>
+<text id="4080817">%null%</text>
+<text id="4080818">%null%</text>
+<text id="4080819">%null%</text>
+<text id="4080820">ﺗﻡ اﻟﻐﺯو ﻣﻥ ﻗﺑﻝ ﺛﻳﻭﻟﻳﻳﻪ!</text>
+<text id="4080821">%null%</text>
+<text id="4080822">ﻣﺎت ﺛﻳﻭﻟﻳﻳﻪ</text>
+<text id="4080823">%null%</text>
+<text id="4080824">%null%</text>
+<text id="4080825">%null%</text>
+<text id="4080826">%null%</text>
+<text id="4080827">%null%</text>
+<text id="4080828">%null%</text>
+<text id="4080829">%null%</text>
+<text id="4080830">ﺗﻡ اﻟﻐﺯو ﺑﻭاﺳﻁﺔ ﺟﻭﻻن ﻣﺑﺎرزة اﻟﻠﻳﻝ!</text>
+<text id="4080831">%null%</text>
+<text id="4080832">ﻣﺎﺗﺕ ﺟﻭﻻن ﻣﺑﺎرزة اﻟﻠﻳﻝ</text>
+<text id="4080833">%null%</text>
+<text id="4080834">%null%</text>
+<text id="4080835">%null%</text>
+<text id="4080836">%null%</text>
+<text id="4080837">%null%</text>
+<text id="4080838">%null%</text>
+<text id="4080839">%null%</text>
+<text id="4080840">ﺗﻡ اﺳﺗﺩﻋﺎء آﻧﺳﺑﺎخ ﻓﺎرس اﻟﺩﻣﺎء اﻟﻧﻘﻳﺔ ﻛﻣﺗﻌﺎون</text>
+<text id="4080841">ﺗﻡ اﺳﺗﺩﻋﺎء آﻧﺳﺑﺎخ ﻓﺎرس اﻟﺩﻣﺎء اﻟﻧﻘﻳﺔ ﻛﻣﺗﻌﺎون</text>
+<text id="4080842">ﻣﺎت آﻧﺳﺑﺎخ ﻓﺎرس اﻟﺩﻣﺎء اﻟﻧﻘﻳﺔ</text>
+<text id="4080843">ﺳﻳﺗﻡ اﺳﺗﺩﻋﺎء آﻧﺳﺑﺎخ ﻓﺎرس اﻟﺩﻣﺎء اﻟﻧﻘﻳﺔ ﻛﻣﺗﻌﺎون ﻓﻲ اﻟﻭﻗﺕ اﻟﻣﻧﺎﺳﺏ</text>
+<text id="4080844">%null%</text>
+<text id="4080845">%null%</text>
+<text id="4080846">%null%</text>
+<text id="4080847">%null%</text>
+<text id="4080848">%null%</text>
+<text id="4080849">%null%</text>
+<text id="4080850">ﺗﻡ اﺳﺗﺩﻋﺎء ﺛﻳﻭﻟﻳﻳﻪ ﻛﻣﺗﻌﺎون</text>
+<text id="4080851">ﺗﻡ اﺳﺗﺩﻋﺎء ﺛﻳﻭﻟﻳﻳﻪ ﻛﻣﺗﻌﺎون</text>
+<text id="4080852">ﻣﺎت ﺛﻳﻭﻟﻳﻳﻪ</text>
+<text id="4080853">ﺳﻳﺗﻡ اﺳﺗﺩﻋﺎء ﺛﻳﻭﻟﻳﻳﻪ ﻛﻣﺗﻌﺎون ﻓﻲ اﻟﻭﻗﺕ اﻟﻣﻧﺎﺳﺏ</text>
+<text id="4080854">%null%</text>
+<text id="4080855">%null%</text>
+<text id="4080856">%null%</text>
+<text id="4080857">%null%</text>
+<text id="4080858">%null%</text>
+<text id="4080859">%null%</text>
+<text id="4080860">ﺗﻡ اﺳﺗﺩﻋﺎء ﻧﺎﺗﺎن اﻟﻧﺑﻳﻝ اﻟﺩﻣﻭي ﻛﻣﺗﻌﺎون</text>
+<text id="4080861">ﺗﻡ اﺳﺗﺩﻋﺎء ﻧﺎﺗﺎن اﻟﻧﺑﻳﻝ اﻟﺩﻣﻭي ﻛﻣﺗﻌﺎون</text>
+<text id="4080862">ﻣﺎت ﻧﺎﺗﺎن اﻟﻧﺑﻳﻝ اﻟﺩﻣﻭي</text>
+<text id="4080863">ﺳﻳﺗﻡ اﺳﺗﺩﻋﺎء ﻧﺎﺗﺎن اﻟﻧﺑﻳﻝ اﻟﺩﻣﻭي ﻛﻣﺗﻌﺎون ﻓﻲ اﻟﻭﻗﺕ اﻟﻣﻧﺎﺳﺏ</text>
+<text id="4080864">%null%</text>
+<text id="4080865">%null%</text>
+<text id="4080866">%null%</text>
+<text id="4080867">%null%</text>
+<text id="4080868">%null%</text>
+<text id="4080869">%null%</text>
+<text id="4080870">ﺗﻡ اﺳﺗﺩﻋﺎء ﻫﻭرﻧﺳﻧﺕ ﻛﻣﺗﻌﺎون</text>
+<text id="4080871">ﺗﻡ اﺳﺗﺩﻋﺎء ﻫﻭرﻧﺳﻧﺕ ﻛﻣﺗﻌﺎون</text>
+<text id="4080872">ﻣﺎت ﻫﻭرﻧﺳﻧﺕ</text>
+<text id="4080873">%null%</text>
+<text id="4080874">%null%</text>
+<text id="4080875">%null%</text>
+<text id="4080876">%null%</text>
+<text id="4080877">%null%</text>
+<text id="4080878">%null%</text>
+<text id="4080879">%null%</text>
+<text id="4080880">ﺗﻡ اﺳﺗﺩﻋﺎء ﻣﺑﺎرزة اﻟﻠﻳﻝ ﺟﻭﻻن ﻛﻣﺗﻌﺎون</text>
+<text id="4080881">ﺗﻡ اﺳﺗﺩﻋﺎء ﻣﺑﺎرزة اﻟﻠﻳﻝ ﺟﻭﻻن ﻛﻣﺗﻌﺎون</text>
+<text id="4080882">ﻣﺎﺗﺕ ﻣﺑﺎرزة اﻟﻠﻳﻝ ﺟﻭﻻن</text>
+<text id="4080883">%null%</text>
+<text id="4080884">%null%</text>
+<text id="4080885">%null%</text>
+<text id="4080886">%null%</text>
+<text id="4080887">%null%</text>
+<text id="4080888">%null%</text>
+<text id="4080889">%null%</text>
+<text id="4080890">ﺗﻡ اﺳﺗﺩﻋﺎء ﻫﻭرﻧﺳﻧﺕ ﻛﺧﺻﻡ</text>
+<text id="4080891">%null%</text>
+<text id="4080892">ﻣﺎت ﻫﻭرﻧﺳﻧﺕ</text>
+<text id="4080893">%null%</text>
+<text id="4080894">%null%</text>
+<text id="4080895">%null%</text>
+<text id="4080896">%null%</text>
+<text id="4080897">%null%</text>
+<text id="4080898">%null%</text>
+<text id="4080899">%null%</text>
+<text id="4080900">ﺗﻡ اﺳﺗﺩﻋﺎء ﻣﻭر ﻛﺧﺻﻡ</text>
+<text id="4080901">%null%</text>
+<text id="4080902">ﻣﺎت ﻣﻭر</text>
+<text id="4080903">%null%</text>
+<text id="4080904">%null%</text>
+<text id="4080905">%null%</text>
+<text id="4080906">%null%</text>
+<text id="4080907">%null%</text>
+<text id="4080908">%null%</text>
+<text id="4080909">%null%</text>
+<text id="4080910">ﺗﻡ اﺳﺗﺩﻋﺎء ﻓﺭﻳﺎ ﻣﻥ رﻳﺩﻣﺎﻳﻥ ﻛﺧﺻﻡ</text>
+<text id="4080911">%null%</text>
+<text id="4080912">ﻣﺎﺗﺕ ﻓﺭﻳﺎ ﻣﻥ رﻳﺩﻣﺎﻳﻥ</text>
+<text id="4080913">%null%</text>
+<text id="4080914">%null%</text>
+<text id="4080915">%null%</text>
+<text id="4080916">%null%</text>
+<text id="4080917">%null%</text>
+<text id="4080918">%null%</text>
+<text id="4080919">%null%</text>
+<text id="4080920">ﺗﻡ اﺳﺗﺩﻋﺎء ﻓﺎرﺳﺔ اﻹﺑﺭة ﻟﻳﺩا ﻛﺧﺻﻡ</text>
+<text id="4080921">%null%</text>
+<text id="4080922">ﻣﺎﺗﺕ ﻓﺎرﺳﺔ اﻹﺑﺭة ﻟﻳﺩا</text>
+<text id="4080923">%null%</text>
+<text id="4080924">%null%</text>
+<text id="4080925">%null%</text>
+<text id="4080926">%null%</text>
+<text id="4080927">%null%</text>
+<text id="4080928">%null%</text>
+<text id="4080929">%null%</text>
+<text id="4080930">ﺗﻡ اﺳﺗﺩﻋﺎء داﻳﻥ اﻟﻭرﻗﺔ اﻟﺟﺎﻓﺔ ﻛﺧﺻﻡ</text>
+<text id="4080931">%null%</text>
+<text id="4080932">ﻣﺎت داﻳﻥ اﻟﻭرﻗﺔ اﻟﺟﺎﻓﺔ</text>
+</entries>
+</fmg>

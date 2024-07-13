@@ -1,0 +1,636 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="2220">參考調香瓶的模樣製成的護符。
+能提升調香術的威力。
+
+調香師有著只有他們才知道的花園。
+可能位在高原的邊緣，或是隱藏的洞窟內，
+那裡百花齊放，只為芬芳。</text>
+<text id="7000">鑲有紅色琥珀的鍊墜。
+能最大幅提升ＨＰ的上限。
+
+琥珀為黃金樹的古老露滴，
+在「初始艾爾登之王」葛孚雷的時代
+被視為特殊的寶石。
+
+據說葛德文的禁衛騎士們──
+傑出的黃金騎士，受賜的琥珀最為大顆。</text>
+<text id="7001">%null%</text>
+<text id="7002">%null%</text>
+<text id="7003">%null%</text>
+<text id="7004">%null%</text>
+<text id="7005">%null%</text>
+<text id="7006">%null%</text>
+<text id="7007">%null%</text>
+<text id="7008">%null%</text>
+<text id="7009">%null%</text>
+<text id="7010">鑲有藍色琥珀的鍊墜。
+能最大幅提升ＦＰ的上限。
+
+琥珀為黃金樹的古老露滴，
+在「初始艾爾登之王」葛孚雷的時代
+被視為特殊的寶石。
+
+據說葛德文的禁衛騎士們──
+傑出的黃金騎士，受賜的琥珀最為大顆。</text>
+<text id="7011">%null%</text>
+<text id="7012">%null%</text>
+<text id="7013">%null%</text>
+<text id="7014">%null%</text>
+<text id="7015">%null%</text>
+<text id="7016">%null%</text>
+<text id="7017">%null%</text>
+<text id="7018">%null%</text>
+<text id="7019">%null%</text>
+<text id="7020">鑲有綠色琥珀的鍊墜。
+能最大幅提升精力的上限。
+
+琥珀為黃金樹的古老露滴，
+在「初始艾爾登之王」葛孚雷的時代
+被視為特殊的寶石。
+
+據說葛德文的禁衛騎士們──
+傑出的黃金騎士，受賜的琥珀最為大顆。</text>
+<text id="7021">%null%</text>
+<text id="7022">%null%</text>
+<text id="7023">%null%</text>
+<text id="7024">%null%</text>
+<text id="7025">%null%</text>
+<text id="7026">%null%</text>
+<text id="7027">%null%</text>
+<text id="7028">%null%</text>
+<text id="7029">%null%</text>
+<text id="7030">參考雙頭綠烏龜的模樣製成的護符。
+能大幅提升精力的恢復速度。
+
+烏龜是著名的營養食材，為精力無窮的象徵。
+
+而其中，兩顆頭的烏龜
+在脖子交錯時，形狀有如螺旋，
+為塔之地特別喜愛的題材。</text>
+<text id="7031">%null%</text>
+<text id="7032">%null%</text>
+<text id="7033">%null%</text>
+<text id="7034">%null%</text>
+<text id="7035">%null%</text>
+<text id="7036">%null%</text>
+<text id="7037">%null%</text>
+<text id="7038">%null%</text>
+<text id="7039">%null%</text>
+<text id="7040">角人們於祭祀時使用的裝飾品。
+能更大幅提升健壯度。
+（健壯度是對出血、凍傷的抵抗力。）
+
+對角人們而言，角是神聖的象徵，
+也因此證明他們是受選的子民。
+
+其中不停萌發新芽的混生角，
+則被視為靈力之首的象徵。</text>
+<text id="7041">%null%</text>
+<text id="7042">%null%</text>
+<text id="7043">%null%</text>
+<text id="7044">%null%</text>
+<text id="7045">%null%</text>
+<text id="7046">%null%</text>
+<text id="7047">%null%</text>
+<text id="7048">%null%</text>
+<text id="7049">%null%</text>
+<text id="7050">角人們於祭祀時使用的裝飾品。
+能更大幅提升免疫力。
+（免疫力是對中毒、腐敗的抵抗力。）
+
+對角人們而言，角是神聖的象徵，
+也因此證明他們是受選的子民。
+
+其中不停萌發新芽的混生角，
+則被視為靈力之首的象徵。</text>
+<text id="7051">%null%</text>
+<text id="7052">%null%</text>
+<text id="7053">%null%</text>
+<text id="7054">%null%</text>
+<text id="7055">%null%</text>
+<text id="7056">%null%</text>
+<text id="7057">%null%</text>
+<text id="7058">%null%</text>
+<text id="7059">%null%</text>
+<text id="7060">角人們於祭祀時使用的裝飾品。
+能更大幅提升理智度。
+（理智度是對催眠、發狂的抵抗力。）
+
+對角人們而言，角是神聖的象徵，
+也因此證明他們是受選的子民。
+
+其中不停萌發新芽的混生角，
+則被視為靈力之首的象徵。</text>
+<text id="7080">角人們於祭祀時使用的裝飾品。
+其中以多種色彩點綴的貴重物品。
+
+能更大幅提升免疫力、健壯度、理智度。
+
+對角人們而言，角是神聖的象徵，
+也因此證明他們是受選的子民。
+
+其中不停萌發新芽的混生角，
+則被視為靈力之首的象徵。</text>
+<text id="7081">%null%</text>
+<text id="7082">%null%</text>
+<text id="7083">%null%</text>
+<text id="7084">%null%</text>
+<text id="7085">%null%</text>
+<text id="7086">%null%</text>
+<text id="7087">%null%</text>
+<text id="7088">%null%</text>
+<text id="7089">%null%</text>
+<text id="7090">繪有巨大藍色古龍圖案的護符。
+能最大幅提升魔力屬性減傷率。
+
+在黃金樹尚未出現的史前時代，
+據說古龍是那時代的主宰，
+也是保護王的銅牆鐵壁。
+因此龍的圖案被視為各種庇佑的象徵。</text>
+<text id="7091">%null%</text>
+<text id="7092">%null%</text>
+<text id="7093">%null%</text>
+<text id="7094">%null%</text>
+<text id="7095">%null%</text>
+<text id="7096">%null%</text>
+<text id="7097">%null%</text>
+<text id="7098">%null%</text>
+<text id="7099">%null%</text>
+<text id="7100">繪有巨大紅色古龍圖案的護符。
+能最大幅提升火屬性減傷率。
+
+在黃金樹尚未出現的史前時代，
+據說古龍是那時代的主宰，
+也是保護王的銅牆鐵壁。
+因此龍的圖案被視為各種庇佑的象徵。</text>
+<text id="7101">%null%</text>
+<text id="7102">%null%</text>
+<text id="7103">%null%</text>
+<text id="7104">%null%</text>
+<text id="7105">%null%</text>
+<text id="7106">%null%</text>
+<text id="7107">%null%</text>
+<text id="7108">%null%</text>
+<text id="7109">%null%</text>
+<text id="7110">繪有巨大黃色古龍圖案的護符。
+能最大幅提升雷屬性減傷率。
+
+在黃金樹尚未出現的史前時代，
+據說古龍是那時代的主宰，
+也是保護王的銅牆鐵壁。
+因此龍的圖案被視為各種庇佑的象徵。</text>
+<text id="7111">%null%</text>
+<text id="7112">%null%</text>
+<text id="7113">%null%</text>
+<text id="7114">%null%</text>
+<text id="7115">%null%</text>
+<text id="7116">%null%</text>
+<text id="7117">%null%</text>
+<text id="7118">%null%</text>
+<text id="7119">%null%</text>
+<text id="7120">被剪斷的金黃色編髮。
+瑪莉卡女王獻給祖母的供品。
+
+能最大幅提升聖屬性減傷率。
+
+沒有人知道瑪莉卡為了什麼而祈禱、許願，
+又或是，為了什麼而懺悔。
+能確定的是從那之後，祂不曾再回去故鄉。</text>
+<text id="7121">%null%</text>
+<text id="7122">%null%</text>
+<text id="7123">%null%</text>
+<text id="7124">%null%</text>
+<text id="7125">%null%</text>
+<text id="7126">%null%</text>
+<text id="7127">%null%</text>
+<text id="7128">%null%</text>
+<text id="7129">%null%</text>
+<text id="7130">繪有巨大珍珠色古龍圖案的護符。
+能最大幅提升物理以外的減傷率。
+
+在黃金樹尚未出現的史前時代，
+據說古龍是那時代的主宰，
+也是保護王的銅牆鐵壁。
+因此龍的圖案被視為各種庇佑的象徵。</text>
+<text id="7131">%null%</text>
+<text id="7132">%null%</text>
+<text id="7133">%null%</text>
+<text id="7134">%null%</text>
+<text id="7135">%null%</text>
+<text id="7136">%null%</text>
+<text id="7137">%null%</text>
+<text id="7138">%null%</text>
+<text id="7139">%null%</text>
+<text id="7140">參考黃金樹種子的模樣製成的紅色護符。
+能大幅提升紅露滴聖杯瓶的恢復量。
+
+以不曾出現的種子為主題的護符，
+其中最古老的一個，有著代表雙指的設計。
+此為黃金樹之始的象徵。</text>
+<text id="7141">%null%</text>
+<text id="7142">%null%</text>
+<text id="7143">%null%</text>
+<text id="7144">%null%</text>
+<text id="7145">%null%</text>
+<text id="7146">%null%</text>
+<text id="7147">%null%</text>
+<text id="7148">%null%</text>
+<text id="7149">%null%</text>
+<text id="7150">參考黃金樹種子的模樣製成的藍色護符。
+能大幅提升藍露滴聖杯瓶的恢復量。
+
+以不曾出現的種子為主題的護符，
+其中最古老的一個，有著代表雙指的設計。
+此為黃金樹之始的象徵。</text>
+<text id="8000">承接黃金樹的恩惠──
+參考承接藍露滴的模樣製成的護符。
+
+能緩慢恢復ＦＰ。
+
+據說在過去，恩惠露滴源源不絕──
+那是轉眼即逝的豐饒時代，
+黃金樹因此成為了信仰。</text>
+<text id="8001">%null%</text>
+<text id="8002">%null%</text>
+<text id="8003">%null%</text>
+<text id="8004">%null%</text>
+<text id="8005">%null%</text>
+<text id="8006">%null%</text>
+<text id="8007">%null%</text>
+<text id="8008">%null%</text>
+<text id="8009">%null%</text>
+<text id="8010">在遠古時代，據說會長在人體上，
+揉合生物百相的輕薄翅膀所製成的護符。
+
+能強化後躍的閃避能力，
+但會增加受到的損傷。
+
+角人們認為熔爐相當神聖──
+因為在那歷經淬鍊的進化盡頭，
+就是他們身上的混生角。</text>
+<text id="8011">%null%</text>
+<text id="8012">%null%</text>
+<text id="8013">%null%</text>
+<text id="8014">%null%</text>
+<text id="8015">%null%</text>
+<text id="8016">%null%</text>
+<text id="8017">%null%</text>
+<text id="8018">%null%</text>
+<text id="8019">%null%</text>
+<text id="8020">雕製關於外在神祇傳說的護符。
+能提升感應。
+
+人民蒙受火難、被奪去一切後，
+從他們尊貴祖先的遺體影子裡，
+發現了異樣的為神本質。
+
+在備受折磨、走投無路的情況下，
+他們還是向不祥的異形求助。</text>
+<text id="8021">%null%</text>
+<text id="8022">%null%</text>
+<text id="8023">%null%</text>
+<text id="8024">%null%</text>
+<text id="8025">%null%</text>
+<text id="8026">%null%</text>
+<text id="8027">%null%</text>
+<text id="8028">%null%</text>
+<text id="8029">%null%</text>
+<text id="8030">裂開的鎮邪石。
+
+能提升踢擊與踏地類招式的威力。
+
+鎮邪石是用於鎮住地震的靈異石。
+據說當它裂開以後，城鎮也隨之陷入地面。
+但關於城鎮下陷的原因，有另一種說法──
+那可能是月亮墜落導致。</text>
+<text id="8031">%null%</text>
+<text id="8032">%null%</text>
+<text id="8033">%null%</text>
+<text id="8034">%null%</text>
+<text id="8035">%null%</text>
+<text id="8036">%null%</text>
+<text id="8037">%null%</text>
+<text id="8038">%null%</text>
+<text id="8039">%null%</text>
+<text id="8040">以雙手劍與戰士的形象製成的護符。
+能強化以雙手共持武器時的攻擊。
+
+角戰士為塔的守護者──
+他們的力量是塔的武力象徵。
+據說那出神入化的一擊，能斬斷一切。</text>
+<text id="8041">%null%</text>
+<text id="8042">%null%</text>
+<text id="8043">%null%</text>
+<text id="8044">%null%</text>
+<text id="8045">%null%</text>
+<text id="8046">%null%</text>
+<text id="8047">%null%</text>
+<text id="8048">%null%</text>
+<text id="8049">%null%</text>
+<text id="8050">參考高舉的矛與火焰製成的護符。
+與梅瑟莫並肩作戰，
+為聖戰捐軀的人們擁有的徽章。
+
+打倒敵人時，能提升攻擊力。
+
+他們一昧地殺戮、燒盡汙穢──
+不帶悲憫之心，也沒有名譽可言。
+只有堅信此為聖戰的人們，
+才能從殞命的哀號聲中，找到一絲激昂。</text>
+<text id="8051">%null%</text>
+<text id="8052">%null%</text>
+<text id="8053">%null%</text>
+<text id="8054">%null%</text>
+<text id="8055">%null%</text>
+<text id="8056">%null%</text>
+<text id="8057">%null%</text>
+<text id="8058">%null%</text>
+<text id="8059">%null%</text>
+<text id="8060">外貌猶如熟透的葡萄──
+參考禁觸老翁的歡欣模樣製成的護符。
+
+當周圍人物陷入異常狀態發狂時，
+能提升攻擊力。
+
+　我等會為了王，獻上發狂──
+　讓所有人擁有葡萄，
+　讓所有人的葡萄熟成吧。</text>
+<text id="8061">%null%</text>
+<text id="8062">%null%</text>
+<text id="8063">%null%</text>
+<text id="8064">%null%</text>
+<text id="8065">%null%</text>
+<text id="8066">%null%</text>
+<text id="8067">%null%</text>
+<text id="8068">%null%</text>
+<text id="8069">%null%</text>
+<text id="8070">以羽毛箭與鐵箭組合製成的護符。
+
+能提升弓的射程距離，
+與射出箭、弩箭時的攻擊力。</text>
+<text id="8090">以珍珠色大盾與騎士的形象製成的護符。
+防禦時，能提升物理以外的減傷率。
+
+無從得知汙穢有幾分力量──
+為此，騎士們作足準備。</text>
+<text id="8091">%null%</text>
+<text id="8092">%null%</text>
+<text id="8093">%null%</text>
+<text id="8094">%null%</text>
+<text id="8095">%null%</text>
+<text id="8096">%null%</text>
+<text id="8097">%null%</text>
+<text id="8098">%null%</text>
+<text id="8099">%null%</text>
+<text id="8100">惹人憐愛的乾枯花束。
+供養在小墓碑前的物品。
+
+當自己召喚的靈魂死亡時，能提升攻擊力。
+
+對深愛之人的不幸感到心傷──
+這情感不論身處何地，皆是如此。</text>
+<text id="8101">%null%</text>
+<text id="8102">%null%</text>
+<text id="8103">%null%</text>
+<text id="8104">%null%</text>
+<text id="8105">%null%</text>
+<text id="8106">%null%</text>
+<text id="8107">%null%</text>
+<text id="8108">%null%</text>
+<text id="8109">%null%</text>
+<text id="8110">以老舊鍛造鐵鎚的形象製成的護符。
+表面刻著流紋文字。
+
+能強化投擲武器時的攻擊。
+
+在遠古時代，鍛造是敬神的儀式。
+據說在熔化的鋼鐵中，一層層的皺褶內刻有文字。
+鐵匠會找出文字，用於固定武器的靈魂。</text>
+<text id="8111">%null%</text>
+<text id="8112">%null%</text>
+<text id="8113">%null%</text>
+<text id="8114">%null%</text>
+<text id="8115">%null%</text>
+<text id="8116">%null%</text>
+<text id="8117">%null%</text>
+<text id="8118">%null%</text>
+<text id="8119">%null%</text>
+<text id="8120">參考病死的模樣製成的護符。
+
+在陷入異常狀態後，一定時間內，
+遇上同樣的異常狀態時，能提升抵抗力。
+
+體弱的人罹患可怕的蒼蠅病時，
+遠在變形之前，生命就會先走到終點。
+據說只有看護患者到最後一刻，
+並慎重安葬的照顧者，才能免於罹病。</text>
+<text id="8121">%null%</text>
+<text id="8122">%null%</text>
+<text id="8123">%null%</text>
+<text id="8124">%null%</text>
+<text id="8125">%null%</text>
+<text id="8126">%null%</text>
+<text id="8127">%null%</text>
+<text id="8128">%null%</text>
+<text id="8129">%null%</text>
+<text id="8130">參考黃金交錯樹的形象製成的工藝品。
+金針騎士們受賜的其中一項物品。
+
+能強化在翻滾、後躍之後使出的攻擊。
+
+在過去，金針騎士們侍奉米凱拉；
+而如今，那騎士只剩一人。</text>
+<text id="8131">%null%</text>
+<text id="8132">%null%</text>
+<text id="8133">%null%</text>
+<text id="8134">%null%</text>
+<text id="8135">%null%</text>
+<text id="8136">%null%</text>
+<text id="8137">%null%</text>
+<text id="8138">%null%</text>
+<text id="8139">%null%</text>
+<text id="8140">參考黃金交錯樹的形象製成的工藝品。
+金針騎士們受賜的其中一項物品。
+
+能強化衝刺攻擊。
+
+在過去，金針騎士們侍奉米凱拉；
+而如今，那騎士只剩一人。</text>
+<text id="8141">%null%</text>
+<text id="8142">%null%</text>
+<text id="8143">%null%</text>
+<text id="8144">%null%</text>
+<text id="8145">%null%</text>
+<text id="8146">%null%</text>
+<text id="8147">%null%</text>
+<text id="8148">%null%</text>
+<text id="8149">%null%</text>
+<text id="8150">以長弓與射手的形象製成的護符。
+能提升精密射擊的攻擊力。
+
+白金之子射手們十分靈巧，
+以令人畏懼的優秀狙擊能力為人所知。</text>
+<text id="8151">%null%</text>
+<text id="8152">%null%</text>
+<text id="8153">%null%</text>
+<text id="8154">%null%</text>
+<text id="8155">%null%</text>
+<text id="8156">%null%</text>
+<text id="8157">%null%</text>
+<text id="8158">%null%</text>
+<text id="8159">%null%</text>
+<text id="8160">以聖女托莉娜微笑時的模樣製成的護符。
+某位男性深藏心底的幻想。
+
+當周圍人物陷入異常狀態催眠時，
+能提升攻擊力。
+
+　只有我才知道──
+　陷在您的深沉酣眠裡，有多麼甜美。
+　所以說，請只對著我笑吧。</text>
+<text id="8161">%null%</text>
+<text id="8162">%null%</text>
+<text id="8163">%null%</text>
+<text id="8164">%null%</text>
+<text id="8165">%null%</text>
+<text id="8166">%null%</text>
+<text id="8167">%null%</text>
+<text id="8168">%null%</text>
+<text id="8169">%null%</text>
+<text id="8170">參考尖刺山的狂龍模樣製成的護符。
+當牠發出轟然咆哮，尖刺山的熔岩會隨之沸騰。
+
+能提升熔岩的威力。
+
+狂龍之名為貝勒──
+據說牠曾挑戰古龍之王，最後落得兩敗俱傷。
+有著憤怒的破壞者之稱。</text>
+<text id="8171">%null%</text>
+<text id="8172">%null%</text>
+<text id="8173">%null%</text>
+<text id="8174">%null%</text>
+<text id="8175">%null%</text>
+<text id="8176">%null%</text>
+<text id="8177">%null%</text>
+<text id="8178">%null%</text>
+<text id="8179">%null%</text>
+<text id="8180">塔進行祭祀時，神獸於其中舞動──
+參考那狂怒舞動的模樣製成的護符。
+
+能提升風暴的威力。
+
+據說神獸是來自上天的使者──
+牠的憤怒會造成天空失序，
+而其中最顯著的，就是風暴。</text>
+<text id="8181">%null%</text>
+<text id="8182">%null%</text>
+<text id="8183">%null%</text>
+<text id="8184">%null%</text>
+<text id="8185">%null%</text>
+<text id="8186">%null%</text>
+<text id="8187">%null%</text>
+<text id="8188">%null%</text>
+<text id="8189">%null%</text>
+<text id="8190">以老者手指輕捏輝石的模樣製成的護符。
+
+能最大幅縮短魔法、禱告的詠唱時間，
+但增加受到的損傷。
+
+尤彌爾疾呼：
+　對星星懷抱浪漫思維、對星塵滿懷愛意──
+　能辦到如此，就能成為頂尖魔法師。
+　你呀，要去學會愛。</text>
+<text id="8191">%null%</text>
+<text id="8192">%null%</text>
+<text id="8193">%null%</text>
+<text id="8194">%null%</text>
+<text id="8195">%null%</text>
+<text id="8196">%null%</text>
+<text id="8197">%null%</text>
+<text id="8198">%null%</text>
+<text id="8199">%null%</text>
+<text id="8200">參考「初始艾爾登之王」葛孚雷
+受賜露滴時的模樣製成的護符。
+
+能提升使用露滴聖杯瓶時的強韌度。
+
+王受賜露滴時氣勢非凡、充滿魄力──
+據說在受賜的當下，他文風不動。
+黃金樹之王，聳立於大地。</text>
+<text id="8201">%null%</text>
+<text id="8202">%null%</text>
+<text id="8203">%null%</text>
+<text id="8204">%null%</text>
+<text id="8205">%null%</text>
+<text id="8206">%null%</text>
+<text id="8207">%null%</text>
+<text id="8208">%null%</text>
+<text id="8209">%null%</text>
+<text id="8210">以十分沉重的腐敗金屬──
+銅綠製成的圓碟。
+
+裝備重量越重，防禦力會越高。
+
+重量代表著強度，
+也是守護他人的力量。</text>
+<text id="8211">%null%</text>
+<text id="8212">%null%</text>
+<text id="8213">%null%</text>
+<text id="8214">%null%</text>
+<text id="8215">%null%</text>
+<text id="8216">%null%</text>
+<text id="8217">%null%</text>
+<text id="8218">%null%</text>
+<text id="8219">%null%</text>
+<text id="8220">「雙月騎士」蕾菈娜──
+雕著她面容凜然的肖像護符。
+
+擺出架式，並維持一定時間後，
+能強化之後使出的攻擊。
+
+侍奉蕾菈娜，一同離開故鄉的人們，
+將超越忠誠的心思，刻劃其中的物品。
+
+　請允許我們同行──
+　共乘您的月之舟，直到海角天涯。</text>
+<text id="8221">%null%</text>
+<text id="8222">%null%</text>
+<text id="8223">%null%</text>
+<text id="8224">%null%</text>
+<text id="8225">%null%</text>
+<text id="8226">%null%</text>
+<text id="8227">%null%</text>
+<text id="8228">%null%</text>
+<text id="8229">%null%</text>
+<text id="8230">刀身窄短、沾滿血液的短刀。
+已經不能作為武器使用。
+
+能提升在使出致命一擊後的攻擊力。
+
+角人們讓受苦的族人解脫用的物品。
+奪走多條性命後，刀鋒已有缺損，
+也帶有一絲邪氣。</text>
+<text id="8231">%null%</text>
+<text id="8232">%null%</text>
+<text id="8233">%null%</text>
+<text id="8234">%null%</text>
+<text id="8235">%null%</text>
+<text id="8236">%null%</text>
+<text id="8237">%null%</text>
+<text id="8238">%null%</text>
+<text id="8239">%null%</text>
+<text id="8240">揉合熔爐百相，所有特徵的巨型塊狀物。
+
+能減少致命一擊、頭部射擊造成的損傷，
+與強化翻滾、後躍的閃避能力，
+但增加受到的損傷。
+
+據說是源自巨人身體的物品。
+在塔的神話中，此物被稱為「熔爐之母」。</text>
+</entries>
+</fmg>

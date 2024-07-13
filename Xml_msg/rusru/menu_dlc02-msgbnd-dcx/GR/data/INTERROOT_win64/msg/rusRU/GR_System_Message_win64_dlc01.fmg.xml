@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="280004">Проверьте ваши настройки. Клавиши, отвечающие за действия в меню, нельзя назначить на другие действия.</text>
+<text id="401130">Не удалось найти следующие дополнительные материалы:
+
+&lt;?requiredDlcList?&gt;
+
+Чтобы загрузить этот профиль, установите требуемые материалы повторно.</text>
+<text id="401131">Shadow of the Erdtree</text>
+<text id="401406">Ошибка подключения к Steamworks: &lt;?errcodeSteam?&gt;
+Возврат на главный экран.</text>
+</entries>
+</fmg>

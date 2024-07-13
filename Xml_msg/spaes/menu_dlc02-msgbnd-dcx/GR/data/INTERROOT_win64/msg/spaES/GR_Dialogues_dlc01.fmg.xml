@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="111108">Se cambiará el ajuste del límite de velocidad de fotogramas, ya que el valor anterior dejó de ser válido.</text>
+<text id="225001">¿Ofrecer el corazón de Bayle
+para hacerte con &lt;?itemName?&gt;?</text>
+<text id="236031">No puedes crear este objeto porque no tienes suficientes tarros agrietados grandes.</text>
+<text id="236061">No puedes crear este objeto porque no tienes ningún tarro agrietado grande.</text>
+<text id="241200">Se ha encontrado un nuevo mapa.
+(Llanura de las Tumbas)</text>
+<text id="241201">Se ha encontrado un nuevo mapa.
+(Altiplano Sombrío)</text>
+<text id="241202">Se ha encontrado un nuevo mapa.
+(Costa sur)</text>
+<text id="241203">Se ha encontrado un nuevo mapa.
+(Ruinas de Rauh)</text>
+<text id="241204">Se ha encontrado un nuevo mapa.
+(Abismo)</text>
+</entries>
+</fmg>

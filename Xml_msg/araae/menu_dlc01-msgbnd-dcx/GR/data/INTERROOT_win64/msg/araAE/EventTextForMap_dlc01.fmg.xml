@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1030000">ﺗﻠﻘﻳﺕ ﺧﺭﻳﻁﺔ ﻣﻭاﻗﻊ اﻟﺻﻠﺑﺎن.
+ﻳﻣﻛﻧﻙ ﺗﻔﻘﺩﻫﺎ ﻓﻲ اﻟﻣﺧﺯون.</text>
+<text id="1030001">ﺗﻠﻘﻳﺕ ﺧﺭﻳﻁﺔ ﻣﻭاﻗﻊ اﻟﺻﻠﺑﺎن.
+ﻳﻣﻛﻧﻙ ﺗﻔﻘﺩﻫﺎ ﻓﻲ اﻟﻣﺧﺯون.</text>
+<text id="1030002">%null%</text>
+<text id="1030003">%null%</text>
+<text id="1030004">%null%</text>
+<text id="1030005">%null%</text>
+<text id="1030006">%null%</text>
+<text id="1030007">%null%</text>
+<text id="1030008">%null%</text>
+<text id="1030009">%null%</text>
+<text id="1030010">ﺗﻠﻘﻳﺕ ﺧﺭﻳﻁﺔ اﻷﻧﻘﺎض اﻟﻘﺩﻳﻣﺔ.
+ﻳﻣﻛﻧﻙ ﺗﻔﻘﺩﻫﺎ ﻓﻲ اﻟﻣﺧﺯون.</text>
+<text id="1030011">ﺗﻠﻘﻳﺕ ﺧﺭﻳﻁﺔ اﻷﻧﻘﺎض اﻟﻘﺩﻳﻣﺔ.
+ﻳﻣﻛﻧﻙ ﺗﻔﻘﺩﻫﺎ ﻓﻲ اﻟﻣﺧﺯون.</text>
+<text id="1030012">ﺗﻠﻘﻳﺕ ﺧﺭﻳﻁﺔ اﻷﻧﻘﺎض اﻟﻘﺩﻳﻣﺔ.
+ﻳﻣﻛﻧﻙ ﺗﻔﻘﺩﻫﺎ ﻓﻲ اﻟﻣﺧﺯون.</text>
+<text id="1030013">%null%</text>
+<text id="1030014">%null%</text>
+<text id="1030015">%null%</text>
+<text id="1030016">%null%</text>
+<text id="1030017">%null%</text>
+<text id="1030018">%null%</text>
+<text id="1030019">%null%</text>
+<text id="1030020">ﻛﻠﻣﺎت ﻣﺣﻔﻭرة ﺑﺟﺎﻧﺏ ﺑﻌﺿﻬﺎ.
+"أﺗﺭك ذراﻋﻲ اﻟﻳﺳﺭى ﻫﻧﺎ."</text>
+<text id="1030021">ﻛﻠﻣﺎت ﻣﺣﻔﻭرة ﺑﺟﺎﻧﺏ ﺑﻌﺿﻬﺎ.
+"أﺗﺭك ﻋﻳﻧﻲ ﻫﻧﺎ."</text>
+<text id="1030022">ﻛﻠﻣﺎت ﻣﺣﻔﻭرة ﺑﺟﺎﻧﺏ ﺑﻌﺿﻬﺎ.
+"أﺗﺭك أول ﺟﺯء ﻣﻥ ﺟﺳﺩي ﻫﻧﺎ."</text>
+<text id="1030023">ﻛﻠﻣﺎت ﻣﺣﻔﻭرة ﺑﺟﺎﻧﺏ ﺑﻌﺿﻬﺎ.
+"أﺗﺭكُ ﺟﺯءًا ﻣﻥ ﻟﺣﻡ ﺟﺳﺩي ﻫﻧﺎ."</text>
+<text id="1030024">ﻛﻠﻣﺎت ﻣﺣﻔﻭرة ﺑﺟﺎﻧﺏ ﺑﻌﺿﻬﺎ.
+"أﺗﺭك ﻗﻠﺑﻲ ﻫﻧﺎ."</text>
+<text id="1030025">ﻛﻠﻣﺎت ﻣﺣﻔﻭرة ﺑﺟﺎﻧﺏ ﺑﻌﺿﻬﺎ.
+"أﺗﺭك اﻟﺷﻙ واﻟﺗﺭدد ﻫﻧﺎ."</text>
+<text id="1030026">ﻛﻠﻣﺎت ﻣﺣﻔﻭرة ﺑﺟﺎﻧﺏ ﺑﻌﺿﻬﺎ.
+"أﺗﺭك آﺧﺭ ﺟﺯء ﻣﻥ ﺟﺳﺩي ﻫﻧﺎ."</text>
+<text id="1030027">ﻛﻠﻣﺎت ﻣﺣﻔﻭرة ﺑﺟﺎﻧﺏ ﺑﻌﺿﻬﺎ.
+"أﺗﺭكُ ﺟﺯءًا ﻣﻥ ﻟﺣﻡ ﺟﺳﺩي ﻫﻧﺎ."</text>
+<text id="1030028">ﻛﻠﻣﺎت ﻣﺣﻔﻭرة ﺑﺟﺎﻧﺏ ﺑﻌﺿﻬﺎ.
+"أﺗﺭك ﻛﻝ ﻣﺧﺎوﻓﻲ ﻫﻧﺎ."</text>
+<text id="1030029">ﻛﻠﻣﺎت ﻣﺣﻔﻭرة ﺑﺟﺎﻧﺏ ﺑﻌﺿﻬﺎ.
+"أﺗﺭك ﺣﺑﻲ ﻫﻧﺎ."</text>
+<text id="1030030">ﻁﻔﻠﻲ اﻟﻌﺯﻳﺯ ﻳﻭري، رﺣﻠﺕ ﻗﺑﻝ أواﻧﻙ.</text>
+<text id="1030031">%null%</text>
+<text id="1030032">%null%</text>
+<text id="1030033">%null%</text>
+<text id="1030034">%null%</text>
+<text id="1030035">%null%</text>
+<text id="1030036">%null%</text>
+<text id="1030037">%null%</text>
+<text id="1030038">%null%</text>
+<text id="1030039">%null%</text>
+<text id="1030040">ﺑﻣﻛﺎن ﻣﺎ، ﺣُﻁﻡ رون ﻋﻅﻳﻡ...</text>
+<text id="1030041">وﻳﻣﺗﻠﻙ ﺗﻣﻳﻣﺔ ﻗﻭﻳﺔ أﻳﺿًﺎ.</text>
+<text id="1030042">%null%</text>
+<text id="1030043">%null%</text>
+<text id="1030044">%null%</text>
+<text id="1030045">%null%</text>
+<text id="1030046">%null%</text>
+<text id="1030047">%null%</text>
+<text id="1030048">%null%</text>
+<text id="1030049">%null%</text>
+<text id="1030050">ﻛﻠﻣﺎت ﻣﺣﻔﻭرة ﺑﺟﺎﻧﺏ ﺑﻌﺿﻬﺎ.
+"أﺗﺭك ﺟﺳﺩي ﻫﻧﺎ."</text>
+<text id="1030051">ﻛﻠﻣﺎت ﻣﺣﻔﻭرة ﺑﺟﺎﻧﺏ ﺑﻌﺿﻬﺎ.
+"أﺗﺭك ذراﻋﻲ اﻟﻳﻣﻧﻰ ﻫﻧﺎ."</text>
+<text id="1030052">ﻛﻠﻣﺎت ﻣﺣﻔﻭرة ﺑﺟﺎﻧﺏ ﺑﻌﺿﻬﺎ.
+"أﺗﺭك ﻟﺣﻡ ﻣﻥ ﺟﺳﺩي ﻫﻧﺎ."</text>
+<text id="2020000">اﻟﺗﻭﺟﻪ إﻟﻰ ﻣﻣﻠﻛﺔ اﻟﻅﻝ؟</text>
+<text id="2020001">%null%</text>
+<text id="2020002">ﺗﺧﻔﻳﻬﺎ اﻟﻅﻼل وﺗﻣﺗﻠﻙ ﺧﺗﻣًﺎ.</text>
+<text id="2020003">%null%</text>
+<text id="2020004">ﻳﺧﻔﻳﻬﺎ ﻣﻳﻛﻼ وﺗﻣﺗﻠﻙ ﺧﺗﻣًﺎ.</text>
+<text id="2020025">رﻓﻊ ﺳﻳﻑ اﻟﻐﻣﺩ اﻟﺣﺟﺭي ﻓﻲ اﻟﺿﻭء؟</text>
+<text id="2020026">رﻓﻊ ﺳﻳﻑ اﻟﻐﻣﺩ اﻟﺣﺟﺭي ﻓﻲ اﻟﻅﻼم؟</text>
+<text id="2020027">رﻓﻊ ﺳﻳﻑ اﻟﻅﻼم ﻓﻲ اﻟﺿﻭء؟</text>
+<text id="2020028">رﻓﻊ ﺳﻳﻑ اﻟﻅﻼم ﻓﻲ اﻟﻅﻼم؟</text>
+<text id="2020029">%null%</text>
+<text id="2020030">ﻓﻲ ﻣﻛﺎن ﻣﺎ، ﺗﻡ ﻓﺗﺢ ﻳﻧﺑﻭع اﻷرواح</text>
+<text id="2030000">إﺣﺭاق اﻟﺷﺟﺭة ذات اﻟﺧﺗﻡ؟</text>
+<text id="2030001">ﺗﺣﺟﺏ اﻟﺷﺟﺭة ذات اﻟﺧﺗﻡ اﻟﺑﺭج ﺑﻅﻼﻟﻬﺎ.
+ﻻ ﻳﻣﻛﻥ ﺣﺭﻗﻪ دون اﺳﺗﺧﺩام إﺷﻌﺎل ﻣﻳﺳﻣﺭ.</text>
+<text id="2062000">ﻣﺭﻛﺯ اﻷراﺿﻲ اﻟﻭﺳﻁﻰ.
+ﻳﺗﻡ ﺗﻁﻬﻳﺭ ﺟﻣﻳﻊ أﺷﻛﺎل اﻟﻣﻭت ﻫﻧﺎ، ﻓﻘﻁ ﻟﻳﺗﻡ ﻗﻣﻌﻬﺎ.</text>
+<text id="2080601">ﻫﻝ ﻳﻣﻛﻥ اﺳﺗﺩﻋﺎؤك ﻟﻣﺳﺎﻋﺩة ﻟﻳﺩا ﻓﺎرﺳﺔ اﻹﺑﺭة؟</text>
+<text id="2080602">ﻫﻝ ﻳﻣﻛﻥ اﺳﺗﺩﻋﺎؤك ﻟﻣﺳﺎﻋﺩة اﻟﺳﻳﺩ آﻧﺳﺑﺎخ؟</text>
+<text id="2080603">ﻫﻝ ﻳﻣﻛﻥ اﺳﺗﺩﻋﺎؤك ﻟﻣﺳﺎﻋﺩة ﻟﻳﺩا ﻓﺎرﺳﺔ اﻹﺑﺭة؟</text>
+<text id="2080604">ﻫﻝ ﻳﻣﻛﻥ اﺳﺗﺩﻋﺎؤك ﻟﻣﺳﺎﻋﺩة ﻫﻭرﻧﺳﻧﺕ؟</text>
+<text id="2080605">ﻫﻝ ﻳﻣﻛﻥ اﺳﺗﺩﻋﺎؤك ﻟﺗﺣﺩي ﻟﻳﺩا ﻓﺎرﺳﺔ اﻹﺑﺭة وﺣﻠﻔﺎﺋﻬﺎ؟</text>
+<text id="2080800">ﻫﻝ ﻟﺩﻳﻙ رﻏﺑﺔ ﻓﻲ اﺳﺗﺩﻋﺎء إﻳﻐﻭن ﻣﺣﺎرب اﻟﺗﻧﻳﻥ؟</text>
+<text id="2080801">%null%</text>
+<text id="2080802">%null%</text>
+<text id="2080803">%null%</text>
+<text id="2080804">%null%</text>
+<text id="2080805">%null%</text>
+<text id="2080806">%null%</text>
+<text id="2080807">%null%</text>
+<text id="2080808">%null%</text>
+<text id="2080809">%null%</text>
+<text id="2080810">ﻫﻝ ﻟﺩﻳﻙ رﻏﺑﺔ ﻓﻲ اﺳﺗﺩﻋﺎء ﺛﻳﻭﻟﻳﻳﻪ؟</text>
+<text id="2080840">اﺳﺗﺩﻋﺎء آﻧﺳﺑﺎخ ﻓﺎرس اﻟﺩﻣﺎء اﻟﻧﻘﻳﺔ؟
+ﻟﻥ ﻳﺻﻝ ﻫﺫا اﻟﻣﺗﻌﺎون إﻻ ﻓﻲ اﻟﻭﻗﺕ اﻟﻣﻧﺎﺳﺏ.</text>
+<text id="2080841">%null%</text>
+<text id="2080842">%null%</text>
+<text id="2080843">%null%</text>
+<text id="2080844">%null%</text>
+<text id="2080845">%null%</text>
+<text id="2080846">%null%</text>
+<text id="2080847">%null%</text>
+<text id="2080848">%null%</text>
+<text id="2080849">%null%</text>
+<text id="2080850">اﺳﺗﺩﻋﺎء ﺛﻳﻭﻟﻳﻳﻪ؟
+ﻟﻥ ﻳﺻﻝ ﻫﺫا اﻟﻣﺗﻌﺎون إﻻ ﻓﻲ اﻟﻭﻗﺕ اﻟﻣﻧﺎﺳﺏ.</text>
+<text id="2080851">%null%</text>
+<text id="2080852">%null%</text>
+<text id="2080853">%null%</text>
+<text id="2080854">%null%</text>
+<text id="2080855">%null%</text>
+<text id="2080856">%null%</text>
+<text id="2080857">%null%</text>
+<text id="2080858">%null%</text>
+<text id="2080859">%null%</text>
+<text id="2080860">اﺳﺗﺩﻋﺎء ﻧﺎﺗﺎن اﻟﻧﺑﻳﻝ اﻟﺩﻣﻭي؟
+ﻟﻥ ﻳﺻﻝ ﻫﺫا اﻟﻣﺗﻌﺎون إﻻ ﻓﻲ اﻟﻭﻗﺕ اﻟﻣﻧﺎﺳﺏ.</text>
+<text id="2080861">%null%</text>
+<text id="2080862">%null%</text>
+<text id="2080863">%null%</text>
+<text id="2080864">%null%</text>
+<text id="2080865">%null%</text>
+<text id="2080866">%null%</text>
+<text id="2080867">%null%</text>
+<text id="2080868">%null%</text>
+<text id="2080869">%null%</text>
+<text id="2080870">اﺳﺗﺩﻋﺎء ﻫﻭرﻧﺳﻧﺕ؟</text>
+<text id="2080871">%null%</text>
+<text id="2080872">%null%</text>
+<text id="2080873">%null%</text>
+<text id="2080874">%null%</text>
+<text id="2080875">%null%</text>
+<text id="2080876">%null%</text>
+<text id="2080877">%null%</text>
+<text id="2080878">%null%</text>
+<text id="2080879">%null%</text>
+<text id="2080880">اﺳﺗﺩﻋﺎء ﺟﻭﻻن ﻣﺑﺎرزة اﻟﻠﻳﻝ؟</text>
+<text id="20208004">ﺗﻡ اﺳﺗﺧﺩام &lt;?gdsparam@2008004?&gt;</text>
+<text id="20208005">ﺗﻡ اﺳﺗﺧﺩام &lt;?gdsparam@2008005?&gt;</text>
+<text id="20208006">ﺗﻡ اﺳﺗﺧﺩام &lt;?gdsparam@2008006?&gt;</text>
+<text id="20208007">%null%</text>
+<text id="20208008">%null%</text>
+<text id="20208009">%null%</text>
+<text id="20208010">%null%</text>
+<text id="20208011">%null%</text>
+<text id="20208012">%null%</text>
+<text id="20208013">ﺗﻡ اﺳﺗﺧﺩام &lt;?gdsparam@2008013?&gt;</text>
+<text id="20208014">%null%</text>
+<text id="20208015">%null%</text>
+<text id="20208016">%null%</text>
+<text id="20208017">%null%</text>
+<text id="20208018">%null%</text>
+<text id="20208019">%null%</text>
+<text id="20208020">%null%</text>
+<text id="20208021">%null%</text>
+<text id="20208022">%null%</text>
+<text id="20208023">ﺗﻡ اﺳﺗﺧﺩام &lt;?gdsparam@2008023?&gt;</text>
+<text id="20208036">اﺳﺗﺧﺩام &lt;?gdsparam@2008036?&gt;</text>
+</entries>
+</fmg>

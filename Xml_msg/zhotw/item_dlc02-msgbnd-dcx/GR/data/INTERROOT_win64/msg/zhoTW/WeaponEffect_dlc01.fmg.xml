@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1200">能強化指頭的魔法</text>
+<text id="1201">能強化米凱拉的禱告</text>
+<text id="1202">能強化梅瑟莫之火的禱告</text>
+<text id="1203">能強化螺旋的禱告</text>
+<text id="6800">累積永眠量表（&lt;?sleepATKpwr?&gt;）</text>
+</entries>
+</fmg>

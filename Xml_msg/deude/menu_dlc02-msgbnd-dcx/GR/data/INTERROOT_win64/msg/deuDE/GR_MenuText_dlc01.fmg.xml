@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="10410">Segen des Scadubaums</text>
+<text id="10411">Segen der Verehrten Geisterasche</text>
+<text id="30205">Macht des Segens des Scadubaums.
+Betrifft nur diejenigen im Reich der Schatten,
+die den Segen des Scadubaums erhalten haben.</text>
+<text id="30206">Macht des Segens der Verehrten Geisterasche.
+Betrifft nur innerhalb des Reichs der Schatten beschworene Geister und das Spektralross.</text>
+<text id="40382">Nur Tastatur</text>
+<text id="40383">Tastatur und Maus</text>
+<text id="40524">Kürzl. verw. Objekte</text>
+<text id="60180">Hand-zu-Hand</text>
+<text id="60181">Parfümflasche</text>
+<text id="60182">Stoßschild</text>
+<text id="60183">Wurfklinge</text>
+<text id="60184">Rückhandklinge</text>
+<text id="60185">Leichtes Großschwert</text>
+<text id="60186">Großkatana</text>
+<text id="60187">Bestienklaue</text>
+<text id="63051">Zur Verwendung mit Hand-zu-Hand-Waffen.</text>
+<text id="63052">Zur Verwendung mit Parfümflaschen.</text>
+<text id="63053">Zur Verwendung mit Stoßschilden.</text>
+<text id="63054">Zur Verwendung mit Wurfklingen.</text>
+<text id="63055">Zur Verwendung mit Rückhandklingen.</text>
+<text id="63056">Zur Verwendung mit leichten Großschwertern.</text>
+<text id="63057">Zur Verwendung mit Großkatanas.</text>
+<text id="63058">Zur Verwendung mit Bestienklauen.</text>
+<text id="63059">Zur Verwendung mit durchbohrenden Waffen (außer mit Klauen und Rückhandklingen).</text>
+<text id="63060">Zur Verwendung mit großen Schwertern und Riesenschwertern.</text>
+<text id="63061">Zur Verwendung mit Schwertern und Speeren (außer mit kleinen Waffen, Doppelklingen und Rückhandklingen).</text>
+<text id="80020">Schw. gesp. Topf</text>
+<text id="110600">Anzeige</text>
+<text id="110601">Neue Objekte markieren</text>
+<text id="110602">%null%</text>
+<text id="110603">Kürzl. verw. Objekte anzeigen</text>
+<text id="110700">Klang</text>
+<text id="111024">Cursor-Bewegung im Kartenmenü</text>
+<text id="111025">Empfindlichkeit bei Zieländerung</text>
+<text id="225001">Drachenkommunion: Bayle</text>
+<text id="225002">%null%</text>
+<text id="225003">%null%</text>
+<text id="225004">%null%</text>
+<text id="225005">%null%</text>
+<text id="225006">%null%</text>
+<text id="225007">%null%</text>
+<text id="225008">%null%</text>
+<text id="225009">%null%</text>
+<text id="225010">%null%</text>
+<text id="225011">Opfergaben</text>
+<text id="241337">Scadu Altus</text>
+<text id="241338">Himmelblaues Ufer</text>
+<text id="241339">Fuß des Klingengipfels</text>
+<text id="241340">Klingengipfel</text>
+<text id="241341">Charos verstecktes Grab</text>
+<text id="241342">Uralte Ruinen von Rauh</text>
+<text id="241343">Aussicht von Scadu</text>
+<text id="241344">Abgrundwald</text>
+<text id="241345">Belurat, Turmsiedlung</text>
+<text id="241346">Enir-Ilim</text>
+<text id="241347">Schattenbergfried</text>
+<text id="241348">Schattenbergfried, Kirchenbezirk</text>
+<text id="241349">Probenlager</text>
+<text id="241350">Riss im Steinsarg</text>
+<text id="241351">Midras Pfarrhaus</text>
+<text id="241352">Schloss Ensis</text>
+<text id="241353">Grabfeld-Ebene</text>
+<text id="241354">Fuß von Rauh</text>
+<text id="241417">Grabfeld-Ebene</text>
+<text id="241418">Scadu Altus</text>
+<text id="241419">Land des Turms</text>
+<text id="241420">Schattenbergfried</text>
+<text id="241500">Kartenfunktionsmenü</text>
+<text id="241501">Mehrspieler-Statusanzeige</text>
+<text id="241502">Herbeirufungsreserven-Liste</text>
+<text id="241503">Steuerung ansehen</text>
+<text id="241504">Menüerklärung</text>
+<text id="241600">Herbeirufungsreserven-Liste</text>
+<text id="280060">Menü</text>
+<text id="280600">Karte</text>
+<text id="331340">HERZ GESTOHLEN</text>
+</entries>
+</fmg>

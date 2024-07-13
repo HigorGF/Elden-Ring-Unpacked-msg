@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="200000">전회 「낙엽 선풍각」</text>
+<text id="200100">전회 「도가니의 모습/날개」</text>
+<text id="400000">전회 「중력 회전 찌르기」</text>
+<text id="401000">전회 「발경」</text>
+<text id="402000">전회 「관통 투척」</text>
+<text id="403000">전회 「산탄 투척」</text>
+<text id="404000">전회 「둘러싼 불꽃의 향기」</text>
+<text id="405000">전회 「늘어선 불꽃의 향기」</text>
+<text id="406000">전회 「짐승의 급습」</text>
+<text id="407000">전회 「짐승 발톱 공격」</text>
+<text id="409000">전회 「사각에서의 일격」</text>
+<text id="410000">전회 「속참」</text>
+<text id="411000">전회 「대상단」</text>
+<text id="412000">전회 「편익의 자세」</text>
+<text id="413000">전회 「순뢰」</text>
+<text id="414000">전회 「불의 관통」</text>
+<text id="415000">전회 「용맹한 사자 베기」</text>
+<text id="416000">전회 「신수 서리 밟기」</text>
+<text id="417000">전회 「불의 창」</text>
+<text id="418000">전회 「로얄 카리아」</text>
+<text id="419000">전회 「비통한 외침」</text>
+<text id="422000">전회 「영혼 불꽃 부르기」</text>
+<text id="505000">전회 「독꽃은 두 번 찌른다」</text>
+<text id="548000">전회 「에이곤의 용 사냥」</text>
+<text id="800000">전회 「방패 공격」</text>
+</entries>
+</fmg>

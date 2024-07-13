@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="80">그림자 나무의 가호</text>
+<text id="81">영혼 재의 가호</text>
+<text id="205">처음 입수한 아이템</text>
+<text id="206">최근에 입수한 아이템</text>
+<text id="207">사인 대기소 유지</text>
+</entries>
+</fmg>

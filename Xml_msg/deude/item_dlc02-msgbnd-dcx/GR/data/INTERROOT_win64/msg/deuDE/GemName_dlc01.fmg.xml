@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="200000">Kriegsasche: Trockenblatt-Wirbelwind</text>
+<text id="200100">Kriegsasche: Aspekt des Schmelztiegels (Flügel)</text>
+<text id="400000">Kriegsasche: Wirbelnder Schwerkraftstoß</text>
+<text id="401000">Kriegsasche: Handexplosion</text>
+<text id="402000">Kriegsasche: Durchbohrender Wurf</text>
+<text id="403000">Kriegsasche: Streuschuss-Wurf</text>
+<text id="404000">Kriegsasche: Funkenwand</text>
+<text id="405000">Kriegsasche: Rollende Funken</text>
+<text id="406000">Kriegsasche: Tobende Bestie</text>
+<text id="407000">Kriegsasche: Wilde Klauen</text>
+<text id="409000">Kriegsasche: Toter Winkel</text>
+<text id="410000">Kriegsasche: Schneller Schnitt</text>
+<text id="411000">Kriegsasche: Überkopf-Haltung</text>
+<text id="412000">Kriegsasche: Flügelhaltung</text>
+<text id="413000">Kriegsasche: Blitzbolzen</text>
+<text id="414000">Kriegsasche: Flammenspieß</text>
+<text id="415000">Kriegsasche: Wilde Löwenkralle</text>
+<text id="416000">Kriegsasche: Göttliches Bestien-Froststampfen</text>
+<text id="417000">Kriegsasche: Flammenspeer</text>
+<text id="418000">Kriegsasche: Carianische Souveränität</text>
+<text id="419000">Kriegsasche: Schrei des Kummers</text>
+<text id="422000">Kriegsasche: Ruf der Geisterflamme</text>
+<text id="505000">Kriegsasche: Die giftige Blume blüht zweimal</text>
+<text id="548000">Kriegsasche: Igons Drachlingjagd</text>
+<text id="800000">Kriegsasche: Schildangriff</text>
+</entries>
+</fmg>

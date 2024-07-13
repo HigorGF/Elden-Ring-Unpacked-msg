@@ -1,0 +1,1075 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="2000">戰技：落葉旋風腳
+
+丹恩流踢擊術的奧義。
+連續迴旋踢的同時身體上浮，最後下踢的戰技。
+踢擊會纏繞氣，因此攻擊範圍較廣。</text>
+<text id="2001">戰技：熔爐百相之羽
+
+源自熔爐生命的戰技。
+能形成黃金雙翼，飛起的同時高舉武器突擊。
+裝備雙頭劍時，突擊會變成迴旋攻擊。</text>
+<text id="4000">戰技：重力旋刺
+
+過去師從白王的人們學習的重力招式。
+藉由重力浮起，再全身旋轉展開突刺。
+再次發動能再一次突刺。</text>
+<text id="4001">%null%</text>
+<text id="4002">%null%</text>
+<text id="4003">%null%</text>
+<text id="4004">%null%</text>
+<text id="4005">%null%</text>
+<text id="4006">%null%</text>
+<text id="4007">%null%</text>
+<text id="4008">%null%</text>
+<text id="4009">%null%</text>
+<text id="4010">戰技：發勁
+
+人稱「落葉派」的求道者們使用的戰技。
+將氣運至掌底，出掌後引發爆炸。
+攻擊威力與衝擊力道的表現皆優秀，
+藉由蓄力發動，能提升威力。</text>
+<text id="4011">%null%</text>
+<text id="4012">%null%</text>
+<text id="4013">%null%</text>
+<text id="4014">%null%</text>
+<text id="4015">%null%</text>
+<text id="4016">%null%</text>
+<text id="4017">%null%</text>
+<text id="4018">%null%</text>
+<text id="4019">%null%</text>
+<text id="4020">戰技：貫穿投擲
+
+在武器纏繞強力旋流，再投擲而出的戰技。
+飛翔距離會比平時更長，能夠貫穿敵人。</text>
+<text id="4021">%null%</text>
+<text id="4022">%null%</text>
+<text id="4023">%null%</text>
+<text id="4024">%null%</text>
+<text id="4025">%null%</text>
+<text id="4026">%null%</text>
+<text id="4027">%null%</text>
+<text id="4028">%null%</text>
+<text id="4029">%null%</text>
+<text id="4030">戰技：多重投擲
+
+透過鍛造術的力量，在雙手複製出武器，
+再同時、大量投擲出去的戰技。
+再次發動能再一次投擲。</text>
+<text id="4031">%null%</text>
+<text id="4032">%null%</text>
+<text id="4033">%null%</text>
+<text id="4034">%null%</text>
+<text id="4035">%null%</text>
+<text id="4036">%null%</text>
+<text id="4037">%null%</text>
+<text id="4038">%null%</text>
+<text id="4039">%null%</text>
+<text id="4040">戰技：四面火花香
+
+在自身周圍大範圍釋放香粉，
+一定時間後，形成大型火花的戰技。
+藉由蓄力發動能提升威力，擴大火花的範圍。
+火花的性質會隨著調香瓶的種類變化。</text>
+<text id="4041">%null%</text>
+<text id="4042">%null%</text>
+<text id="4043">%null%</text>
+<text id="4044">%null%</text>
+<text id="4045">%null%</text>
+<text id="4046">%null%</text>
+<text id="4047">%null%</text>
+<text id="4048">%null%</text>
+<text id="4049">%null%</text>
+<text id="4050">戰技：串聯火花香
+
+朝前方釋放香粉，一定時間後，
+形成先後出現的大型火花的戰技。
+火花的性質會隨著調香瓶的種類變化。</text>
+<text id="4051">%null%</text>
+<text id="4052">%null%</text>
+<text id="4053">%null%</text>
+<text id="4054">%null%</text>
+<text id="4055">%null%</text>
+<text id="4056">%null%</text>
+<text id="4057">%null%</text>
+<text id="4058">%null%</text>
+<text id="4059">%null%</text>
+<text id="4060">戰技：野獸突襲
+
+如野獸般地向前快速踏步，
+再跳至半空，撕裂敵人的戰技。
+能控制往前後，或是左右方向踏步。
+發動後接著使出重攻擊，能追加攻擊。</text>
+<text id="4061">%null%</text>
+<text id="4062">%null%</text>
+<text id="4063">%null%</text>
+<text id="4064">%null%</text>
+<text id="4065">%null%</text>
+<text id="4066">%null%</text>
+<text id="4067">%null%</text>
+<text id="4068">%null%</text>
+<text id="4069">%null%</text>
+<text id="4070">戰技：野獸爪擊
+
+如野獸般地壓低身形，跳起後揮舞左右雙爪，
+猛力撕裂敵人的戰技。</text>
+<text id="4071">%null%</text>
+<text id="4072">%null%</text>
+<text id="4073">%null%</text>
+<text id="4074">%null%</text>
+<text id="4075">%null%</text>
+<text id="4076">%null%</text>
+<text id="4077">%null%</text>
+<text id="4078">%null%</text>
+<text id="4079">%null%</text>
+<text id="4080">專用戰技：紅熊獵法
+
+大幅高舉手臂，用銳利爪子撕裂獵物的戰技。
+攻擊時會形成真空，給予連續傷害。
+再次發動能使出最多兩次的追擊。</text>
+<text id="4081">%null%</text>
+<text id="4082">%null%</text>
+<text id="4083">%null%</text>
+<text id="4084">%null%</text>
+<text id="4085">%null%</text>
+<text id="4086">%null%</text>
+<text id="4087">%null%</text>
+<text id="4088">%null%</text>
+<text id="4089">%null%</text>
+<text id="4090">戰技：死角一擊
+
+壓低身形踏出步伐，與敵人拉近距離，
+再從側面死角攻擊的戰技。
+能控制往左、右方踏出步伐，
+也能繞過武器的防禦，進行攻擊。</text>
+<text id="4091">%null%</text>
+<text id="4092">%null%</text>
+<text id="4093">%null%</text>
+<text id="4094">%null%</text>
+<text id="4095">%null%</text>
+<text id="4096">%null%</text>
+<text id="4097">%null%</text>
+<text id="4098">%null%</text>
+<text id="4099">%null%</text>
+<text id="4100">戰技：迅斬
+
+角人劍士繼承而來的戰技。
+在迅速踏出步伐的同時，砍向敵人。
+攻擊快而凌厲，會形成撕裂敵人的真空。
+藉由蓄力發動能提升威力，增加踏出步伐時的距離。</text>
+<text id="4101">%null%</text>
+<text id="4102">%null%</text>
+<text id="4103">%null%</text>
+<text id="4104">%null%</text>
+<text id="4105">%null%</text>
+<text id="4106">%null%</text>
+<text id="4107">%null%</text>
+<text id="4108">%null%</text>
+<text id="4109">%null%</text>
+<text id="4110">戰技：大上段
+
+將劍高舉過頭，擺出架式的戰技。
+輕攻擊能向前踏出再下砍。
+重攻擊能使出連續下砍。</text>
+<text id="4111">%null%</text>
+<text id="4112">%null%</text>
+<text id="4113">%null%</text>
+<text id="4114">%null%</text>
+<text id="4115">%null%</text>
+<text id="4116">%null%</text>
+<text id="4117">%null%</text>
+<text id="4118">%null%</text>
+<text id="4119">%null%</text>
+<text id="4120">戰技：單翼架式
+
+將武器向右平舉，擺出架式後靜止不動，
+接著使出攻擊的戰技。
+輕攻擊能使出高速三連擊。
+重攻擊能在跳起之後，使出突刺。</text>
+<text id="4121">%null%</text>
+<text id="4122">%null%</text>
+<text id="4123">%null%</text>
+<text id="4124">%null%</text>
+<text id="4125">%null%</text>
+<text id="4126">%null%</text>
+<text id="4127">%null%</text>
+<text id="4128">%null%</text>
+<text id="4129">%null%</text>
+<text id="4130">戰技：瞬雷
+
+侍奉葛德文的黃金騎士們使用的戰技。
+壓低身形擺出架式，將自身化為雷電，
+朝前方快速移動。</text>
+<text id="4131">%null%</text>
+<text id="4132">%null%</text>
+<text id="4133">%null%</text>
+<text id="4134">%null%</text>
+<text id="4135">%null%</text>
+<text id="4136">%null%</text>
+<text id="4137">%null%</text>
+<text id="4138">%null%</text>
+<text id="4139">%null%</text>
+<text id="4140">戰技：火焰穿刺
+
+「火焰騎士」昆蘭的戰技。
+在武器纏繞火焰，壓低身形向前踏出，
+一口氣刺穿敵人。
+使出重攻擊，能釋放追擊火焰。</text>
+<text id="4141">%null%</text>
+<text id="4142">%null%</text>
+<text id="4143">%null%</text>
+<text id="4144">%null%</text>
+<text id="4145">%null%</text>
+<text id="4146">%null%</text>
+<text id="4147">%null%</text>
+<text id="4148">%null%</text>
+<text id="4149">%null%</text>
+<text id="4150">戰技：勇猛獅子斬
+
+在紅獅子之中，特別勇猛的戰士使用的戰技。
+能朝前方跳躍，一邊旋身一邊以武器敲擊。
+再次發動，能再一次以武器敲擊。</text>
+<text id="4151">%null%</text>
+<text id="4152">%null%</text>
+<text id="4153">%null%</text>
+<text id="4154">%null%</text>
+<text id="4155">%null%</text>
+<text id="4156">%null%</text>
+<text id="4157">%null%</text>
+<text id="4158">%null%</text>
+<text id="4159">%null%</text>
+<text id="4160">戰技：神獸凍霜踏地
+
+神獸舞獅展現憤怒的戰技。
+能舉起腳大力踏向地面，
+讓劇烈凍霜朝前方隨之擴散。
+藉由蓄力發動能提升威力，擴大凍霜擴散的範圍。</text>
+<text id="4161">%null%</text>
+<text id="4162">%null%</text>
+<text id="4163">%null%</text>
+<text id="4164">%null%</text>
+<text id="4165">%null%</text>
+<text id="4166">%null%</text>
+<text id="4167">%null%</text>
+<text id="4168">%null%</text>
+<text id="4169">%null%</text>
+<text id="4170">戰技：火焰槍
+
+火焰騎士的首席，庫德的戰技。
+將武器指向前方，擺出準備突刺的架式，
+再朝前方釋放火焰槍。
+藉由蓄力發動能提升威力、提升槍的飛翔距離。</text>
+<text id="4171">%null%</text>
+<text id="4172">%null%</text>
+<text id="4173">%null%</text>
+<text id="4174">%null%</text>
+<text id="4175">%null%</text>
+<text id="4176">%null%</text>
+<text id="4177">%null%</text>
+<text id="4178">%null%</text>
+<text id="4179">%null%</text>
+<text id="4180">戰技：尊矣卡利亞
+
+卡利亞王室成員傳承而來的戰技。
+將劍身化為魔力大劍，再向下揮舞。
+再次發動，能大範圍水平橫掃。
+上述攻擊能藉由蓄力發動，提升威力。</text>
+<text id="4181">%null%</text>
+<text id="4182">%null%</text>
+<text id="4183">%null%</text>
+<text id="4184">%null%</text>
+<text id="4185">%null%</text>
+<text id="4186">%null%</text>
+<text id="4187">%null%</text>
+<text id="4188">%null%</text>
+<text id="4189">%null%</text>
+<text id="4190">戰技：悲慟慘叫
+
+遭受蹂躪的人們使用的戰技。
+慘叫出聲，讓周圍敵人陷入硬直的同時，
+再回想起深仇大恨，提升自身的攻擊力。
+自身的ＨＰ越低，效果越佳。</text>
+<text id="4191">%null%</text>
+<text id="4192">%null%</text>
+<text id="4193">%null%</text>
+<text id="4194">%null%</text>
+<text id="4195">%null%</text>
+<text id="4196">%null%</text>
+<text id="4197">%null%</text>
+<text id="4198">%null%</text>
+<text id="4199">%null%</text>
+<text id="4200">戰技：盾牌攻擊
+
+透過盾牌進行攻擊的戰技。
+再次發動能使出最多三次的追擊。</text>
+<text id="4201">%null%</text>
+<text id="4202">%null%</text>
+<text id="4203">%null%</text>
+<text id="4204">%null%</text>
+<text id="4205">%null%</text>
+<text id="4206">%null%</text>
+<text id="4207">%null%</text>
+<text id="4208">%null%</text>
+<text id="4209">%null%</text>
+<text id="4210">戰技：埃貢的獵龍
+
+「龍戰士」埃貢的戰技。
+能側身拉開大弓，發出咆哮的同時
+扭轉弓弦射擊，藉此大幅提升攻擊力。</text>
+<text id="4211">%null%</text>
+<text id="4212">%null%</text>
+<text id="4213">%null%</text>
+<text id="4214">%null%</text>
+<text id="4215">%null%</text>
+<text id="4216">%null%</text>
+<text id="4217">%null%</text>
+<text id="4218">%null%</text>
+<text id="4219">%null%</text>
+<text id="4220">戰技：喚起靈火
+
+在指向前方的武器，召喚靈火的戰技。
+輕攻擊能釋放爬行地面的靈火；
+重攻擊能引爆靈火，形成大爆炸。</text>
+<text id="5000">專用戰技：傷龍斬
+
+狩獵巨大龍而有的戰技。
+將氣纏繞在碎石倒刺後跳起，
+跳到最高點之後，再向下斬擊。
+藉由蓄力發動，能釋放氣。</text>
+<text id="5001">%null%</text>
+<text id="5002">%null%</text>
+<text id="5003">%null%</text>
+<text id="5004">%null%</text>
+<text id="5005">%null%</text>
+<text id="5006">%null%</text>
+<text id="5007">%null%</text>
+<text id="5008">%null%</text>
+<text id="5009">%null%</text>
+<text id="5010">專用戰技：貫刺針
+
+「金針騎士」蕾妲的戰技。
+形成十根黃金針，瞬間貫穿敵人。
+能消除受貫穿對象的特殊效果，
+以及所有異常狀態。</text>
+<text id="5011">%null%</text>
+<text id="5012">%null%</text>
+<text id="5013">%null%</text>
+<text id="5014">%null%</text>
+<text id="5015">%null%</text>
+<text id="5016">%null%</text>
+<text id="5017">%null%</text>
+<text id="5018">%null%</text>
+<text id="5019">%null%</text>
+<text id="5020">專用戰技：光明
+
+讓刻劃在劍身的光芒，釋放而出的戰技。
+將劍身舉至半空，形成眩目光芒，
+再以數道光線橫掃周圍。
+能暫時提升自身的聖屬性攻擊力。</text>
+<text id="5021">%null%</text>
+<text id="5022">%null%</text>
+<text id="5023">%null%</text>
+<text id="5024">%null%</text>
+<text id="5025">%null%</text>
+<text id="5026">%null%</text>
+<text id="5027">%null%</text>
+<text id="5028">%null%</text>
+<text id="5029">%null%</text>
+<text id="5030">專用戰技：黑暗
+
+將劍舉至半空，以黑暗橫掃周圍的戰技。
+給予敵人聖屬性傷害的同時，
+也能暫時降低對方的聖屬性減傷率。</text>
+<text id="5031">%null%</text>
+<text id="5032">%null%</text>
+<text id="5033">%null%</text>
+<text id="5034">%null%</text>
+<text id="5035">%null%</text>
+<text id="5036">%null%</text>
+<text id="5037">%null%</text>
+<text id="5038">%null%</text>
+<text id="5039">%null%</text>
+<text id="5040">專用戰技：翁吉的連星
+
+以亞人劍聖的名字命名的戰技。
+對相連的輝石灌注魔力後，使出斬擊。
+再次發動能使出最多兩次的追擊。
+每一次追擊，威力會隨之提升。</text>
+<text id="5041">%null%</text>
+<text id="5042">%null%</text>
+<text id="5043">%null%</text>
+<text id="5044">%null%</text>
+<text id="5045">%null%</text>
+<text id="5046">%null%</text>
+<text id="5047">%null%</text>
+<text id="5048">%null%</text>
+<text id="5049">%null%</text>
+<text id="5050">戰技：雙刺毒花
+
+在腳底形成猩紅腐敗的棘刺，刺向敵人的戰技。
+對上陷入中毒或猩紅腐敗狀態的敵人，
+如果成功使出追擊，能一口氣給予大傷害。</text>
+<text id="5080">專用戰技：迴旋斷首
+
+手持武器的兩端，一邊後彎身體，
+一邊用融泥刀由上而下敲擊的戰技。
+再次發動，只要還有精力就能一直追擊。
+發動後使出重攻擊，能在跳躍之後使出迴旋攻擊。</text>
+<text id="5081">%null%</text>
+<text id="5082">%null%</text>
+<text id="5083">%null%</text>
+<text id="5084">%null%</text>
+<text id="5085">%null%</text>
+<text id="5086">%null%</text>
+<text id="5087">%null%</text>
+<text id="5088">%null%</text>
+<text id="5089">%null%</text>
+<text id="5090">專用戰技：無盡之舞
+
+激烈舞動之餘，連續使出斬擊的戰技。
+持續發動的期間，
+只要還有精力，就能一直舞動。</text>
+<text id="5091">%null%</text>
+<text id="5092">%null%</text>
+<text id="5093">%null%</text>
+<text id="5094">%null%</text>
+<text id="5095">%null%</text>
+<text id="5096">%null%</text>
+<text id="5097">%null%</text>
+<text id="5098">%null%</text>
+<text id="5099">%null%</text>
+<text id="5100">專用戰技：復仇之刃
+
+手持雙刀衝到敵人面前，再左右揮砍的戰技。
+持續發動能提升衝刺的距離，
+發動後接著使出重攻擊，能瘋狂揮砍。</text>
+<text id="5101">%null%</text>
+<text id="5102">%null%</text>
+<text id="5103">%null%</text>
+<text id="5104">%null%</text>
+<text id="5105">%null%</text>
+<text id="5106">%null%</text>
+<text id="5107">%null%</text>
+<text id="5108">%null%</text>
+<text id="5109">%null%</text>
+<text id="5110">專用戰技：永眠煙霧
+
+朝前方形成大範圍暗紫色煙霧的戰技。
+暗紫色煙霧具有引發異常狀態永眠的效果。</text>
+<text id="5111">%null%</text>
+<text id="5112">%null%</text>
+<text id="5113">%null%</text>
+<text id="5114">%null%</text>
+<text id="5115">%null%</text>
+<text id="5116">%null%</text>
+<text id="5117">%null%</text>
+<text id="5118">%null%</text>
+<text id="5119">%null%</text>
+<text id="5120">專用戰技：王朝鐮技
+
+優雅地閃避攻擊，與敵人拉開距離的戰技。
+能控制往左右，或往後方進行閃避。
+發動後接著使出重攻擊，能一邊前進，一邊上砍。
+再次使出重攻擊，能優雅地下砍再往後閃避。</text>
+<text id="5121">%null%</text>
+<text id="5122">%null%</text>
+<text id="5123">%null%</text>
+<text id="5124">%null%</text>
+<text id="5125">%null%</text>
+<text id="5126">%null%</text>
+<text id="5127">%null%</text>
+<text id="5128">%null%</text>
+<text id="5129">%null%</text>
+<text id="5130">專用戰技：瞬雷之對斧
+
+壓低身形擺出架式，將自身化為雷電，
+朝前方快速移動的戰技。
+發動後使出重攻擊，能使出纏繞雷電的迴旋斬。</text>
+<text id="5131">%null%</text>
+<text id="5132">%null%</text>
+<text id="5133">%null%</text>
+<text id="5134">%null%</text>
+<text id="5135">%null%</text>
+<text id="5136">%null%</text>
+<text id="5137">%null%</text>
+<text id="5138">%null%</text>
+<text id="5139">%null%</text>
+<text id="5140">專用戰技：瞬雷之長柄斧
+
+壓低身形擺出架式，將自身化為雷電，
+朝前方快速移動的戰技。
+發動後使出重攻擊，能使出纏繞雷電的跳躍斬。</text>
+<text id="5141">%null%</text>
+<text id="5142">%null%</text>
+<text id="5143">%null%</text>
+<text id="5144">%null%</text>
+<text id="5145">%null%</text>
+<text id="5146">%null%</text>
+<text id="5147">%null%</text>
+<text id="5148">%null%</text>
+<text id="5149">%null%</text>
+<text id="5150">專用戰技：約定之王
+
+在兩把大劍的劍身纏繞米凱拉的光，
+使出伴隨光柱的連續斬擊。
+再次發動，能使出最多兩次的連擊。</text>
+<text id="5151">%null%</text>
+<text id="5152">%null%</text>
+<text id="5153">%null%</text>
+<text id="5154">%null%</text>
+<text id="5155">%null%</text>
+<text id="5156">%null%</text>
+<text id="5157">%null%</text>
+<text id="5158">%null%</text>
+<text id="5159">%null%</text>
+<text id="5160">專用戰技：影輪草頭槌
+
+用影輪草的大花朵敲擊，
+形成衝擊波的同時，重壓敵人的戰技。
+再次發動能使出最多兩次的追擊。</text>
+<text id="5161">%null%</text>
+<text id="5162">%null%</text>
+<text id="5163">%null%</text>
+<text id="5164">%null%</text>
+<text id="5165">%null%</text>
+<text id="5166">%null%</text>
+<text id="5167">%null%</text>
+<text id="5168">%null%</text>
+<text id="5169">%null%</text>
+<text id="5170">專用戰技：月與火的架式
+
+舉起兩把灌注魔力的劍，接著施展魔法的戰技。
+輕攻擊能連續釋放輝石光波；
+重攻擊能一邊旋身，一邊用火焰橫掃周圍。
+光波能以再次發動，使出最多兩次的追擊。</text>
+<text id="5171">%null%</text>
+<text id="5172">%null%</text>
+<text id="5173">%null%</text>
+<text id="5174">%null%</text>
+<text id="5175">%null%</text>
+<text id="5176">%null%</text>
+<text id="5177">%null%</text>
+<text id="5178">%null%</text>
+<text id="5179">%null%</text>
+<text id="5180">專用戰技：泥盆亞的漩渦
+
+用熔爐的漩渦力量激烈旋轉整個大槌，
+再順勢敲向地面，引發衝擊的戰技。
+藉由蓄力發動，能提升威力。</text>
+<text id="5181">%null%</text>
+<text id="5182">%null%</text>
+<text id="5183">%null%</text>
+<text id="5184">%null%</text>
+<text id="5185">%null%</text>
+<text id="5186">%null%</text>
+<text id="5187">%null%</text>
+<text id="5188">%null%</text>
+<text id="5189">%null%</text>
+<text id="5190">專用戰技：梅瑟莫的強攻
+
+讓刀刃纏繞火焰，使出猛烈連擊的戰技。
+再次發動能使出最多兩次的追擊。
+追擊的尾聲，會在周圍形成無數的矛。</text>
+<text id="5210">專用戰技：永恆沉眠
+
+用永眠的毒針，深深刺進敵人身體的戰技。
+對上陷入催眠或永眠狀態的敵人，
+如果成功使出追擊，能一口氣給予大傷害。</text>
+<text id="5211">%null%</text>
+<text id="5212">%null%</text>
+<text id="5213">%null%</text>
+<text id="5214">%null%</text>
+<text id="5215">%null%</text>
+<text id="5216">%null%</text>
+<text id="5217">%null%</text>
+<text id="5218">%null%</text>
+<text id="5219">%null%</text>
+<text id="5220">專用戰技：黃金穿刺
+
+輕柔跳上半空，從頭部向下刺擊的戰技。
+貫穿敵人時，會從內部張開倒刺，重創對方；
+沒有貫穿敵人時，再次發動能在周圍形成倒刺。
+貫穿敵人時的模樣，與黃金律法有些相似。</text>
+<text id="5221">%null%</text>
+<text id="5222">%null%</text>
+<text id="5223">%null%</text>
+<text id="5224">%null%</text>
+<text id="5225">%null%</text>
+<text id="5226">%null%</text>
+<text id="5227">%null%</text>
+<text id="5228">%null%</text>
+<text id="5229">%null%</text>
+<text id="5230">專用戰技：穆爾的突擊
+
+用雙手共持盾牌，防禦的同時向前突進，
+最後再灌注銅綠魔力，向前推出的戰技。
+能彈飛周圍敵人，但不會給予大幅傷害。
+持續發動能增加移動距離。</text>
+<text id="5231">%null%</text>
+<text id="5232">%null%</text>
+<text id="5233">%null%</text>
+<text id="5234">%null%</text>
+<text id="5235">%null%</text>
+<text id="5236">%null%</text>
+<text id="5237">%null%</text>
+<text id="5238">%null%</text>
+<text id="5239">%null%</text>
+<text id="5240">專用戰技：白光突襲
+
+從古鐵隕石的裂縫形成白色光芒，
+再順勢展開突襲，貫穿敵人的戰技。
+再次發動，能引爆光芒。</text>
+<text id="5241">%null%</text>
+<text id="5242">%null%</text>
+<text id="5243">%null%</text>
+<text id="5244">%null%</text>
+<text id="5245">%null%</text>
+<text id="5246">%null%</text>
+<text id="5247">%null%</text>
+<text id="5248">%null%</text>
+<text id="5249">%null%</text>
+<text id="5250">專用戰技：怨魂斬
+
+一邊旋身砍向敵人，
+一邊召喚窮追不捨的怨魂的戰技。
+再次發動能使出追擊。</text>
+<text id="5251">%null%</text>
+<text id="5252">%null%</text>
+<text id="5253">%null%</text>
+<text id="5254">%null%</text>
+<text id="5255">%null%</text>
+<text id="5256">%null%</text>
+<text id="5257">%null%</text>
+<text id="5258">%null%</text>
+<text id="5259">%null%</text>
+<text id="5260">專用戰技：夜暗斬擊
+
+水平持刀，讓夜的黑暗纏繞刀身，
+再連續使出無形斬擊的戰技。
+此戰技無法用防禦擋下，
+藉由蓄力發動能提升威力。</text>
+<text id="5261">%null%</text>
+<text id="5262">%null%</text>
+<text id="5263">%null%</text>
+<text id="5264">%null%</text>
+<text id="5265">%null%</text>
+<text id="5266">%null%</text>
+<text id="5267">%null%</text>
+<text id="5268">%null%</text>
+<text id="5269">%null%</text>
+<text id="5270">專用戰技：艾珀莉亞漩渦
+
+藉由漩渦的力量激烈旋轉整個劍身，
+再順勢朝前方連續斬擊的戰技。
+劍的光輝恢復得越多，威力就越強大。
+在發動戰技之後，會失去光輝。</text>
+<text id="5271">%null%</text>
+<text id="5272">%null%</text>
+<text id="5273">%null%</text>
+<text id="5274">%null%</text>
+<text id="5275">%null%</text>
+<text id="5276">%null%</text>
+<text id="5277">%null%</text>
+<text id="5278">%null%</text>
+<text id="5279">%null%</text>
+<text id="5280">專用戰技：鍛造術之矛
+
+將加熱到火紅的鐵砧敲擊地面的戰技。
+在拔起武器的同時，能從地面形成無數的矛，
+而形成的矛會立刻消失。</text>
+<text id="5281">%null%</text>
+<text id="5282">%null%</text>
+<text id="5283">%null%</text>
+<text id="5284">%null%</text>
+<text id="5285">%null%</text>
+<text id="5286">%null%</text>
+<text id="5287">%null%</text>
+<text id="5288">%null%</text>
+<text id="5289">%null%</text>
+<text id="5290">專用戰技：怨魂斬
+
+一邊旋身砍向敵人，
+一邊召喚窮追不捨的怨魂的戰技。
+再次發動能使出追擊。</text>
+<text id="5291">%null%</text>
+<text id="5292">%null%</text>
+<text id="5293">%null%</text>
+<text id="5294">%null%</text>
+<text id="5295">%null%</text>
+<text id="5296">%null%</text>
+<text id="5297">%null%</text>
+<text id="5298">%null%</text>
+<text id="5299">%null%</text>
+<text id="5300">專用戰技：蘿蜜娜的解厄
+
+在花蕾刀身纏繞猩紅腐敗的蝴蝶，
+使出兩次大幅度輕柔斬擊的戰技。
+在過去，這是神聖的解厄作法。</text>
+<text id="5301">%null%</text>
+<text id="5302">%null%</text>
+<text id="5303">%null%</text>
+<text id="5304">%null%</text>
+<text id="5305">%null%</text>
+<text id="5306">%null%</text>
+<text id="5307">%null%</text>
+<text id="5308">%null%</text>
+<text id="5309">%null%</text>
+<text id="5310">專用戰技：貫穿毒手
+
+指尖向前用力刺出，貫穿敵人身體的戰技。
+能一口氣大量累積劇毒。</text>
+<text id="5311">%null%</text>
+<text id="5312">%null%</text>
+<text id="5313">%null%</text>
+<text id="5314">%null%</text>
+<text id="5315">%null%</text>
+<text id="5316">%null%</text>
+<text id="5317">%null%</text>
+<text id="5318">%null%</text>
+<text id="5319">%null%</text>
+<text id="5320">專用戰技：貫穿癲狂手
+
+指尖向前用力刺出，貫穿敵人身體的戰技。
+能一口氣大量累積發狂量表。</text>
+<text id="5321">%null%</text>
+<text id="5322">%null%</text>
+<text id="5323">%null%</text>
+<text id="5324">%null%</text>
+<text id="5325">%null%</text>
+<text id="5326">%null%</text>
+<text id="5327">%null%</text>
+<text id="5328">%null%</text>
+<text id="5329">%null%</text>
+<text id="5330">專用戰技：弱小王的癲火
+
+朝前方高舉火把，散布癲火的戰技。
+發動者與周圍人物會累積發狂量表。
+持續發動能夠維持使用。
+可以走動發動。</text>
+<text id="5331">%null%</text>
+<text id="5332">%null%</text>
+<text id="5333">%null%</text>
+<text id="5334">%null%</text>
+<text id="5335">%null%</text>
+<text id="5336">%null%</text>
+<text id="5337">%null%</text>
+<text id="5338">%null%</text>
+<text id="5339">%null%</text>
+<text id="5340">專用戰技：連射弩的射擊
+
+啟動連射構造之後，擺出架式的戰技。
+在擺出架式後，能轉動眼前的手把，
+連續射出弩箭。</text>
+<text id="5341">%null%</text>
+<text id="5342">%null%</text>
+<text id="5343">%null%</text>
+<text id="5344">%null%</text>
+<text id="5345">%null%</text>
+<text id="5346">%null%</text>
+<text id="5347">%null%</text>
+<text id="5348">%null%</text>
+<text id="5349">%null%</text>
+<text id="5350">專用戰技：災厄之舞
+
+雙手各持一把圓刃刀，
+快速旋身，斬殺敵人的戰技。
+再次發動，能使出俐落下壓踢。</text>
+<text id="5351">%null%</text>
+<text id="5352">%null%</text>
+<text id="5353">%null%</text>
+<text id="5354">%null%</text>
+<text id="5355">%null%</text>
+<text id="5356">%null%</text>
+<text id="5357">%null%</text>
+<text id="5358">%null%</text>
+<text id="5359">%null%</text>
+<text id="5360">專用戰技：扇形射擊
+
+水平持弓，擺出架式的戰技。
+能同時架上八支箭，以扇形發射。</text>
+<text id="5361">%null%</text>
+<text id="5362">%null%</text>
+<text id="5363">%null%</text>
+<text id="5364">%null%</text>
+<text id="5365">%null%</text>
+<text id="5366">%null%</text>
+<text id="5367">%null%</text>
+<text id="5368">%null%</text>
+<text id="5369">%null%</text>
+<text id="5370">專用戰技：飛盤投擲
+
+將盾牌如飛盤般投擲出去的戰技。
+透過鍛造術的力量，投擲出去的盾牌
+會瞬間在手中再次形成。</text>
+<text id="5371">%null%</text>
+<text id="5372">%null%</text>
+<text id="5373">%null%</text>
+<text id="5374">%null%</text>
+<text id="5375">%null%</text>
+<text id="5376">%null%</text>
+<text id="5377">%null%</text>
+<text id="5378">%null%</text>
+<text id="5379">%null%</text>
+<text id="5380">專用戰技：花之龍雷
+
+對敵人降下古龍紅落雷的戰技。
+給予敵人雷屬性傷害的同時，
+也能暫時降低對方的雷屬性減傷率。
+藉由蓄力發動，能提升威力。</text>
+<text id="5381">%null%</text>
+<text id="5382">%null%</text>
+<text id="5383">%null%</text>
+<text id="5384">%null%</text>
+<text id="5385">%null%</text>
+<text id="5386">%null%</text>
+<text id="5387">%null%</text>
+<text id="5388">%null%</text>
+<text id="5389">%null%</text>
+<text id="5390">專用戰技：叩頭之怒
+
+用頭部指激動致意的戰技。
+致意之後會累積怒氣，引發爆炸。
+持續發動，怒氣會累積得更多。</text>
+<text id="5420">專用戰技：痛擊
+
+為了給予痛楚，特意使出的軟鞭攻擊。
+能暫時降低精力的恢復速度。
+痛楚，會使人屈服。</text>
+<text id="5421">%null%</text>
+<text id="5422">%null%</text>
+<text id="5423">%null%</text>
+<text id="5424">%null%</text>
+<text id="5425">%null%</text>
+<text id="5426">%null%</text>
+<text id="5427">%null%</text>
+<text id="5428">%null%</text>
+<text id="5429">%null%</text>
+<text id="5430">專用戰技：孤月斬
+
+用大劍迅速下砍，
+朝前方釋放弧形光波的戰技。
+發動後使出重攻擊，能向前移動、使出追擊。</text>
+<text id="5431">%null%</text>
+<text id="5432">%null%</text>
+<text id="5433">%null%</text>
+<text id="5434">%null%</text>
+<text id="5435">%null%</text>
+<text id="5436">%null%</text>
+<text id="5437">%null%</text>
+<text id="5438">%null%</text>
+<text id="5439">%null%</text>
+<text id="5440">專用戰技：黑夜式奉還
+
+對夜的黑暗灌注魔力，再行釋放的戰技。
+在防住攻擊的當下立刻發動，
+能吸收攻擊的力量，提升威力。</text>
+<text id="5441">%null%</text>
+<text id="5442">%null%</text>
+<text id="5443">%null%</text>
+<text id="5444">%null%</text>
+<text id="5445">%null%</text>
+<text id="5446">%null%</text>
+<text id="5447">%null%</text>
+<text id="5448">%null%</text>
+<text id="5449">%null%</text>
+<text id="5450">專用戰技：割草
+
+大幅度揮舞劍，隨意割除人命的戰技。
+再次發動，能持續進行攻擊，
+直到精力耗盡才會停止。</text>
+<text id="5451">%null%</text>
+<text id="5452">%null%</text>
+<text id="5453">%null%</text>
+<text id="5454">%null%</text>
+<text id="5455">%null%</text>
+<text id="5456">%null%</text>
+<text id="5457">%null%</text>
+<text id="5458">%null%</text>
+<text id="5459">%null%</text>
+<text id="5460">專用戰技：幸福遮眼
+
+遮住頭顱的雙眼、搖動頭顱。
+發出喟嘆聲的同時，
+讓發動者的身影暫時難以辨識的戰技。
+想得到幸福，就視而不見吧。</text>
+<text id="5461">%null%</text>
+<text id="5462">%null%</text>
+<text id="5463">%null%</text>
+<text id="5464">%null%</text>
+<text id="5465">%null%</text>
+<text id="5466">%null%</text>
+<text id="5467">%null%</text>
+<text id="5468">%null%</text>
+<text id="5469">%null%</text>
+<text id="5470">專用戰技：約里的拷問
+
+面向敵人舉起大杖，
+連續釋放形似倒刺的黃金彎弧。
+持續發動，會在短暫時間內繼續釋放。</text>
+<text id="5471">%null%</text>
+<text id="5472">%null%</text>
+<text id="5473">%null%</text>
+<text id="5474">%null%</text>
+<text id="5475">%null%</text>
+<text id="5476">%null%</text>
+<text id="5477">%null%</text>
+<text id="5478">%null%</text>
+<text id="5479">%null%</text>
+<text id="5480">專用戰技：咆哮衝擊
+
+黃金獅子發出咆哮的同時，舉起盾牌，
+再以防禦姿勢，直接用盾牌推擊的戰技。
+推動敵人，或讓敵人失去平衡的有效範圍較廣。</text>
+<text id="5481">%null%</text>
+<text id="5482">%null%</text>
+<text id="5483">%null%</text>
+<text id="5484">%null%</text>
+<text id="5485">%null%</text>
+<text id="5486">%null%</text>
+<text id="5487">%null%</text>
+<text id="5488">%null%</text>
+<text id="5489">%null%</text>
+<text id="5490">專用戰技：釋放劇毒
+
+拿出調香瓶，高舉過頭大幅揮動，
+大範圍釋放劇毒香粉的戰技。
+劇毒優美舞動，悄然灑落。</text>
+<text id="5491">%null%</text>
+<text id="5492">%null%</text>
+<text id="5493">%null%</text>
+<text id="5494">%null%</text>
+<text id="5495">%null%</text>
+<text id="5496">%null%</text>
+<text id="5497">%null%</text>
+<text id="5498">%null%</text>
+<text id="5499">%null%</text>
+<text id="5500">專用戰技：蛇啊，燃燒吧
+
+在蛇的內部燃起烈火，
+暫時提升火屬性攻擊力的戰技。
+在此狀態下，使出重攻擊等等，
+敲擊地面的動作時，會因為衝擊而產生爆炸。</text>
+<text id="5501">%null%</text>
+<text id="5502">%null%</text>
+<text id="5503">%null%</text>
+<text id="5504">%null%</text>
+<text id="5505">%null%</text>
+<text id="5506">%null%</text>
+<text id="5507">%null%</text>
+<text id="5508">%null%</text>
+<text id="5509">%null%</text>
+<text id="5510">專用戰技：多重投擲之爪
+
+透過鍛造術的力量，在雙手複製出鉤爪，
+再同時、大量投擲出去的戰技。
+再次發動能再一次投擲。</text>
+<text id="5511">%null%</text>
+<text id="5512">%null%</text>
+<text id="5513">%null%</text>
+<text id="5514">%null%</text>
+<text id="5515">%null%</text>
+<text id="5516">%null%</text>
+<text id="5517">%null%</text>
+<text id="5518">%null%</text>
+<text id="5519">%null%</text>
+<text id="5520">專用戰技：磨刀
+
+輕柔地磨刀，提升刀的鋒利度，
+同時提升ＨＰ恢復量的戰技。
+大維壺師們很珍惜賴以為生的工具。</text>
+<text id="5521">%null%</text>
+<text id="5522">%null%</text>
+<text id="5523">%null%</text>
+<text id="5524">%null%</text>
+<text id="5525">%null%</text>
+<text id="5526">%null%</text>
+<text id="5527">%null%</text>
+<text id="5528">%null%</text>
+<text id="5529">%null%</text>
+<text id="5530">專用戰技：角降臨
+
+讓混生角降臨劍身的戰技。
+直接將武器刺入地面，
+能形成向上刺起的角刺。</text>
+<text id="5531">%null%</text>
+<text id="5532">%null%</text>
+<text id="5533">%null%</text>
+<text id="5534">%null%</text>
+<text id="5535">%null%</text>
+<text id="5536">%null%</text>
+<text id="5537">%null%</text>
+<text id="5538">%null%</text>
+<text id="5539">%null%</text>
+<text id="5540">專用戰技：角降臨之風暴
+
+讓混生角降臨劍身的戰技。
+能以混生角喚起風暴，橫掃敵人。
+再次發動能使出最多兩次的追擊。</text>
+<text id="5541">%null%</text>
+<text id="5542">%null%</text>
+<text id="5543">%null%</text>
+<text id="5544">%null%</text>
+<text id="5545">%null%</text>
+<text id="5546">%null%</text>
+<text id="5547">%null%</text>
+<text id="5548">%null%</text>
+<text id="5549">%null%</text>
+<text id="5550">專用戰技：巨劍陣
+
+山妖魔法騎士們使用的戰技。
+能形成巨型魔力輝劍排成的圓陣。
+輝劍會自動飛向、攻擊附近的敵人。
+發動後使出重攻擊，能向前大幅跨出、突刺攻擊。</text>
+<text id="5551">%null%</text>
+<text id="5552">%null%</text>
+<text id="5553">%null%</text>
+<text id="5554">%null%</text>
+<text id="5555">%null%</text>
+<text id="5556">%null%</text>
+<text id="5557">%null%</text>
+<text id="5558">%null%</text>
+<text id="5559">%null%</text>
+<text id="5560">專用戰技：血怪授血
+
+高舉聖矛，刺進真實之母體內的戰技。
+能在敵人周圍形成血焰爆炸。
+再次發動，能連續使出最多三次。</text>
+<text id="5561">%null%</text>
+<text id="5562">%null%</text>
+<text id="5563">%null%</text>
+<text id="5564">%null%</text>
+<text id="5565">%null%</text>
+<text id="5566">%null%</text>
+<text id="5567">%null%</text>
+<text id="5568">%null%</text>
+<text id="5569">%null%</text>
+<text id="5570">專用戰技：龍形火焰
+
+從龍造型的嘴巴部分，噴出火焰的戰技。
+能朝前方左右橫掃噴火。
+火焰會短暫停留，持續燃燒地面。</text>
+<text id="5571">%null%</text>
+<text id="5572">%null%</text>
+<text id="5573">%null%</text>
+<text id="5574">%null%</text>
+<text id="5575">%null%</text>
+<text id="5576">%null%</text>
+<text id="5577">%null%</text>
+<text id="5578">%null%</text>
+<text id="5579">%null%</text>
+<text id="5580">專用戰技：光速斬
+
+將自身化成光，跳起後光速下砍的戰技。
+攻擊之後會形成光的連續追擊。
+藉由蓄力發動，能強化威力、增加追擊次數。</text>
+<text id="5600">專用戰技：怨魂射擊
+
+召喚怨魂附在箭上，再連續射擊的戰技。
+附有怨魂的箭會窮追不捨地追蹤敵人。</text>
+</entries>
+</fmg>

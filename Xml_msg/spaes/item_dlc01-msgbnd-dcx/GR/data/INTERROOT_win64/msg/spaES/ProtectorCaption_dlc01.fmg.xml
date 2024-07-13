@@ -1,0 +1,553 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="3000000">El sombrero desteñido por el sol y algo sucio de hojaseca Dane. Al llevarlo bien calado, oscurece la visión de su portador.
+
+Encontrarse con la mirada del otro puede someter los sentidos, lo que suele llevar a la perdición a quienes recorrían el noble y solitario camino de los buscadores.</text>
+<text id="3000100">Atuendo de viaje desteñido por el sol y algo sucio usado por los clérigos.
+
+El collar de oro hallado bajo el pecho pertenece a un grupo de buscadores espirituales, la secta hojaseca.
+
+Esta secta rechaza la dependencia del prójimo en cuestiones de fe y busca la autodisciplina y la autosuficiencia por encima de todo.</text>
+<text id="3000200">Cubrebrazos desteñidos por el sol y algo sucios.
+
+Se enrollan fuertemente alrededor de los brazos en un vano intento de evitar que se rompan.</text>
+<text id="3000300">Calzado de viaje desteñido por el sol y algo sucio usado por los clérigos.
+Estas botas están hechas de cuero resistente.</text>
+<text id="3001100">Atuendo de viaje desteñido por el sol y algo sucio usado por los clérigos.
+
+El morral de cuero que cuelga del hombro está decorado con uno de los emblemas de Miquella, un motivo de hierba dorada.</text>
+<text id="3010000">Casco de hierro negro del comandante Gaius.
+Forma parte de una armadura decorada con un diseño de semillas caídas.
+
+Gaius fue el discípulo más antiguo del mismo Señor de alabastro que enseñó la técnica gravitatoria a Radahn y a Gaea.</text>
+<text id="3010100">Armadura pectoral de hierro negro del comandante Gaius.
+Forma parte de una armadura decorada con un diseño de semillas caídas.
+
+Gaius fue el discípulo más antiguo del mismo Señor de alabastro que enseñó la técnica gravitatoria a Radahn y a Gaea.</text>
+<text id="3010200">Guanteletes de hierro negro del comandante Gaius.
+Forman parte de una armadura decorada con un diseño de semillas caídas.
+
+Gaius fue el discípulo más antiguo del mismo Señor de alabastro que enseñó la técnica gravitatoria a Radahn y a Gaea.</text>
+<text id="3010300">Grebas de hierro negro fabricadas para el comandante Gaius.
+Una broma cruel, pues no podía llevarlas.
+
+Montado sobre el jabalí al que llamaba su otra mitad, Gaius era en realidad un guerrero de origen albináurico.</text>
+<text id="5000000">Casco de Caballero Buscajuramentos.
+Negro con adornos dorados.
+
+Estos caballeros parten en misiones de descubrimiento, con la esperanza de encontrar por sí mismos un juramento de su elección para servir en perfecta devoción de por vida.</text>
+<text id="5000100">Armadura pectoral de la caballera de la aguja Leda.
+
+Refuerza ligeramente los ataques tras esquivar rodando o dar un paso hacia atrás, así como los ataques a la carrera.
+
+La capa y el sobretodo, bordados con un motivo dorado de árboles cruzados sobre un fondo blanco tiza, simbolizan el honor de los caballeros de la aguja.
+
+«Miquella el Cortés nos convirtió en sus agujas y nos encomendó la tarea de alejar todo mal».</text>
+<text id="5000200">Guanteletes de Caballero Buscajuramentos.
+Negros con adornos dorados.
+
+Estos caballeros parten en misiones de descubrimiento, con la esperanza de encontrar por sí mismos un juramento de su elección para servir en perfecta devoción de por vida.</text>
+<text id="5000300">Grebas de Caballero Buscajuramentos.
+Negras con adornos dorados.
+
+Estos caballeros parten en misiones de descubrimiento, con la esperanza de encontrar por sí mismos un juramento de su elección para servir en perfecta devoción de por vida.</text>
+<text id="5002100">Armadura pectoral de Caballero Buscajuramentos.
+Negra con adornos dorados.
+
+Estos caballeros parten en misiones de descubrimiento, con la esperanza de encontrar por sí mismos un juramento de su elección para servir en perfecta devoción de por vida.</text>
+<text id="5010000">Casco fabricado con un metal poco común conocido como verdín.
+
+Se dice que el verdín es el regalo de un dios procedente del exterior.
+Gracias a su óxido presente de forma natural, resulta robusto a la par que flexible.</text>
+<text id="5010100">Armadura pectoral fabricada con un metal poco común conocido como verdín.
+
+Se dice que el verdín es el regalo de un dios procedente del exterior.
+Gracias a su óxido presente de forma natural, resulta robusta a la par que flexible.</text>
+<text id="5010200">Guanteletes fabricados con un metal poco común conocido como verdín.
+
+Se dice que el verdín es el regalo de un dios procedente del exterior.
+Gracias a su óxido presente de forma natural, resultan robustos a la par que flexibles.</text>
+<text id="5010300">Grebas fabricadas con un metal poco común conocido como verdín.
+
+Se dice que el verdín es el regalo de un dios procedente del exterior.
+Gracias a su óxido presente de forma natural, resultan robustas a la par que flexibles.</text>
+<text id="5020000">La piel de Ralva el Gran Oso Rojo, colocada sobre la cabeza sin modificación.
+
+Mejora los encantamientos de lo que se conoce jocosamente como «la comunión úrsida».
+
+Esta piel sin tratar, ganada al final de un sangriento combate, es justo lo que hace de un guerrero un oso salvaje.</text>
+<text id="5020100">Armadura pectoral del Oso Rojo, cuyo nombre se pierde en la locura.
+Está reforzada con remaches de hierro.
+
+Tras matar al Gran Oso Rojo en un sangriento combate, quedó fascinado por la gloria impoluta de su fuerza desnuda.
+
+«Deseo ser un oso, ni más ni menos».</text>
+<text id="5020200">Guanteletes del Oso Rojo, cuyo nombre se pierde en la locura.
+Están reforzados con remaches de hierro.
+
+Tras matar al Gran Oso Rojo en un sangriento combate, quedó fascinado por la gloria impoluta de su fuerza desnuda.
+
+«Deseo ser un oso, ni más ni menos».</text>
+<text id="5020300">Grebas del Oso Rojo, cuyo nombre se pierde en la locura.
+Están reforzadas con remaches de hierro.
+
+Tras matar al Gran Oso Rojo en un sangriento combate, quedó fascinado por la gloria impoluta de su fuerza desnuda.
+
+«Deseo ser un oso, ni más ni menos».</text>
+<text id="5021000">Casco del Oso Rojo, cuyo nombre se pierde en la locura.
+Las carrilleras tienen forma de colmillos de león.
+
+Quién sabe si su fascinación por la fuerza radica en su pasado como Melena Roja...</text>
+<text id="5030000">Máscara que representa un tranquilo rostro dormido.
+
+La melena plateada está peinada al estilo de Santa Trina, aumentando el arcano.
+
+Solo por una vez, Thiollier pudo disfrutar del dulce reposo de un sueño aterciopelado. El resto de sus días los pasaría tratando de recuperarlo.</text>
+<text id="5030100">El oscuro atuendo de quienes manejan en secreto el veneno.
+
+La melena plateada está peinada al estilo de Santa Trina, aumentando el arcano.
+
+Además, en el exterior lleva cosida una miríada de agujas que, aparentemente, actúa como talismán.</text>
+<text id="5030200">Los guantes oscuros de quienes manejan en secreto el veneno, siempre rechazados y vilipendiados.</text>
+<text id="5030300">Los pantalones oscuros de quienes manejan en secreto el veneno, siempre rechazados y vilipendiados.</text>
+<text id="5031100">El oscuro atuendo de quienes manejan en secreto el veneno.
+
+En el exterior, lleva cosida una miríada de agujas que actúa como talismán.</text>
+<text id="5060000">Sombrero del conde Ymir, el sumo sacerdote.
+El diseño circular superior representa la Voluntad Mayor y su abismo de las tinieblas, aumentando la inteligencia y el arcano del portador.
+
+Aunque el conde Ymir instruyó a Rellana en las artes mágicas, abandonó su lealtad a la Luna.
+
+«Simplemente era el más cercano de los cuerpos celestes. Nada más».</text>
+<text id="5060100">Túnica del conde Ymir, el sumo sacerdote.
+Oculta el constante movimiento en su interior.
+
+La tela púrpura está decorada con bordados de oro y lleva una gorguera enjoyada que brilla como una flor humedecida por el rocío.</text>
+<text id="5060200">Guantes del conde Ymir, el sumo sacerdote.
+Son suaves y están bien confeccionados.</text>
+<text id="5060300">Calzas del conde Ymir, el sumo sacerdote.
+Son suaves y están bien confeccionados.</text>
+<text id="5062100">Túnica del conde Ymir, el sumo sacerdote.
+La parte delantera está abierta para revelar sus serpenteantes dedos.
+
+Esta túnica es la imagen de su ferviente deseo una vez ha sido liberado, mostrándose tal como es. Con ella, se mejora la hechicería de dedos.
+
+«Me convertiré en la verdadera madre.
+¡Mis dedos nos redimirán a todos!».</text>
+<text id="5070000">Máscara grotesca fabricada con una miríada de orugas solidificadas. Un artefacto ritual de los grandes tarrotenientes de la aldea Bonny.
+
+Se usa para alejar los pensamientos de impureza, duda, tentación y otras vilezas a las que cualquiera es vulnerable mientras se halla absorto en el ritual divino.</text>
+<text id="5070100">Tela negra raída y atada con un cordón trenzado. Atavío de los cornamentados en busca de venganza.
+
+El cordón trenzado une el juramento del vengador al rencor de las víctimas. Jamás debe deshacerse.
+
+Mejora los espíritus vigilantes y los espíritus vengativos invocados por los párvulos astados.</text>
+<text id="5070200">Tela negra raída y atada con un cordón trenzado. Atavío de los cornamentados en busca de venganza.</text>
+<text id="5070300">Este taparrabos de tela raída, algo sucio, solo sirve para taparse las vergüenzas.</text>
+<text id="5080000">Capucha roja de las bailarinas de Ranah.
+Mejora la potencia de los ataques danzantes.
+
+La danza de Ranah es apasionada, y sus bailarinas jamás permiten que su ardiente danza termine, perdiendo incluso sus nombres mientras bailan.
+
+Ver desvanecerse la pasión es como contemplar apagarse la llama de la bailarina.</text>
+<text id="5080100">Vestido rojo de las bailarinas de Ranah.
+Mejora la potencia de los ataques danzantes.
+
+La danza de Ranah es apasionada, y sus bailarinas jamás permiten que su ardiente danza termine, perdiendo incluso sus nombres mientras bailan.
+
+Ver desvanecerse la pasión es como contemplar apagarse la llama de la bailarina.</text>
+<text id="5080200">Brazal metálico de las bailarinas de Ranah.
+
+Mejora la potencia de los ataques danzantes.
+
+Ha sido diseñado para proteger la mano que empuña la espada.</text>
+<text id="5080300">Pantalones largos y negros que se llevan bajo el vestido de un intenso carmesí de las bailarinas de Ranah.
+
+Mejoran la potencia de los ataques danzantes.</text>
+<text id="5081100">Forma modificada del vestido de un intenso carmesí de las bailarinas de Ranah.
+Se trata de la ropa interior negra que llevan debajo.
+
+Mejora la potencia de los ataques danzantes.</text>
+<text id="5090000">Casco negro como el carbón y frío al tacto.
+Líneas fluidas con la aparente forma de una huella dactilar adornan su superficie. Encierra a su portador en una oscuridad total.
+
+Fue otorgado a los nacidos en las profundidades subterráneas y los ordena como espadachines de la Noche.</text>
+<text id="5090100">Armadura pectoral negra como el carbón y fría al tacto.
+Líneas fluidas con la aparente forma de una huella dactilar adornan su superficie. Encierra a su portador en una oscuridad total.
+
+Fue otorgada a los nacidos en las profundidades subterráneas y los ordena como espadachines de la Noche.</text>
+<text id="5090200">Guanteletes negros como el carbón y fríos al tacto.
+Líneas fluidas con la aparente forma de una huella dactilar adornan su superficie. Encierran a su portador en una oscuridad total.
+
+Fueron otorgados a los nacidos en las profundidades subterráneas y los ordenan como espadachines de la Noche.</text>
+<text id="5090300">Grebas negras como el carbón y frías al tacto.
+Líneas fluidas con la aparente forma de una huella dactilar adornan su superficie. Encierran a su portador en una oscuridad total.
+
+Fueron otorgadas a los nacidos en las profundidades subterráneas y los ordenan como espadachines de la Noche.</text>
+<text id="5100000">Casco del guerrero dracónico roto Igon, procedente de una armadura compuesta por una mezcla de piezas. Esta prenda protectora tiene forma de corneta.
+
+Este pobre carroñero de los campos de batalla halló el honor gracias a la Comunión Dragontina.</text>
+<text id="5100100">Armadura del guerrero dracónico roto Igon, procedente de una armadura compuesta por una mezcla de piezas. De esta andrajosa prenda protectora cuelgan accesorios realmente sucios.
+
+Este pobre carroñero de los campos de batalla halló el honor gracias a la Comunión Dragontina.</text>
+<text id="5100200">Guanteletes del guerrero dracónico roto Igon.
+No son más que un amasijo de jirones y restos arrancados de un cadáver hallado tras un combate.</text>
+<text id="5100300">Taparrabos del guerrero dracónico roto Igon. Fue arrancado de un cadáver hallado tras un combate y desprende un pestilente hedor.</text>
+<text id="5101000">Casco del guerrero dracónico roto Igon, procedente de una armadura compuesta por una mezcla de piezas. Está remendado con retazos de tela.
+
+Este pobre carroñero de los campos de batalla halló el honor gracias a la Comunión Dragontina.</text>
+<text id="5101100">Armadura del guerrero dracónico roto Igon, procedente de una armadura compuesta por una mezcla de piezas. Está remendada con retazos de tela.
+
+Este pobre carroñero de los campos de batalla halló el honor gracias a la Comunión Dragontina.</text>
+<text id="5110000">Máscara de hierro de sir Ansbach, usada para adoptar la apariencia de un anciano barbudo, sereno y sabio.
+
+Un viejo temor acecha en su interior, junto con la fría e inquebrantable disciplina que una vez afiló su espada, ahora empleada para mejorar las habilidades dinásticas y del juramento de sangre.</text>
+<text id="5110100">Atavío de sir Ansbach. El escudo bordado de los caballeros de sangre pura prácticamente ha desaparecido.
+
+Mejora ligeramente las habilidades dinásticas y del juramento de sangre.
+
+Ansbach comprendió que mantener el juramento a su antiguo amo no era un acto de lógica ni traería justicia alguna al mundo, pero por esas mismas razones se veía incapaz de romperlo.</text>
+<text id="5110200">Mangas de sir Ansbach. Son de cuero negro y están adornadas con bordados de oro.
+
+Mejoran ligeramente las habilidades dinásticas y del juramento de sangre.</text>
+<text id="5110300">Botas de sir Ansbach. Son de cuero negro y están adornadas con bordados de oro.
+
+Mejoran ligeramente las habilidades dinásticas y del juramento de sangre.</text>
+<text id="5111100">Atavío de sir Ansbach. Es de cuero negro y está adornado con bordados de oro.
+
+Mejora ligeramente las habilidades dinásticas y del juramento de sangre.</text>
+<text id="5120000">Casco dorado de la caballera de la Melena Roja Freyja, miembro de los caballeros más distinguidos del general Radahn.
+
+En una ocasión, alguien le abrió una horrible herida escarlata en el centro del rostro.
+
+Entonces, Miquella acercó sus labios a ella y la cicatriz perenne se convirtió en la brújula de Freyja.</text>
+<text id="5120100">Armadura dorada de la caballera de la Melena Roja Freyja, miembro de los caballeros más distinguidos del general Radahn, complementada con un manto de lana negra.
+
+Tras ser testigo del valor de Freyja como gladiadora en su juventud, Radahn la invitó a unirse a sus tropas más leales.</text>
+<text id="5120200">Guanteletes dorados de la caballera de la Melena Roja Freyja, miembro de los caballeros más distinguidos del general Radahn.
+
+Tras ser testigo del valor de Freyja como gladiadora en su juventud, Radahn la invitó a unirse a sus tropas más leales.</text>
+<text id="5120300">Grebas doradas de la caballera de la Melena Roja Freyja, miembro de los caballeros más distinguidos del general Radahn.
+
+Tras ser testigo del valor de Freyja como gladiadora en su juventud, Radahn la invitó a unirse a sus tropas más leales.</text>
+<text id="5121100">Armadura dorada de la caballera de la Melena Roja Freyja, miembro de los caballeros más distinguidos del general Radahn.
+
+Tras ser testigo del valor de Freyja como gladiadora en su juventud, Radahn la invitó a unirse a sus tropas más leales.</text>
+<text id="5130000">Casco de acero de los caballeros de la soledad.
+Forma parte de una pesada armadura que cubre todo el cuerpo con sus placas de acero superpuestas.
+
+Se dice que los mausoleos sin nombre del Reino de las Sombras albergan los espíritus de los guerreros que perdieron su nombre o su corazón.</text>
+<text id="5130100">Armadura pectoral de acero de los caballeros de la soledad.
+Forma parte de una pesada armadura que cubre todo el cuerpo con sus placas de acero superpuestas y está ataviada con un manto negro.
+
+Se dice que los mausoleos sin nombre del Reino de las Sombras albergan los espíritus de los guerreros que perdieron su nombre o su corazón.</text>
+<text id="5130200">Guanteletes de acero de los caballeros de la soledad.
+Forman parte de una pesada armadura que cubre todo el cuerpo con sus placas de acero superpuestas.
+
+Se dice que los mausoleos sin nombre del Reino de las Sombras albergan los espíritus de los guerreros que perdieron su nombre o su corazón.</text>
+<text id="5130300">Grebas de acero de los caballeros de la soledad.
+Forman parte de una pesada armadura que cubre todo el cuerpo con sus placas de acero superpuestas.
+
+Se dice que los mausoleos sin nombre del Reino de las Sombras albergan los espíritus de los guerreros que perdieron su nombre o su corazón.</text>
+<text id="5131100">Armadura pectoral de acero de los caballeros de la soledad.
+Forma parte de una pesada armadura que cubre todo el cuerpo con sus placas de acero superpuestas.
+
+Se dice que los mausoleos sin nombre del Reino de las Sombras albergan los espíritus de los guerreros que perdieron su nombre o su corazón.</text>
+<text id="5140000">Casco usado por los soldados que sirven a Messmer el Empalador. Es de hierro e incluye una visera.
+
+Aunque el diseño del frontal simboliza el Árbol Umbrío, este está grabado en oro. Un pequeño consuelo para quienes se ven obligados a librar una guerra sin gracia ni honor.</text>
+<text id="5140100">Armadura usada por los soldados que sirven a Messmer el Empalador. Tiene una capa ajada cubriendo una cota de malla oxidada.
+
+Aunque la pechera luce un motivo del Árbol Umbrío, se ha usado oro para su grabado. Una pequeña consolación para quienes están obligados a combatir sin gracia ni honor.</text>
+<text id="5140200">Guanteletes usados por los soldados que sirven a Messmer el Empalador, oxidados y cubiertos de mugre tras haber participado en innumerables batallas.</text>
+<text id="5140300">Grebas usadas por los soldados que sirven a Messmer el Empalador, oxidadas y cubiertas de mugre tras haber participado en innumerables batallas.</text>
+<text id="5141100">Armadura usada por los soldados que sirven a Messmer el Empalador. La cota de malla se ha oxidado de tanto luchar en una guerra sin fin.
+
+Aunque la pechera luce un motivo del Árbol Umbrío, se ha usado oro para su grabado. Una pequeña consolación para quienes están obligados a combatir sin gracia ni honor.</text>
+<text id="5150000">Casco usado por los Caballeros Negros, sirvientes de Messmer el Empalador. Es de hierro negro con ornamentos de oro y desprende un persistente hedor a podrido.
+
+El olor podría proceder de la sangre contaminada que lo salpicó. O quien sabe si la causante es la propia alma ennegrecida del portador tras una matanza sin fin...</text>
+<text id="5150100">Armadura usada por los Caballeros Negros, sirvientes de Messmer el Empalador.
+
+Aunque el diseño de la pechera simboliza el Árbol Umbrío, este está grabado en oro. Un pequeño consuelo para quienes se ven obligados a librar una guerra sin gracia ni honor.</text>
+<text id="5150200">Guanteletes usados por los Caballeros Negros, sirvientes de Messmer el Empalador. Son de hierro negro con ornamentos de oro y desprenden un persistente hedor a podrido.
+
+El olor podría proceder de la sangre contaminada que los salpicó. O quien sabe si la causante es la propia alma ennegrecida del portador tras una matanza sin fin...</text>
+<text id="5150300">Grebas usadas por los Caballeros Negros, sirvientes de Messmer el Empalador. Son de hierro negro con ornamentos de oro y desprenden un persistente hedor a podrido.
+
+El olor podría proceder de la sangre contaminada que las salpicó. O quien sabe si la causante es la propia alma ennegrecida del portador tras una matanza sin fin...</text>
+<text id="5160000">Casco de Rakshasa. Está manchado con la sangre de sus víctimas. Por los bordes sobresale la tela raída, como si su ansia de matar amenazara con desatarse.
+
+Aumenta el daño infligido a los enemigos, pero aumenta considerablemente el daño recibido por el portador.
+
+Rajar y devorar. Solo quienes repiten el ciclo sin descanso pueden realmente convertirse en Rakshasa.</text>
+<text id="5160100">Armadura de Rakshasa. Está manchada con la sangre de sus víctimas. Por los bordes sobresale la tela raída, como si su ansia de matar amenazara con desatarse.
+
+Aumenta el daño infligido a los enemigos, pero aumenta considerablemente el daño recibido por el portador.
+
+Rajar y devorar. Solo quienes repiten el ciclo sin descanso pueden realmente convertirse en Rakshasa.</text>
+<text id="5160200">Guanteletes de Rakshasa. Están manchados con la sangre de sus víctimas. Por los bordes sobresale la tela raída, como si su ansia de matar amenazara con desatarse.
+
+Aumentan el daño infligido a los enemigos, pero aumentan considerablemente el daño recibido por el portador.
+
+Rajar y devorar. Solo quienes repiten el ciclo sin descanso pueden realmente convertirse en Rakshasa.</text>
+<text id="5160300">Grebas de Rakshasa. Están manchadas con la sangre de sus víctimas. Por los bordes sobresale la tela raída, como si su ansia de matar amenazara con desatarse.
+
+Aumentan el daño infligido a los enemigos, pero aumentan considerablemente el daño recibido por el portador.
+
+Rajar y devorar. Solo quienes repiten el ciclo sin descanso pueden realmente convertirse en Rakshasa.</text>
+<text id="5180000">Casco puntiagudo de los Caballeros de Fuego, que estaban a las órdenes directas de Messmer el Empalador.
+
+Aumenta ligeramente los PS, resistencia y carga de equipamiento máximos.
+
+Todos los caballeros provenían de alguna importante familia de los niveles superiores del Árbol Áureo, pero fueron marginados, perseguidos y expulsados de sus hogares tras jurar lealtad a Messmer como su señor.</text>
+<text id="5180100">Armadura de los Caballeros de Fuego, que estaban a las órdenes directas de Messmer el Empalador.
+
+Se distingue por su capa roja y por las serpientes doradas gemelas que adornan el cuello, mejorando los encantamientos de la llama de Messmer.
+
+Solo ellos llegaron a conocer de verdad a Messmer. Sus llamas son como serpientes. Tal es el destino que acompañaba a su forma maldita.</text>
+<text id="5180200">Guanteletes de los Caballeros de Fuego, que estaban a las órdenes directas de Messmer el Empalador.
+
+Todos los caballeros provenían de alguna importante familia de los niveles superiores del Árbol Áureo, pero fueron marginados, perseguidos y expulsados de sus hogares tras jurar lealtad a Messmer como su señor.</text>
+<text id="5180300">Grebas de los Caballeros de Fuego, que estaban a las órdenes directas de Messmer el Empalador.
+
+Todos los caballeros provenían de alguna importante familia de los niveles superiores del Árbol Áureo, pero fueron marginados, perseguidos y expulsados de sus hogares tras jurar lealtad a Messmer como su señor.</text>
+<text id="5181100">Armadura de los Caballeros de Fuego, que estaban a las órdenes directas de Messmer el Empalador.
+
+Todos los caballeros provenían de alguna importante familia de los niveles superiores del Árbol Áureo, pero fueron marginados, perseguidos y expulsados de sus hogares tras jurar lealtad a Messmer como su señor.</text>
+<text id="5182000">Casco de Wego, anciano de los Caballeros de Fuego. Son dos máscaras de la muerte deformes y superpuestas.
+
+Reduce los PC utilizados para invocar espíritus.
+
+Consumido por la soledad, Wego acudió a la espiritualidad de la llama de Messmer y la usó en un ritual de resurrección.
+
+Sin embargo, los cuerpos sin alma que trajo de vuelta a la vida no le aportaron el consuelo que esperaba.</text>
+<text id="5183000">Casco de Kood, capitán de los Caballeros de Fuego. Hay una serpiente alada posada encima.
+
+Mejora las habilidades de los Caballeros de Fuego.
+
+La serpiente alada es el animal simbólico de las tropas militares de Messmer. Es una sabia amiga que mantiene a la serpiente primitiva a raya y controla su poder.</text>
+<text id="5184000">Capucha de Salza, sabio de los Caballeros de Fuego.
+
+Una prodigiosa cantidad de tela se enrolla a su alrededor, dando la impresión de una cabeza muy hinchada. Con ella, aumenta la inteligencia.
+
+Discípulo del sabio Wego, se negó a quemar unas ruinas antiguas, incluso a pesar de jugarse la vida.</text>
+<text id="5190000">Diadema que usan los guerreros de los altiplanos. Está hecha de cuero tejido y el toque blanco representa su lugar de origen.
+
+Los guerreros de los altiplanos son famosos como cazadores de osos; para ellos, no hay acto más glorioso que subyugar a una bestia salvaje.</text>
+<text id="5190100">Atuendo tradicional de los guerreros de los altiplanos. Está hecho con tela tejida y rematado con piel. La tela cuenta con patrones azules y rojos.
+
+Los patrones rojos solo se permitían a los que cazaban osos. A los más grandes y gloriosos.</text>
+<text id="5190200">Cubrebrazos que usan los guerreros de los altiplanos. Están hechos de cuero recio y ajustados con correas entrelazadas.
+
+Los guerreros de los altiplanos son famosos como cazadores de osos; para ellos, no hay acto más glorioso que subyugar a una bestia salvaje.</text>
+<text id="5190300">Cubrepiernas que usan los guerreros de los altiplanos. Están hechos de cuero recio y ajustados con correas entrelazadas. El añadido de pieles animales mantiene al portador bien abrigado.
+
+Los guerreros de los altiplanos son famosos como cazadores de osos; para ellos, no hay acto más glorioso que subyugar a una bestia salvaje.</text>
+<text id="5191000">Casco que usan los guerreros de los altiplanos. Se ha usado cuero para fabricarlo y el toque blanco representa su lugar de origen.
+
+Los guerreros de los altiplanos son famosos como cazadores de osos; para ellos, no hay acto más glorioso que subyugar a una bestia salvaje.</text>
+<text id="5191100">Atuendo tradicional de los guerreros de los altiplanos. Está hecho con tela tejida y rematado con una tela de patrón azul.
+
+Los guerreros de los altiplanos son famosos como cazadores de osos; para ellos, no hay acto más glorioso que subyugar a una bestia salvaje.</text>
+<text id="5200000">Casco dorado de los Caballeros de la Muerte, cuyas máscaras de muerte servían como visores de la armadura.
+
+Mejora las habilidades y los encantamientos del culto a los dragones antiguos de la capital.
+
+La rueda dorada gastada que lo adorna representa su lealtad inquebrantable a Godwyn, quien se convirtió en Príncipe de la Muerte.</text>
+<text id="5200100">Armadura dorada de los Caballeros de la Muerte. Está adornada con una imagen anticuada del Árbol Áureo.
+
+Mejora las habilidades y los encantamientos del culto a los dragones antiguos de la capital.
+
+Estos caballeros, que antaño formaban parte de la guardia personal de Godwyn, buscaban el cadáver sustituto de su maestro transfigurado, para la nueva era de los nacidos en la oscuridad.</text>
+<text id="5200200">Guanteletes dorados de los Caballeros de la Muerte. Están adornados con una imagen anticuada del Árbol Áureo.
+
+Mejoran las habilidades y los encantamientos del culto a los dragones antiguos de la capital.
+
+Estos caballeros, que antaño formaban parte de la guardia personal de Godwyn, buscaban el cadáver sustituto de su maestro transfigurado, para la nueva era de los nacidos en la oscuridad.</text>
+<text id="5200300">Grebas doradas de los Caballeros de la Muerte. Están adornadas con una imagen anticuada del Árbol Áureo.
+
+Mejoran las habilidades y los encantamientos del culto a los dragones antiguos de la capital.
+
+Estos caballeros, que antaño formaban parte de la guardia personal de Godwyn, buscaban el cadáver sustituto de su maestro transfigurado, para la nueva era de los nacidos en la oscuridad.</text>
+<text id="5210000">Una máscara que incorpora una corona de cuernos retorcidos. La usan quienes desean invocar a una divinidad.
+
+La invocación divina aumenta la destreza del portador, pero provoca que la bendición del Árbol Áureo sea nauseabunda, lo cual reduce el efecto restaurador de beber un vial de lágrimas sagradas.
+
+La concentración también se resiente con esta máscara.</text>
+<text id="5210100">Atuendo de los ascetas de la torre, que personifica su compromiso de llevar una vida austera y de estricto autocontrol.
+
+Con el fin de ascender de su carne mortal hacia las deidades tutelares de la zona, elevaron su espiritualidad mediante un severo entrenamiento asceta.</text>
+<text id="5210200">Protegemuñecas de los ascetas de la torre, que personifican su compromiso de llevar una vida austera y de estricto autocontrol.
+
+Con el fin de ascender de su carne mortal hacia las deidades tutelares de la zona, elevaron su espiritualidad mediante un severo entrenamiento asceta.</text>
+<text id="5210300">Protegetobillos de los ascetas de la torre, que personifican su compromiso de llevar una vida austera y de estricto autocontrol.
+
+Con el fin de ascender de su carne mortal hacia las deidades tutelares de la zona, elevaron su espiritualidad mediante un severo entrenamiento asceta.</text>
+<text id="5220000">Casco negro de Messmer el Empalador, coronado con dos serpientes aladas entrelazadas.
+Mejora ligeramente los encantamientos de la llama de Messmer, así como las habilidades de los Caballeros de Fuego.
+
+Las serpientes aladas eran las eternas compañeras de Messmer.
+
+Estuvieron ahí cuando la serpiente básica fue sellada tras su ojo. Estuvieron ahí durante toda su eternidad de sufrimiento. Y le seguirán acompañando en esta grotesca forma nueva, que nació tras destruir la Gracia otorgada por su madre. Las serpientes han aceptado su destino.</text>
+<text id="5220100">Armadura negra de Messmer el Empalador.
+Está cubierta con una capa roja que luce su blasón bordado.
+
+Por deseo de su madre, Messmer se convirtió en un símbolo aterrador para llevar a cabo la cruzada purificadora que ella ansiaba.
+
+«Centra en mí, y solo en mí, tus maldiciones, tu ira y tu pesar».</text>
+<text id="5220200">Guanteletes negros de Messmer el Empalador.
+
+Por deseo de su madre, Messmer se convirtió en un símbolo aterrador para llevar a cabo la cruzada purificadora que ella ansiaba.
+
+«Centra en mí, y solo en mí, tus maldiciones, tu ira y tu pesar».</text>
+<text id="5220300">Grebas negras de Messmer el Empalador.
+
+Por deseo de su madre, Messmer se convirtió en un símbolo aterrador para llevar a cabo la cruzada purificadora que ella ansiaba.
+
+«Centra en mí, y solo en mí, tus maldiciones, tu ira y tu pesar».</text>
+<text id="5221000">Casco negro de Messmer el Empalador, coronado con dos serpientes aladas entrelazadas.
+
+Las serpientes aladas eran las eternas compañeras de Messmer.
+
+Estuvieron ahí cuando la serpiente básica fue sellada tras su ojo. Estuvieron ahí durante toda su eternidad de sufrimiento. Y le seguirán acompañando en esta grotesca forma nueva, que nació tras destruir la Gracia otorgada por su madre. Las serpientes han aceptado su destino.</text>
+<text id="5230000">Casco de piedra con un tinte verde. Forma parte del conjunto de armadura inspirado en el ave tumular.
+Potencia hechizos que invoquen anillos de luz espectral.
+
+Las aves tumulares son gólems antiguos, creados para proteger los sepulcros espirituales construidos allí donde acaban acudiendo todo tipo de muertes.</text>
+<text id="5230100">Armadura de piedra con un tinte verde. Forma parte del conjunto de armadura inspirado en el ave tumular.
+Cuenta con una capa de plumas negras de Ave de la muerte, la cual mejora los ataques en salto.
+
+Las aves tumulares son gólems antiguos, creados para proteger los sepulcros espirituales construidos allí donde acaban acudiendo todo tipo de muertes.</text>
+<text id="5230200">Brazaletes de piedra con un tinte verde. Forman parte del conjunto de armadura inspirado en el ave tumular.
+
+Las aves tumulares son gólems antiguos, creados para proteger los sepulcros espirituales construidos allí donde acaban acudiendo todo tipo de muertes.</text>
+<text id="5230300">Tobilleras de piedra con un tinte verde. Forman parte del conjunto de armadura inspirado en el ave tumular.
+
+Las aves tumulares son gólems antiguos, creados para proteger los sepulcros espirituales construidos allí donde acaban acudiendo todo tipo de muertes.</text>
+<text id="5231100">Armadura de piedra con un tinte verde. Forma parte del conjunto de armadura inspirado en el ave tumular.
+
+Las aves tumulares son gólems antiguos, creados para proteger los sepulcros espirituales construidos allí donde acaban acudiendo todo tipo de muertes.</text>
+<text id="5240000">Casco de los soldados básicos del ejército de Messmer.
+
+Está manchado con un hollín negro como la noche, igual que las caras de los hombres que los portaban.</text>
+<text id="5240100">Armadura de tela de los soldados básicos del ejército de Messmer.
+
+Está manchada con un hollín negro como la noche, igual que las caras de los hombres que las portaban.</text>
+<text id="5240200">Guanteletes de los soldados básicos del ejército de Messmer.
+
+Están manchados con un hollín negro como la noche, igual que las caras de los hombres que los portaban.</text>
+<text id="5240300">Grebas de los soldados básicos del ejército de Messmer.
+
+Están manchadas con un hollín negro como la noche, igual que las caras de los hombres que las portaban.</text>
+<text id="5250000">Un casco que incorpora una corona de cuernos retorcidos y férreos, lo cual permite a quien lo porta invocar a la divinidad. Atavío de los guerreros astados, guardianes de la torre.
+
+La invocación divina aumenta la fuerza del portador, pero provoca que la bendición del Árbol Áureo sea nauseabunda, lo cual reduce el efecto restaurador de beber un vial de lágrimas sagradas.
+
+La concentración también se resiente con este casco.</text>
+<text id="5250100">Armadura de los guerreros astados, guardianes de la torre.
+
+El tejido ocre cubre una pechera cuyo diseño está pensado para recrear la forma desnuda de un héroe de la antigüedad.</text>
+<text id="5250200">Guanteletes de los guerreros astados, guardianes de la torre. Están hechos de un metal grueso.</text>
+<text id="5250300">Grebas de los guerreros astados, guardianes de la torre. Su diseño está pensado para recrear la forma desnuda de un héroe de la antigüedad.</text>
+<text id="5252000">Un casco con cuernos retorcidos unido a una máscara de bestia divina. Permite a quienes lo portan invocar a la divinidad. Lo usaban los guerreros bestia divinos, los elegidos de los guerreros astados.
+
+La invocación divina aumenta la intensidad de la tormenta, así como su fuerza y su destreza, pero reduce el efecto restaurador de beber un vial de lágrimas sagradas.
+
+La concentración también se resiente con este casco.</text>
+<text id="5252100">Armadura de los guerreros astados elegidos para convertirse en guerreros bestia divinos. Está adornada con piel de león.
+
+Entre los guerreros bestia divinos, solo quienes destaquen en la invocación divina se convierten en guardianes esculpidos y reciben el honor de la danza del león.</text>
+<text id="5253000">Un casco con cuernos retorcidos unido a una máscara del Pájaro Divino. Permite a quienes lo portan invocar a la divinidad. Lo usaban los guerreros del Pájaro Divino, los primeros de los guerreros astados.
+
+La invocación divina aumenta el poder de las plumas del Pájaro Divino, así como la fuerza y la destreza, pero reduce el efecto restaurador de beber un vial de lágrimas sagradas.
+
+La concentración también se resiente con este casco.</text>
+<text id="5253100">Armadura de los guerreros del Pájaro Divino, los primeros de los guerreros astados. Está hecha de metal dorado.
+
+Los Pájaros Divinos de tintes dorados son famosos por su crueldad y por no aceptar compañía humana. Fueron muy pocos los que invocaron su divinidad.</text>
+<text id="5253200">Guanteletes de los guerreros del Pájaro Divino, los primeros de los guerreros astados. Están hechos de metal dorado.
+
+Los Pájaros Divinos de tintes dorados son famosos por su crueldad y por no aceptar compañía humana. Fueron muy pocos los que invocaron su divinidad.</text>
+<text id="5253300">Grebas de los guerreros del Pájaro Divino, los primeros de los guerreros astados. Están hechas de metal dorado.
+
+Las grandes garras afiladas aumentan la fuerza generada por las patadas.</text>
+<text id="5260000">Casco ornamentado de Rellana, la Caballera de la Luna Gemela. Está hecho de acero plateado.
+
+Se dice que Rennala, líder de la familia real cariana, le entregó a su hermana pequeña, quien había renunciado a su linaje para seguir a Messmer, un regalo de lustroso pelo negro.</text>
+<text id="5260100">Armadura ornamentada de Rellana, la Caballera de la Luna Gemela. Está hecha de acero plateado.
+
+Está adornada con el emblemático azul lapislázuli de Caria y su brillo aún no se ha apagado del todo.</text>
+<text id="5260200">Guantes de Rellana, la Caballera de la Luna Gemela. Están hechos de cuero de calidad.</text>
+<text id="5260300">Grebas ornamentadas de Rellana, la Caballera de la Luna Gemela. Están hechas de acero plateado.</text>
+<text id="5270000">El casco dorado que portaba Radahn en su juventud. Muestra con orgullo su heroico pelo rojo y se convierte en el atuendo perfecto para un león.
+
+Cuando Malenia, la Espada de Miquella, dejó que la flor putrefacta floreciese en Aeonia, Radahn oyó un murmullo en su oído...
+
+«Miquella te aguarda, oh, consorte prometido».</text>
+<text id="5270100">La armadura dorada que portaba Radahn en su juventud. Muestra con orgullo su heroico énfasis en el rojo y se convierte en el atuendo perfecto para un león.
+
+Cuando Malenia, la Espada de Miquella, dejó que la flor putrefacta floreciese en Aeonia, Radahn oyó un murmullo en su oído...
+
+«Miquella te aguarda, oh, consorte prometido».</text>
+<text id="5270200">Los guanteletes dorados que portaba Radahn en su juventud.
+
+Cuando Malenia, la Espada de Miquella, dejó que la flor putrefacta floreciese en Aeonia, Radahn oyó un murmullo en su oído...
+
+«Miquella te aguarda, oh, consorte prometido».</text>
+<text id="5270300">Las grebas doradas que portaba Radahn en su juventud. Las portaba un feroz león.
+
+Cuando Malenia, la Espada de Miquella, dejó que la flor putrefacta floreciese en Aeonia, Radahn oyó un murmullo en su oído...
+
+«Miquella te aguarda, oh, consorte prometido».</text>
+<text id="5271100">La armadura dorada que portaba Radahn en su juventud. La portaba un feroz león.
+
+Cuando Malenia, la Espada de Miquella, dejó que la flor putrefacta floreciese en Aeonia, Radahn oyó un murmullo en su oído...
+
+«Miquella te aguarda, oh, consorte prometido».</text>
+<text id="5272000">Una cinta de luz que adornaba la cabeza de Miquella cuando regresó con aspecto divino. Ha empezado a desaparecer en la nada.
+
+Aumenta ligeramente la inteligencia, la fe y lo arcano, a la par que aumenta el poder de la luz de Miquella.
+
+De haberse producido, esta cinta hubiese sido el pilar fundamental en torno al que se construiría la era de la compasión de Miquella.</text>
+<text id="5280000">Casco tan oscuro como las sombras. Lo usan los vulgares milicianos.
+
+Los campos de batalla recién quemados emanan el hedor de los muertos. Tierras prohibidas que serán extirpadas del recuerdo de la historia. ¿Qué mejor lugar que los Reinos de las Sombras para un ejército como ese?</text>
+<text id="5280100">Armadura tan oscura como las sombras. La usan los vulgares milicianos.
+
+Los campos de batalla recién quemados emanan el hedor de los muertos. Tierras prohibidas que serán extirpadas del recuerdo de la historia. ¿Qué mejor lugar que los Reinos de las Sombras para un ejército como ese?</text>
+<text id="5280200">Guanteletes tan oscuros como las sombras. Los usan los vulgares milicianos.
+
+Los campos de batalla recién quemados emanan el hedor de los muertos. Tierras prohibidas que serán extirpadas del recuerdo de la historia. ¿Qué mejor lugar que los Reinos de las Sombras para un ejército como ese?</text>
+<text id="5280300">Grebas tan oscuras como las sombras. Las usan los vulgares milicianos.
+
+Los campos de batalla recién quemados emanan el hedor de los muertos. Tierras prohibidas que serán extirpadas del recuerdo de la historia. ¿Qué mejor lugar que los Reinos de las Sombras para un ejército como ese?</text>
+<text id="5290000">Máscara ritual con forma de la cabeza de una bestia divina capaz de llevar a cabo la danza del león. Usada por los mejores guardianes esculpidos. Ya no responde a las sinceras plegarias de la anciana.
+
+La invocación divina aumenta la intensidad de la tormentas, así como la fuerza y la destreza, pero reduce el efecto restaurador de beber un vial de lágrimas sagradas.
+
+La concentración también se resiente al usar esta máscara.</text>
+<text id="5300000">La vida de Santa Trina se marchitó y cayó con la ligereza de las estaciones. En su último hálito, dejó un único lirio.
+
+Aumenta ligeramente el máximo de PC.
+
+A pesar de su color morado aterciopelado, la flor no es venenosa y tan solo florece en la quietud.</text>
+<text id="5310000">Casco que usaba Devonia, quien más sirvió a los Caballeros del crisol.
+
+Posee el poder del crisol de la vida, la forma primordial del Árbol Áureo. Fortalece los encantamientos de características del crisol.
+
+Se dice que Devonia viajó en busca del origen del crisol y partió en soledad de las tierras del Árbol Áureo.</text>
+<text id="5320000">Un gran tarro que encaja a la perfección en la cabeza si se pone boca abajo. Atuendo de los chamanes que realizan sus ritos en las prisiones.
+
+Aumenta el poder de los frascos lanzados de todos los tamaños.
+
+Ofrecen sus plegarias a las entrañas de los grandes tarros, con la esperanza de renacer algún día en la santidad. Tal es el ciclo de la muerte y el renacer en manos de hombres mortales.</text>
+<text id="5330000">Protección para la cabeza elaborada con el cráneo casi sin modificar de un gólem diabólico.
+
+Su apariencia recuerda a un león, con la fuerza vital aferrándose como puede.</text>
+</entries>
+</fmg>

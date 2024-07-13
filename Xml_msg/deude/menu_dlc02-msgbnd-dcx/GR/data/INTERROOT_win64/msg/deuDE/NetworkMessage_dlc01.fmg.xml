@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="2601425">Ihr wurdet in eine andere Welt gerufen.
+Besiegt Nadelritterin Leda und ihre Verbündeten!</text>
+<text id="2601426">Ihr wurdet in eine andere Welt gerufen.
+Besiegt Sir Ansbach!</text>
+<text id="2601427">Ihr wurdet in eine andere Welt gerufen.
+Besiegt Nadelritterin Leda!</text>
+<text id="2601428">Ihr wurdet in eine andere Welt gerufen.
+Besiegt den Hornherold!</text>
+<text id="2601429">Ihr wurdet in eine andere Welt gerufen.
+Besiegt Nadelritterin Leda!</text>
+<text id="2611425">Nadelritterin Leda und ihre Verbündeten wurden besiegt.
+Ihr kehrt in Eure Welt zurück.</text>
+<text id="2611426">Sir Ansbach wurde besiegt.
+Ihr kehrt in Eure Welt zurück.</text>
+<text id="2611427">Nadelritterin Leda wurde besiegt.
+Ihr kehrt in Eure Welt zurück.</text>
+<text id="2611428">Der Hornherold wurde besiegt.
+Ihr kehrt in Eure Welt zurück.</text>
+<text id="2611429">Nadelritterin Leda wurde besiegt.
+Ihr kehrt in Eure Welt zurück.</text>
+<text id="2621425">Ihr seid tot. Ihr kehrt in Eure Welt zurück.</text>
+<text id="2621426">Ihr seid tot. Ihr kehrt in Eure Welt zurück.</text>
+<text id="2621427">Ihr seid tot. Ihr kehrt in Eure Welt zurück.</text>
+<text id="2621428">Ihr seid tot. Ihr kehrt in Eure Welt zurück.</text>
+<text id="2621429">Ihr seid tot. Ihr kehrt in Eure Welt zurück.</text>
+<text id="2622425">Der Wirt der Finger ist tot.
+Ihr kehrt in die Welt des Wirts zurück.</text>
+<text id="2631425">Rückkehr in Eure Welt.</text>
+<text id="2631426">Rückkehr in Eure Welt.</text>
+<text id="2631427">Rückkehr in Eure Welt.</text>
+<text id="2631428">Rückkehr in Eure Welt.</text>
+<text id="2631429">Rückkehr in Eure Welt.</text>
+<text id="2632425">Der Wirt der Finger ist nach Hause zurückgekehrt. Ihr kehrt in die Welt des Wirts zurück.</text>
+<text id="2640425">Krummfinger &lt;?leaveName?&gt; wurde nach Hause geschickt.</text>
+<text id="2641425">Vom Wirt der Finger nach Hause geschickt.
+Ihr kehrt in Eure Welt zurück.</text>
+<text id="2642425">Krummfinger &lt;?leaveName?&gt; wurde nach Hause geschickt.</text>
+<text id="2691425">Ihr seid tot. Ihr kehrt in Eure Welt zurück.</text>
+<text id="2692425">Krummfinger &lt;?deadName?&gt; ist tot.</text>
+<text id="2693425">Rückkehr in Eure Welt.</text>
+<text id="2694425">Krummfinger &lt;?leaveName?&gt; ist nach Hause zurückgekehrt.</text>
+<text id="4080100">Gast wird herbeigerufen ...</text>
+<text id="4080101">%null%</text>
+<text id="4080102">%null%</text>
+<text id="4080103">%null%</text>
+<text id="4080104">%null%</text>
+<text id="4080105">%null%</text>
+<text id="4080106">%null%</text>
+<text id="4080107">%null%</text>
+<text id="4080108">%null%</text>
+<text id="4080109">%null%</text>
+<text id="4080110">Weiterer Gast wird herbeigerufen ...</text>
+<text id="4080800">Drachlingkrieger Igon wurde als Gast herbeigerufen.</text>
+<text id="4080801">Drachlingkrieger Igon wurde als Gast herbeigerufen.</text>
+<text id="4080802">Drachlingkrieger Igon ist tot.</text>
+<text id="4080803">%null%</text>
+<text id="4080804">%null%</text>
+<text id="4080805">%null%</text>
+<text id="4080806">%null%</text>
+<text id="4080807">%null%</text>
+<text id="4080808">%null%</text>
+<text id="4080809">%null%</text>
+<text id="4080810">Thiollier wurde als Gast herbeigerufen.</text>
+<text id="4080811">Thiollier wurde als Gast herbeigerufen.</text>
+<text id="4080812">Thiollier ist tot.</text>
+<text id="4080813">%null%</text>
+<text id="4080814">%null%</text>
+<text id="4080815">%null%</text>
+<text id="4080816">%null%</text>
+<text id="4080817">%null%</text>
+<text id="4080818">%null%</text>
+<text id="4080819">%null%</text>
+<text id="4080820">Invasion durch Thiollier!</text>
+<text id="4080821">%null%</text>
+<text id="4080822">Thiollier ist tot.</text>
+<text id="4080823">%null%</text>
+<text id="4080824">%null%</text>
+<text id="4080825">%null%</text>
+<text id="4080826">%null%</text>
+<text id="4080827">%null%</text>
+<text id="4080828">%null%</text>
+<text id="4080829">%null%</text>
+<text id="4080830">Invasion durch Jolán, Schwerthand der Nacht!</text>
+<text id="4080831">%null%</text>
+<text id="4080832">Jolán, Schwerthand der Nacht, ist tot.</text>
+<text id="4080833">%null%</text>
+<text id="4080834">%null%</text>
+<text id="4080835">%null%</text>
+<text id="4080836">%null%</text>
+<text id="4080837">%null%</text>
+<text id="4080838">%null%</text>
+<text id="4080839">%null%</text>
+<text id="4080840">Reinblutritter Ansbach wurde als Gast herbeigerufen.</text>
+<text id="4080841">Reinblutritter Ansbach wurde als Gast herbeigerufen.</text>
+<text id="4080842">Reinblutritter Ansbach ist tot.</text>
+<text id="4080843">Reinblutritter Ansbach wird zu gegebener Zeit als Gast herbeigerufen.</text>
+<text id="4080844">%null%</text>
+<text id="4080845">%null%</text>
+<text id="4080846">%null%</text>
+<text id="4080847">%null%</text>
+<text id="4080848">%null%</text>
+<text id="4080849">%null%</text>
+<text id="4080850">Thiollier wurde als Gast herbeigerufen.</text>
+<text id="4080851">Thiollier wurde als Gast herbeigerufen.</text>
+<text id="4080852">Thiollier ist tot.</text>
+<text id="4080853">Thiollier wird zu gegebener Zeit als Gast herbeigerufen.</text>
+<text id="4080854">%null%</text>
+<text id="4080855">%null%</text>
+<text id="4080856">%null%</text>
+<text id="4080857">%null%</text>
+<text id="4080858">%null%</text>
+<text id="4080859">%null%</text>
+<text id="4080860">Der Blutadlige Nataan wurde als Gast herbeigerufen.</text>
+<text id="4080861">Der Blutadlige Nataan wurde als Gast herbeigerufen.</text>
+<text id="4080862">Der Blutadlige Nataan ist tot.</text>
+<text id="4080863">Der Blutadlige Nataan wird zu gegebener Zeit als Gast herbeigerufen.</text>
+<text id="4080864">%null%</text>
+<text id="4080865">%null%</text>
+<text id="4080866">%null%</text>
+<text id="4080867">%null%</text>
+<text id="4080868">%null%</text>
+<text id="4080869">%null%</text>
+<text id="4080870">Der Hornherold wurde als Gast herbeigerufen.</text>
+<text id="4080871">Der Hornherold wurde als Gast herbeigerufen.</text>
+<text id="4080872">Der Hornherold ist tot.</text>
+<text id="4080873">%null%</text>
+<text id="4080874">%null%</text>
+<text id="4080875">%null%</text>
+<text id="4080876">%null%</text>
+<text id="4080877">%null%</text>
+<text id="4080878">%null%</text>
+<text id="4080879">%null%</text>
+<text id="4080880">Jolán, Schwerthand der Nacht, wurde als Gast herbeigerufen.</text>
+<text id="4080881">Jolán, Schwerthand der Nacht, wurde als Gast herbeigerufen.</text>
+<text id="4080882">Jolán, Schwerthand der Nacht, ist tot.</text>
+<text id="4080883">%null%</text>
+<text id="4080884">%null%</text>
+<text id="4080885">%null%</text>
+<text id="4080886">%null%</text>
+<text id="4080887">%null%</text>
+<text id="4080888">%null%</text>
+<text id="4080889">%null%</text>
+<text id="4080890">Der Hornherold wurde als Gegner herbeigerufen.</text>
+<text id="4080891">%null%</text>
+<text id="4080892">Der Hornherold ist tot.</text>
+<text id="4080893">%null%</text>
+<text id="4080894">%null%</text>
+<text id="4080895">%null%</text>
+<text id="4080896">%null%</text>
+<text id="4080897">%null%</text>
+<text id="4080898">%null%</text>
+<text id="4080899">%null%</text>
+<text id="4080900">Moore wurde als Gegner herbeigerufen.</text>
+<text id="4080901">%null%</text>
+<text id="4080902">Moore ist tot.</text>
+<text id="4080903">%null%</text>
+<text id="4080904">%null%</text>
+<text id="4080905">%null%</text>
+<text id="4080906">%null%</text>
+<text id="4080907">%null%</text>
+<text id="4080908">%null%</text>
+<text id="4080909">%null%</text>
+<text id="4080910">Rotmähne Freyja wurde als Gegner herbeigerufen.</text>
+<text id="4080911">%null%</text>
+<text id="4080912">Rotmähne Freyja ist tot.</text>
+<text id="4080913">%null%</text>
+<text id="4080914">%null%</text>
+<text id="4080915">%null%</text>
+<text id="4080916">%null%</text>
+<text id="4080917">%null%</text>
+<text id="4080918">%null%</text>
+<text id="4080919">%null%</text>
+<text id="4080920">Nadelritterin Leda wurde als Gegner herbeigerufen.</text>
+<text id="4080921">%null%</text>
+<text id="4080922">Nadelritterin Leda ist tot.</text>
+<text id="4080923">%null%</text>
+<text id="4080924">%null%</text>
+<text id="4080925">%null%</text>
+<text id="4080926">%null%</text>
+<text id="4080927">%null%</text>
+<text id="4080928">%null%</text>
+<text id="4080929">%null%</text>
+<text id="4080930">Trockenblatt Dane wurde als Gegner herbeigerufen.</text>
+<text id="4080931">%null%</text>
+<text id="4080932">Trockenblatt Dane ist tot.</text>
+</entries>
+</fmg>

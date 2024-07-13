@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="10410">그림자 나무의 가호</text>
+<text id="10411">영혼 재의 가호</text>
+<text id="30205">그림자 나무의 가호 수치.
+그림자의 땅에서만,
+이를 받은 자의 힘을 높인다.</text>
+<text id="30206">영혼 재의 가호 수치.
+그림자의 땅에서만,
+소환하는 영체와 영마의 힘을 높인다.</text>
+<text id="40382">키보드만</text>
+<text id="40383">키보드와 마우스</text>
+<text id="40524">최근 입수한 아이템</text>
+<text id="60180">격투</text>
+<text id="60181">조향병</text>
+<text id="60182">관통 방패</text>
+<text id="60183">투척검</text>
+<text id="60184">역수검</text>
+<text id="60185">경대검</text>
+<text id="60186">대형 도</text>
+<text id="60187">짐승 발톱</text>
+<text id="63051">격투에 사용 가능.</text>
+<text id="63052">조향병에 사용 가능.</text>
+<text id="63053">관통 방패에 사용 가능.</text>
+<text id="63054">투척검에 사용 가능.</text>
+<text id="63055">역수검에 사용 가능.</text>
+<text id="63056">경대검에 사용 가능.</text>
+<text id="63057">대형 도에 사용 가능.</text>
+<text id="63058">짐승 발톱에 사용 가능.</text>
+<text id="63059">관통 가능 무기에 사용 가능.
+(손톱/역수검 제외)</text>
+<text id="63060">대형/특대형 검에 사용 가능.</text>
+<text id="63061">검/창에 사용 가능.
+(소형/쌍날검/역수검 제외)</text>
+<text id="80020">금 간 큰 항아리</text>
+<text id="110600">표시</text>
+<text id="110601">첫 입수한 아이템에 아이콘 표시</text>
+<text id="110602">%null%</text>
+<text id="110603">최근 입수한 아이템의 탭 표시</text>
+<text id="110700">음향</text>
+<text id="111024">지도 메뉴의 커서 이동</text>
+<text id="111025">고정 타깃 변경 임계치</text>
+<text id="225001">베일의 용찬</text>
+<text id="225002">%null%</text>
+<text id="225003">%null%</text>
+<text id="225004">%null%</text>
+<text id="225005">%null%</text>
+<text id="225006">%null%</text>
+<text id="225007">%null%</text>
+<text id="225008">%null%</text>
+<text id="225009">%null%</text>
+<text id="225010">%null%</text>
+<text id="225011">공물</text>
+<text id="241337">그림자 알터</text>
+<text id="241338">푸른 해안</text>
+<text id="241339">톱니산 기슭</text>
+<text id="241340">톱니산</text>
+<text id="241341">카로의 숨겨진 묘지</text>
+<text id="241342">라우프의 옛 유적</text>
+<text id="241343">그림자를 우러르는 노대</text>
+<text id="241344">나락의 숲</text>
+<text id="241345">탑의 도시 벨라트</text>
+<text id="241346">에니르 일림</text>
+<text id="241347">그림자의 성</text>
+<text id="241348">그림자의 성 교구</text>
+<text id="241349">씨앗 보관고</text>
+<text id="241350">석관의 큰 구멍</text>
+<text id="241351">미드라의 저택</text>
+<text id="241352">엔시스 성채</text>
+<text id="241353">묘지 평원</text>
+<text id="241354">라우프의 기슭</text>
+<text id="241417">묘지 평원</text>
+<text id="241418">그림자 알터</text>
+<text id="241419">탑의 땅</text>
+<text id="241420">그림자의 성</text>
+<text id="241500">지도 기능 메뉴</text>
+<text id="241501">멀티 플레이 상황 표시</text>
+<text id="241502">사인 대기소 목록</text>
+<text id="241503">버튼 가이드 목록</text>
+<text id="241504">메뉴 설명</text>
+<text id="241600">사인 대기소 목록</text>
+<text id="280060">메뉴</text>
+<text id="280600">지도</text>
+<text id="331340">HEART STOLEN</text>
+</entries>
+</fmg>

@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="200000">Diese Kriegsasche verleiht Eurer Waffe keine Affinität, aber folgendes Talent:
+
+"Trockenblatt-Wirbelwind: Dieses Talent stellt den Höhepunkt von Danes auf Fußarbeit basierenden Kampfkunst dar.
+Erhebt Euch mit einer Reihe von Wirbeltritten in die Luft, bevor Ihr mit einem letzten Schlag zu Boden stürzt. Durchtränkt Trittangriffe mit Energie und erhöht ihre Reichweite."
+
+Zur Verwendung mit Hand-zu-Hand-Waffen.</text>
+<text id="200100">Diese Kriegsasche verleiht einer Waffe die Affinität "Heilig" und folgendes Talent:
+
+"Aspekte des Schmelztiegels (Flügel): Dieses Talent stammt von den Lebensformen des Schmelztiegels. Lasst Euch ein paar goldene Flügel wachsen und schwingt Euch in die Lüfte, bevor ihr auf den Feind herabstürzt. Ein Wirbelangriff wird ausgeführt, wenn Ihr eine Doppelklinge führt."
+
+Zur Verwendung mit Schwertern und durchbohrenden Stangenwaffen (außer mit gigantischen Waffen).</text>
+<text id="400000">Diese Kriegsasche verleiht einer Waffe die Affinität "Schwer" und folgendes Talent:
+
+"Wirbelnder Schwerkraftstoß: Ein Schwerkrafttalent, von den Jüngern eines Alabasterfürsten verfeinert. Nutzt die Schwerkraft, um in der Luft zu hängen, bevor sie den Körper dreht und nach vorne stürmt. Eine zusätzliche Eingabe ermöglicht einen Folgeangriff."
+
+Zur Verwendung mit großen und gigantischen Schwertern.</text>
+<text id="401000">Diese Kriegsasche verleiht Eurer Waffe keine Affinität, aber folgendes Talent:
+
+"Handexplosion: Talent der als Trockenblatt-Sekte bekannten geistlichen Sucher. Durchdringt die Hand mit Energie, bevor sie mit einem Handflächenschlag eine explosive Explosion auslöst. Die ohnehin schon gewaltige Kraft und Wirkung kann durch Aufladen des Angriffs noch verstärkt werden."
+
+Zur Verwendung mit Hand-zu-Hand-Waffen.</text>
+<text id="402000">Diese Kriegsasche verleiht einer Waffe die Affinität "Solide" und folgendes Talent:
+
+"Durchbohrender Wurf: Werft die Waffe mit einer mächtigen Drehung, dank der sie sich durch Feinde bohrt. Mit diesem Talent die Waffen kann weiter geworfen und auch Feinde durchbohren."
+
+Zur Verwendung mit Wurfklingen.</text>
+<text id="403000">Diese Kriegsasche verleiht einer Waffe die Affinität "Solide" und folgendes Talent:
+
+"Streuschuss-Wurf: Beschwört mithilfe von Schmiedekunst mehrere Kopien der Waffe in beiden Händen und werft alle auf einmal. Erneut drücken, um noch einmal zu werfen."
+
+Zur Verwendung mit Wurfklingen.</text>
+<text id="404000">Diese Kriegsasche verleiht Eurer Waffe keine Affinität, aber folgendes Talent:
+
+"Funkenwand: Verteilt duftendes Pulver in der Nähe, das nach kurzer Verzögerung starke Funken schlägt. Aufladen, um die Stärke und die Reichweite zu erhöhen. Die Eigenschaften der Funken hängen von der verwendeten Parfümflasche ab."
+
+Zur Verwendung mit Parfümflaschen.</text>
+<text id="405000">Diese Kriegsasche verleiht Eurer Waffe keine Affinität, aber folgendes Talent:
+
+"Rollende Funken: Verteilt parfümiertes Pulver vor euch, das rollende Explosionen tödlicher Funken verursacht. Die Eigenschaften der Funken hängen von der verwendeten Parfümflasche ab."
+
+Zur Verwendung mit Parfümflaschen.</text>
+<text id="406000">Diese Kriegsasche verleiht einer Waffe die Affinität "Solide" und folgendes Talent:
+
+"Tobende Bestie: Macht einen Schritt mit der Agilität einer Bestie, springt nach oben und stürzt Euch auf Euren Feind. Der erste Schritt kann nach vorn, hinten, links oder rechts gemacht werden. Durch weitere Eingabe könnt Ihr mit einem Angriff nachsetzen. Starker Angriff löst einen Folgenangriff aus."
+
+Zur Verwendung mit Bestienklauen.</text>
+<text id="407000">Diese Kriegsasche verleiht einer Waffe die Affinität "Solide" und folgendes Talent:
+
+"Wilde Klauen: Fallt Euren Gegner wie eine Bestie an und vergrabt linke und rechte Klauen in ihm."
+
+Zur Verwendung mit Bestienklauen.</text>
+<text id="409000">Diese Kriegsasche verleiht einer Waffe die Affinität "Solide" und folgendes Talent:
+
+"Toter Winkel: Springt in die Nähe des Gegners und nutzt seinen toten Winkel aus, um ihn von der Seite zu verstümmeln. Die Eingaben bestimmen, von welcher Seite Ihr zuschlagen. Dieser Angriff schlüpft unter der gegnerischen Deckung hindurch."
+
+Zur Verwendung mit Rückhandklingen.</text>
+<text id="410000">Diese Kriegsasche verleiht einer Waffe die Affinität "Solide" und folgendes Talent:
+
+"Schneller Schnitt: Ein unter Schwertkämpfern der Hornherolde vererbtes Talent. Macht einen schnellen Schritt nach vorn, um Euch durch Gegner zu schlitzen. Dieser scharfe Treffer feuert auch ein Vakuum ab. Aufladen, um die Kraft des Talents und die Distanz des Vorwärtsschritts zu erhöhen."
+
+Zur Verwendung mit Rückhandklingen.</text>
+<text id="411000">Diese Kriegsasche verleiht einer Waffe die Affinität "Solide" und folgendes Talent:
+
+"Überkopf-Haltung: Eine Fertigkeit, bei der die Klinge zu Beginn hoch oben bereitgehalten wird. Führt aus dieser Haltung heraus einen normalen Angriff aus, um vorzupreschen und nach unten zu schlagen, oder einen starken Angriff, um eine Reihe von Schlägen nach unten auszuführen."
+
+Zur Verwendung mit Großkatanas.</text>
+<text id="412000">Diese Kriegsasche verleiht einer Waffe die Affinität "Wertig" und folgendes Talent:
+
+"Flügelhaltung: Ruhig eine rechtsseitige Haltung einnehmen. Ein normaler Angriff löst eine schnelle Dreierkombination aus. Starker Angriff löst einen Sprunghieb aus."
+
+Zur Verwendung mit leichten Großschwertern.</text>
+<text id="413000">Diese Kriegsasche verleiht einer Waffe die Affinität "Blitzend" und folgendes Talent:
+
+"Blitzbolzen: Dieses Talent wurde von den goldenen Rittern, die Godwyn dienten, eingesetzt. Aus einer niedrigen Haltung heraus verwandelt sich der Körper in einen Blitz und stürmt mit rasender Geschwindigkeit geradeaus."
+
+Zur Verwendung mit allen Nahkampfwaffen.</text>
+<text id="414000">Diese Kriegsasche verleiht einer Waffe die Affinität "Flammend" und folgendes Talent:
+
+"Flammenspieß: Talent von Queelign von den Feuerrittern. Hüllt die Rüstung in Flammen ein und nimmt eine tiefe Haltung ein, um den Gegner mit einer einzigen Bewegung aufzuspießen. Ein starker Angriff löst einen weiteren Flammenangriff aus."
+
+Zur Verwendung mit mittelgroßen und schweren Stoßwaffen.</text>
+<text id="415000">Diese Kriegsasche verleiht einer Waffe die Affinität "Schwer" und folgendes Talent:
+
+"Wilde Löwenkralle: Talent der ganz besonders Mutigen, sogar unter den Rotmähnen. Führt einen Vorwärtssalto aus und schlagt Eure Gegner mit der Waffe. Eine zusätzliche Eingabe ermöglicht einen Folgeangriff."
+
+Zur Verwendung mit Schwertern, Äxten und Hämmern
+(außer mit kleinen Waffen und Stoßschwertern).</text>
+<text id="416000">Diese Kriegsasche verleiht einer Waffe die Affinität "Eisig" und folgendes Talent:
+
+"Göttliches Bestien-Froststampfen: Ein Talent, das den Zorn des Tanzes der göttlichen Bestie nachahmt. Hebt ein Bein hoch und stampft es mit großer Wucht auf den Boden. Schickt eine mächtige Welle aus Frost direkt auf dem Boden entlang."
+
+Zur Verwendung mit allen Nahkampfwaffen.</text>
+<text id="417000">Diese Kriegsasche verleiht einer Waffe die Affinität "Flammend" und folgendes Talent:
+
+"Flammenspeer: Talent von Kood, Hauptmann der Feuerritter. Bereitet die Waffe für einen Stoßangriff vor und schleudert einen Flammenspeer geradeaus. Ladet den Angriff auf, um den verursachten Schaden und die zurückgelegte Entfernung zu erhöhen."
+
+Zur Verwendung mit durchbohrenden Waffen (außer mit Klauen und Rückhandklingen).</text>
+<text id="418000">Diese Kriegsasche verleiht einer Waffe die Affinität "Magisch" und folgendes Talent:
+
+"Carianische Souveränität: Ein Talent, das in der königlichen Familie von Caria weitergegeben wird. Verwandelt die Klinge in ein magisches Großschwert und schwingt sie nach unten. Eine weitere Eingabe führt einen horizontaler Schwungangriff aus. Kann aufgeladen werden, um die Wirkung zu verstärken."
+
+Zur Verwendung mit Schwertern (außer mit gigantischen Waffen).</text>
+<text id="419000">Diese Kriegsasche verleiht einer Waffe die Affinität "Okkult" und folgendes Talent:
+
+"Schrei des Kummers: Dieses Talent wird von den Unterdrückten eingesetzt. Schrei, der nahe Gegner zusammenzucken lässt und gleichzeitig tief sitzenden Groll hervorruft, wobei die Angriffskraft je nach verbleibenden LP erhöht wird. Je niedriger die LP, desto größer der Effekt."
+
+Zur Verwendung mit allen Nahkampfwaffen.</text>
+<text id="422000">Diese Kriegsasche verleiht einer Waffe die Affinität "Eisig" und folgendes Talent: 
+ 
+"Ruf der Geisterflamme: Stoßt mit der Waffe zu, um eine Geisterflamme zu beschwören. Setzt mit einem normalen Angriff nach, um den Boden mit Geisterflammen zu überziehen, oder löst mit einem starken Angriff eine Explosion aus." 
+ 
+Zur Verwendung mit Schwertern und Speeren 
+(außer mit kleinen Waffen, Doppelklingen und Rückhandklingen).</text>
+<text id="505000">Diese Kriegsasche verleiht einer Waffe die Affinität "Giftig" und folgendes Talent:
+
+"Die giftige Blume blüht zweimal: Beschwört scharlachrote Stacheln von unten herauf, um den Gegner zu stechen. Ein Folgeangriff auf einen Gegner, der bereits von Gift oder Fäule befallen ist, verursacht er auf einen Schlag massiven Schaden."
+
+Zur Verwendung mit allen Nahkampfwaffen.</text>
+<text id="548000">Diese Kriegsasche verleiht Eurer Waffe keine Affinität, aber folgendes Talent:
+
+"Igons Drachlingjagd: Talent von Igon, Drachenkrieger. Macht den Bogen bereit, bevor Ihr einen gedrehten Schuss mit großem Gebrüll entfesselt, das seine Kraft erheblich verstärkt."
+
+Zur Verwendung mit Großbögen.</text>
+<text id="800000">Diese Kriegsasche verleiht Eurer Waffe keine Affinität, aber folgendes Talent:
+
+"Schildangriff: Ein Talent, das den Schild zum Angriff verwendet.
+Durch wiederholte Eingabe könnt Ihr mit bis zu drei Angriffen nachsetzen."
+
+Zur Verwendung mit allen Schilden.</text>
+</entries>
+</fmg>

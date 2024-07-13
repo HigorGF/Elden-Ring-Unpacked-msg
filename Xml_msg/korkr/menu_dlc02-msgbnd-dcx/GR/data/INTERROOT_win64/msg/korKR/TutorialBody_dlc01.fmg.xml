@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="302600">그림자의 땅 각지에서
+그림자 나무 파편을 구할 수 있다.
+
+축복에서 이를 소비해
+「그림자 나무의 가호」를 올릴 수 있다.
+
+그림자 나무의 가호는 이를 받은 자의
+공격력과 경감률을 높이나
+그림자의 땅 밖에서는 효과가 없다.</text>
+<text id="302601">%null%</text>
+<text id="302602">%null%</text>
+<text id="302603">%null%</text>
+<text id="302604">%null%</text>
+<text id="302605">%null%</text>
+<text id="302606">%null%</text>
+<text id="302607">%null%</text>
+<text id="302608">%null%</text>
+<text id="302609">%null%</text>
+<text id="302610">그림자의 땅 각지에서
+영혼 재를 구할 수 있다.
+
+축복에서 이를 소비해
+「영혼 재의 가호」를 올릴 수 있다.
+
+영혼 재의 가호는 소환하는 영체와 영마의
+공격력과 경감률을 높이나
+그림자의 땅 밖에서는 효과가 없다.</text>
+<text id="302611">%null%</text>
+<text id="302612">%null%</text>
+<text id="302613">%null%</text>
+<text id="302614">%null%</text>
+<text id="302615">%null%</text>
+<text id="302616">%null%</text>
+<text id="302617">%null%</text>
+<text id="302618">%null%</text>
+<text id="302619">%null%</text>
+<text id="302620">시스템 메뉴의 표시 탭에서
+아래의 새 기능을 설정할 수 있다.
+
+ · 첫 입수한 아이템에 &lt;?newItemIcon?&gt; 표시
+ · 최근 입수한 아이템을 전용 탭에서 확인</text>
+<text id="402600">그림자 나무 파편을 소비해
+「그림자 나무의 가호」를 올릴 수 있다.
+
+그림자 나무의 가호는 이를 받은 자의
+공격력과 경감률을 높이나
+그림자의 땅 밖에서는 효과가 없다.</text>
+<text id="402601">%null%</text>
+<text id="402602">%null%</text>
+<text id="402603">%null%</text>
+<text id="402604">%null%</text>
+<text id="402605">%null%</text>
+<text id="402606">%null%</text>
+<text id="402607">%null%</text>
+<text id="402608">%null%</text>
+<text id="402609">%null%</text>
+<text id="402610">영혼 재를 소비해
+「영혼 재의 가호」를 올릴 수 있다.
+
+영혼 재의 가호는 소환하는 영체와 영마의
+공격력과 경감률을 높이나
+그림자의 땅 밖에서는 효과가 없다.</text>
+</entries>
+</fmg>

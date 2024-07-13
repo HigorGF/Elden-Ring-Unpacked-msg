@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="110601">Wł./wył. oznaczanie nowych przedmiotów za pomocą ikony</text>
+<text id="110602">%null%</text>
+<text id="110603">Pokaż/ukryj w menu ekwipunku zakładkę ostatnich przedmiotów</text>
+<text id="111024">Skonfiguruj ruch kursora w menu mapy</text>
+<text id="111025">Zmień czułość myszy przy zmianie namierzonego celu</text>
+<text id="225001">Wybierz zdolność Bayle'a, którą chcesz zyskać</text>
+<text id="241501">Skonfiguruj ekran statusu gry wieloosobowej</text>
+<text id="241502">Pokaż listę puli przyzwania i włącz lub wyłącz pule</text>
+<text id="241503">Pokaż listę sterowania</text>
+<text id="241504">Pokaż objaśnienie menu mapy</text>
+<text id="241600">Wybierz pule przyzwania, które chcesz włączyć/wyłączyć</text>
+<text id="280600">Pokaż menu mapy</text>
+</entries>
+</fmg>

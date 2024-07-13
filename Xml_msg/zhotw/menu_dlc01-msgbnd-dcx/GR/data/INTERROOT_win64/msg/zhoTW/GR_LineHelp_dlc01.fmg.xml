@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="110601">設定初次獲得道具時，是否以圖案標示</text>
+<text id="110602">%null%</text>
+<text id="110603">在置物包選單，是否顯示「最近獲得的道具」標籤</text>
+<text id="111024">選擇在地圖選單，操作游標移動的裝置</text>
+<text id="111025">設定以滑鼠切換鎖定目標時的臨界值</text>
+<text id="225001">請選擇貝勒的力量，將其力量化為己有</text>
+<text id="241501">設定是否顯示多人連線遊玩的狀態</text>
+<text id="241502">顯示記號聚集處一覽，個別設定啟用／不啟用</text>
+<text id="241503">顯示控制說明</text>
+<text id="241504">顯示地圖選單的說明</text>
+<text id="241600">請選擇記號聚集處，設定啟用／不啟用</text>
+<text id="280600">顯示地圖選單</text>
+</entries>
+</fmg>

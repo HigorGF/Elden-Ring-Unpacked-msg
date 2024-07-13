@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="111108">프레임레이트 제한 설정이 부적절하여
+설정을 변경합니다.</text>
+<text id="225001">베일의 심장을 공물로 바쳐
+&lt;?itemName?&gt;을(를) 자신의 것으로 삼습니다.</text>
+<text id="236031">금 간 큰 항아리의 소지 수를 초과하기 때문에
+아이템을 제작할 수 없습니다.</text>
+<text id="236061">금 간 큰 항아리를 소지하고 있지 않아
+아이템을 제작할 수 없습니다.</text>
+<text id="241200">지도 조각을 입수했습니다.
+(묘지 평원)</text>
+<text id="241201">지도 조각을 입수했습니다.
+(그림자 알터)</text>
+<text id="241202">지도 조각을 입수했습니다.
+(푸른 해안)</text>
+<text id="241203">지도 조각을 입수했습니다.
+(라우프의 옛 유적)</text>
+<text id="241204">지도 조각을 입수했습니다.
+(나락)</text>
+</entries>
+</fmg>

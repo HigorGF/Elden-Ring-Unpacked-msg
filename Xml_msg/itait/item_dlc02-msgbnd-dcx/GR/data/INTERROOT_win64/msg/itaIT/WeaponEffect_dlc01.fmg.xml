@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1200">Potenzia le stregonerie delle dita</text>
+<text id="1201">Potenzia gli incantesimi di Miquella</text>
+<text id="1202">Potenzia gli incantesimi della fiamma di Messmer</text>
+<text id="1203">Potenzia gli incantesimi della spirale</text>
+<text id="6800">Causa progressivamente sonno eterno (&lt;?sleepATKpwr?&gt;)</text>
+</entries>
+</fmg>

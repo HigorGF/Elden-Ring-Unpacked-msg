@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="200000">戰灰：落葉旋風腳</text>
+<text id="200100">戰灰：熔爐百相之羽</text>
+<text id="400000">戰灰：重力旋刺</text>
+<text id="401000">戰灰：發勁</text>
+<text id="402000">戰灰：貫穿投擲</text>
+<text id="403000">戰灰：多重投擲</text>
+<text id="404000">戰灰：四面火花香</text>
+<text id="405000">戰灰：串聯火花香</text>
+<text id="406000">戰灰：野獸突襲</text>
+<text id="407000">戰灰：野獸爪擊</text>
+<text id="409000">戰灰：死角一擊</text>
+<text id="410000">戰灰：迅斬</text>
+<text id="411000">戰灰：大上段</text>
+<text id="412000">戰灰：單翼架式</text>
+<text id="413000">戰灰：瞬雷</text>
+<text id="414000">戰灰：火焰穿刺</text>
+<text id="415000">戰灰：勇猛獅子斬</text>
+<text id="416000">戰灰：神獸凍霜踏地</text>
+<text id="417000">戰灰：火焰槍</text>
+<text id="418000">戰灰：尊矣卡利亞</text>
+<text id="419000">戰灰：悲慟慘叫</text>
+<text id="422000">戰灰：喚起靈火</text>
+<text id="505000">戰灰：雙刺毒花</text>
+<text id="548000">戰灰：埃貢的獵龍</text>
+<text id="800000">戰灰：盾牌攻擊</text>
+</entries>
+</fmg>

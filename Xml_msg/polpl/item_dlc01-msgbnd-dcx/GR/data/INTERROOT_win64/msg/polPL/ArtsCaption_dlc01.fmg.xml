@@ -1,0 +1,900 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="2000">Umiejętność: Wir Suchego Liścia
+
+Ta umiejętność to szczyt opartej na pracy nóg sztuki bojowej Dane’a. Wznieś się w powietrze, wykonując serię wirujących kopnięć, a spadając, zadaj ostatni, potężny cios. Dodaje kopnięciom energię i zwiększa ich zasięg.</text>
+<text id="2001">Umiejętność: Aspekty Tygla (Skrzydła)
+
+Ta umiejętność pochodzi z form życia zamieszkujących Tygiel. Wypuść parę złotych skrzydeł, wzbij się w powietrze i zanurkuj na wroga, wymierzając w niego broń. Kiedy trzymasz podwójne ostrze, wykonujesz wirujący atak.</text>
+<text id="4000">Umiejętność: Wirujące pchnięcie grawitacyjne
+
+Umiejętność grawitacyjna szlifowana przez uczniów alabastrowego władcy. Wykorzystuje moc grawitacji, aby zawisnąć w powietrzu, następnie obraca ciało i rozpoczyna szarżę. Kolejne naciśnięcie pozwala wykonać dodatkowy atak.</text>
+<text id="4001">%null%</text>
+<text id="4002">%null%</text>
+<text id="4003">%null%</text>
+<text id="4004">%null%</text>
+<text id="4005">%null%</text>
+<text id="4006">%null%</text>
+<text id="4007">%null%</text>
+<text id="4008">%null%</text>
+<text id="4009">%null%</text>
+<text id="4010">Umiejętność: Wybuchowa dłoń
+
+Umiejętność duchownych poszukiwaczy zwanych Sektą Suchego Liścia. Ładuje dłoń energią, by następnie wykonać uderzenie wywołujące wybuch. Tę potężną moc uderzenia można wzmocnić poprzez naładowanie ataku</text>
+<text id="4011">%null%</text>
+<text id="4012">%null%</text>
+<text id="4013">%null%</text>
+<text id="4014">%null%</text>
+<text id="4015">%null%</text>
+<text id="4016">%null%</text>
+<text id="4017">%null%</text>
+<text id="4018">%null%</text>
+<text id="4019">%null%</text>
+<text id="4020">Umiejętność: Rzut przebijający
+
+Wykonaj potężny rzut orężem, by zawirował i przewiercił się przez wrogów. Podczas używania tej umiejętności, oręż leci dalej, a także przebija wrogów.</text>
+<text id="4021">%null%</text>
+<text id="4022">%null%</text>
+<text id="4023">%null%</text>
+<text id="4024">%null%</text>
+<text id="4025">%null%</text>
+<text id="4026">%null%</text>
+<text id="4027">%null%</text>
+<text id="4028">%null%</text>
+<text id="4029">%null%</text>
+<text id="4030">Umiejętność: Rzut rozprostrzału
+
+Wykorzystaj sztukę kowalską, aby przyzwać liczne kopie oręża w obu rękach, a następnie rzucić nimi wszystkimi naraz. Naciśnij ponownie, aby wykonać kolejny rzut.</text>
+<text id="4031">%null%</text>
+<text id="4032">%null%</text>
+<text id="4033">%null%</text>
+<text id="4034">%null%</text>
+<text id="4035">%null%</text>
+<text id="4036">%null%</text>
+<text id="4037">%null%</text>
+<text id="4038">%null%</text>
+<text id="4039">%null%</text>
+<text id="4040">Umiejętność: Ściana iskier
+
+Rozrzuć wokół siebie wonny proszek, który po chwili zamieni się w intensywne iskry. Tą umiejętność można naładować, by zwiększyć jej siłę i zasięg. Właściwości iskier zależą od tego, jakiej butelki perfum użyjesz.</text>
+<text id="4041">%null%</text>
+<text id="4042">%null%</text>
+<text id="4043">%null%</text>
+<text id="4044">%null%</text>
+<text id="4045">%null%</text>
+<text id="4046">%null%</text>
+<text id="4047">%null%</text>
+<text id="4048">%null%</text>
+<text id="4049">%null%</text>
+<text id="4050">Umiejętność: Pędzące iskry
+
+Rozrzuć przed sobą wonny proszek, który wywoła serię wybuchów zabójczych iskier. Właściwości iskier zależą od tego, jakiej butelki perfum użyjesz.</text>
+<text id="4051">%null%</text>
+<text id="4052">%null%</text>
+<text id="4053">%null%</text>
+<text id="4054">%null%</text>
+<text id="4055">%null%</text>
+<text id="4056">%null%</text>
+<text id="4057">%null%</text>
+<text id="4058">%null%</text>
+<text id="4059">%null%</text>
+<text id="4060">Umiejętność: Wściekłe zwierzę
+
+Porusz się ze zwierzęcą zwinnością, skocz wysoko i tnij z góry. Silny atak pozwala wykonać dodatkowe uderzenie.</text>
+<text id="4061">%null%</text>
+<text id="4062">%null%</text>
+<text id="4063">%null%</text>
+<text id="4064">%null%</text>
+<text id="4065">%null%</text>
+<text id="4066">%null%</text>
+<text id="4067">%null%</text>
+<text id="4068">%null%</text>
+<text id="4069">%null%</text>
+<text id="4070">Umiejętność: Dzikie pazury
+
+Skocz jak zwierzę, by brutalnie ciąć wroga lewymi i prawymi pazurami.</text>
+<text id="4071">%null%</text>
+<text id="4072">%null%</text>
+<text id="4073">%null%</text>
+<text id="4074">%null%</text>
+<text id="4075">%null%</text>
+<text id="4076">%null%</text>
+<text id="4077">%null%</text>
+<text id="4078">%null%</text>
+<text id="4079">%null%</text>
+<text id="4080">Unikalna umiejętność: Łowy niedźwiedzia rudego
+
+Zamaszystym ruchem ramienia masakruje ofiarę ostrymi szponami. Atak wywołuje uderzenie powietrza, które zadaje ciągłe obrażenia. Kolejne naciśnięcia pozwalają wykonać do dwóch ataków dodatkowych.</text>
+<text id="4081">%null%</text>
+<text id="4082">%null%</text>
+<text id="4083">%null%</text>
+<text id="4084">%null%</text>
+<text id="4085">%null%</text>
+<text id="4086">%null%</text>
+<text id="4087">%null%</text>
+<text id="4088">%null%</text>
+<text id="4089">%null%</text>
+<text id="4090">Umiejętność: Martwy punkt
+
+Doskocz do wroga, aby znaleźć się w jego martwym punkcie i zadać mu cios z boku. Ten atak przechodzi pod zasłoną przeciwnika.</text>
+<text id="4091">%null%</text>
+<text id="4092">%null%</text>
+<text id="4093">%null%</text>
+<text id="4094">%null%</text>
+<text id="4095">%null%</text>
+<text id="4096">%null%</text>
+<text id="4097">%null%</text>
+<text id="4098">%null%</text>
+<text id="4099">%null%</text>
+<text id="4100">Umiejętność: Szybkie cięcie
+
+Umiejętność, której uczą się szermierze rogatych przybyszów. Wykonaj szybki krok w przód, żeby ciąć wrogów. To cięcie wywołuje również uderzenie powietrza.</text>
+<text id="4101">%null%</text>
+<text id="4102">%null%</text>
+<text id="4103">%null%</text>
+<text id="4104">%null%</text>
+<text id="4105">%null%</text>
+<text id="4106">%null%</text>
+<text id="4107">%null%</text>
+<text id="4108">%null%</text>
+<text id="4109">%null%</text>
+<text id="4110">Umiejętność: Oręż w górze
+
+Wyjściowa postawa gotowości z klingą trzymaną wysoko w górze.
+Wyprowadź z tej postawy normalny atak, by raz ciąć z góry, lub silny atak, by wykonać kilka cięć.</text>
+<text id="4111">%null%</text>
+<text id="4112">%null%</text>
+<text id="4113">%null%</text>
+<text id="4114">%null%</text>
+<text id="4115">%null%</text>
+<text id="4116">%null%</text>
+<text id="4117">%null%</text>
+<text id="4118">%null%</text>
+<text id="4119">%null%</text>
+<text id="4120">Umiejętność: Postawa skrzydła
+
+Spokojnie przyjmij pozycję z wiodącą prawą stroną. Normalny atak aktywuje serię trzech cięć. Silny atak aktywuje pchnięcie z wyskoku.</text>
+<text id="4121">%null%</text>
+<text id="4122">%null%</text>
+<text id="4123">%null%</text>
+<text id="4124">%null%</text>
+<text id="4125">%null%</text>
+<text id="4126">%null%</text>
+<text id="4127">%null%</text>
+<text id="4128">%null%</text>
+<text id="4129">%null%</text>
+<text id="4130">Umiejętność: Błyskocisk
+
+Umiejętność złotych rycerzy, którzy służyli Godwynowi. Z niskiej postawy ciało zostaje przemienione w błyskawicę, która z zatrważającą prędkością uderza w przód.</text>
+<text id="4131">%null%</text>
+<text id="4132">%null%</text>
+<text id="4133">%null%</text>
+<text id="4134">%null%</text>
+<text id="4135">%null%</text>
+<text id="4136">%null%</text>
+<text id="4137">%null%</text>
+<text id="4138">%null%</text>
+<text id="4139">%null%</text>
+<text id="4140">Umiejętność: Ogniste przebicie
+
+Umiejętność rycerza ognia Queeligna. Spowij oręż płomieniem i przyjmij niską postawę, a następnie przebij wroga jednym płynnym ruchem. Silny atak aktywuje dodatkowy atak ogniem.</text>
+<text id="4141">%null%</text>
+<text id="4142">%null%</text>
+<text id="4143">%null%</text>
+<text id="4144">%null%</text>
+<text id="4145">%null%</text>
+<text id="4146">%null%</text>
+<text id="4147">%null%</text>
+<text id="4148">%null%</text>
+<text id="4149">%null%</text>
+<text id="4150">Umiejętność: Pazur dzikiego lwa
+
+Umiejętność najodważniejszych Lwich Grzyw. Wykonaj przewrót w przód, by uderzyć przeciwników orężem. Kolejne naciśnięcie pozwala zadać dodatkowy cios.</text>
+<text id="4151">%null%</text>
+<text id="4152">%null%</text>
+<text id="4153">%null%</text>
+<text id="4154">%null%</text>
+<text id="4155">%null%</text>
+<text id="4156">%null%</text>
+<text id="4157">%null%</text>
+<text id="4158">%null%</text>
+<text id="4159">%null%</text>
+<text id="4160">Umiejętność: Lodowe stąpnięcie boskiej bestii
+
+Umiejętność naśladująca gniew tańca boskiej bestii. Unieś nogę wysoko i uderz nią w ziemię z ogromną siłą. Uwalnia potężną falę mrozu sunącą po ziemi.</text>
+<text id="4161">%null%</text>
+<text id="4162">%null%</text>
+<text id="4163">%null%</text>
+<text id="4164">%null%</text>
+<text id="4165">%null%</text>
+<text id="4166">%null%</text>
+<text id="4167">%null%</text>
+<text id="4168">%null%</text>
+<text id="4169">%null%</text>
+<text id="4170">Umiejętność: Ognista włócznia
+
+Umiejętność Kooda, kapitana ognistych rycerzy.
+Przygotuj broń do pchnięcia i uderz ognistą włócznią na wprost. Naładuj atak, żeby zwiększyć obrażenia i przebytą odległość.</text>
+<text id="4171">%null%</text>
+<text id="4172">%null%</text>
+<text id="4173">%null%</text>
+<text id="4174">%null%</text>
+<text id="4175">%null%</text>
+<text id="4176">%null%</text>
+<text id="4177">%null%</text>
+<text id="4178">%null%</text>
+<text id="4179">%null%</text>
+<text id="4180">Umiejętność: Karyjska suwerenność
+
+Umiejętność przekazywana w karyjskiej rodzinie królewskiej. Zamień ostrze w magiczny wielki miecz i uderz nim w dół. Kolejne naciśnięcie pozwala wyprowadzić dodatkowy zamaszysty poziomy cios. Każdy z ataków można naładować, by zwiększyć jego siłę</text>
+<text id="4181">%null%</text>
+<text id="4182">%null%</text>
+<text id="4183">%null%</text>
+<text id="4184">%null%</text>
+<text id="4185">%null%</text>
+<text id="4186">%null%</text>
+<text id="4187">%null%</text>
+<text id="4188">%null%</text>
+<text id="4189">%null%</text>
+<text id="4190">Umiejętność: Wrzask cierpienia
+
+Umiejętność uciśnionych. Krzyknij, aby pobliscy wrogowie się wzdrygnęli. Dodatkowo obudzisz w sobie głęboko skrywaną niechęć, która wzmocni twoją siłę ataku zależnie od liczby pozostałych PŻ. Im mniej PŻ, tym mocniejszy efekt.</text>
+<text id="4191">%null%</text>
+<text id="4192">%null%</text>
+<text id="4193">%null%</text>
+<text id="4194">%null%</text>
+<text id="4195">%null%</text>
+<text id="4196">%null%</text>
+<text id="4197">%null%</text>
+<text id="4198">%null%</text>
+<text id="4199">%null%</text>
+<text id="4200">Umiejętność: Uderzenie tarczą
+
+Umiejętność wykorzystująca tarczę do wykonania ataku. Kolejne naciśnięcia pozwalają wykonać do trzech ataków dodatkowych.</text>
+<text id="4201">%null%</text>
+<text id="4202">%null%</text>
+<text id="4203">%null%</text>
+<text id="4204">%null%</text>
+<text id="4205">%null%</text>
+<text id="4206">%null%</text>
+<text id="4207">%null%</text>
+<text id="4208">%null%</text>
+<text id="4209">%null%</text>
+<text id="4210">Umiejętność: Smocze łowy Igona
+
+Umiejętność Igona, smoczego wojownika. Przygotuj łuk, zanim oddasz wynaturzony strzał wzmocniony donośnym rykiem.</text>
+<text id="4211">%null%</text>
+<text id="4212">%null%</text>
+<text id="4213">%null%</text>
+<text id="4214">%null%</text>
+<text id="4215">%null%</text>
+<text id="4216">%null%</text>
+<text id="4217">%null%</text>
+<text id="4218">%null%</text>
+<text id="4219">%null%</text>
+<text id="4220">Umiejętność: Przyzwanie ognia duchów
+
+Wykonaj pchnięcie orężem, by przyzwać ogień duchów.
+Następnie wykonaj zwykły atak, by podpalić ziemię, albo silny atak, by spowodować potężny wybuch.</text>
+<text id="5000">Unikalna umiejętność: Cięcie smoczej rany
+
+Ta umiejętność służy do polowania na olbrzymie smoki. Powoduje, że oręż pokrywa aura z wyszczerbionych kamieni, a potem wykonujesz cięcie z wyskoku. Naładuj umiejętność aby wystrzelić aurę.</text>
+<text id="5001">%null%</text>
+<text id="5002">%null%</text>
+<text id="5003">%null%</text>
+<text id="5004">%null%</text>
+<text id="5005">%null%</text>
+<text id="5006">%null%</text>
+<text id="5007">%null%</text>
+<text id="5008">%null%</text>
+<text id="5009">%null%</text>
+<text id="5010">Unikalna umiejętność: Przebijające igły
+
+Umiejętność Ledy, rycerza igły. Wytwarza dziesięć złotych igieł, które równocześnie przebijają cel. Trafieni zostają oczyszczeni z działających przypadłości i efektów.</text>
+<text id="5011">%null%</text>
+<text id="5012">%null%</text>
+<text id="5013">%null%</text>
+<text id="5014">%null%</text>
+<text id="5015">%null%</text>
+<text id="5016">%null%</text>
+<text id="5017">%null%</text>
+<text id="5018">%null%</text>
+<text id="5019">%null%</text>
+<text id="5020">Unikalna umiejętność: Światło
+
+Uwalnia światło wytworzone przez ostrze oręża. Unieś miecz wysoko, aby wyzwolić oślepiające światło, którego promienie ogarną całą okolicę. Czasowo wzmacnia święte ataki.</text>
+<text id="5021">%null%</text>
+<text id="5022">%null%</text>
+<text id="5023">%null%</text>
+<text id="5024">%null%</text>
+<text id="5025">%null%</text>
+<text id="5026">%null%</text>
+<text id="5027">%null%</text>
+<text id="5028">%null%</text>
+<text id="5029">%null%</text>
+<text id="5030">Unikalna umiejętność: Ciemność
+
+Unieś miecz wysoko i spowij okolicę woalem mroku. Zadaje święte obrażenia i chwilowo zmniejsza negację świętych obrażeń.</text>
+<text id="5031">%null%</text>
+<text id="5032">%null%</text>
+<text id="5033">%null%</text>
+<text id="5034">%null%</text>
+<text id="5035">%null%</text>
+<text id="5036">%null%</text>
+<text id="5037">%null%</text>
+<text id="5038">%null%</text>
+<text id="5039">%null%</text>
+<text id="5040">Unikalna umiejętność: Konstelacja Onzego
+
+To umiejętność, nazwana na cześć szermierza-półczłowieka. Zamienia energię magiczną w rząd błyskamieni, dla potężniejszych cięć. Kolejne naciśnięcia pozwalają wykonać do dwóch ataków dodatkowych, z których każdy zadaje większe obrażenia od poprzedniego.</text>
+<text id="5041">%null%</text>
+<text id="5042">%null%</text>
+<text id="5043">%null%</text>
+<text id="5044">%null%</text>
+<text id="5045">%null%</text>
+<text id="5046">%null%</text>
+<text id="5047">%null%</text>
+<text id="5048">%null%</text>
+<text id="5049">%null%</text>
+<text id="5050">Umiejętność: Trujący kwiat kwitnie dwa razy
+
+Przywołuje żądło zakażone szkarłatną zgnilizną, by ukąsić wroga. Za pierwszym atakiem podąża kolejny zadając przeciwnikowi, który już został otruty lub zakażony zgnilizną, ogromne obrażenia.</text>
+<text id="5080">Unikalna umiejętność: Wirująca gilotyna
+
+Trzymaj oręż za oba końce i wyginając ciało do tyłu, wykonaj potężne cięcie znad głowy. Kolejne naciśnięcia pozwalają wyprowadzać dodatkowe ataki dopóki posiadasz energię. Silny atak wykonuje skok i cios z obrotu.</text>
+<text id="5081">%null%</text>
+<text id="5082">%null%</text>
+<text id="5083">%null%</text>
+<text id="5084">%null%</text>
+<text id="5085">%null%</text>
+<text id="5086">%null%</text>
+<text id="5087">%null%</text>
+<text id="5088">%null%</text>
+<text id="5089">%null%</text>
+<text id="5090">Unikalna umiejętność: Bezustanny taniec
+
+Pełen furii taniec, wykonywany z serii cięć. Kiedy przytrzymujesz funkcję, taniec trwa tak długo, dopóki wystarczy ci energii.</text>
+<text id="5091">%null%</text>
+<text id="5092">%null%</text>
+<text id="5093">%null%</text>
+<text id="5094">%null%</text>
+<text id="5095">%null%</text>
+<text id="5096">%null%</text>
+<text id="5097">%null%</text>
+<text id="5098">%null%</text>
+<text id="5099">%null%</text>
+<text id="5100">Unikalna umiejętność: Klinga mściciela
+
+Podbiegnij do wroga i tnij go ostrzami dzierżonymi w obu rękach. Przytrzymaj, by wydłużyć początkową szarżę. Następnie wykonaj silny atak, aby pociąć oponenta na kawałki.</text>
+<text id="5101">%null%</text>
+<text id="5102">%null%</text>
+<text id="5103">%null%</text>
+<text id="5104">%null%</text>
+<text id="5105">%null%</text>
+<text id="5106">%null%</text>
+<text id="5107">%null%</text>
+<text id="5108">%null%</text>
+<text id="5109">%null%</text>
+<text id="5110">Unikalna umiejętność: Mgły wiecznego snu
+
+Uwalnia aksamitną fioletową mgłę, która pokryje duży obszar na wprost ciebie. Powoduje, że wrogowie zapadają w wieczny sen.</text>
+<text id="5111">%null%</text>
+<text id="5112">%null%</text>
+<text id="5113">%null%</text>
+<text id="5114">%null%</text>
+<text id="5115">%null%</text>
+<text id="5116">%null%</text>
+<text id="5117">%null%</text>
+<text id="5118">%null%</text>
+<text id="5119">%null%</text>
+<text id="5120">Unikalna umiejętność: Królewska sztuka sierpa
+
+Finezyjna umiejętność unikania ataków i zyskiwania przestrzeni do działania. Kierunek ruchu decyduje o kierunku kroku w tył. Wyprowadź silny atak, aby zadać cięcie skierowane ku górze. Kolejny silny atak sprowadza broń w dół.</text>
+<text id="5121">%null%</text>
+<text id="5122">%null%</text>
+<text id="5123">%null%</text>
+<text id="5124">%null%</text>
+<text id="5125">%null%</text>
+<text id="5126">%null%</text>
+<text id="5127">%null%</text>
+<text id="5128">%null%</text>
+<text id="5129">%null%</text>
+<text id="5130">Unikalna umiejętność: Błyskocisk (Dwa topory)
+
+Z niskiej postawy ciało zostaje przemienione w błyskawicę, która z zatrważającą prędkością uderza w przód. Silny atak aktywuje wirujące cięcie naładowane błyskawicą.</text>
+<text id="5131">%null%</text>
+<text id="5132">%null%</text>
+<text id="5133">%null%</text>
+<text id="5134">%null%</text>
+<text id="5135">%null%</text>
+<text id="5136">%null%</text>
+<text id="5137">%null%</text>
+<text id="5138">%null%</text>
+<text id="5139">%null%</text>
+<text id="5140">Unikalna umiejętność: Błyskocisk (Topór z długim trzonkiem)
+
+Z niskiej postawy ciało zostaje przemienione w błyskawicę, która z zatrważającą prędkością uderza w przód. Silny atak aktywuje cięcie z wyskoku naładowane błyskawicą.</text>
+<text id="5141">%null%</text>
+<text id="5142">%null%</text>
+<text id="5143">%null%</text>
+<text id="5144">%null%</text>
+<text id="5145">%null%</text>
+<text id="5146">%null%</text>
+<text id="5147">%null%</text>
+<text id="5148">%null%</text>
+<text id="5149">%null%</text>
+<text id="5150">Unikalna umiejętność: Obiecany małżonek
+
+Napełnij dwa wielkie miecze światłem Miquelli, po czym wykonaj cięcie przywołujące słupy światła. Kolejne naciśnięcia pozwalają wykonać do dwóch ataków dodatkowych.</text>
+<text id="5151">%null%</text>
+<text id="5152">%null%</text>
+<text id="5153">%null%</text>
+<text id="5154">%null%</text>
+<text id="5155">%null%</text>
+<text id="5156">%null%</text>
+<text id="5157">%null%</text>
+<text id="5158">%null%</text>
+<text id="5159">%null%</text>
+<text id="5160">Unikalna umiejętność: Cios cienistego słonecznika
+
+Uderz kwiatem dużego cienistego słonecznika i uwolnij falę uderzeniową, która zmiażdży wrogów. Kolejne naciśnięcia pozwalają wykonać do dwóch ataków dodatkowych.</text>
+<text id="5161">%null%</text>
+<text id="5162">%null%</text>
+<text id="5163">%null%</text>
+<text id="5164">%null%</text>
+<text id="5165">%null%</text>
+<text id="5166">%null%</text>
+<text id="5167">%null%</text>
+<text id="5168">%null%</text>
+<text id="5169">%null%</text>
+<text id="5170">Unikalna umiejętność: Postawa ognia i księżyca
+
+Przyjmij postawę gotowości z dwoma mieczami napełnionymi magią. Następnie wykonaj normalny atak, aby wywołać fale błyskamiennego światła, lub silny atak, aby zacząć wirować wśród płomieni ogarniających pobliski obszar. Kolejne naciśnięcia pozwalają na użycie fal światła do dwóch dodatkowych razów.</text>
+<text id="5171">%null%</text>
+<text id="5172">%null%</text>
+<text id="5173">%null%</text>
+<text id="5174">%null%</text>
+<text id="5175">%null%</text>
+<text id="5176">%null%</text>
+<text id="5177">%null%</text>
+<text id="5178">%null%</text>
+<text id="5179">%null%</text>
+<text id="5180">Unikalna umiejętność: Wir Devonii
+
+Korzystając z mocy wiru Tygla, wprowadź młot w ruch wirowy i uderz w ziemię, aby wywołać falę uderzeniową. Tę umiejętność można naładować, by zwiększyć jej siłę.</text>
+<text id="5181">%null%</text>
+<text id="5182">%null%</text>
+<text id="5183">%null%</text>
+<text id="5184">%null%</text>
+<text id="5185">%null%</text>
+<text id="5186">%null%</text>
+<text id="5187">%null%</text>
+<text id="5188">%null%</text>
+<text id="5189">%null%</text>
+<text id="5190">Unikalna umiejętność: Atak Messmera
+
+Seria zajadłych ataków za pomocą płonącego grotu włóczni. Kolejne naciśnięcia pozwalają wykonać do dwóch ataków dodatkowych. Ostatni manewr to rzucenie włóczni na ziemię, przez co wokoło pojawia się cały las włóczni.</text>
+<text id="5210">Unikalna umiejętność: Wieczny sen
+
+Wbija zatrutą igłę głęboko w ciało wroga i powoduje wieczny sen. Jeżeli kolejny cios trafi wroga, który już zapadł w sen lub wieczny sen, otrzyma on duże obrażenia.</text>
+<text id="5211">%null%</text>
+<text id="5212">%null%</text>
+<text id="5213">%null%</text>
+<text id="5214">%null%</text>
+<text id="5215">%null%</text>
+<text id="5216">%null%</text>
+<text id="5217">%null%</text>
+<text id="5218">%null%</text>
+<text id="5219">%null%</text>
+<text id="5220">Unikalna umiejętność: Złoty krzyż
+
+Wyskocz w powietrze i wyprowadź znad głowy pchnięcie w dół. Skuteczne przebicie sprawi, że kolce broni rozwiną się równocześnie i zadadzą poważne obrażenia wewnętrzne. Ten widok w dziwny sposób przypomina Złoty Porządek.</text>
+<text id="5221">%null%</text>
+<text id="5222">%null%</text>
+<text id="5223">%null%</text>
+<text id="5224">%null%</text>
+<text id="5225">%null%</text>
+<text id="5226">%null%</text>
+<text id="5227">%null%</text>
+<text id="5228">%null%</text>
+<text id="5229">%null%</text>
+<text id="5230">Unikalna umiejętność: Szarża Moore’a
+
+Przygotuj tarczę w obu rękach i zaszarżuj do przodu, równocześnie trzymając zasłonę. Na koniec wykonasz pchnięcie napełnione magią werdygrisu. Pobliscy wrogowie zostają odrzuceni, ale nie otrzymają poważniejszych obrażeń. Przytrzymaj przycisk, aby wydłużyć szarżę.</text>
+<text id="5231">%null%</text>
+<text id="5232">%null%</text>
+<text id="5233">%null%</text>
+<text id="5234">%null%</text>
+<text id="5235">%null%</text>
+<text id="5236">%null%</text>
+<text id="5237">%null%</text>
+<text id="5238">%null%</text>
+<text id="5239">%null%</text>
+<text id="5240">Unikalna umiejętność: Szarża białego światła
+
+Przywołuje białe światło ze szczeliny w rudzie starożytnego meteorytu, z której wykonano oręż. Jego moc pozwala naładować szarżę i przebić wrogów. Kolejne naciśnięcie sprawia, że światło wybucha.</text>
+<text id="5241">%null%</text>
+<text id="5242">%null%</text>
+<text id="5243">%null%</text>
+<text id="5244">%null%</text>
+<text id="5245">%null%</text>
+<text id="5246">%null%</text>
+<text id="5247">%null%</text>
+<text id="5248">%null%</text>
+<text id="5249">%null%</text>
+<text id="5250">Unikalna umiejętność: Złośliwe cięcie
+
+Okręć się wokół własnej osi, tnąc wrogów i zsyłając na nich mściwe duchy. Kolejne naciśnięcie pozwala wykonać dodatkowy atak.</text>
+<text id="5251">%null%</text>
+<text id="5252">%null%</text>
+<text id="5253">%null%</text>
+<text id="5254">%null%</text>
+<text id="5255">%null%</text>
+<text id="5256">%null%</text>
+<text id="5257">%null%</text>
+<text id="5258">%null%</text>
+<text id="5259">%null%</text>
+<text id="5260">Unikalna umiejętność: Cięcie godziny duchów
+
+Trzymaj miecz poziomo i napełnij go nocnym mrokiem, a następnie wykonaj serię niematerialnych ciosów. Tego ataku nie można zablokować. Można naładować, by zwiększyć siłę ataku.</text>
+<text id="5261">%null%</text>
+<text id="5262">%null%</text>
+<text id="5263">%null%</text>
+<text id="5264">%null%</text>
+<text id="5265">%null%</text>
+<text id="5266">%null%</text>
+<text id="5267">%null%</text>
+<text id="5268">%null%</text>
+<text id="5269">%null%</text>
+<text id="5270">Unikalna umiejętność: Wir Euporii
+
+Wykorzystaj moc wiru, by gwałtownie zakręcić orężem i wyprowadzić szereg cięć na wprost. Im więcej odzyskanego blasku oreża, tym większa moc tej umiejętności. Jednak użycie tej umiejętności w pełni pochłonie blask oręża.</text>
+<text id="5271">%null%</text>
+<text id="5272">%null%</text>
+<text id="5273">%null%</text>
+<text id="5274">%null%</text>
+<text id="5275">%null%</text>
+<text id="5276">%null%</text>
+<text id="5277">%null%</text>
+<text id="5278">%null%</text>
+<text id="5279">%null%</text>
+<text id="5280">Unikalna umiejętność: Włócznie sztuki kowalstwa
+
+Uderz w ziemię rozgrzanym do czerwoności kowadłem, aby przy jego wyciągnięciu przywołać las włóczni. Włócznie natychmiast znikają.</text>
+<text id="5281">%null%</text>
+<text id="5282">%null%</text>
+<text id="5283">%null%</text>
+<text id="5284">%null%</text>
+<text id="5285">%null%</text>
+<text id="5286">%null%</text>
+<text id="5287">%null%</text>
+<text id="5288">%null%</text>
+<text id="5289">%null%</text>
+<text id="5290">Unikalna umiejętność: Złośliwe cięcie
+
+Okręć się wokół własnej osi, tnąc wrogów i zsyłając na nich mściwe duchy. Kolejne naciśnięcie pozwala wykonać dodatkowy atak.</text>
+<text id="5291">%null%</text>
+<text id="5292">%null%</text>
+<text id="5293">%null%</text>
+<text id="5294">%null%</text>
+<text id="5295">%null%</text>
+<text id="5296">%null%</text>
+<text id="5297">%null%</text>
+<text id="5298">%null%</text>
+<text id="5299">%null%</text>
+<text id="5300">Unikalna umiejętność: Oczyszczenie Rominy
+
+Napełnia ostrze-pąk motylami szkarłatnej zgnilizny, a następnie wyprowadza dwa potężne zamaszyste cięcia. Niegdyś uważano to za święty akt oczyszczenia.</text>
+<text id="5301">%null%</text>
+<text id="5302">%null%</text>
+<text id="5303">%null%</text>
+<text id="5304">%null%</text>
+<text id="5305">%null%</text>
+<text id="5306">%null%</text>
+<text id="5307">%null%</text>
+<text id="5308">%null%</text>
+<text id="5309">%null%</text>
+<text id="5310">Unikalna umiejętność: Trujące uderzenie ręki-włóczni
+
+Nadaje ręce kształt włóczni, a następnie wyprowadza potężne pchnięcie, które przebija ciało wroga. Wróg otrzymuje dużą dawkę trucizny.</text>
+<text id="5311">%null%</text>
+<text id="5312">%null%</text>
+<text id="5313">%null%</text>
+<text id="5314">%null%</text>
+<text id="5315">%null%</text>
+<text id="5316">%null%</text>
+<text id="5317">%null%</text>
+<text id="5318">%null%</text>
+<text id="5319">%null%</text>
+<text id="5320">Unikalna umiejętność: Szaleńcze uderzenie ręki-włóczni
+
+Nadaje ręce kształt włóczni, a następnie wyprowadza potężne pchnięcie, które przebija ciało wroga. Wróg otrzymuje dużą dawkę szaleństwa.</text>
+<text id="5321">%null%</text>
+<text id="5322">%null%</text>
+<text id="5323">%null%</text>
+<text id="5324">%null%</text>
+<text id="5325">%null%</text>
+<text id="5326">%null%</text>
+<text id="5327">%null%</text>
+<text id="5328">%null%</text>
+<text id="5329">%null%</text>
+<text id="5330">Unikalna umiejętność: Oszalały płomień Wątłego Władcy
+
+Wyciągnij pochodnię przed siebie i wystrzel oszalały płomień. Osoby w tym obszarze – także ten, kto używa tej umiejętności – zostają dotknięte szaleństwem. Umiejętność działa, dopóki trzymasz funkcję. Można używać w czasie ruchu.</text>
+<text id="5331">%null%</text>
+<text id="5332">%null%</text>
+<text id="5333">%null%</text>
+<text id="5334">%null%</text>
+<text id="5335">%null%</text>
+<text id="5336">%null%</text>
+<text id="5337">%null%</text>
+<text id="5338">%null%</text>
+<text id="5339">%null%</text>
+<text id="5340">Unikalna umiejętność: Szybkostrzelność
+
+Ta umiejętność uruchamia mechanizm szybkiego strzelania broni. Po przyjęciu postawy gotowości zakręć korbą, by wystrzelić szereg bełtów.</text>
+<text id="5341">%null%</text>
+<text id="5342">%null%</text>
+<text id="5343">%null%</text>
+<text id="5344">%null%</text>
+<text id="5345">%null%</text>
+<text id="5346">%null%</text>
+<text id="5347">%null%</text>
+<text id="5348">%null%</text>
+<text id="5349">%null%</text>
+<text id="5350">Unikalna umiejętność: Zabójczy taniec
+
+Agresywna wirująca umiejętność, rozcinająca wrogów za pomocą okrągłych ostrzy. Kolejne naciśnięcie wyprowadza dodatkowy cios w postaci kopnięcia z powietrza.</text>
+<text id="5351">%null%</text>
+<text id="5352">%null%</text>
+<text id="5353">%null%</text>
+<text id="5354">%null%</text>
+<text id="5355">%null%</text>
+<text id="5356">%null%</text>
+<text id="5357">%null%</text>
+<text id="5358">%null%</text>
+<text id="5359">%null%</text>
+<text id="5360">Unikalna umiejętność: Wachlarz strzał
+
+Ta umiejętność wymaga trzymania łuku poziomo. Równocześnie przygotowujesz osiem strzał i wystrzeliwujesz je. Wystrzał ten przyjmuje kształt wachlarza.</text>
+<text id="5361">%null%</text>
+<text id="5362">%null%</text>
+<text id="5363">%null%</text>
+<text id="5364">%null%</text>
+<text id="5365">%null%</text>
+<text id="5366">%null%</text>
+<text id="5367">%null%</text>
+<text id="5368">%null%</text>
+<text id="5369">%null%</text>
+<text id="5370">Unikalna umiejętność: Rzut dyskiem
+
+Rzucasz okrągłą tarczą jak dyskiem. Po rzuceniu, tarcza wraca do ręki właściciela dzięki sztuce kowalskiej.</text>
+<text id="5371">%null%</text>
+<text id="5372">%null%</text>
+<text id="5373">%null%</text>
+<text id="5374">%null%</text>
+<text id="5375">%null%</text>
+<text id="5376">%null%</text>
+<text id="5377">%null%</text>
+<text id="5378">%null%</text>
+<text id="5379">%null%</text>
+<text id="5380">Unikalna umiejętność: Kwiecisty smoczy piorun
+
+Przywołuje czerwoną błyskawicę starożytnych smoków, by uderzyć w cel. Zadaje obrażenia od błyskawic, a także na pewien czas zmniejsza u celu negację obrażeń od błyskawic. Można naładować, aby zwiększyć moc.</text>
+<text id="5381">%null%</text>
+<text id="5382">%null%</text>
+<text id="5383">%null%</text>
+<text id="5384">%null%</text>
+<text id="5385">%null%</text>
+<text id="5386">%null%</text>
+<text id="5387">%null%</text>
+<text id="5388">%null%</text>
+<text id="5389">%null%</text>
+<text id="5390">Unikalna umiejętność: Uraza sługusa
+
+Umiejętność tę wykonuje się gwałtownym pokłonem, używając najdalszego zgrubienia palca. Wraz z pokłonem rośnie uraza, która następnie wywołuje wybuch gniewu. Przytrzymaj funkcję, aby dodatkowo wzmocnić urazę.</text>
+<text id="5420">Unikalna umiejętność: Bolesny cios
+
+Karcący chłoszczący atak, doskonalony w sztuce zadawania bólu. Czasowo zmniejsza szybkość odnawiania energii. Ponadto ból sprawia, że ofiara staje się bardziej posłuszna.</text>
+<text id="5421">%null%</text>
+<text id="5422">%null%</text>
+<text id="5423">%null%</text>
+<text id="5424">%null%</text>
+<text id="5425">%null%</text>
+<text id="5426">%null%</text>
+<text id="5427">%null%</text>
+<text id="5428">%null%</text>
+<text id="5429">%null%</text>
+<text id="5430">Unikalna umiejętność: Cięcie samotnego księżyca
+
+Silne cięcie w dół za pomocą wielkiego miecza, które wystrzeliwuje łuk światła. Silny atak pozwala wykonać dodatkowe uderzenie.</text>
+<text id="5431">%null%</text>
+<text id="5432">%null%</text>
+<text id="5433">%null%</text>
+<text id="5434">%null%</text>
+<text id="5435">%null%</text>
+<text id="5436">%null%</text>
+<text id="5437">%null%</text>
+<text id="5438">%null%</text>
+<text id="5439">%null%</text>
+<text id="5440">Unikalna umiejętność: Zemsta nocy
+
+Uwalnia nocny mrok napełniony magiczną mocą. Użyta tuż po zablokowaniu ataku, sprawi, że jego moc zostanie wchłonięta, co zwiększy siłę tej umiejętności.</text>
+<text id="5441">%null%</text>
+<text id="5442">%null%</text>
+<text id="5443">%null%</text>
+<text id="5444">%null%</text>
+<text id="5445">%null%</text>
+<text id="5446">%null%</text>
+<text id="5447">%null%</text>
+<text id="5448">%null%</text>
+<text id="5449">%null%</text>
+<text id="5450">Unikalna umiejętność: Koszenie chwastów
+
+Wykonuje mieczem poziome cięcia przypominające ruch kosy, kosząc przeciwników, jakby byli chwastami. Kolejne naciśnięcia pozwalają kontynuować atak, aż do wyczerpania energii.</text>
+<text id="5451">%null%</text>
+<text id="5452">%null%</text>
+<text id="5453">%null%</text>
+<text id="5454">%null%</text>
+<text id="5455">%null%</text>
+<text id="5456">%null%</text>
+<text id="5457">%null%</text>
+<text id="5458">%null%</text>
+<text id="5459">%null%</text>
+<text id="5460">Unikalna umiejętność: Opaska szczęścia
+
+Kołysz głową, zakrywając jej oczy, aby uwolnić jęk rozpaczy. Osoba używająca tej umiejętności staje się na pewien czas trudniejsza do zauważenia. Dla szukających szczęścia, ślepota to błogosławieństwo.</text>
+<text id="5461">%null%</text>
+<text id="5462">%null%</text>
+<text id="5463">%null%</text>
+<text id="5464">%null%</text>
+<text id="5465">%null%</text>
+<text id="5466">%null%</text>
+<text id="5467">%null%</text>
+<text id="5468">%null%</text>
+<text id="5469">%null%</text>
+<text id="5470">Unikalna umiejętność: Śledztwo Joriego
+
+Rzuć wielki kostur w powietrze, wystrzeliwując serię złotych łuków w kształcie kolców. Przytrzymanie funkcji nieznacznie wydłuża salwę.</text>
+<text id="5471">%null%</text>
+<text id="5472">%null%</text>
+<text id="5473">%null%</text>
+<text id="5474">%null%</text>
+<text id="5475">%null%</text>
+<text id="5476">%null%</text>
+<text id="5477">%null%</text>
+<text id="5478">%null%</text>
+<text id="5479">%null%</text>
+<text id="5480">Unikalna umiejętność: Ryczące uderzenie
+
+Ryknij jak złoty lew i rąbnij tarczą przeciwników podczas utrzymywania zasłony. Odrzuca wrogów i wytrąca ich z równowagi na dużym obszarze.</text>
+<text id="5481">%null%</text>
+<text id="5482">%null%</text>
+<text id="5483">%null%</text>
+<text id="5484">%null%</text>
+<text id="5485">%null%</text>
+<text id="5486">%null%</text>
+<text id="5487">%null%</text>
+<text id="5488">%null%</text>
+<text id="5489">%null%</text>
+<text id="5490">Unikalna umiejętność: Chmura zabójczej trucizny
+
+Wymachuj nad głową butelką perfum i rozsiewaj sproszkowaną zabójczą truciznę na dużym obszarze. Pachnąca trucizna tańczy w powietrzu i opada w całkowitej ciszy.</text>
+<text id="5491">%null%</text>
+<text id="5492">%null%</text>
+<text id="5493">%null%</text>
+<text id="5494">%null%</text>
+<text id="5495">%null%</text>
+<text id="5496">%null%</text>
+<text id="5497">%null%</text>
+<text id="5498">%null%</text>
+<text id="5499">%null%</text>
+<text id="5500">Unikalna umiejętność: Rozbłyśnij, wężu
+
+Rozpala ogień we wnętrzu węży, czasowo dając im możliwość wykonywania ataków ogniem. Kiedy ogień płonie, trafienie silnym atakiem lub innymi ciosami, które uderzają w ziemię, spowoduje wybuch.</text>
+<text id="5501">%null%</text>
+<text id="5502">%null%</text>
+<text id="5503">%null%</text>
+<text id="5504">%null%</text>
+<text id="5505">%null%</text>
+<text id="5506">%null%</text>
+<text id="5507">%null%</text>
+<text id="5508">%null%</text>
+<text id="5509">%null%</text>
+<text id="5510">Unikalna umiejętność: Rozprostrzał (Pazury)
+
+Za pomocą sztuki kowalskiej stwórz w obu rękach liczne kopie pazurów i miotaj kilkoma ostrzami równocześnie. Naciśnij ponownie, aby wykonać dodatkowy rzut.</text>
+<text id="5511">%null%</text>
+<text id="5512">%null%</text>
+<text id="5513">%null%</text>
+<text id="5514">%null%</text>
+<text id="5515">%null%</text>
+<text id="5516">%null%</text>
+<text id="5517">%null%</text>
+<text id="5518">%null%</text>
+<text id="5519">%null%</text>
+<text id="5520">Unikalna umiejętność: Ostrzenie klingi
+
+Potrzyj klingę, aby ją naostrzyć i zwiększyć liczbę odzyskiwanych PŻ. Nadsłojtysi cenią narzędzia swojej profesji.</text>
+<text id="5521">%null%</text>
+<text id="5522">%null%</text>
+<text id="5523">%null%</text>
+<text id="5524">%null%</text>
+<text id="5525">%null%</text>
+<text id="5526">%null%</text>
+<text id="5527">%null%</text>
+<text id="5528">%null%</text>
+<text id="5529">%null%</text>
+<text id="5530">Unikalna umiejętność: Zew rogu
+
+Przywołuje poskręcane rogi aby pokryły ostrze broni. Wbij ostrze w ziemię, aby wystrzeliły z niej ostre rogi.</text>
+<text id="5531">%null%</text>
+<text id="5532">%null%</text>
+<text id="5533">%null%</text>
+<text id="5534">%null%</text>
+<text id="5535">%null%</text>
+<text id="5536">%null%</text>
+<text id="5537">%null%</text>
+<text id="5538">%null%</text>
+<text id="5539">%null%</text>
+<text id="5540">Unikalna umiejętność: Zew rogu (Burza)
+
+Przywołuje poskręcane rogi aby pokryły ostrze broni. Zaklnij w nich burzę, a następnie tnij wrogów. Kolejne naciśnięcia pozwalają na dwa dodatkowe ataki.</text>
+<text id="5541">%null%</text>
+<text id="5542">%null%</text>
+<text id="5543">%null%</text>
+<text id="5544">%null%</text>
+<text id="5545">%null%</text>
+<text id="5546">%null%</text>
+<text id="5547">%null%</text>
+<text id="5548">%null%</text>
+<text id="5549">%null%</text>
+<text id="5550">Unikalna umiejętność: Potężna falanga
+
+Umiejętność zaczarowanych rycerzy trolli. Tworzy nad rzucającym łuk obronny z ogromnych magicznych błyskostrzy, które automatycznie atakują pobliskich wrogów. Następnie wykonaj silny atak, by połączyć tę umiejętność
+z pchnięciem z wypadu.</text>
+<text id="5551">%null%</text>
+<text id="5552">%null%</text>
+<text id="5553">%null%</text>
+<text id="5554">%null%</text>
+<text id="5555">%null%</text>
+<text id="5556">%null%</text>
+<text id="5557">%null%</text>
+<text id="5558">%null%</text>
+<text id="5559">%null%</text>
+<text id="5560">Unikalna umiejętność: Krwawy dar demonów krwi
+
+Unieś świętą włócznię i przebij ciało matki prawdy, aby wywołać wybuch krwawego płomienia na obszarze wokół celu. Kolejne naciśnięcia pozwalają wykonać do trzech ataków dodatkowych.</text>
+<text id="5561">%null%</text>
+<text id="5562">%null%</text>
+<text id="5563">%null%</text>
+<text id="5564">%null%</text>
+<text id="5565">%null%</text>
+<text id="5566">%null%</text>
+<text id="5567">%null%</text>
+<text id="5568">%null%</text>
+<text id="5569">%null%</text>
+<text id="5570">Umiejętność: Ogień smoczej formy
+
+Zioń przed siebie ogniem z paszczy smoczej formy. Ogień na ziemi będzie płonął przez krótki czas.</text>
+<text id="5571">%null%</text>
+<text id="5572">%null%</text>
+<text id="5573">%null%</text>
+<text id="5574">%null%</text>
+<text id="5575">%null%</text>
+<text id="5576">%null%</text>
+<text id="5577">%null%</text>
+<text id="5578">%null%</text>
+<text id="5579">%null%</text>
+<text id="5580">Unikalna umiejętność: Błyskawiczne cięcie
+
+Przyjmij lśniącą formę i skocz do przodu, aby z prędkością światła wykonać cięcie w dół. Po tym uderzeniu nastąpi dodatkowy atak światłem. Naładuj, żeby zwiększyć moc umiejętności i liczbę ataków dodatkowych.</text>
+<text id="5600">Unikalna umiejętność: Animozyjny strzał
+
+Nasącz strzały mściwymi duchami, zanim wystrzelisz salwę. Nasączone strzały ścigają wrogów, przecinając powietrze.</text>
+</entries>
+</fmg>

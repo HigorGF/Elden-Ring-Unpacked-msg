@@ -1,0 +1,538 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="2220">Talisman représentant un ensemble de flacons de parfum.
+Augmente la puissance des parfums.
+
+Certains jardins ne sont connus que des Parfumeurs. Dissimulés aux confins des régions montagneuses ou dans les profondeurs de certaines grottes, ils abritent des fleurs qui n'attendent que de diffuser leurs arômes.</text>
+<text id="7000">Médaillon incrusté d'ambre pourpre.
+Augmente incroyablement les PV maximums.
+
+La sève ancienne pétrifiée de l'Arbre-Monde se transforme en ambre, une pierre élevée au rang de joyau pendant l'ère de Godfrey, premier Seigneur d'Elden.
+
+Ces médaillons, sélectionnés pour leur taille imposante, étaient réservés aux plus grands chevaliers de l'Ordre d'or de Godwyn. </text>
+<text id="7001">%null%</text>
+<text id="7002">%null%</text>
+<text id="7003">%null%</text>
+<text id="7004">%null%</text>
+<text id="7005">%null%</text>
+<text id="7006">%null%</text>
+<text id="7007">%null%</text>
+<text id="7008">%null%</text>
+<text id="7009">%null%</text>
+<text id="7010">Médaillon incrusté d'ambre céruléen.
+Augmente incroyablement les PC maximums.
+
+La sève ancienne pétrifiée de l'Arbre-Monde se transforme en ambre, une pierre élevée au rang de joyau pendant l'ère de Godfrey, premier Seigneur d'Elden.
+
+Ces médaillons, sélectionnés pour leur taille imposante, étaient réservés aux plus grands chevaliers de l'Ordre d'or de Godwyn.</text>
+<text id="7011">%null%</text>
+<text id="7012">%null%</text>
+<text id="7013">%null%</text>
+<text id="7014">%null%</text>
+<text id="7015">%null%</text>
+<text id="7016">%null%</text>
+<text id="7017">%null%</text>
+<text id="7018">%null%</text>
+<text id="7019">%null%</text>
+<text id="7020">Médaillon incrusté d'ambre vert émeraude.
+Augmente incroyablement l'endurance maximum.
+
+La sève ancienne pétrifiée de l'Arbre-Monde se transforme en ambre, une pierre élevée au rang de joyau pendant l'ère de Godfrey, premier Seigneur d'Elden.
+
+Ces médaillons, sélectionnés pour leur taille imposante, étaient réservés aux plus grands chevaliers de l'Ordre d'or de Godwyn. </text>
+<text id="7021">%null%</text>
+<text id="7022">%null%</text>
+<text id="7023">%null%</text>
+<text id="7024">%null%</text>
+<text id="7025">%null%</text>
+<text id="7026">%null%</text>
+<text id="7027">%null%</text>
+<text id="7028">%null%</text>
+<text id="7029">%null%</text>
+<text id="7030">Talisman représentant une tortue verte à deux têtes.
+Accélère grandement la récupération d'endurance.
+
+La viande de tortue est réputée pour ses qualités nutritives, faisant de cet animal un symbole d'énergie inépuisable.
+
+Prisées pour leur forme hélicoïdale et leurs cous entrelacés, les tortues à deux têtes sont souvent représentées dans les terres de la tour.</text>
+<text id="7031">%null%</text>
+<text id="7032">%null%</text>
+<text id="7033">%null%</text>
+<text id="7034">%null%</text>
+<text id="7035">%null%</text>
+<text id="7036">%null%</text>
+<text id="7037">%null%</text>
+<text id="7038">%null%</text>
+<text id="7039">%null%</text>
+<text id="7040">Accessoire de cérémonie porté par les Kérastiens.
+Augmente énormément la robustesse.
+(La robustesse détermine la résistance au saignement et à la congélation.)
+
+Aux yeux des Kérastiens, les cornes sont de sublimes artefacts prouvant leur caractère de peuple élu.
+
+Seul le bourgeonnement répété de jeunes cornes permet de façonner une corne enchevêtrée, considérée comme un symbole de suprématie irréfutable.</text>
+<text id="7041">%null%</text>
+<text id="7042">%null%</text>
+<text id="7043">%null%</text>
+<text id="7044">%null%</text>
+<text id="7045">%null%</text>
+<text id="7046">%null%</text>
+<text id="7047">%null%</text>
+<text id="7048">%null%</text>
+<text id="7049">%null%</text>
+<text id="7050">Accessoire de cérémonie porté par les Kérastiens.
+Augmente énormément l'immunité.
+(L'immunité détermine la résistance au poison et à la putréfaction écarlate.)
+
+Aux yeux des Kérastiens, les cornes sont de sublimes artefacts prouvant leur caractère de peuple élu.
+
+Seul le bourgeonnement répété de jeunes cornes permet de façonner une corne enchevêtrée, considérée comme un symbole de suprématie irréfutable.</text>
+<text id="7051">%null%</text>
+<text id="7052">%null%</text>
+<text id="7053">%null%</text>
+<text id="7054">%null%</text>
+<text id="7055">%null%</text>
+<text id="7056">%null%</text>
+<text id="7057">%null%</text>
+<text id="7058">%null%</text>
+<text id="7059">%null%</text>
+<text id="7060">Accessoire de cérémonie porté par les Kérastiens.
+Augmente énormément la focalisation.
+(La focalisation détermine la résistance au sommeil et à la démence.)
+
+Aux yeux des Kérastiens, les cornes sont de sublimes artefacts prouvant leur caractère de peuple élu.
+
+Seul le bourgeonnement répété de jeunes cornes permet de façonner une corne enchevêtrée, considérée comme un symbole de suprématie irréfutable.</text>
+<text id="7080">Accessoire de cérémonie coloré porté par les Kérastiens.
+Augmente énormément la robustesse, l'immunité et la focalisation.
+
+Aux yeux des Kérastiens, les cornes sont de sublimes artefacts prouvant leur caractère de peuple élu.
+
+Seul le bourgeonnement répété de jeunes cornes permet de façonner une corne enchevêtrée, considérée comme un symbole de suprématie irréfutable.</text>
+<text id="7081">%null%</text>
+<text id="7082">%null%</text>
+<text id="7083">%null%</text>
+<text id="7084">%null%</text>
+<text id="7085">%null%</text>
+<text id="7086">%null%</text>
+<text id="7087">%null%</text>
+<text id="7088">%null%</text>
+<text id="7089">%null%</text>
+<text id="7090">Talisman représentant un grand dragon ancien bleu.
+Améliore incroyablement la résistance aux dégâts magiques.
+
+Durant l'âge primitif qui précéda l'Arbre-Monde, les dragons anciens régnaient en maître, et on raconte qu'ils protégeaient leur roi en formant un véritable mur de pierre.
+Ainsi, une silhouette de dragon est de nos jours un symbole de protection universel.</text>
+<text id="7091">%null%</text>
+<text id="7092">%null%</text>
+<text id="7093">%null%</text>
+<text id="7094">%null%</text>
+<text id="7095">%null%</text>
+<text id="7096">%null%</text>
+<text id="7097">%null%</text>
+<text id="7098">%null%</text>
+<text id="7099">%null%</text>
+<text id="7100">Talisman représentant un grand dragon ancien rouge.
+Améliore incroyablement la résistance aux dégâts de feu.
+
+Durant l'âge primitif qui précéda l'Arbre-Monde, les dragons anciens régnaient en maître, et on raconte qu'ils protégeaient leur roi en formant un véritable mur de pierre.
+Ainsi, une silhouette de dragon est de nos jours un symbole de protection universel.</text>
+<text id="7101">%null%</text>
+<text id="7102">%null%</text>
+<text id="7103">%null%</text>
+<text id="7104">%null%</text>
+<text id="7105">%null%</text>
+<text id="7106">%null%</text>
+<text id="7107">%null%</text>
+<text id="7108">%null%</text>
+<text id="7109">%null%</text>
+<text id="7110">Talisman représentant un grand dragon ancien jaune.
+Améliore incroyablement la résistance aux dégâts de foudre.
+
+Durant l'âge primitif qui précéda l'Arbre-Monde, les dragons anciens régnaient en maître, et on raconte qu'ils protégeaient leur roi en formant un véritable mur de pierre.
+Ainsi, une silhouette de dragon est de nos jours un symbole de protection universel.</text>
+<text id="7111">%null%</text>
+<text id="7112">%null%</text>
+<text id="7113">%null%</text>
+<text id="7114">%null%</text>
+<text id="7115">%null%</text>
+<text id="7116">%null%</text>
+<text id="7117">%null%</text>
+<text id="7118">%null%</text>
+<text id="7119">%null%</text>
+<text id="7120">Une tresse de cheveux dorés, grossièrement coupée.
+Offrande de la reine Marika à la Mère Ancienne
+
+Améliore incroyablement la résistance aux dégâts sacrés.
+
+Quelle était sa prière ? Son souhait, sa confession ?
+Il n'y a plus personne pour répondre, et Marika ne revint jamais chez elle.</text>
+<text id="7121">%null%</text>
+<text id="7122">%null%</text>
+<text id="7123">%null%</text>
+<text id="7124">%null%</text>
+<text id="7125">%null%</text>
+<text id="7126">%null%</text>
+<text id="7127">%null%</text>
+<text id="7128">%null%</text>
+<text id="7129">%null%</text>
+<text id="7130">Talisman représentant un grand dragon ancien perlé.
+Améliore incroyablement la résistance aux dégâts non physiques.
+
+Durant l'âge primitif qui précéda l'Arbre-Monde, les dragons anciens régnaient en maître, et on raconte qu'ils protégeaient leur roi en formant un véritable mur de pierre.
+Ainsi, une silhouette de dragon est de nos jours un symbole de protection universel.</text>
+<text id="7131">%null%</text>
+<text id="7132">%null%</text>
+<text id="7133">%null%</text>
+<text id="7134">%null%</text>
+<text id="7135">%null%</text>
+<text id="7136">%null%</text>
+<text id="7137">%null%</text>
+<text id="7138">%null%</text>
+<text id="7139">%null%</text>
+<text id="7140">Talisman pourpre représentant une graine de l'Arbre-Monde.
+Augmente grandement les PV rendus par la Fiole de larmes pourpres.
+
+La graine de l'Arbre-Monde représentée sur ce talisman a longtemps été considérée comme mythique. Sur cet artefact antique figurent également les Deux Doigts, évoquant peut-être la naissance de l'Arbre-Monde.</text>
+<text id="7141">%null%</text>
+<text id="7142">%null%</text>
+<text id="7143">%null%</text>
+<text id="7144">%null%</text>
+<text id="7145">%null%</text>
+<text id="7146">%null%</text>
+<text id="7147">%null%</text>
+<text id="7148">%null%</text>
+<text id="7149">%null%</text>
+<text id="7150">Talisman céruléen représentant une graine de l'Arbre-Monde.
+Augmente grandement les PC rendus par la Fiole de larmes céruléennes.
+
+La graine de l'Arbre-Monde représentée sur ce talisman a longtemps été considérée comme mythique. Sur cet artefact antique figurent également les Deux Doigts, évoquant peut-être  la naissance de l'Arbre-Monde.</text>
+<text id="8000">Talisman représentant une goutte de la sève bleue et luminescente de l'Arbre-Monde, considérée comme une bénédiction.
+
+Restaure progressivement des PC.
+
+On pensait autrefois que la sève bénie de l'Arbre-Monde s'écoulerait de ses branches pour l'éternité, mais cette époque d'abondance fut de courte durée. Au fil du temps, l'Arbre-Monde devint un simple objet de vénération.</text>
+<text id="8001">%null%</text>
+<text id="8002">%null%</text>
+<text id="8003">%null%</text>
+<text id="8004">%null%</text>
+<text id="8005">%null%</text>
+<text id="8006">%null%</text>
+<text id="8007">%null%</text>
+<text id="8008">%null%</text>
+<text id="8009">%null%</text>
+<text id="8010">Talisman réalisé à partir de fines plumes représentant les aspects de diverses créatures.
+Il se murmure que certains humains arboraient jadis de pareilles plumes.
+
+Améliore le pas en arrière, mais augmente en permanence les dégâts subis.
+
+Les Kérastiens attribuent un caractère sacré au Creuset, qui leur confère des dons évolutifs prisés tels que leurs cornes enchevêtrées.</text>
+<text id="8011">%null%</text>
+<text id="8012">%null%</text>
+<text id="8013">%null%</text>
+<text id="8014">%null%</text>
+<text id="8015">%null%</text>
+<text id="8016">%null%</text>
+<text id="8017">%null%</text>
+<text id="8018">%null%</text>
+<text id="8019">%null%</text>
+<text id="8020">Talisman gravé relatant l'histoire d'une Divinité extérieure.
+Augmente l'ésotérisme.
+
+Les membres du clan, qui avaient tout perdu après les grands incendies, allèrent observer la dépouille sanctifiée de leur ancêtre. C'est là qu'ils découvrirent, dissimulée dans son ombre, une divinité malfaisante.
+
+Le clan avait subi tant de tourments que cette horrible chose devint un objet de culte.</text>
+<text id="8021">%null%</text>
+<text id="8022">%null%</text>
+<text id="8023">%null%</text>
+<text id="8024">%null%</text>
+<text id="8025">%null%</text>
+<text id="8026">%null%</text>
+<text id="8027">%null%</text>
+<text id="8028">%null%</text>
+<text id="8029">%null%</text>
+<text id="8030">Pierre angulaire fragmentée.
+
+Augmente la puissance des compétences de coup de pied et d'écrasement.
+
+Les pierres angulaires servent d'ancrage spirituel. On raconte qu'elles maintiendraient le sol en place et empêcheraient les séismes de tout dévaster. Lorsque cette pierre éclata, la ville qui l'entourait s'effondra dans un trou béant et emporta, selon les dires, la Lune dans sa chute.</text>
+<text id="8031">%null%</text>
+<text id="8032">%null%</text>
+<text id="8033">%null%</text>
+<text id="8034">%null%</text>
+<text id="8035">%null%</text>
+<text id="8036">%null%</text>
+<text id="8037">%null%</text>
+<text id="8038">%null%</text>
+<text id="8039">%null%</text>
+<text id="8040">Talisman représentant un guerrier brandissant une épée à deux mains.
+Améliore les attaques portées avec une arme à deux mains.
+
+Les guerriers cornus incarnaient la puissance militaire de la tour qu'ils protégeaient. On raconte qu'aucun adversaire ne pouvait résister à leurs attaques habiles.</text>
+<text id="8041">%null%</text>
+<text id="8042">%null%</text>
+<text id="8043">%null%</text>
+<text id="8044">%null%</text>
+<text id="8045">%null%</text>
+<text id="8046">%null%</text>
+<text id="8047">%null%</text>
+<text id="8048">%null%</text>
+<text id="8049">%null%</text>
+<text id="8050">Talisman représentant une lance dressée devant un mur de flammes et symbolisant les vies sacrifiées lors de la sainte croisade menée par Messmer.
+
+Augmente la puissance d'attaque après avoir vaincu un ennemi.
+
+Les guerriers qui participèrent à la croisade délaissèrent toute notion d'honneur et de merci, préférant se consacrer au massacre effréné de tous les êtres jugés impurs.
+
+Ceux qui éprouvaient de l'exaltation en entendant résonner les hurlements d'agonie étaient également les plus fervents défenseurs du caractère sacré de cette campagne. </text>
+<text id="8051">%null%</text>
+<text id="8052">%null%</text>
+<text id="8053">%null%</text>
+<text id="8054">%null%</text>
+<text id="8055">%null%</text>
+<text id="8056">%null%</text>
+<text id="8057">%null%</text>
+<text id="8058">%null%</text>
+<text id="8059">%null%</text>
+<text id="8060">Talisman représentant l'exaltation de l'intouchable, dont le visage vieillissant évoque une grappe de fruit.
+
+Augmente la puissance d'attaque en cas de démence causée à proximité.
+
+"Offrez votre démence à notre Seigneur.
+Bénissez nos frères avec des fruits.
+Veillez à ce qu'ils soient fort mûrs."</text>
+<text id="8061">%null%</text>
+<text id="8062">%null%</text>
+<text id="8063">%null%</text>
+<text id="8064">%null%</text>
+<text id="8065">%null%</text>
+<text id="8066">%null%</text>
+<text id="8067">%null%</text>
+<text id="8068">%null%</text>
+<text id="8069">%null%</text>
+<text id="8070">Talisman composé de flèches empennées et dotées de pointes en fer.
+
+Augmente la portée des arcs et la puissance d'attaque des flèches et carreaux.</text>
+<text id="8090">Talisman représentant un chevalier portant un pavois perlé.
+Améliore la résistance à tous les dégâts non physiques lors d'une garde.
+
+La nature et le potentiel de l'impureté dépassaient l'entendement des chevaliers, qui durent se préparer à faire face à toutes les menaces imaginables.</text>
+<text id="8091">%null%</text>
+<text id="8092">%null%</text>
+<text id="8093">%null%</text>
+<text id="8094">%null%</text>
+<text id="8095">%null%</text>
+<text id="8096">%null%</text>
+<text id="8097">%null%</text>
+<text id="8098">%null%</text>
+<text id="8099">%null%</text>
+<text id="8100">Charmant bouquet de fleurs séchées déposé sur une petite tombe.
+
+Augmente la puissance d'attaque lors de la mort d'un esprit que vous avez invoqué.
+
+La tristesse engendrée par la disparition d'un être cher est une peine partagée par tous, indépendamment de la ville natale.</text>
+<text id="8101">%null%</text>
+<text id="8102">%null%</text>
+<text id="8103">%null%</text>
+<text id="8104">%null%</text>
+<text id="8105">%null%</text>
+<text id="8106">%null%</text>
+<text id="8107">%null%</text>
+<text id="8108">%null%</text>
+<text id="8109">%null%</text>
+<text id="8110">Talisman représentant un marteau de forgeron ancien.
+Porteur d'une inscription forgegraphe.
+
+Améliore les attaques réalisées en lançant des armes.
+
+Autrefois, forger était considéré comme un acte divin. Afin d'octroyer une âme à l'arme, les forgerons avaient pour coutume de déchiffrer et interpréter les lettres formées par les ridules à la surface du fer forgé.</text>
+<text id="8111">%null%</text>
+<text id="8112">%null%</text>
+<text id="8113">%null%</text>
+<text id="8114">%null%</text>
+<text id="8115">%null%</text>
+<text id="8116">%null%</text>
+<text id="8117">%null%</text>
+<text id="8118">%null%</text>
+<text id="8119">%null%</text>
+<text id="8120">Talisman représentant une âme emportée par la maladie.
+
+Augmente la résistance à la dernière altération subie.
+
+Lorsque les plus faibles succombaient à la terrible maladie des mouches, leur dépouille subissait une mystérieuse métamorphose. Étrangement, ceux qui soignaient les patients infectés et s'assuraient de leur offrir des funérailles convenables n'étaient jamais victimes de ce mal à leur tour.</text>
+<text id="8121">%null%</text>
+<text id="8122">%null%</text>
+<text id="8123">%null%</text>
+<text id="8124">%null%</text>
+<text id="8125">%null%</text>
+<text id="8126">%null%</text>
+<text id="8127">%null%</text>
+<text id="8128">%null%</text>
+<text id="8129">%null%</text>
+<text id="8130">Amulette représentant un enchevêtrement doré, traditionnellement décernée aux chevaliers de l'Aiguille.
+
+Améliore les attaques effectuées après une roulade ou un pas en arrière.
+
+Jadis, les chevaliers de l'Aiguille servaient Miquella. Aujourd'hui, tous les membres de cet ordre ont disparu. Sauf un.</text>
+<text id="8131">%null%</text>
+<text id="8132">%null%</text>
+<text id="8133">%null%</text>
+<text id="8134">%null%</text>
+<text id="8135">%null%</text>
+<text id="8136">%null%</text>
+<text id="8137">%null%</text>
+<text id="8138">%null%</text>
+<text id="8139">%null%</text>
+<text id="8140">Amulette représentant un enchevêtrement doré, traditionnellement décernée aux chevaliers de l'Aiguille.
+
+Améliore les attaques effectuées en sprintant.
+
+Jadis, les chevaliers de l'Aiguille servaient Miquella. Aujourd'hui, tous les membres de cet ordre ont disparu. Sauf un.</text>
+<text id="8141">%null%</text>
+<text id="8142">%null%</text>
+<text id="8143">%null%</text>
+<text id="8144">%null%</text>
+<text id="8145">%null%</text>
+<text id="8146">%null%</text>
+<text id="8147">%null%</text>
+<text id="8148">%null%</text>
+<text id="8149">%null%</text>
+<text id="8150">Talisman représentant un archer maniant un arc long.
+Améliore la puissance d'attaque lors des tirs de précision.
+
+Les archers albinauriques formaient une classe distincte spécialisée dans le tir à longue portée et particulièrement crainte par le reste des hommes.</text>
+<text id="8151">%null%</text>
+<text id="8152">%null%</text>
+<text id="8153">%null%</text>
+<text id="8154">%null%</text>
+<text id="8155">%null%</text>
+<text id="8156">%null%</text>
+<text id="8157">%null%</text>
+<text id="8158">%null%</text>
+<text id="8159">%null%</text>
+<text id="8160">Talisman à l'effigie de sainte Trina, le sourire aux lèvres, telle qu'elle apparaît dans le cœur d'un certain homme.
+
+Augmente la puissance d'attaque en cas de sommeil causé à proximité.
+
+"Je suis le seul autorisé à les connaître. Votre sommeil doux comme le velours. Votre tendre étreinte. Offrez-moi votre sourire. À moi, et rien qu'à moi."</text>
+<text id="8161">%null%</text>
+<text id="8162">%null%</text>
+<text id="8163">%null%</text>
+<text id="8164">%null%</text>
+<text id="8165">%null%</text>
+<text id="8166">%null%</text>
+<text id="8167">%null%</text>
+<text id="8168">%null%</text>
+<text id="8169">%null%</text>
+<text id="8170">Talisman représentant l'effroyable dragon niché sur le Pic déchiqueté dont le cri ferait bouillonner la lave en fusion.
+
+Augmente la puissance du magma.
+
+Bayle était le nom d'un immonde dragon, véritable héraut de la destruction. Le défi qu'il lança à l'ancien Seigneur draconique les poussa tous les deux à se blesser grièvement.</text>
+<text id="8171">%null%</text>
+<text id="8172">%null%</text>
+<text id="8173">%null%</text>
+<text id="8174">%null%</text>
+<text id="8175">%null%</text>
+<text id="8176">%null%</text>
+<text id="8177">%null%</text>
+<text id="8178">%null%</text>
+<text id="8179">%null%</text>
+<text id="8180">Pendentif représentant la danse effrénée de la bête divine, exécutée lors du festival de la tour.
+
+Augmente la puissance des tempêtes.
+
+Les bêtes divines sont les messagers des astres et leur colère reflète les tumultes des cieux qui, à leur apogée, donnent naissance à des tempêtes.</text>
+<text id="8181">%null%</text>
+<text id="8182">%null%</text>
+<text id="8183">%null%</text>
+<text id="8184">%null%</text>
+<text id="8185">%null%</text>
+<text id="8186">%null%</text>
+<text id="8187">%null%</text>
+<text id="8188">%null%</text>
+<text id="8189">%null%</text>
+<text id="8190">Talisman représentant une main flétrie tenant délicatement une pierre d'éclat.
+
+Accélère incroyablement la canalisation des sorcelleries et incantations, mais augmente les dégâts subis.
+
+Le comte Ymir était connu pour ses aphorismes.
+"Il suffit de concevoir la romance des étoiles qui nous surplombent avec la poussière d'étoiles nichée en son cœur pour devenir un grand sorcier. Suivez mon enseignement et vous connaîtrez l'amour."</text>
+<text id="8191">%null%</text>
+<text id="8192">%null%</text>
+<text id="8193">%null%</text>
+<text id="8194">%null%</text>
+<text id="8195">%null%</text>
+<text id="8196">%null%</text>
+<text id="8197">%null%</text>
+<text id="8198">%null%</text>
+<text id="8199">%null%</text>
+<text id="8200">Talisman représentant Godfrey, premier Seigneur d'Elden, recevant la précieuse sève.
+
+Améliore l'équilibre après l'utilisation d'une fiole de larmes.
+
+Le Seigneur accepta la sève avec stoïcisme et sans frémir. Sans surprise, la présence du souverain de l'Arbre-Monde est encore largement perceptible dans les terres.</text>
+<text id="8201">%null%</text>
+<text id="8202">%null%</text>
+<text id="8203">%null%</text>
+<text id="8204">%null%</text>
+<text id="8205">%null%</text>
+<text id="8206">%null%</text>
+<text id="8207">%null%</text>
+<text id="8208">%null%</text>
+<text id="8209">%null%</text>
+<text id="8210">Disque recouvert de vert-de-gris et façonné dans un métal réputé pour son poids.
+
+Augmente la défense proportionnellement à la charge d'équipement.
+
+Qui dit masse, dit force. Et qui dit force, dit protection.</text>
+<text id="8211">%null%</text>
+<text id="8212">%null%</text>
+<text id="8213">%null%</text>
+<text id="8214">%null%</text>
+<text id="8215">%null%</text>
+<text id="8216">%null%</text>
+<text id="8217">%null%</text>
+<text id="8218">%null%</text>
+<text id="8219">%null%</text>
+<text id="8220">Talisman surmonté d'un élégant portrait de Rellana, chevaleresse des Lunes jumelles.
+
+Améliore les attaques effectuées après avoir maintenu une posture pendant un certain temps.
+
+Orné d'une gravure rappelant le dévouement sans faille de ceux qui ont quitté leur terre natale pour servir Rellana.
+
+"Avec votre permission, nous vous accompagnerons partout où votre vaisseau lunaire vous mènera."</text>
+<text id="8221">%null%</text>
+<text id="8222">%null%</text>
+<text id="8223">%null%</text>
+<text id="8224">%null%</text>
+<text id="8225">%null%</text>
+<text id="8226">%null%</text>
+<text id="8227">%null%</text>
+<text id="8228">%null%</text>
+<text id="8229">%null%</text>
+<text id="8230">Dague fine tachée de sang, désormais inutilisable.
+
+Augmente la puissance d'attaque après chaque coup critique.
+
+Les Kérastiens l'utilisaient pour abréger dignement les souffrances de leurs compatriotes condamnés. Cette dague a été maintes fois employée et est désormais brisée, mais possède depuis une aura spectrale.</text>
+<text id="8231">%null%</text>
+<text id="8232">%null%</text>
+<text id="8233">%null%</text>
+<text id="8234">%null%</text>
+<text id="8235">%null%</text>
+<text id="8236">%null%</text>
+<text id="8237">%null%</text>
+<text id="8238">%null%</text>
+<text id="8239">%null%</text>
+<text id="8240">Masse imposante composée d'attributs du Creuset enchevêtrés.
+
+Réduit les dégâts subis en cas de coup critique et de tir à la tête. Augmente l'efficacité des roulades et des pas en arrière, mais augmente également les dégâts subis.
+
+Les anciens récits de la tour la décrivent comme la "mère des Creusets" et affirment qu'elle poussait sur les Géants.</text>
+</entries>
+</fmg>

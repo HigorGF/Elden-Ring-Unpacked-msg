@@ -1,0 +1,907 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="2000">اﻟﻣﻬﺎرة: دواﻣﺔ اﻟﻭرﻗﺔ اﻟﺟﺎﻓﺔ
+
+ﺗﻣﺛﻝ ﻫﺫه اﻟﻣﻬﺎرة ﻓﻧﻭن اﻟﻘﺗﺎل ﺑﺎﻟﻘﺩﻣﻳﻥ اﻟﺗﻲ ﻳﻣﺎرﺳﻬﺎ داﻳﻥ.
+اﻗﻔﺯ ﻓﻲ اﻟﻬﻭاء ﻣﻊ ﺗﻧﻔﻳﺫ ﺳﻠﺳﻠﺔ ﻣﻥ اﻟﺭﻛﻼت اﻟﺩوّارة ﻗﺑﻝ اﻻﻧﻘﺿﺎض ﺑﺿﺭﺑﺔ أﺧﻳﺭة. ﺗُﺷﺑﻊ ﻫﺟﻣﺎت اﻟﺭﻛﻝ ﺑﺎﻟﻁﺎﻗﺔ وﺗﺯﻳﺩ ﻣﺩاﻫﺎ.</text>
+<text id="2001">اﻟﻣﻬﺎرة: ﺟﻭاﻧﺏ اﻟﺑﻭﺗﻘﺔ: أﺟﻧﺣﺔ
+
+ﺗﻧﺣﺩر ﻫﺫه اﻟﻣﻬﺎرة ﻣﻥ أﺷﻛﺎل اﻟﺣﻳﺎة ﻟﻠﺑﻭﺗﻘﺔ.
+ارﻓﻊ ﺟﻧﺎﺣﻳﻥ ذﻫﺑﻳﻳﻥ وﺣﻠّﻖ ﻓﻲ اﻟﻬﻭاء وأﺧﺭج ﺳﻼﺣﻙ ﻗﺑﻝ اﻻﻧﻘﺿﺎض ﻋﻠﻰ اﻟﻌﺩو. ﻳﻣﻛﻥ ﺗﻧﻔﻳﺫ ﻫﺟﻭم دوّار ﻋﻧﺩ اﺳﺗﺧﺩام ﻧﺻﻝ ذي ﺣﺩﻳﻥ.</text>
+<text id="4000">اﻟﻣﻬﺎرة: اﻧﺩﻓﺎع ﺟﺎذﺑﻳﺔ دوّار
+
+ﻣﻬﺎرة ﺟﺎذﺑﻳﺔ ﻁﻭرﻫﺎ ﺗﻼﻣﻳﺫ ﻟﻭرد أﻻﺑﺎﺳﺗﺭ. ﺗﺳﺗﺧﺩم ﻫﺫه اﻟﻣﻬﺎرة ﻗﻭة اﻟﺟﺎذﺑﻳﺔ ﻟﻠﺗﺷﺑﺙ ﻓﻲ اﻟﻬﻭاء ﻗﺑﻝ ﺗﺩوﻳﺭ اﻟﺟﺳﻡ واﻻﻧﺩﻓﺎع ﻧﺎﺣﻳﺔ اﻷﻣﺎم. ﻳُﺗﻳﺢ اﻹدﺧﺎل اﻹﺿﺎﻓﻲ ﺷﻥ ﻫﺟﻭم ﻻﺣﻖ.</text>
+<text id="4001">%null%</text>
+<text id="4002">%null%</text>
+<text id="4003">%null%</text>
+<text id="4004">%null%</text>
+<text id="4005">%null%</text>
+<text id="4006">%null%</text>
+<text id="4007">%null%</text>
+<text id="4008">%null%</text>
+<text id="4009">%null%</text>
+<text id="4010">اﻟﻣﻬﺎرة: اﻧﻔﺟﺎر اﻟﻛﻑ
+
+ﻣﻬﺎرة اﻟﺳُﻌﺎة اﻟﺭوﺣﺎﻧﻳﻳﻥ اﻟﻣﻌﺭوﻓﻳﻥ ﺑﺎﺳﻡ ﻓﺭﻗﺔ اﻷوراق اﻟﺟﺎﻓﺔ. ﺳﺩّد ﺿﺭﺑﺔ ﻗﻭﻳﺔ ﺑﻛﻑ ﻳﺩك اﻟﻣﺷﺑﻌﺔ ﺑﺎﻟﻁﺎﻗﺔ، ﻹﻁﻼق اﻟﻌﻧﺎن ﻻﻧﻔﺟﺎر ﻣﺩﻣﺭ. ﻳﻣﻛﻥ ﺗﻌﺯﻳﺯ ﻗﻭة اﻟﻣﻬﺎرة اﻟﻬﺎﺋﻠﺔ وﺗﺄﺛﻳﺭﻫﺎ ﻣﻥ ﺧﻼل ﺷﺣﻥ اﻟﻬﺟﻭم.</text>
+<text id="4011">%null%</text>
+<text id="4012">%null%</text>
+<text id="4013">%null%</text>
+<text id="4014">%null%</text>
+<text id="4015">%null%</text>
+<text id="4016">%null%</text>
+<text id="4017">%null%</text>
+<text id="4018">%null%</text>
+<text id="4019">%null%</text>
+<text id="4020">اﻟﻣﻬﺎرة: إﻟﻘﺎء اﻻﺧﺗﺭاق
+
+أﻟﻖ اﻟﺗﺳﻠﻳﺢ ﻣﻊ ﻟﻔﻪ ﺑﻘﻭة، ﻻﺧﺗﺭاق اﻷﻋﺩاء ﺑﺷﺭاﺳﺔ. ﻋﻧﺩ اﺳﺗﺧﺩام ﻫﺫه اﻟﻣﻬﺎرة، ﻳﻣﻛﻥ إﻟﻘﺎء اﻟﺳﻼح ﻟﻣﺳﺎﻓﺔ أﺑﻌﺩ ﻣﻥ اﻟﻣﻌﺗﺎد واﺧﺗﺭاق اﻷﻋﺩاء أﻳﺿًﺎ.</text>
+<text id="4021">%null%</text>
+<text id="4022">%null%</text>
+<text id="4023">%null%</text>
+<text id="4024">%null%</text>
+<text id="4025">%null%</text>
+<text id="4026">%null%</text>
+<text id="4027">%null%</text>
+<text id="4028">%null%</text>
+<text id="4029">%null%</text>
+<text id="4030">اﻟﻣﻬﺎرة: ﺿﺭﺑﺔ اﻹﻟﻘﺎء اﻟﻣﺗﻔﺭق
+
+اﺳﺗﺧﺩم ﻓﻧﻭن اﻟﺣﺩادة ﻻﺳﺗﺣﺿﺎر ﻧﺳﺦ ﻣﺗﻌﺩدة ﻣﻥ اﻟﺗﺳﻠﻳﺢ ﻓﻲ ﻛﻠﺗﺎ اﻟﻳﺩﻳﻥ، ﺛﻡ أﻟﻘﻬﺎ ﺟﻣﻳﻌًﺎ ﻣﺭة واﺣﺩة. أﺗﺑﻌﻬﺎ ﺑﻣﺩﺧﻝ إﺿﺎﻓﻲ ﻟﻠﺭﻣﻲ ﻣﺭ أﺧﺭى.</text>
+<text id="4031">%null%</text>
+<text id="4032">%null%</text>
+<text id="4033">%null%</text>
+<text id="4034">%null%</text>
+<text id="4035">%null%</text>
+<text id="4036">%null%</text>
+<text id="4037">%null%</text>
+<text id="4038">%null%</text>
+<text id="4039">%null%</text>
+<text id="4040">اﻟﻣﻬﺎرة: ﺟﺩار اﻟﺷﺭارات
+
+اﻧﺷﺭ اﻟﺑﻭدرة اﻟﻣﻌﻁﺭة ﺑﺎﻟﻘﺭب ﻣﻧﻙ، ﻹﻧﺗﺎج ﺷﺭارات ﻣﺣﺗﺩﻣﺔ ﺑﻌﺩ ﺗﺄﺧﻳﺭ وﺟﻳﺯ.ﻳﻣﻛﻥ ﺷﺣﻧﻬﺎ ﻟﺯﻳﺎدة اﻟﻁﺎﻗﺔ واﻟﻣﺩى.
+ﺗُﺣﺩد ﺧﺻﺎﺋﺹ اﻟﺷﺭارات وﻓﺎ ﻟﻘﻧﻳﻧﺔ اﻟﻌﻁﺭ اﻟﻣُﺳﺗﺧﺩَﻣﺔ.</text>
+<text id="4041">%null%</text>
+<text id="4042">%null%</text>
+<text id="4043">%null%</text>
+<text id="4044">%null%</text>
+<text id="4045">%null%</text>
+<text id="4046">%null%</text>
+<text id="4047">%null%</text>
+<text id="4048">%null%</text>
+<text id="4049">%null%</text>
+<text id="4050">اﻟﻣﻬﺎرة: اﻟﺷﺭارات اﻟﻣﺗﺄﺟﺟﺔ
+
+اﻧﺷﺭ اﻟﺑﻭدرة اﻟﻣﻌﻁﺭة أﻣﺎﻣﻙ، ﻟﺗﺣﻔﻳﺯ اﻧﻔﺟﺎرات ﻣﺗﺄﺟﺟﺔ ﻣﻥ اﻟﺷﺭارات اﻟﻔﺗﺎﻛﺔ.
+ﺗُﺣﺩد ﺧﺻﺎﺋﺹ اﻟﺷﺭارات وﻓﺎ ﻟﻘﻧﻳﻧﺔ اﻟﻌﻁﺭ اﻟﻣُﺳﺗﺧﺩَﻣﺔ.</text>
+<text id="4051">%null%</text>
+<text id="4052">%null%</text>
+<text id="4053">%null%</text>
+<text id="4054">%null%</text>
+<text id="4055">%null%</text>
+<text id="4056">%null%</text>
+<text id="4057">%null%</text>
+<text id="4058">%null%</text>
+<text id="4059">%null%</text>
+<text id="4060">اﻟﻣﻬﺎرة: اﻟﻭﺣﺵ اﻟﺛﺎﺋﺭ
+
+اﻧﻁﻠﻖ ﺑﺳﺭﻋﺔ وﺣﺵ واﻗﻔﺯ ﻟﺗﻣﺯﻳﻖ ﻋﺩو ﻣﻥ أﻋﻠﻰ. اﻟﺧﻁﻭة اﻷوﻟﻳﺔ ﻟﻸﻣﺎم أو اﻟﺧﻠﻑ أو اﻟﻳﺳﺎر أو اﻟﻳﻣﻳﻥ. اﻟﻬﺟﻭم اﻟﻘﻭي ﻳﺳﻣﺢ ﺑﻬﺟﻭم ﻻﺣﻖ.</text>
+<text id="4061">%null%</text>
+<text id="4062">%null%</text>
+<text id="4063">%null%</text>
+<text id="4064">%null%</text>
+<text id="4065">%null%</text>
+<text id="4066">%null%</text>
+<text id="4067">%null%</text>
+<text id="4068">%null%</text>
+<text id="4069">%null%</text>
+<text id="4070">اﻟﻣﻬﺎرة: اﻟﻣﺧﺎﻟﺏ اﻟﻭﺣﺷﻳﺔ
+
+اﻧﻘﺽّ ﻣﺛﻝ وﺣﺵ ﻟﺗﻣﺯﻳﻖ ﻋﺩو ﺑﺷﺭاﺳﺔ ﺑﺎﺳﺗﺧﺩام اﻟﻣﺧﺎﻟﺏ اﻟﻳﻣﻧﻰ واﻟﻳﺳﺭى.</text>
+<text id="4071">%null%</text>
+<text id="4072">%null%</text>
+<text id="4073">%null%</text>
+<text id="4074">%null%</text>
+<text id="4075">%null%</text>
+<text id="4076">%null%</text>
+<text id="4077">%null%</text>
+<text id="4078">%null%</text>
+<text id="4079">%null%</text>
+<text id="4080">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: ﺻﻳﺩ اﻟﺩب اﻷﺣﻣﺭ
+
+ﻣﻬﺎرة ﺗﺫﺑﺢ اﻟﺿﺣﻳﺔ ﺑﺎﺳﺗﺧﺩام اﻟﻣﺧﺎﻟﺏ اﻟﺣﺎدة ﻋﻧﺩ اﻟﺗﻠﻭﻳﺢ ﺑﺎﻟﺫراﻋﻳﻥ. ﻳﻧﺗﺞ اﻟﻬﺟﻭم ﻗﻭة ﺷﻔﻁ ﺗﺗﺳﺑﺏ ﻓﻲ إﺣﺩاث ﺿﺭر ﻣﺳﺗﻣﺭ. ﺗﺗﻳﺢ اﻹدﺧﺎﻻت اﻟﻣﻛﺭرة ﺷﻥ ﻣﺎ ﻳﺻﻝ إﻟﻰ ﻫﺟﻭﻣﻳﻥ ﻻﺣﻘﻳﻥ.</text>
+<text id="4081">%null%</text>
+<text id="4082">%null%</text>
+<text id="4083">%null%</text>
+<text id="4084">%null%</text>
+<text id="4085">%null%</text>
+<text id="4086">%null%</text>
+<text id="4087">%null%</text>
+<text id="4088">%null%</text>
+<text id="4089">%null%</text>
+<text id="4090">اﻟﻣﻬﺎرة: اﻟﻧﻘﻁﺔ اﻟﻌﻣﻳﺎء
+
+اﻗﻔﺯ ﻟﻼﻟﺗﺣﺎم ﻣﻊ اﻟﻌﺩو واﺳﺗﻐﻼل ﻧﻘﻁﺗﻪ اﻟﻌﻣﻳﺎء ﻟﻁﻌﻧﻪ ﻣﻥ اﻟﺟﺎﻧﺏ.  ﺗﺣﺩد اﻟﻣﺩﺧﻼت اﻟﺟﺎﻧﺏ اﻟﺫي ﺗﺿﺭب ﻣﻧﻪ.  ﻳﺗﺧﻠﻝ ﻫﺫا اﻟﻬﺟﻭم وﻗﺎﻳﺔ اﻟﺧﺻﻡ.</text>
+<text id="4091">%null%</text>
+<text id="4092">%null%</text>
+<text id="4093">%null%</text>
+<text id="4094">%null%</text>
+<text id="4095">%null%</text>
+<text id="4096">%null%</text>
+<text id="4097">%null%</text>
+<text id="4098">%null%</text>
+<text id="4099">%null%</text>
+<text id="4100">اﻟﻣﻬﺎرة: اﻟﺗﻣﺯﻳﻖ اﻟﺳﺭﻳﻊ
+
+ﻣﻬﺎرة ﺗﻭارﺛﻬﺎ ﺳﻳّﺎﻓﻭ ﻫﻭرﻧﺳﻧﺕ. ﺧﺫ ﺧﻁﻭة ﺳﺭﻳﻌﺔ ﻟﻸﻣﺎم ﻟﺗﻘﻁﻳﻊ اﻷﻋﺩاء. ﺗﻁﻠﻖ ﻫﺫه اﻟﺿﺭﺑﺔ اﻟﺑﺎﺗﺭة أﻳﺿًﺎ ﻗﻭة ﺷﻔﻁ ﻣﻣﺯﻗﺔ. ﻳﻣﻛﻥ ﺷﺣﻧﻬﺎ ﻟﺯﻳﺎدة ﻗﻭة اﻟﻣﻬﺎرة وﻣﺳﺎﻓﺔ اﻟﺧﻁﻭة إﻟﻰ اﻷﻣﺎم.
+</text>
+<text id="4101">%null%</text>
+<text id="4102">%null%</text>
+<text id="4103">%null%</text>
+<text id="4104">%null%</text>
+<text id="4105">%null%</text>
+<text id="4106">%null%</text>
+<text id="4107">%null%</text>
+<text id="4108">%null%</text>
+<text id="4109">%null%</text>
+<text id="4110">اﻟﻣﻬﺎرة: وﺿﻌﻳﺔ ﺗﻣﺯﻳﻖ ﻣﻥ اﻷﻋﻠﻰ
+
+ﻣﻬﺎرة ﺗﺑﺩأ ﺑﺭﻓﻊ اﻟﻧﺻﻝ ﻓﻲ وﺿﻌﻳﺔ ﺗﺄﻫﺏ.
+ﺷﻥ ﻫﺟﻭﻣًﺎ ﻋﺎدﻳًﺎ ﻣﻥ ﻫﺫه اﻟﻭﺿﻌﻳﺔ ﻟﻠﺗﻘﺩم وﺗﻧﻔﻳﺫ ﺗﻣﺯﻳﻖ ﺳﻔﻠﻲ، أو ﻫﺟﻭﻣًﺎ ﻗﻭﻳًﺎ ﻟﻬﺟﻣﺎت ﺗﻣﺯﻳﻖ ﺳﻔﻠﻳﺔ.</text>
+<text id="4111">%null%</text>
+<text id="4112">%null%</text>
+<text id="4113">%null%</text>
+<text id="4114">%null%</text>
+<text id="4115">%null%</text>
+<text id="4116">%null%</text>
+<text id="4117">%null%</text>
+<text id="4118">%null%</text>
+<text id="4119">%null%</text>
+<text id="4120">اﻟﻣﻬﺎرة: وﺿﻌﻳﺔ اﻟﺟﻧﺎح
+
+اﺗﺧﺫ وﺿﻌﻳﺔ ﻳﻣﻳﻧﻳﺔ ﺑﺎﺗﺯان. ﻳﺣﻔﺯ اﻟﻬﺟﻭم اﻟﻌﺎدي ﺛﻼث ﻫﺟﻣﺎت ﺗﻣﺯﻳﻖ ﺳﺭﻳﻌﺔ. ﻳﺣﻔﺯ اﻟﻬﺟﻭم اﻟﻘﻭي ﺗﻧﻔﻳﺫ اﻧﺩﻓﺎع وﺛﺏ.</text>
+<text id="4121">%null%</text>
+<text id="4122">%null%</text>
+<text id="4123">%null%</text>
+<text id="4124">%null%</text>
+<text id="4125">%null%</text>
+<text id="4126">%null%</text>
+<text id="4127">%null%</text>
+<text id="4128">%null%</text>
+<text id="4129">%null%</text>
+<text id="4130">اﻟﻣﻬﺎرة: ﺳﻬﻡ اﻟﺑﺭق اﻟﺻﻐﻳﺭ
+
+ﻣﻬﺎرة اﺳﺗﺧﺩﻣﻬﺎ اﻟﻔﺭﺳﺎن اﻟﺫﻫﺑﻳﻳﻥ اﻟﺫﻳﻥ ﺧﺩﻣﻭا ﻏﻭدوﻳﻥ. ﻣﻥ وﺿﻌﻳﺔ ﻣﻧﺧﻔﺿﺔ، ﻳﺗﺣﻭل اﻟﺟﺳﻡ إﻟﻰ ﺳﻬﻡ ﺑﺭﻗﻲ ﺻﻐﻳﺭ وﻳﻧﺩﻓﻊ ﻧﺎﺣﻳﺔ اﻷﻣﺎم ﺑﺳﺭﻋﺔ ﻓﺎﺋﻘﺔ.</text>
+<text id="4131">%null%</text>
+<text id="4132">%null%</text>
+<text id="4133">%null%</text>
+<text id="4134">%null%</text>
+<text id="4135">%null%</text>
+<text id="4136">%null%</text>
+<text id="4137">%null%</text>
+<text id="4138">%null%</text>
+<text id="4139">%null%</text>
+<text id="4140">اﻟﻣﻬﺎرة: ﺳﻳﺦ اﻟﻠﻬﺏ
+
+ﻣﻬﺎرة ﻛﻭﻳﻠﻳﻥ ﻣﻥ ﻓﺭﺳﺎن اﻟﻧﺎر. أﺷﺑﻊ اﻟﺗﺳﻠﻳﺢ ﺑﺎﻟﻠﻬﺏ واﺗﺧﺫ وﺿﻌﻳﺔ ﻣﻧﺧﻔﺿﺔ ﻗﺑﻝ ﻁﻌﻥ اﻟﻌﺩو ﺑﺣﺭﻛﺔ واﺣﺩة. ﻳﻁﻠﻖ اﻟﻬﺟﻭم اﻟﻘﻭي اﻟﻌﻧﺎن ﻟﻬﺟﻭم ﻟﻬﺏ ﻻﺣﻖ.</text>
+<text id="4141">%null%</text>
+<text id="4142">%null%</text>
+<text id="4143">%null%</text>
+<text id="4144">%null%</text>
+<text id="4145">%null%</text>
+<text id="4146">%null%</text>
+<text id="4147">%null%</text>
+<text id="4148">%null%</text>
+<text id="4149">%null%</text>
+<text id="4150">اﻟﻣﻬﺎرة: ﻣﺧﻠﺏ اﻷﺳﺩ اﻟﻭﺣﺷﻲ
+
+ﻣﻬﺎرة ﻓﺭﺳﺎن رﻳﺩﻣﺎﻳﻥ اﻷﻛﺛﺭ ﺷﺟﺎﻋﺔ. ﻧﺫ ﺷﻘﻠﺑﺔ ﻟﻸﻣﺎم ﻟﺿﺭب اﻷﻋﺩاء ﺑﺎﻟﺗﺳﻠﻳﺢ. ﻳﻣﻛﻥ ﺗﻧﻔﻳﺫ ﻫﺟﻭم إﺿﺎﻓﻲ ﻋﺑﺭ إدﺧﺎل إﺿﺎﻓﻲ.</text>
+<text id="4151">%null%</text>
+<text id="4152">%null%</text>
+<text id="4153">%null%</text>
+<text id="4154">%null%</text>
+<text id="4155">%null%</text>
+<text id="4156">%null%</text>
+<text id="4157">%null%</text>
+<text id="4158">%null%</text>
+<text id="4159">%null%</text>
+<text id="4160">اﻟﻣﻬﺎرة: ﺿﺭﺑﺔ أرض وﺣﺵ اﻟﺻﻘﻳﻊ اﻟﺳﻣﺎوي
+
+ﻣﻬﺎرة ﺗﺣﺎﻛﻲ ﻏﺿﺏ رﻗﺻﺔ اﻟﻭﺣﺵ اﻟﺳﻣﺎوي. ارﻓﻊ ﺳﺎﺎ ﻷﻋﻠﻰ واﺿﺭﺑﻬﺎ ﺑﺎﻷرض ﺑﻘﻭة ﻫﺎﺋﻠﺔ ﻹﻁﻼق ﻣﻭﺟﺔ ﻗﻭﻳﺔ وﻣﻣﺗﺩة ﻣﻥ اﻟﺻﻘﻳﻊ ﻧﺎﺣﻳﺔ اﻷﻣﺎم ﻋﻠﻰ اﻷرض.  ﻳﻣﻛﻥ ﺷﺣﻧﻬﺎ ﻟﺯﻳﺎدة اﻟﻁﺎﻗﺔ واﻟﻣﺩى.</text>
+<text id="4161">%null%</text>
+<text id="4162">%null%</text>
+<text id="4163">%null%</text>
+<text id="4164">%null%</text>
+<text id="4165">%null%</text>
+<text id="4166">%null%</text>
+<text id="4167">%null%</text>
+<text id="4168">%null%</text>
+<text id="4169">%null%</text>
+<text id="4170">اﻟﻣﻬﺎرة: رﻣﺢ اﻟﻠﻬﺏ
+
+ﻣﻬﺎرة ﻛﻭد، ﻗﺎﺋﺩ ﻓﺭﺳﺎن اﻟﻧﺎر.
+ﺟﻬّﺯ اﻟﺳﻼح ﻟﺗﻧﻔﻳﺫ ﻫﺟﻭم ﻁﻌﻥ وأﻁﻠﻖ اﻟﻌﻧﺎن ﻟﺭﻣﺢ ﻣﻥ اﻟﻠﻬﺏ ﻧﺎﺣﻳﺔ اﻷﻣﺎم. اﺷﺣﻥ اﻟﻬﺟﻭم ﻟﺯﻳﺎدة اﻟﺿﺭر وﻧﻁﺎﻗﻪ.</text>
+<text id="4171">%null%</text>
+<text id="4172">%null%</text>
+<text id="4173">%null%</text>
+<text id="4174">%null%</text>
+<text id="4175">%null%</text>
+<text id="4176">%null%</text>
+<text id="4177">%null%</text>
+<text id="4178">%null%</text>
+<text id="4179">%null%</text>
+<text id="4180">اﻟﻣﻬﺎرة: ﺳﻳﺎدة ﻛﺎرﻳﺎ
+
+ﻣﻬﺎرة ﺗﻭارﺛﺗﻬﺎ ﻋﺎﺋﻠﺔ ﻛﺎرﻳﺎ. ﺣﻭّل اﻟﻧﺻﻝ إﻟﻰ ﺳﻳﻑ ﻋﻅﻳﻡ ﺳﺣﺭي وﻟﻭّح ﺑﻪ ﻷﺳﻔﻝ. ﻳﻣﻛﻥ ﺗﻧﻔﻳﺫ ﻫﺟﻭم ﻛﺎﺳﺢ أﻓﻘﻲ واﺳﻊ اﻟﻧﻁﺎق ﻋﺑﺭ إدﺧﺎل إﺿﺎﻓﻲ. ﻳﻣﻛﻥ ﺗﻌﺯﻳﺯ ﻗﻭة اﻟﻬﺟﻭﻣﻳﻥ ﻋﺑﺭ ﺷﺣﻧﻬﻣﺎ.</text>
+<text id="4181">%null%</text>
+<text id="4182">%null%</text>
+<text id="4183">%null%</text>
+<text id="4184">%null%</text>
+<text id="4185">%null%</text>
+<text id="4186">%null%</text>
+<text id="4187">%null%</text>
+<text id="4188">%null%</text>
+<text id="4189">%null%</text>
+<text id="4190">اﻟﻣﻬﺎرة: ﺻﺭﺧﺔ اﻷﻟﻡ
+
+ﻣﻬﺎرة اﺳﺗﺧﺩﻣﻬﺎ اﻟﻣﺿﻁﻬﺩون. اﺻﺭخ ﻹﺟﺑﺎر اﻷﻋﺩاء اﻟﻘﺭﻳﺑﻳﻥ ﻋﻠﻰ اﻟﻬﺭوب، ﺑﻳﻧﻣﺎ ﺗﺳﺗﺩﻋﻲ أﺣﻘﺎد ﻣﺗﺄﺻﻠﺔ، ﻳﻌﺗﻣﺩ ﺗﻌﺯﻳﺯ ﻗﻭة اﻟﻬﺟﻭم ﻋﻠﻰ ﻣﻘﺩار ﻧﻘﺎط اﻟﺻﺣﺔ اﻟﻣﺗﺑﻘﻲ. ﻛﻠﻣﺎ ﻗﻠﺕ ﻧﻘﺎط اﻟﺻﺣﺔ، زاد اﻟﺗﺄﺛﻳﺭ.</text>
+<text id="4191">%null%</text>
+<text id="4192">%null%</text>
+<text id="4193">%null%</text>
+<text id="4194">%null%</text>
+<text id="4195">%null%</text>
+<text id="4196">%null%</text>
+<text id="4197">%null%</text>
+<text id="4198">%null%</text>
+<text id="4199">%null%</text>
+<text id="4200">اﻟﻣﻬﺎرة: ﺿﺭﺑﺔ اﻟﺩرع
+
+ﻣﻬﺎرة ﺗﺳﺗﺧﺩم اﻟﺩرع ﻟﻠﻬﺟﻭم.
+ﺗﺳﻣﺢ اﻟﻣﺩﺧﻼت اﻟﻣﺗﻛﺭرة ﺑﻣﺎ ﻳﺻﻝ إﻟﻰ ﺛﻼث ﻫﺟﻣﺎت ﻣﺗﺎﺑﻌﺔ.</text>
+<text id="4201">%null%</text>
+<text id="4202">%null%</text>
+<text id="4203">%null%</text>
+<text id="4204">%null%</text>
+<text id="4205">%null%</text>
+<text id="4206">%null%</text>
+<text id="4207">%null%</text>
+<text id="4208">%null%</text>
+<text id="4209">%null%</text>
+<text id="4210">اﻟﻣﻬﺎرة: ﺻﻳﺩ ﺗﻧﻳﻥ إﻳﻐﻭن
+
+ﻣﻬﺎرة ﻣﺣﺎرب اﻟﺗﻧﻳﻥ، إﻳﻐﻭن. ﺟﻬّﺯ اﻟﻘﻭس ﻗﺑﻝ إﻁﻼق اﻟﻌﻧﺎن ﻟﺿﺭﺑﺔ ﻟﻭﻟﺑﻳﺔ ﻣﻊ إﻁﻼق ﺻﻳﺣﺔ ﻫﺎﺋﻠﺔ ﻟﺗﻌﺯﻳﺯ ﻗﻭﺗﻪ ﺑﺩرﺟﺔ ﻣﻬﻭﻟﺔ.</text>
+<text id="4211">%null%</text>
+<text id="4212">%null%</text>
+<text id="4213">%null%</text>
+<text id="4214">%null%</text>
+<text id="4215">%null%</text>
+<text id="4216">%null%</text>
+<text id="4217">%null%</text>
+<text id="4218">%null%</text>
+<text id="4219">%null%</text>
+<text id="4220">اﻟﻣﻬﺎرة: ﻧﺩاء ﻟﻬﻳﺏ اﻟﺷﺑﺢ
+
+ادﻓﻊ اﻟﺗﺳﻠﻳﺢ ﻧﺎﺣﻳﺔ اﻷﻣﺎم ﻻﺳﺗﺩﻋﺎء ﻟﻬﻳﺏ اﻟﺷﺑﺢ.
+ﺛﻡ ﺷﻥ ﻫﺟﻭﻣًﺎ ﻋﺎدﻳًﺎ ﻹﺿﺭام اﻟﻧﺎر ﻓﻲ اﻷرض ﺑﻠﻬﻳﺏ اﻟﺷﺑﺢ، أو ﺷﻥ ﻫﺟﻭﻣًﺎ ﻗﻭﻳًﺎ ﻟﺗﺣﻔﻳﺯ اﻧﻔﺟﺎر ﺿﺧﻡ.</text>
+<text id="5000">اﻟﻣﻬﺎرة: ﺗﻣﺯﻳﻖ إﺻﺎﺑﺔ اﻟﺗﻧﻳﻥ
+
+ﻣُﺻﻣﻣﺔ ﻟﺻﻳﺩ اﻟﺗﻧﺎﻧﻳﻥ اﻟﺿﺧﻣﺔ، ﺗﻐﻁﻲ ﻫﺫه اﻟﻣﻬﺎرة اﻟﺗﺳﻠﻳﺢ ﺑﻬﺎﻟﺔ ﻟﺣﺟﺭ ﺣﺻﻰ ﻣﺩﺑﺏ ﻗﺑﻝ ﺗﻧﻔﻳﺫ ﺗﻣﺯﻳﻖ وﺛﺏ ﻋﺎل. اﺷﺣﻥ اﻟﻬﺟﻭم ﻹﻁﻼق اﻟﻬﺎﻟﺔ أﻳﺿًﺎ.</text>
+<text id="5001">%null%</text>
+<text id="5002">%null%</text>
+<text id="5003">%null%</text>
+<text id="5004">%null%</text>
+<text id="5005">%null%</text>
+<text id="5006">%null%</text>
+<text id="5007">%null%</text>
+<text id="5008">%null%</text>
+<text id="5009">%null%</text>
+<text id="5010">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: اﺧﺗﺭاق اﻹﺑﺭة
+
+ﻣﻬﺎرة ﻟﻳﺩا ﻓﺎرﺳﺔ اﻹﺑﺭة. ﺗﻧﺗﺞ ﻋﺷﺭ إﺑﺭ ذﻫﺑﻳﺔ ﺗﺧﺗﺭق ﻫﺩﻓﻬﺎ ﻓﻲ اﻟﻭﻗﺕ ذاﺗﻪ. ﻳﺗﻡ ﺗﻁﻬﻳﺭ ﻫﺅﻻء اﻟﻣﺛﻘﻭﺑﻳﻥ ﻣﻥ ﺟﻣﻳﻊ اﻷﻣﺭاض واﻟﻣﺅﺛﺭات اﻟﺧﺎﺻﺔ ﻋﻠﻰ ﺣﺩٍ ﺳﻭاء.</text>
+<text id="5011">%null%</text>
+<text id="5012">%null%</text>
+<text id="5013">%null%</text>
+<text id="5014">%null%</text>
+<text id="5015">%null%</text>
+<text id="5016">%null%</text>
+<text id="5017">%null%</text>
+<text id="5018">%null%</text>
+<text id="5019">%null%</text>
+<text id="5020">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: اﻟﺿﻭء
+
+ﻣﻬﺎرة ﺗُﻁﻠﻖ اﻟﻌﻧﺎن ﻟﻠﺿﻭء اﻟﻣﺣﻔﻭر ﻋﻠﻰ ﻧﺻﻝ اﻟﺗﺳﻠﻳﺢ. ارﻓﻊ اﻟﺳﻳﻑ ﻋﺎﻟﻳًﺎ ﻹﻁﻼق ﺿﻭء ﻣﻬﻭل ﺗﺟﺗﺎح أﺷﻌﺗﻪ اﻟﻌﺩﻳﺩة اﻟﻣﻧﻁﻘﺔ اﻟﻣﺣﻳﻁﺔ. ﻛﻣﺎ ﻳﻌﺯز ﺑﺷﻛﻝ ﻣﺅﻗﺕ اﻟﻬﺟﻣﺎت اﻟﻣﻘﺩﺳﺔ اﻟﺧﺎﺻﺔ ﺑﻪ.</text>
+<text id="5021">%null%</text>
+<text id="5022">%null%</text>
+<text id="5023">%null%</text>
+<text id="5024">%null%</text>
+<text id="5025">%null%</text>
+<text id="5026">%null%</text>
+<text id="5027">%null%</text>
+<text id="5028">%null%</text>
+<text id="5029">%null%</text>
+<text id="5030">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: اﻟﻅﻼم
+
+ارﻓﻊ اﻟﺳﻳﻑ ﻋﺎﻟﻳًﺎ ﻟﻳﺷﻖ اﻟﻅﻼم ﻛﻝ ﻣﺎ ﺣﻭﻟﻙ. ﺗُﺣﺩث اﻟﻣﻬﺎرة ﺿﺭر اﻟﺗﻘﺩﻳﺱ وﺗﻘﻠﻝ إﻟﻐﺎء ﺿﺭر اﻟﺗﻘﺩﻳﺱ ﻣﺅﻗﺗًﺎ.</text>
+<text id="5031">%null%</text>
+<text id="5032">%null%</text>
+<text id="5033">%null%</text>
+<text id="5034">%null%</text>
+<text id="5035">%null%</text>
+<text id="5036">%null%</text>
+<text id="5037">%null%</text>
+<text id="5038">%null%</text>
+<text id="5039">%null%</text>
+<text id="5040">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: ﺧﻁ ﻧﺟﻭم أوﻧﺯ
+
+ﻫﺫه اﻟﻣﻬﺎرة،  اﻟﺗﻲ ﺳﻣﻳﺕ ﻋﻠﻰ اﺳﻡ اﻟﺳﻳّﺎف اﻟﻣﺣﺗﺭف اﻟﻧﺻﻑ ﺑﺷﺭ، ﺗﺷﺑﻊ ﺻﺎ ﻣﻥ اﻷﺣﺟﺎر اﻟﻼﻣﻌﺔ ﺑﺎﻟﻁﺎﻗﺔ اﻟﺳﺣﺭﻳﺔ ﻟﺗﻌﺯز ﻫﺟﻣﺎت ﺗﻘﻁﻳﻊ. ﺗُﺗﻳﺢ اﻹدﺧﺎﻻت اﻟﻣﺗﻛﺭرة ﺷﻥ ﻣﺎ ﻳﺻﻝ إﻟﻰ ﻫﺟﻭﻣﻳﻥ ﻻﺣﻘﻳﻥ، ﻳُﺣﺩث ﻛﻼﻫﻣﺎ ﺿﺭرًا أﻛﺑﺭ ﻣﻥ ﻫﺟﻣﺎت اﻟﻣﻬﺎرة ﻧﻔﺳﻬﺎ.</text>
+<text id="5041">%null%</text>
+<text id="5042">%null%</text>
+<text id="5043">%null%</text>
+<text id="5044">%null%</text>
+<text id="5045">%null%</text>
+<text id="5046">%null%</text>
+<text id="5047">%null%</text>
+<text id="5048">%null%</text>
+<text id="5049">%null%</text>
+<text id="5050">اﻟﻣﻬﺎرة: زﻫﺭة اﻟﺳﻡ ﺗﺯﻫﺭ ﻣﺭﺗﻳﻥ
+
+ﺗﺳﺗﺣﺿﺭ ﺷﻭﻛﺔ ﻣﺷﺑﻌﺔ ﺑﺎﻟﻌﻔﻥ اﻟﻘﺭﻣﺯي أﺳﻔﻝ اﻟﻘﺩﻣﻳﻥ ﻟﻁﻌﻥ اﻟﻌﺩو. إذا ﻧُﻔﺫ ﻫﺫا اﻟﻬﺟﻭم ﺑﻧﺟﺎح ﺿﺩ ﻋﺩو ﻣﺻﺎب ﺑﺎﻟﺳﻡ أو اﻟﻌﻔﻥ ﺑﺎﻟﻔﻌﻝ، ﻓﺳﻳُﺣﺩث ﺿﺭرًا ﻫﺎﺋ ﺑﺣﺭﻛﺔ واﺣﺩة ﺳﺭﻳﻌﺔ.</text>
+<text id="5080">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: اﻟﻣﻘﺻﻠﺔ اﻟﺩوّارة
+
+ﻳﺟﺏ ﺣﻣﻝ اﻟﻧﺻﻝ ﺑﺎﻟﻳﺩﻳﻥ واﻻﻧﺣﻧﺎء ﻟﻠﺧﻠﻑ، ﺗُﻁﻠﻖ اﻟﻣﻬﺎرة اﻟﻌﻧﺎن ﻟﺗﻣﺯﻳﻖ ﻗﻭي ﻣﻥ اﻷﻋﻠﻰ ﺑﺎﺳﺗﺧﺩام اﻟﻧﺻﻝ اﻟﻌﻔﻥ. ﺗﻘﺩم اﻟﻣﺩﺧﻼت اﻟﻣﺗﻛﺭرة ﻫﺟﻣﺎت ﻣﺗﺗﺎﺑﻌﺔ ﻁﺎﻟﻣﺎ ﺳﻣﺣﺕ اﻟﻘﺩرة ﻋﻠﻰ اﻟﺗﺣﻣﻝ. ﻫﺟﻭم ﻗﻭي ﻳﻧﻔﺫ ﻗﻔﺯة ﻣﺗﺑﻭﻋﺔ ﺑﻬﺟﻭم دوار.
+</text>
+<text id="5081">%null%</text>
+<text id="5082">%null%</text>
+<text id="5083">%null%</text>
+<text id="5084">%null%</text>
+<text id="5085">%null%</text>
+<text id="5086">%null%</text>
+<text id="5087">%null%</text>
+<text id="5088">%null%</text>
+<text id="5089">%null%</text>
+<text id="5090">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: اﻟﺭﻗﺻﺔ اﻷﺑﺩﻳﺔ
+
+رﻗﺻﺔ ﻋﻧﻳﻔﺔ ﺗﻛﻭّﻧﺕ ﻣﻥ ﺳﻠﺳﻠﺔ ﻫﺟﻣﺎت ﺗﻣﺯﻳﻖ ﻣﺗﻭاﻟﻳﺔ. ﺑﺎﻟﺿﻐﻁ اﻟﻣﺳﺗﻣﺭ، ﺳﺗﺳﺗﻣﺭ اﻟﺭﻗﺻﺔ ﻷﻁﻭل ﻓﺗﺭة ﺗﺳﻣﺢ ﺑﻬﺎ اﻟﻘﺩرة ﻋﻠﻰ اﻟﺗﺣﻣﻝ.</text>
+<text id="5091">%null%</text>
+<text id="5092">%null%</text>
+<text id="5093">%null%</text>
+<text id="5094">%null%</text>
+<text id="5095">%null%</text>
+<text id="5096">%null%</text>
+<text id="5097">%null%</text>
+<text id="5098">%null%</text>
+<text id="5099">%null%</text>
+<text id="5100">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: ﻧﺻﻝ اﻟﻣﻧﺗﻘﻡ
+
+اﻧﺩﻓﻊ ﻧﺎﺣﻳﺔ ﻋﺩو وﻣﺯّﻗﻪ ﺑﺎﺳﺗﺧﺩام اﻟﻧﺻﻠﻳﻥ ﻓﻲ ﻛﻠﺗﺎ اﻟﻳﺩﻳﻥ. ﺳﻳﻁﻭل اﻻﻧﺩﻓﺎع اﻷوﻟﻲ ﺑﺎﻟﺿﻐﻁ اﻟﻣﺳﺗﻣﺭ. ﺷﻥ ﻫﺟﻭﻣًﺎ ﻗﻭﻳًﺎ ﻻﺣﺎ ﻟﺗﻘﻁﻳﻊ اﻟﻌﺩو إﻟﻰ أﺷﻼء.</text>
+<text id="5101">%null%</text>
+<text id="5102">%null%</text>
+<text id="5103">%null%</text>
+<text id="5104">%null%</text>
+<text id="5105">%null%</text>
+<text id="5106">%null%</text>
+<text id="5107">%null%</text>
+<text id="5108">%null%</text>
+<text id="5109">%null%</text>
+<text id="5110">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: ﺿﺑﺎب اﻟﻧﻭم اﻷﺑﺩي
+
+ﺗُﻁﻠﻖ ﺿﺑﺎﺑًﺎ أرﺟﻭاﻧﻳًﺎ ﻳﻧﺗﺷﺭ ﻓﻲ ﻧﻁﺎق أﻣﺎﻣﻲ واﺳﻊ. ﻳﺻﻳﺏ اﻷﻋﺩاء ﺑﺎﻟﻧﻭم اﻷﺑﺩي.</text>
+<text id="5111">%null%</text>
+<text id="5112">%null%</text>
+<text id="5113">%null%</text>
+<text id="5114">%null%</text>
+<text id="5115">%null%</text>
+<text id="5116">%null%</text>
+<text id="5117">%null%</text>
+<text id="5118">%null%</text>
+<text id="5119">%null%</text>
+<text id="5120">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: ﺗﻘﻧﻳﺔ ﻣﻧﺟﻝ اﻟﺳﻼﻟﺔ
+
+ﻣﻬﺎرة ﻣﺭاوﻏﺔ ﺑﺎرﻋﺔ ﺗﺧﻠﻖ ﻣﺳﺎﺣﺔ ﻟﻠﻣﻧﺎورة.  ﺗﻣﻠﻲ اﻟﻣﺩﺧﻼت اﺗﺟﺎه اﻟﺧﻁﻭة اﻟﺧﻠﻔﻳﺔ. ﺗﺗﺑﻌﻬﺎ ﻫﺟﻭم ﻗﻭي ﻟﺗﻣﺯﻳﻖ ﻣﻥ اﻻﻋﻠﻰ. اﺿﻐﻁ ﻋﻠﻰ اﻟﻬﺟﻭم اﻟﻘﻭي ﻣﺭة أﺧﺭى ﻹﻋﺎدة اﻟﺳﻼح إﻟﻰ اﻷﺳﻔﻝ.
+</text>
+<text id="5121">%null%</text>
+<text id="5122">%null%</text>
+<text id="5123">%null%</text>
+<text id="5124">%null%</text>
+<text id="5125">%null%</text>
+<text id="5126">%null%</text>
+<text id="5127">%null%</text>
+<text id="5128">%null%</text>
+<text id="5129">%null%</text>
+<text id="5130">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: ﺳﻬﻡ اﻟﺑﺭق: ﻓﺄس ﻣﺯدوﺟﺔ
+
+ﻣﻥ وﺿﻌﻳﺔ ﻣﻧﺧﻔﺿﺔ، ﻳﺗﺣﻭل اﻟﺟﺳﻡ إﻟﻰ ﺳﻬﻡ ﺑﺭﻗﻲ ﺻﻐﻳﺭ وﻳﻧﺩﻓﻊ ﻧﺎﺣﻳﺔ اﻷﻣﺎم ﺑﺳﺭﻋﺔ ﻓﺎﺋﻘﺔ. ﻫﺟﻭم ﻗﻭي ﻳﻧﻔﺫ ﺗﻣﺯﻳﻖ دوّار ﻣﺷﺣﻭن ﺑﺎﻟﺑﺭق.</text>
+<text id="5131">%null%</text>
+<text id="5132">%null%</text>
+<text id="5133">%null%</text>
+<text id="5134">%null%</text>
+<text id="5135">%null%</text>
+<text id="5136">%null%</text>
+<text id="5137">%null%</text>
+<text id="5138">%null%</text>
+<text id="5139">%null%</text>
+<text id="5140">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: ﺳﻬﻡ اﻟﺑﺭق: ﻓﺄس ﻁﻭﻳﻠﺔ
+
+ﻣﻥ وﺿﻌﻳﺔ ﻣﻧﺧﻔﺿﺔ، ﻳﺗﺣﻭل اﻟﺟﺳﻡ إﻟﻰ ﺳﻬﻡ ﺑﺭﻗﻲ ﺻﻐﻳﺭ وﻳﻧﺩﻓﻊ ﻧﺎﺣﻳﺔ اﻷﻣﺎم ﺑﺳﺭﻋﺔ ﻓﺎﺋﻘﺔ. ﻫﺟﻭم ﻗﻭي ﻳﻧﻔﺫ ﺗﻣﺯﻳﻖ وﺛﺏ ﻣﺷﺣﻭن ﺑﺎﻟﺑﺭق.</text>
+<text id="5141">%null%</text>
+<text id="5142">%null%</text>
+<text id="5143">%null%</text>
+<text id="5144">%null%</text>
+<text id="5145">%null%</text>
+<text id="5146">%null%</text>
+<text id="5147">%null%</text>
+<text id="5148">%null%</text>
+<text id="5149">%null%</text>
+<text id="5150">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: اﻟﻘﺭﻳﻥ اﻟﻣﻭﻋﻭد
+
+أﺷﺑﻊ اﻟﺳﻳﻔﻳﻥ اﻟﻌﻅﻳﻣﻳﻥ ﺑﺿﻭء ﻣﻳﻛﻼ، ﺛﻡ ﻧﺫ ﻫﺟﻭم ﺗﻣﺯﻳﻖ ﻣﺻﺣﻭﺑًﺎ ﺑﺄﻋﻣﺩة ﺿﻭﺋﻳﺔ. ﻳُﺗﻳﺢ اﻹدﺧﺎل اﻹﺿﺎﻓﻲ ﺷﻥ ﻣﺎ ﻳﺻﻝ إﻟﻰ ﻫﺟﻭﻣﻳﻥ ﻻﺣﻘﻳﻥ.</text>
+<text id="5151">%null%</text>
+<text id="5152">%null%</text>
+<text id="5153">%null%</text>
+<text id="5154">%null%</text>
+<text id="5155">%null%</text>
+<text id="5156">%null%</text>
+<text id="5157">%null%</text>
+<text id="5158">%null%</text>
+<text id="5159">%null%</text>
+<text id="5160">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: ﺿﺭﺑﺔ زﻫﺭة دوار اﻟﺷﻣﺱ
+
+اﺿﺭب زﻫﺭة دوار ﺷﻣﺱ ﻣﻌﺗﻣﺔ ﻛﺑﻳﺭة ﻓﻲ اﻷرض ﻹﻁﻼق ﻣﻭﺟﺔ ﺻﺎدﻣﺔ ﺗُﻁﻳﺢ ﺑﺎﻷﻋﺩاء. ﺗُﺗﻳﺢ اﻹدﺧﺎﻻت اﻟﻣﻛﺭرة ﺗﻧﻔﻳﺫ ﻣﺎ ﻳﺻﻝ إﻟﻰ ﻫﺟﻭﻣﻳﻥ ﻻﺣﻘﻳﻥ.</text>
+<text id="5161">%null%</text>
+<text id="5162">%null%</text>
+<text id="5163">%null%</text>
+<text id="5164">%null%</text>
+<text id="5165">%null%</text>
+<text id="5166">%null%</text>
+<text id="5167">%null%</text>
+<text id="5168">%null%</text>
+<text id="5169">%null%</text>
+<text id="5170">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: وﺿﻌﻳﺔ اﻟﻘﻣﺭ واﻟﻧﺎر
+
+أﺷﺑﻊ ﺳﻳﻔﻳﻥ ﺑﺎﻟﺳﺣﺭ واﺗﺧﺫ وﺿﻌﻳﺔ ﺗﺄﻫﺏ. ﺛﻡ ﻧﺫ ﻫﺟﻭﻣًﺎ ﻋﺎدﻳًﺎ ﻹﻁﻼق أﻣﻭاج اﻟﺣﺟﺭ اﻟﻼﻣﻊ اﻟﺿﻭﺋﻳﺔ، أو ﺑﺗﻧﻔﻳﺫ ﻫﺟﻭم ﻗﻭي ﻹﻁﻼق اﻟﻌﻧﺎن ﻟﻬﺟﻭم دوّار ﺑﻳﻧﻣﺎ ﻳﻧﺗﺷﺭ اﻟﻠﻬﻳﺏ اﻟﻣﺣﺗﺩم. ﺗﺣﺗﻭي اﻟﻣﻭﺟﺎت اﻟﺿﻭﺋﻳﺔ ﻋﻠﻰ ﻣﺎ ﻳﺻﻝ إﻟﻰ اﺛﻧﺗﻳﻥ ﻣﻥ اﻟﻣﻭﺟﺎت ﻣﻊ ﻣﺩﺧﻼت إﺿﺎﻓﻳﺔ.</text>
+<text id="5171">%null%</text>
+<text id="5172">%null%</text>
+<text id="5173">%null%</text>
+<text id="5174">%null%</text>
+<text id="5175">%null%</text>
+<text id="5176">%null%</text>
+<text id="5177">%null%</text>
+<text id="5178">%null%</text>
+<text id="5179">%null%</text>
+<text id="5180">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: دواﻣﺔ دﻳﻔﻭﻧﻳﺎ
+
+اﺳﺗﺧﺩم ﻗﻭة دواﻣﺔ اﻟﺑﻭﺗﻘﺔ ﻟﺗﺩوﻳﺭ اﻟﻣﻁﺭﻗﺔ ﺑﻘﻭة وﺿﺭﺑﻬﺎ ﺑﺎﻷرض، وذﻟﻙ ﻹﻁﻼق ﻣﻭﺟﺔ ﺻﺎدﻣﺔ. ﻳﻣﻛﻥ ﺷﺣﻥ ﻫﺫه اﻟﻣﻬﺎرة ﻟﺯﻳﺎدة ﻗﻭﺗﻬﺎ.</text>
+<text id="5181">%null%</text>
+<text id="5182">%null%</text>
+<text id="5183">%null%</text>
+<text id="5184">%null%</text>
+<text id="5185">%null%</text>
+<text id="5186">%null%</text>
+<text id="5187">%null%</text>
+<text id="5188">%null%</text>
+<text id="5189">%null%</text>
+<text id="5190">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: ﻫﺟﻭم ﻣﻳﺳﻣﺭ
+
+ﻋﺑﺎرة ﻋﻥ ﺳﻠﺳﻠﺔ ﻣﻥ اﻟﻬﺟﻣﺎت اﻟﺷﺭﺳﺔ ﺑﺎﺳﺗﺧﺩام رﻣﺢ ﻁﺭﻓﻪ ﻣﻐﻠﻑ ﺑﺎﻟﻠﻬﻳﺏ. ﺗﺳﻣﺢ اﻟﻣﺩﺧﻼت اﻟﻣﺗﻛﺭرة ﺑﻣﺎ ﻳﺻﻝ إﻟﻰ ﻫﺟﻭﻣﻳﻥ ﻣﺗﺗﺎﻟﻳﻳﻥ. اﻟﺣﺭﻛﺔ اﻟﻧﻬﺎﺋﻳﺔ ﻫﻲ ﺿﺭب اﻟﺭﻣﺢ ﻓﻲ اﻷرض، ﻟﺗﺣﻔﻳﺯ ﻅﻬﻭر رﻣﺎح ﻻ ﺣﺻﺭ ﻟﻬﺎ ﻓﻲ اﻟﻣﻧﻁﻘﺔ اﻟﻣﺣﻳﻁﺔ.</text>
+<text id="5210">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: اﻟﻧﻭم اﻟﺳﺭﻣﺩي
+
+ﻣﻬﺎرة ﺗﺧﺗﺭق اﻟﻌﺩو ﺑﻘﻭة ﺑﺈﺑﺭة ﻣُﻐﻠﻔﺔ ﺑﺎﻟﺳﻡ ﺗُﺳﺑﺏ اﻟﻧﻭم اﻟﺳﺭﻣﺩي. إذا ﺗﻡ ﺷﻥ ﻫﺟﻭم ﻻﺣﻖ ﺿﺩ ﻋﺩو ﻓﻲ ﺣﺎﻟﺔ ﻣﻥ اﻟﺳُﺑﺎت أو اﻟﻧﻭم اﻷﺑﺩي ﺑﺎﻟﻔﻌﻝ، ﻓﺳﻳُﺣﺩث ﺿﺭرًا ﺟﺳﻳﻣًﺎ.</text>
+<text id="5211">%null%</text>
+<text id="5212">%null%</text>
+<text id="5213">%null%</text>
+<text id="5214">%null%</text>
+<text id="5215">%null%</text>
+<text id="5216">%null%</text>
+<text id="5217">%null%</text>
+<text id="5218">%null%</text>
+<text id="5219">%null%</text>
+<text id="5220">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: اﻟﺟﻭﻫﺭ اﻟﺫﻫﺑﻲ
+
+اﻗﻔﺯ ﻷﻋﻠﻰ واﻁﻌﻥ اﻟﻌﺩو ﻣﻥ ﻓﻭق. إذا ﻧﺟﺣﺕ، ﺗﻧﻔﺗﺢ أﺷﻭاك اﻟﺳﻼح ﺑﺷﻛﻝ ﻣﺅﻟﻡ ﻣﻥ اﻟﺩاﺧﻝ؛ وإﻻ، ﻓﺈن اﻟﻣﺩﺧﻼت اﻹﺿﺎﻓﻳﺔ ﺗﻁﻠﻖ أﺷﻭاك ﻻذﻋﺔ ﻓﻲ اﻟﻣﻧﻁﻘﺔ. ﻫﻧﺎك ﺷﻲء ﻣﻥ اﻟﻧﻅﺎم اﻟﺫﻫﺑﻲ ﻓﻲ ﻧﻅﺭ أوﻟﺋﻙ اﻟﺫﻳﻥ ﻳﺭﻛﺯون ﻋﻠﻰ ﻫﺫا اﻟﺟﻭﻫﺭ.</text>
+<text id="5221">%null%</text>
+<text id="5222">%null%</text>
+<text id="5223">%null%</text>
+<text id="5224">%null%</text>
+<text id="5225">%null%</text>
+<text id="5226">%null%</text>
+<text id="5227">%null%</text>
+<text id="5228">%null%</text>
+<text id="5229">%null%</text>
+<text id="5230">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: اﻧﺩﻓﺎع ﻣﻭر
+
+ﺟﻬﺯ اﻟﺩرع ﺑﻛﻠﺗﺎ اﻟﻳﺩﻳﻥ، ﺛﻡ اﻧﺩﻓﻊ ﻧﺎﺣﻳﺔ اﻷﻣﺎم ﺑﻳﻧﻣﺎ ﺗﺣﺎﻓﻅ ﻋﻠﻰ اﻟﻭﻗﺎﻳﺔ ﻟﺗﻧﻔﻳﺫ دﻓﻌﺔ ﻣﺷﺑﻌﺔ ﺑﺳﺣﺭ اﻟﺯﻧﺟﺎر. ﺗُﻁﻳﺢ ﺑﺎﻷﻋﺩاء اﻟﻘﺭﻳﺑﻳﻥ إﻟﻰ اﻟﺧﻠﻑ، ﻟﻛﻧﻬﺎ ﻻ ﺗﺳﺑﺏ ﺿﺭرًا ﺟﺳﻳﻣًﺎ. اﺿﻐﻁ ﺑﺎﺳﺗﻣﺭار ﻟﺗﻣﺩﻳﺩ ﻓﺗﺭة اﻟﺷﺣﻥ.</text>
+<text id="5231">%null%</text>
+<text id="5232">%null%</text>
+<text id="5233">%null%</text>
+<text id="5234">%null%</text>
+<text id="5235">%null%</text>
+<text id="5236">%null%</text>
+<text id="5237">%null%</text>
+<text id="5238">%null%</text>
+<text id="5239">%null%</text>
+<text id="5240">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: اﻧﺩﻓﺎع اﻟﺿﻭء اﻷﺑﻳﺽ
+
+ﺗﺳﺗﺩﻋﻲ اﻟﻣﻬﺎرة ﺿﻭءًا أﺑﻳﺽ ﻣﻥ اﻟﺷﻖ اﻟﻣﻭﺟﻭد ﻓﻲ اﻟﺧﺎم اﻟﻧﻳﺯﻛﻲ اﻟﻌﺗﻳﻖ ﻟﻠﺳﻼح، ﻳﻣﻛﻥ اﺳﺗﺧﺩام ﻗﻭﺗﻪ ﻓﻲ ﺷﻥ ﻫﺟﻭم ﻣﺷﺣﻭن ﻻﺧﺗﺭاق اﻷﻋﺩاء. ﻳﺗﺳﺑﺏ اﻹدﺧﺎل اﻹﺿﺎﻓﻲ ﻓﻲ اﻧﻔﺟﺎر اﻟﺿﻭء.</text>
+<text id="5241">%null%</text>
+<text id="5242">%null%</text>
+<text id="5243">%null%</text>
+<text id="5244">%null%</text>
+<text id="5245">%null%</text>
+<text id="5246">%null%</text>
+<text id="5247">%null%</text>
+<text id="5248">%null%</text>
+<text id="5249">%null%</text>
+<text id="5250">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: ﺗﻣﺯﻳﻖ اﻟﺣﻘﺩ
+
+ﻗﻡ ﺑﺎﻟﺩوران ﻟﺗﻣﺯﻳﻖ اﻷﻋﺩاء ﺧﻼل اﺳﺗﺩﻋﺎء أرواح ﺣﺎﻗﺩة ﺳﺗﻁﺎرد اﻷﻋﺩاء. ﻳﺗﻳﺢ اﻹدﺧﺎل اﻹﺿﺎﻓﻲ ﺷﻥ ﻫﺟﻭم ﻻﺣﻖ.</text>
+<text id="5251">%null%</text>
+<text id="5252">%null%</text>
+<text id="5253">%null%</text>
+<text id="5254">%null%</text>
+<text id="5255">%null%</text>
+<text id="5256">%null%</text>
+<text id="5257">%null%</text>
+<text id="5258">%null%</text>
+<text id="5259">%null%</text>
+<text id="5260">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: ﺗﻣﺯﻳﻖ ﺳﺎﻋﺔ اﻟﺳﺣﺭ
+
+أﻣﺳﻙ اﻟﺳﻳﻑ ﺑﺷﻛﻝ أﻓﻘﻲ وأﺷﺑﻌﻪ ﺑﻅﻼم اﻟﻠﻳﻝ ﻗﺑﻝ إﻁﻼق اﻟﻌﻧﺎن ﻟﺳﻠﺳﻠﺔ ﻣﻥ اﻟﻬﺟﻣﺎت ﻏﻳﺭ اﻟﻣﻠﻣﻭﺳﺔ. ﻻ ﻳﻣﻛﻥ اﻟﺗﺻﺩي ﻟﻬﺫا اﻟﻬﺟﻭم. ﻳﻣﻛﻥ ﺷﺣﻧﻪ ﻟﺯﻳﺎدة ﻗﻭﺗﻪ.</text>
+<text id="5261">%null%</text>
+<text id="5262">%null%</text>
+<text id="5263">%null%</text>
+<text id="5264">%null%</text>
+<text id="5265">%null%</text>
+<text id="5266">%null%</text>
+<text id="5267">%null%</text>
+<text id="5268">%null%</text>
+<text id="5269">%null%</text>
+<text id="5270">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: دواﻣﺔ اﻟﻧﺷﻭة
+
+اﺳﺗﺧﺩم ﻗﻭة اﻟﺩواﻣﺔ ﻟﺟﻌﻝ اﻟﺗﺳﻠﻳﺢ ﻳﺩور ﺑﻘﻭة، ﻟﺗﻧﻔﻳﺫ ﻫﺟﻣﺎت ﺗﻣﺯﻳﻖ ﻣﺗﻌﺩدة ﻧﺎﺣﻳﺔ اﻷﻣﺎم ﻣﺑﺎﺷﺭة. ﻛﻠﻣﺎ اﺳﺗﻌﺎد اﻟﺗﺳﻠﻳﺢ ﺑﺭﻳﻘﻪ، زادت ﻗﻭة ﻫﺫه اﻟﻣﻬﺎرة.  وﻣﻊ ذﻟﻙ، ﺳﻳﺅدي اﺳﺗﺧﺩام ﻫﺫه اﻟﻣﻬﺎرة إﻟﻰ اﺳﺗﻬﻼك ﺑﺭﻳﻖ اﻟﺷﻔﺭات ﺑﺎﻟﻛﺎﻣﻝ.</text>
+<text id="5271">%null%</text>
+<text id="5272">%null%</text>
+<text id="5273">%null%</text>
+<text id="5274">%null%</text>
+<text id="5275">%null%</text>
+<text id="5276">%null%</text>
+<text id="5277">%null%</text>
+<text id="5278">%null%</text>
+<text id="5279">%null%</text>
+<text id="5280">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: رﻣﺎح ﻓﻥ اﻟﺣﺩادة
+
+اﺿﺭب ﺳﻧﺩاﻧًﺎ ﻣﺣﺗﺩﻣًﺎ ﻓﻲ اﻷرض، ﻹﻁﻼق رﻣﺎح ﻻ ﺣﺻﺭ ﻟﻬﺎ ﻋﻧﺩ ﺳﺣﺑﻪ ﻣﻥ اﻷرض. ﺗﺧﺗﻔﻲ اﻟﺭﻣﺎح ﻋﻠﻰ اﻟﻔﻭر.</text>
+<text id="5281">%null%</text>
+<text id="5282">%null%</text>
+<text id="5283">%null%</text>
+<text id="5284">%null%</text>
+<text id="5285">%null%</text>
+<text id="5286">%null%</text>
+<text id="5287">%null%</text>
+<text id="5288">%null%</text>
+<text id="5289">%null%</text>
+<text id="5290">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: ﺗﻣﺯﻳﻖ اﻟﺣﻘﺩ
+
+ﻗﻡ ﺑﺎﻟﺩوران ﻟﺗﻣﺯﻳﻖ اﻷﻋﺩاء ﺧﻼل اﺳﺗﺩﻋﺎء أرواح ﺣﺎﻗﺩة ﺳﺗﻁﺎرد اﻷﻋﺩاء. ﻳﺗﻳﺢ اﻹدﺧﺎل اﻹﺿﺎﻓﻲ ﺷﻥ ﻫﺟﻭم ﻻﺣﻖ.</text>
+<text id="5291">%null%</text>
+<text id="5292">%null%</text>
+<text id="5293">%null%</text>
+<text id="5294">%null%</text>
+<text id="5295">%null%</text>
+<text id="5296">%null%</text>
+<text id="5297">%null%</text>
+<text id="5298">%null%</text>
+<text id="5299">%null%</text>
+<text id="5300">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: ﺗﻁﻬﻳﺭ روﻣﻳﻧﺎ
+
+ﻣﻬﺎرة ﺗﺷﺑﻊ ﻧﺻﻝ اﻟﺑﺭﻋﻡ ﺑﻔﺭاﺷﺎت اﻟﻌﻔﻥ اﻟﻘﺭﻣﺯي ﻗﺑﻝ إﻁﻼق اﻟﻌﻧﺎن ﻟﻬﺟﻣﺗﻲ ﺗﻣﺯﻳﻖ ﻛﺎﺳﺣﺗﻳﻥ. ﻛﺎﻧﺕ ﺗُﻌﺩ ﻫﺫه اﻟﻣﻬﺎرة ﻓﻲ اﻟﻣﺎﺿﻲ ﺗﻌﺑﻳﺭًا ﻣﻘﺩﺳًﺎ ﻋﻥ اﻟﺗﻁﻬﻳﺭ.</text>
+<text id="5301">%null%</text>
+<text id="5302">%null%</text>
+<text id="5303">%null%</text>
+<text id="5304">%null%</text>
+<text id="5305">%null%</text>
+<text id="5306">%null%</text>
+<text id="5307">%null%</text>
+<text id="5308">%null%</text>
+<text id="5309">%null%</text>
+<text id="5310">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: ﺿﺭﺑﺔ ﻳﺩ اﻟﺭﻣﺢ اﻟﺳﺎﻣﺔ
+
+ﻣﻬﺎرة ﺗﺟﻌﻝ ﻳﺩك ﺗﺗﺧﺫ ﺷﻛﻝ اﻟﺭﻣﺢ ﻗﺑﻝ إﻁﻼق اﻟﻌﻧﺎن ﻟﻁﻌﻧﺔ ﺛﺎﻗﺑﺔ ﺗﺧﺗﺭق ﺟﺳﺩ اﻟﻌﺩو. ﺗﺻﻳﺏ اﻟﻌﺩو ﺑﻛﻣﻳﺔ ﻛﺑﻳﺭة ﻣﻥ اﻟﺳﻡ اﻟﻔﺗﺎك.</text>
+<text id="5311">%null%</text>
+<text id="5312">%null%</text>
+<text id="5313">%null%</text>
+<text id="5314">%null%</text>
+<text id="5315">%null%</text>
+<text id="5316">%null%</text>
+<text id="5317">%null%</text>
+<text id="5318">%null%</text>
+<text id="5319">%null%</text>
+<text id="5320">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: ﺟﻧﻭن ﺿﺭﺑﺔ ﻳﺩ اﻟﺭﻣﺢ
+
+ﻣﻬﺎرة ﺗﺟﻌﻝ ﻳﺩك ﺗﺗﺧﺫ ﺷﻛﻝ اﻟﺭﻣﺢ ﻗﺑﻝ إﻁﻼق اﻟﻌﻧﺎن ﻟﻁﻌﻧﺔ ﺛﺎﻗﺑﺔ ﺗﺧﺗﺭق ﺟﺳﺩ اﻟﻌﺩو. ﺗﺻﻳﺏ اﻟﻌﺩو ﺑﻣﻘﺩار ﻛﺑﻳﺭ ﻣﻥ اﻟﺟﻧﻭن.</text>
+<text id="5321">%null%</text>
+<text id="5322">%null%</text>
+<text id="5323">%null%</text>
+<text id="5324">%null%</text>
+<text id="5325">%null%</text>
+<text id="5326">%null%</text>
+<text id="5327">%null%</text>
+<text id="5328">%null%</text>
+<text id="5329">%null%</text>
+<text id="5330">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: ﻟﻬﻳﺏ اﻟﻠﻭرد اﻟﺿﻌﻳﻑ
+
+أﻣﺳﻙ ﻣﺻﺑﺎﺣًﺎ ﻧﺎﺣﻳﺔ اﻷﻣﺎم وأﻁﻠﻖ اﻟﻠﻬﻳﺏ اﻟﻣﺳﺗﻌﺭ. ﻳﺻﻳﺏ أوﻟﺋﻙ اﻟﻣﻭﺟﻭدﻳﻥ ﻓﻲ ﻧﻁﺎق ﺗﺄﺛﻳﺭه ﺑﺎﻟﺟﻧﻭن، وﻣﺳﺗﺧﺩم اﻟﻣﻬﺎرة أﻳﺿًﺎ. ﺳﻳﺳﺗﻣﺭ ﺗﺄﺛﻳﺭ اﻟﻣﻬﺎرة ﺑﺎﻟﺿﻐﻁ اﻟﻣﺳﺗﻣﺭ. ﻳﻣﻛﻥ اﺳﺗﺧﺩاﻣﻬﺎ ﺧﻼل اﻟﺣﺭﻛﺔ.</text>
+<text id="5331">%null%</text>
+<text id="5332">%null%</text>
+<text id="5333">%null%</text>
+<text id="5334">%null%</text>
+<text id="5335">%null%</text>
+<text id="5336">%null%</text>
+<text id="5337">%null%</text>
+<text id="5338">%null%</text>
+<text id="5339">%null%</text>
+<text id="5340">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: اﻟﻧﺎر اﻟﻣﺗﻛﺭرة
+
+ﺗﺯود ﻫﺫه اﻟﻣﻬﺎرة اﻟﺳﻼح ﺑﺗﻘﻧﻳﺔ إﻁﻼق اﻟﻧﺎر اﻟﺳﺭﻳﻌﺔ. ﺑﻣﺟﺭد اﺗﺧﺎذ وﺿﻌﻳﺔ اﻟﺗﺄﻫﺏ، ﺳﻳﺗﻡ ﺗﺩوﻳﺭ اﻟﻣﻘﺑﺽ ﻹﻁﻼق ﺳﻬﺎم ﺳﺭﻳﻌﺔ ﻣﺗﺗﺎﺑﻌﺔ.</text>
+<text id="5341">%null%</text>
+<text id="5342">%null%</text>
+<text id="5343">%null%</text>
+<text id="5344">%null%</text>
+<text id="5345">%null%</text>
+<text id="5346">%null%</text>
+<text id="5347">%null%</text>
+<text id="5348">%null%</text>
+<text id="5349">%null%</text>
+<text id="5350">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: اﻟﺭﻗﺻﺔ اﻟﻣﻣﻳﺗﺔ
+
+ﺑﺎﺳﺗﺧﺩام اﻟﻧﺻﻠﻳﻥ اﻟﺩاﺋﺭﻳﻳﻥ ﻓﻲ اﻟﻳﺩﻳﻥ، ﺗﻣﺯق ﻫﺫه اﻟﻣﻬﺎرة اﻷﻋﺩاء ﻣﻥ ﺧﻼل ﻫﺟﻭم دوّار وﺣﺷﻲ. ﻳُﺗﻳﺢ اﻹدﺧﺎل اﻹﺿﺎﻓﻲ ﺗﻧﻔﻳﺫ رﻛﻠﺔ ﻓﺄس ﻗﻭﻳﺔ ﻻﺣﻘﺔ.</text>
+<text id="5351">%null%</text>
+<text id="5352">%null%</text>
+<text id="5353">%null%</text>
+<text id="5354">%null%</text>
+<text id="5355">%null%</text>
+<text id="5356">%null%</text>
+<text id="5357">%null%</text>
+<text id="5358">%null%</text>
+<text id="5359">%null%</text>
+<text id="5360">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: رﻣﻳﺔ اﻟﻣﺭوﺣﺔ
+
+ﺗﺳﺗﺧﺩم ﻫﺫه اﻟﻣﻬﺎرة اﻟﻘﻭس اﻟﻣﺣﻣﻭل ﺑﺷﻛﻝ أﻓﻘﻲ. ﺗُﺟﻬﺯ ﺛﻣﺎن أﺳﻬﻡ ﻓﻲ اﻟﻭﻗﺕ ذاﺗﻪ، ﺛﻡ ﺗﻁﻠﻘﻬﺎ ﻟﺗﺗﺧﺫ ﺻﻭرة ﻗﻭس ﻋﻠﻰ ﺷﻛﻝ ﻣﺭوﺣﺔ.</text>
+<text id="5361">%null%</text>
+<text id="5362">%null%</text>
+<text id="5363">%null%</text>
+<text id="5364">%null%</text>
+<text id="5365">%null%</text>
+<text id="5366">%null%</text>
+<text id="5367">%null%</text>
+<text id="5368">%null%</text>
+<text id="5369">%null%</text>
+<text id="5370">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: رﻣﻲ اﻟﻘﺭص
+
+ﻣﻬﺎرة إﻟﻘﺎء اﻟﺩرع اﻟﺩاﺋﺭﻳﺔ ﻣﺛﻝ اﻟﻘﺭص. ﺑﻣﺟﺭد إﻟﻘﺎﺋﻪ، ﻳﺳﺗﻌﻳﺩ اﻟﺩرع ﻋﻠﻰ اﻟﻔﻭر إﻟﻰ ﻳﺩ ﺣﺎﻣﻠﻪ ﻣﻥ ﺧﻼل ﻓﻧﻭن اﻟﺣﺩادة.</text>
+<text id="5371">%null%</text>
+<text id="5372">%null%</text>
+<text id="5373">%null%</text>
+<text id="5374">%null%</text>
+<text id="5375">%null%</text>
+<text id="5376">%null%</text>
+<text id="5377">%null%</text>
+<text id="5378">%null%</text>
+<text id="5379">%null%</text>
+<text id="5380">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: ﺻﺎﻋﻘﺔ زﻫﺭة اﻟﺗﻧﻳﻥ
+
+ﺗﺳﺗﺩﻋﻲ ﻫﺫه اﻟﻣﻬﺎرة ﺑﺭق اﻟﺗﻧﺎﻧﻳﻥ اﻟﻌﺗﻳﻘﺔ اﻷﺣﻣﺭ ﻹﺻﺎﺑﺔ اﻟﻬﺩف. ﺑﺎﻹﺿﺎﻓﺔ إﻟﻰ ﺿﺭر اﻟﺑﺭق، ﺗﻘﻠﻝ ﻣﺅﻗﺗًﺎ ﻣﻥ إﻟﻐﺎء ﺿﺭر اﻟﺑﺭق ﻟﻠﻬﺩف. ﻳﻣﻛﻥ ﺷﺣﻧﻬﺎ ﻟﺯﻳﺎدة ﻗﻭﺗﻬﺎ.</text>
+<text id="5381">%null%</text>
+<text id="5382">%null%</text>
+<text id="5383">%null%</text>
+<text id="5384">%null%</text>
+<text id="5385">%null%</text>
+<text id="5386">%null%</text>
+<text id="5387">%null%</text>
+<text id="5388">%null%</text>
+<text id="5389">%null%</text>
+<text id="5390">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: ﺣﻘﺩ اﻟﺧﺎﺿﻊ
+
+ﻣﻬﺎرة اﻧﺣﻧﺎء ﺷﺎق ﺑﺎﺳﺗﺧﺩام إﺻﺑﻊ ﺑﺎرز. ﻳﺗﺭاﻛﻡ اﻟﺣﻘﺩ ﺑﺎﻹﺟﺑﺎر ﻋﻠﻰ اﻻﻧﺣﻧﺎء، ﻣﺎ ﻳﺣﻔﺯ اﻧﻔﺟﺎرًا ﻣﻥ اﻟﻐﺿﺏ. اﺿﻐﻁ ﺑﺎﺳﺗﻣﺭار ﻟﺯﻳﺎدة اﻟﺣﻘﺩ. </text>
+<text id="5420">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: اﻟﺿﺭﺑﺔ اﻟﻣﺅﻟﻣﺔ
+
+ﻫﺟﻭم ﺑﺎﻟﺳﻭط ﻣُﺻﻣﻡ ﻹﺣﺩاث أﻟﻡ ﻻ ﻳﻣﻛﻥ وﺻﻔﻪ. ﺗﻘﻠﻝ ﻣﻌﺩل اﺳﺗﻌﺎدة ﻗﻭة اﻟﺗﺣﻣﻝ ﻣﺅﻗﺗًﺎ. ﻳﺟﻌﻝ اﻷﻟﻡ اﻟﺿﺣﻳﺔ أﻛﺛﺭ ﺧﺿﻭﻋًﺎ أﻳﺿًﺎ.</text>
+<text id="5421">%null%</text>
+<text id="5422">%null%</text>
+<text id="5423">%null%</text>
+<text id="5424">%null%</text>
+<text id="5425">%null%</text>
+<text id="5426">%null%</text>
+<text id="5427">%null%</text>
+<text id="5428">%null%</text>
+<text id="5429">%null%</text>
+<text id="5430">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: ﺗﻣﺯﻳﻖ اﻟﻘﻣﺭ اﻟﻣﻧﻌﺯل
+
+ﻧﺫ ﻫﺟﻭم ﺗﻣﺯﻳﻖ ﻋﻧﻳﺎ ﺳﻔﻠﻳًﺎ ﺑﺎﺳﺗﺧﺩام اﻟﺳﻳﻑ اﻟﻌﻅﻳﻡ ﻹﻁﻼق ﻗﻭس ﺿﻭﺋﻲ ﻧﺎﺣﻳﺔ اﻷﻣﺎم. ﻳُﺗﻳﺢ اﻟﻬﺟﻭم اﻟﻘﻭي ﺷﻥ ﻫﺟﻭم ﻻﺣﻖ ﻣﻧﺩﻓﻊ.</text>
+<text id="5431">%null%</text>
+<text id="5432">%null%</text>
+<text id="5433">%null%</text>
+<text id="5434">%null%</text>
+<text id="5435">%null%</text>
+<text id="5436">%null%</text>
+<text id="5437">%null%</text>
+<text id="5438">%null%</text>
+<text id="5439">%null%</text>
+<text id="5440">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: اﻧﺗﻘﺎم اﻟﻠﻳﻝ
+
+ﻣﻬﺎرة ﺗُﻁﻠﻖ اﻟﻌﻧﺎن ﻟﻅﻼم اﻟﻠﻳﻝ اﻟﻣﺷﺑﻊ ﺑﻘﻭة ﺳﺣﺭﻳﺔ. ﻟﻭ اﺳﺗُﺧﺩﻣﺕ ﻋﻠﻰ اﻟﻔﻭر ﺑﻌﺩ اﻟﺗﺻﺩي ﻟﻬﺟﻭم ﻣﻘﺑﻝ، ﻓﺳﺗﺳﺗﺣﻭذ اﻟﻣﻬﺎرة ﻋﻠﻰ ﻗﻭة ذﻟﻙ اﻟﻬﺟﻭم ﻟﺗﻌﺯﻳﺯ ﻗﻭﺗﻬﺎ.</text>
+<text id="5441">%null%</text>
+<text id="5442">%null%</text>
+<text id="5443">%null%</text>
+<text id="5444">%null%</text>
+<text id="5445">%null%</text>
+<text id="5446">%null%</text>
+<text id="5447">%null%</text>
+<text id="5448">%null%</text>
+<text id="5449">%null%</text>
+<text id="5450">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: ﻗﺎﻁﻊ اﻟﺣﺷﺎﺋﺵ
+
+ﺗُﺗﻳﺢ اﻟﺗﻠﻭﻳﺢ ﺑﺎﻟﺳﻳﻑ ﺑﺷﻛﻝ أﻓﻘﻲ ﻳﺷﺑﻪ اﻟﻣﻧﺟﻝ، ﻟﺗﻣﺯﻳﻖ اﻷﺷﺧﺎص ﻛﺎﻟﺣﺷﺎﺋﺵ. ﻳُﺗﻳﺢ اﻹدﺧﺎل اﻹﺿﺎﻓﻲ ﻣﻭاﺻﻠﺔ اﻟﻬﺟﻭم ﻁﺎﻟﻣﺎ ﺗﺗﻭاﻓﺭ ﻗﻭة اﻟﺗﺣﻣﻝ.</text>
+<text id="5451">%null%</text>
+<text id="5452">%null%</text>
+<text id="5453">%null%</text>
+<text id="5454">%null%</text>
+<text id="5455">%null%</text>
+<text id="5456">%null%</text>
+<text id="5457">%null%</text>
+<text id="5458">%null%</text>
+<text id="5459">%null%</text>
+<text id="5460">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: ﻋﺻﺎﺑﺔ اﻟﺳﻌﺎدة
+
+ﻣﻬﺎرة اﻟﺗﻠﻭﻳﺢ ﺑﺎﻟﺭأس ﺧﻼل ﺗﻐﻁﻳﺔ اﻟﻌﻳﻧﻳﻥ ﻹﻁﻼق آﻫﺎت اﻷﻟﻡ، ﺗُﺻﻌﺏ ﻫﺫه اﻟﻣﻬﺎرة اﻟﺭؤﻳﺔ ﻋﻠﻰ ﻣﺳﺗﺧﺩﻣﻬﺎ ﺑﺷﻛﻝ ﻣﺅﻗﺕ. ﻟﻭ أردت اﻟﺳﻌﺎدة، ﻓﻼ ﺗﻧﻅﺭ إﻟﻰ أي ﺷﻲء ﻋﻠﻰ اﻹﻁﻼق.</text>
+<text id="5461">%null%</text>
+<text id="5462">%null%</text>
+<text id="5463">%null%</text>
+<text id="5464">%null%</text>
+<text id="5465">%null%</text>
+<text id="5466">%null%</text>
+<text id="5467">%null%</text>
+<text id="5468">%null%</text>
+<text id="5469">%null%</text>
+<text id="5470">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: اﺳﺗﻘﺻﺎء ﺟﻭري
+
+ارﻓﻊ اﻟﻌﺻﺎ اﻟﻌﻅﻳﻣﺔ ﻓﻲ اﻟﻬﻭاء ﺑﻘﻭة، ﻹﻁﻼق ﺳﻠﺳﻠﺔ ﻣﻥ اﻷﻗﻭاس اﻟﺫﻫﺑﻳﺔ اﻟﺷﺑﻳﻬﺔ ﺑﺎﻷﺷﻭاك. ﻳﻁﻳﻝ اﻟﺿﻐﻁ اﻟﻣﺳﺗﻣﺭ ﻣﺩة إﻁﻼق واﺑﻝ اﻷﻗﻭاس ﻟﻔﺗﺭة ﻗﺻﻳﺭة.</text>
+<text id="5471">%null%</text>
+<text id="5472">%null%</text>
+<text id="5473">%null%</text>
+<text id="5474">%null%</text>
+<text id="5475">%null%</text>
+<text id="5476">%null%</text>
+<text id="5477">%null%</text>
+<text id="5478">%null%</text>
+<text id="5479">%null%</text>
+<text id="5480">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: دﻓﻌﺔ اﻟﺯﺋﻳﺭ
+
+أﻁﻠﻖ اﻟﻌﻧﺎن ﻟﺩﻓﻌﺔ درع ﺧﻼل اﺗﺧﺎذك وﺿﻌﻳﺔ وﻗﺎﻳﺔ ﺑﻳﻧﻣﺎ ﺗﺯأر ﻛﺄﺳﺩ ذﻫﺑﻲ. ﻳﻐﻁﻲ ﺗﺄﺛﻳﺭﻫﺎ ﻧﻁﺎﺎ ﻛﺑﻳﺭًا، إذ ﺗﺟﻌﻝ اﻷﻋﺩاء ﻳﺗﺭﻧﺣﻭن وﺗﻁﻳﺢ ﺑﻬﻡ ﺑﻌﻳﺩًا.</text>
+<text id="5481">%null%</text>
+<text id="5482">%null%</text>
+<text id="5483">%null%</text>
+<text id="5484">%null%</text>
+<text id="5485">%null%</text>
+<text id="5486">%null%</text>
+<text id="5487">%null%</text>
+<text id="5488">%null%</text>
+<text id="5489">%null%</text>
+<text id="5490">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: ﺑﺧﺎخ اﻟﺳﻡ اﻟﻣﻣﻳﺕ
+
+ﻣﻬﺎرة ﺗﺗﻁﻠﺏ اﻟﺗﻠﻭﻳﺢ ﺑﺯﺟﺎﺟﺔ اﻟﻌﻁﺭ ﻷﻋﻠﻰ، ﻣﺎ ﻳﻧﺷﺭ اﻟﺑﻭدرة اﻟﺳﺎﻣﺔ اﻟﻣﻣﻳﺗﺔ اﻟﻣﻌﻁﺭة ﻓﻲ ﻧﻁﺎق ﻛﺑﻳﺭ. ﺳﻳﺗﺭاﻗﺹ اﻟﺳﻡ ﻓﻲ اﻟﻬﻭاء ﺛﻡ ﻳﻬﺑﻁ ﺑﻬﺩوء.</text>
+<text id="5491">%null%</text>
+<text id="5492">%null%</text>
+<text id="5493">%null%</text>
+<text id="5494">%null%</text>
+<text id="5495">%null%</text>
+<text id="5496">%null%</text>
+<text id="5497">%null%</text>
+<text id="5498">%null%</text>
+<text id="5499">%null%</text>
+<text id="5500">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: ﺷﻌﻠﺔ اﻷﻓﻌﻰ
+
+ﻣﻬﺎرة ﺗﺷﻌﻝ ﻟﻬﻳﺑًﺎ داﺧﻝ اﻟﺛﻌﺎﺑﻳﻥ، ﻣﺎ ﻳﻌﺯز ﻫﺟﻣﺎت اﻟﻠﻬﻳﺏ ﻣﺅﻗﺗًﺎ. ﺳﻳﺣﺩث اﻧﻔﺟﺎرًا ﻋﻧﺩ ﺗﻧﻔﻳﺫ ﻫﺟﻭم ﻗﻭي، أو أي ﺣﺭﻛﺎت أﺧﺭى ﺗﺿﺭب اﻷرض.</text>
+<text id="5501">%null%</text>
+<text id="5502">%null%</text>
+<text id="5503">%null%</text>
+<text id="5504">%null%</text>
+<text id="5505">%null%</text>
+<text id="5506">%null%</text>
+<text id="5507">%null%</text>
+<text id="5508">%null%</text>
+<text id="5509">%null%</text>
+<text id="5510">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: اﻟﺿﺭﺑﺔ اﻟﻣﺗﻔﺭﻗﺔ (ﻣﺧﺎﻟﺏ)
+
+ﺗﻛﻭّن ﻧﺳﺧًﺎ ﻣﻥ اﻟﻣﺧﺎﻟﺏ ﻓﻲ ﻛﻠﺗﺎ اﻟﻳﺩﻳﻥ ﺑﺎﺳﺗﺧﺩام ﻓﻧﻭن اﻟﺣﺩادة، ﻹﻟﻘﺎء ﻧﺻﺎل ﻋﺩﻳﺩة ﻓﻲ اﻟﻭﻗﺕ ذاﺗﻪ. أﺗﺑﻌﻬﺎ ﺑﻣﺩﺧﻝ إﺿﺎﻓﻲ ﻟﻠﺭﻣﻲ ﻣﺭ أﺧﺭى.</text>
+<text id="5511">%null%</text>
+<text id="5512">%null%</text>
+<text id="5513">%null%</text>
+<text id="5514">%null%</text>
+<text id="5515">%null%</text>
+<text id="5516">%null%</text>
+<text id="5517">%null%</text>
+<text id="5518">%null%</text>
+<text id="5519">%null%</text>
+<text id="5520">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: اﻟﻧﺻﻝ اﻟﻣﺻﻘﻭل
+
+اﻓﺭك اﻟﻧﺻﻝ ﻟﺷﺣﺫ ﻁﺭﻓﻪ اﻟﺑﺎﺗﺭ وزﻳﺎدة اﻟﻣﻘﺩار اﻟﻣﺳﺗﺭد ﻣﻥ ﻧﻘﺎط اﻟﺻﺣﺔ. ﻳُﻘﺩر اﻟﺣﺭﻓﻳﻭن اﻟﺑﺎرﻋﻭن أدوات اﻟﺣﺩادة اﻟﺧﺎﺻﺔ ﺑﻬﻡ.</text>
+<text id="5521">%null%</text>
+<text id="5522">%null%</text>
+<text id="5523">%null%</text>
+<text id="5524">%null%</text>
+<text id="5525">%null%</text>
+<text id="5526">%null%</text>
+<text id="5527">%null%</text>
+<text id="5528">%null%</text>
+<text id="5529">%null%</text>
+<text id="5530">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: اﺳﺗﺩﻋﺎء اﻟﻘﺭن
+
+ﻣﻬﺎرة ﺗﺳﺗﺩﻋﻲ ﻗﺭوﻧًﺎ ﻣﺗﺷﺎﺑﻛﺔ ﻟﺗﻐﻁﻲ ﻧﺻﻝ اﻟﺳﻼح. ﺿﺭب اﻟﺳﻼح ﺑﺣﺎﻟﺗﻪ ﻫﺫه ﻓﻲ اﻷرض ﺑﻘﻭة، ﺳﻳﻧﺗﺞ ﻗﺭوﻧًﺎ ﺷﺎﺋﻛﺔ.</text>
+<text id="5531">%null%</text>
+<text id="5532">%null%</text>
+<text id="5533">%null%</text>
+<text id="5534">%null%</text>
+<text id="5535">%null%</text>
+<text id="5536">%null%</text>
+<text id="5537">%null%</text>
+<text id="5538">%null%</text>
+<text id="5539">%null%</text>
+<text id="5540">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: اﺳﺗﺩﻋﺎء اﻟﻘﺭن: ﻋﺎﺻﻔﺔ
+
+ﻣﻬﺎرة ﺗﺳﺗﺩﻋﻲ ﻗﺭوﻧًﺎ ﻣﺗﺷﺎﺑﻛﺔ ﻟﺗﻐﻁﻲ ﻧﺻﻝ اﻟﺳﻼح. ﺗﺳﺗﺩﻋﻲ ﻫﺫه اﻟﻘﺭون ﻋﺎﺻﻔﺔ ﺳﺗﻣﺯق اﻷﻋﺩاء. ﺗﺳﻣﺢ اﻟﻣﺩﺧﻼت اﻹﺿﺎﻓﻳﺔ ﺑﻣﺎ ﻳﺻﻝ إﻟﻰ ﻫﺟﻭﻣﻳﻥ ﻣﺗﺗﺎﺑﻌﺔ.</text>
+<text id="5541">%null%</text>
+<text id="5542">%null%</text>
+<text id="5543">%null%</text>
+<text id="5544">%null%</text>
+<text id="5545">%null%</text>
+<text id="5546">%null%</text>
+<text id="5547">%null%</text>
+<text id="5548">%null%</text>
+<text id="5549">%null%</text>
+<text id="5550">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: ﺳﻳﻑ اﻟﺳﻼﻣﻳﺔ اﻟﻌﻣﻼق
+
+ﻣﻬﺎرة اﻟﻔﺭﺳﺎن اﻟﻐﻳﻼن اﻟﻣﺳﺣﻭرﻳﻥ. ﺗﻛﻭّن ﻗﻭﺳًﺎ دﻓﺎﻋﻳًﺎ ﻣﻥ اﻟﻧﺻﺎل اﻟﻼﻣﻌﺔ اﻟﺳﺣﺭﻳﺔ اﻟﻛﺑﻳﺭة ﻓﻭق رأﺳﻙ، اﻟﺗﻲ ﺗﻬﺎﺟﻡ اﻷﻋﺩاء اﻟﻘﺭﻳﺑﻳﻥ ﺗﻠﻘﺎﺋﻳًﺎ.  وﺷﻥ ﻫﺟﻭﻣًﺎ ﻗﻭﻳًﺎ ﻻﺣﺎ ﻻﺳﺗﺧﺩام ﻗﻭة ﻫﺫه اﻟﻣﻬﺎرة ﻓﻲ ﺗﺳﺩﻳﺩ ﻁﻌﻧﺔ ﻧﺎﻓﺫة</text>
+<text id="5551">%null%</text>
+<text id="5552">%null%</text>
+<text id="5553">%null%</text>
+<text id="5554">%null%</text>
+<text id="5555">%null%</text>
+<text id="5556">%null%</text>
+<text id="5557">%null%</text>
+<text id="5558">%null%</text>
+<text id="5559">%null%</text>
+<text id="5560">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: ﻫﺑﺔ ﺳﺎﻛﻲ اﻟﺩﻣﺎء
+
+ارﻓﻊ اﻟﺭﻣﺢ اﻟﻣﻘﺩس واﻁﻌﻥ ﺟﺳﺩ أم اﻟﺣﻘﻳﻘﺔ، ﻣﺎ ﻳُﺣﺩث اﻧﻔﺟﺎرًا ﻣﻥ ﻟﻬﺏ اﻟﺩﻣﺎء ﻓﻲ اﻟﻣﻧﻁﻘﺔ اﻟﻣﺣﻳﻁﺔ ﺑﺎﻟﻬﺩف. ﻳُﺗﻳﺢ اﻹدﺧﺎل اﻹﺿﺎﻓﻲ ﺷﻥ ﻣﺎ ﻳﺻﻝ إﻟﻰ ﺛﻼث ﻫﺟﻣﺎت ﻻﺣﻘﺔ.</text>
+<text id="5561">%null%</text>
+<text id="5562">%null%</text>
+<text id="5563">%null%</text>
+<text id="5564">%null%</text>
+<text id="5565">%null%</text>
+<text id="5566">%null%</text>
+<text id="5567">%null%</text>
+<text id="5568">%null%</text>
+<text id="5569">%null%</text>
+<text id="5570">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: ﻟﻬﻳﺏ ﻋﻠﻰ ﻫﻳﺋﺔ ﺗﻧﻳﻥ
+
+اﻧﻔﺙ اﻟﻧﺎر ﻣﻥ ﻓﻙ ﻋﻠﻰ ﻫﻳﺋﺔ ﻓﻙ ﺗﻧﻳﻥ ﻟﻛﻲ ﺗﺟﺗﺎح اﻟﻧﺎر ﻧﻁﺎﺎ أﻣﺎﻣﻳًﺎ ﺑﺣﻳﺙ ﺗﺷﻛﻝ ﻗﻭﺳًﺎ. ﺳﻳﺳﺗﻣﺭ اﺷﺗﻌﺎل اﻟﻧﻳﺭان ﻋﻠﻰ اﻷرض ﻟﻔﺗﺭة وﺟﻳﺯة.</text>
+<text id="5571">%null%</text>
+<text id="5572">%null%</text>
+<text id="5573">%null%</text>
+<text id="5574">%null%</text>
+<text id="5575">%null%</text>
+<text id="5576">%null%</text>
+<text id="5577">%null%</text>
+<text id="5578">%null%</text>
+<text id="5579">%null%</text>
+<text id="5580">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: ﺗﻣﺯﻳﻖ ﺳﺭﻋﺔ اﻟﺿﻭء
+
+اﺗﺧﺫ وﺿﻌﻳﺔ ﻣﺿﻳﺋﺔ واﻗﻔﺯ ﻧﺎﺣﻳﺔ اﻷﻣﺎم ﻟﺗﻧﻔﻳﺫ ﺗﻣﺯﻳﻖ ﺳﻔﻠﻲ ﺑﺳﺭﻋﺔ اﻟﺿﻭء اﻟﻔﺎﺋﻘﺔ. ﺳﻳﺗﺑﻊ ﻫﺫا اﻟﻬﺟﻭم ﻫﺟﻭم ﺿﻭﺋﻲ إﺿﺎﻓﻲ. اﺷﺣﻥ ﻟﺯﻳﺎدة ﻗﻭة اﻟﻣﻬﺎرة وﻋﺩد اﻟﻬﺟﻣﺎت اﻟﻼﺣﻘﺔ.</text>
+<text id="5600">اﻟﻣﻬﺎرة اﻟﻣﻣﻳﺯة: رﻣﻳﺔ اﻟﺣﻘﺩ
+
+ﺷﺑﻊ اﻟﺳﻬﺎم ﺑﺄرواح اﻧﺗﻘﺎﻣﻳﺔ ﻗﺑﻝ إﻁﻼق واﺑﻝ ﻣﻥ اﻟﺳﻬﺎم. ﺗﻁﺎرد اﻟﺳﻬﺎم اﻟﻣﺷﺑﻌﺔ ﺑﺄرواح اﻷﻋﺩاء ﺑﻳﻧﻣﺎ ﺗﺧﺗﺭق اﻟﻬﻭاء.</text>
+</entries>
+</fmg>

@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="200000">Cenere di guerra che non fornisce alcuna affinità all'armamento, ma conferisce la seguente abilità:
+
+"Turbine Fogliamorta: questa abilità rappresenta il culmine dello stile di lotta di Dane basato sul gioco di gambe.
+Si eleva in aria con una serie di calci rotanti, per poi abbattersi al suolo con un potente colpo finale. Infonde di energia i calci, incrementandone la gittata."
+
+Usabile su armi corpo a corpo.</text>
+<text id="200100">Cenere di guerra che fornisce a un armamento l'affinità sacralità e la seguente abilità:
+
+"Ali del Crogiolo: questa abilità proviene dalle forme di vita del Crogiolo. Spicca il volo con un paio di ali dorate, per poi calare in picchiata sul nemico con l'arma puntata. Se usa una lama gemella, esegue un attacco rotante."
+
+Usabile su spade e armamenti inastati da affondo (tranne armi colossali).</text>
+<text id="400000">Cenere di guerra che fornisce a un armamento l'affinità pesantezza e la seguente abilità:
+
+"Affondo gravitazionale rotante: abilità gravitazionale sviluppata dai discepoli di un campione di alabastro. Usa una tecnica gravitazionale per fluttuare in aria, per poi iniziare a roteare e caricare in avanti. Premi di nuovo per eseguire un attacco supplementare."
+
+Usabile su spade grandi e colossali.</text>
+<text id="401000">Cenere di guerra che non fornisce alcuna affinità all'armamento, ma conferisce la seguente abilità:
+
+"Palmo esplosivo: abilità del gruppo di ricercatori spirituali noti come la setta della Fogliamorta. Avvolge la mano di energia prima di colpire con il palmo della mano per liberare un'onda esplosiva. Il colpo può essere caricato per ottenere una forza d'impatto ancora maggiore."
+
+Usabile su armi corpo a corpo.</text>
+<text id="402000">Cenere di guerra che fornisce a un armamento l'affinità incisività e la seguente abilità:
+
+"Lancio perforante: scaglia l'armamento con una potente rotazione, permettendogli di trapassare i nemici e di raggiungere una distanza maggiore.."
+
+Usabile su lame da lancio.</text>
+<text id="403000">Cenere di guerra che fornisce a un armamento l'affinità incisività e la seguente abilità:
+
+"Lancio multiplo: sfrutta le arti di forgiatura per creare più copie dello stesso armamento in entrambe le mani, per poi lanciarle tutte insieme. Premi di nuovo per lanciare un'altra raffica."
+
+Usabile su lame da lancio.</text>
+<text id="404000">Cenere di guerra che non fornisce alcuna affinità all'armamento, ma conferisce la seguente abilità:
+
+"Muro di scintille: sparge nelle vicinanze una polvere aromatica che produce scintille dopo un breve periodo. È possibile caricare l'abilità per aumentare il potere e la gittata.
+Le proprietà delle scintille variano in base alla bottiglia di profumo usata."
+
+Usabile su bottiglie di profumo.</text>
+<text id="405000">Cenere di guerra che non fornisce alcuna affinità all'armamento, ma conferisce la seguente abilità:
+
+"Scintille vorticanti: sparge davanti a sé una polvere aromatica che produce vorticose esplosioni di scintille. Le proprietà delle scintille variano in base alla bottiglia di profumo usata."
+
+Usabile su bottiglie di profumo.</text>
+<text id="406000">Cenere di guerra che fornisce a un armamento l'affinità incisività e la seguente abilità:
+
+"Belva furente: esegue un passo ferino, salta e colpisce dall'alto. Il passo iniziale può essere in avanti, indietro, a sinistra o a destra. Può essere seguito da un attacco potente per eseguire un attacco supplementare."
+
+Usabile su artigli ferini.</text>
+<text id="407000">Cenere di guerra che fornisce a un armamento l'affinità incisività e la seguente abilità:
+
+"Artigli selvaggi: si avventa come una belva sull'avversario e lo attacca con entrambi gli artigli."
+
+Usabile su artigli ferini.</text>
+<text id="409000">Cenere di guerra che fornisce a un armamento l'affinità incisività e la seguente abilità:
+
+"Punto cieco: si porta nel punto cieco del nemico con uno scatto, per poi dilaniarlo dal fianco. La direzione premuta determina da che lato colpire. Questo attacco si insinua sotto la difesa avversaria."
+
+Usabile su lame rovesciate.</text>
+<text id="410000">Cenere di guerra che fornisce a un armamento l'affinità incisività e la seguente abilità:
+
+"Fendente rapido: abilità tramandata tra gli spadaccini degli araldi del corno. Esegue un rapido passo in avanti e colpisce. Questo fendente produce anche una folata dilaniante. Può essere caricata per aumentare la potenza e la distanza percorsa."
+
+Usabile su lame rovesciate.</text>
+<text id="411000">Cenere di guerra che fornisce a un armamento l'affinità incisività e la seguente abilità:
+
+"Postura alta: abilità che inizia con la lama tenuta alta, pronta a colpire. Esegui un attacco normale da questa postura per fare un passo avanti e colpire verso il basso, o un attacco potente per sferrare una serie di fendenti verso il basso."
+
+Usabile su katana giganti.</text>
+<text id="412000">Cenere di guerra che fornisce a un armamento l'affinità qualità e la seguente abilità:
+
+"Postura dell'ala: assume lentamente una postura rivolta a destra. L'attacco normale attiva una combinazione veloce di tre fendenti, l'attacco potente un affondo in salto."
+
+Usabile su spadoni leggeri.</text>
+<text id="413000">Cenere di guerra che fornisce a un armamento l'affinità fulmine e la seguente abilità:
+
+"Abilità dei cavalieri aurei di Godwyn. Dopo aver assunto una postura bassa, trasforma il corpo in una saetta, caricando in avanti a velocità fulminea."
+
+Usabile su tutti gli armamenti da mischia.</text>
+<text id="414000">Cenere di guerra che fornisce a un armamento l'affinità fiammante e la seguente abilità:
+
+"Fiamma perforante: abilità di Queelign dei cavalieri del fuoco. Avvolge l'armamento nelle fiamme e assume una postura bassa, per poi trafiggere il nemico con un movimento repentino. L'attacco potente libera un colpo incendiario supplementare."
+
+Usabile su armamenti da affondo medi e grandi.</text>
+<text id="415000">Cenere di guerra che fornisce a un armamento l'affinità pesantezza e la seguente abilità:
+
+"Artiglio leonino selvaggio: abilità utilizzata dai più arditi tra i Mantorosso. Esegue una capriola in avanti e colpisce i nemici con l'armamento. Premi di nuovo per eseguire un attacco supplementare."
+
+Usabile su spade, asce e martelli (tranne armamenti piccoli e spade da affondo).</text>
+<text id="416000">Cenere di guerra che fornisce a un armamento l'affinità freddo e la seguente abilità:
+
+"Pestone della belva divina: abilità che riproduce la furibonda danza della belva divina. Solleva una gamba e calpesta il suolo con forza brutale, generando un'ondata di gelo che si propaga sul terreno. Può essere caricata per aumentare la potenza e la distanza."
+
+Usabile su tutti gli armamenti da mischia.</text>
+<text id="417000">Cenere di guerra che fornisce a un armamento l'affinità fiammante e la seguente abilità:
+
+"Lancia fiammeggiante: abilità di Kood, capitano dei cavalieri del fuoco. Si prepara a eseguire un affondo con l'arma e scaglia una lancia di fuoco davanti a sé. Carica l'attacco per incrementare danni inflitti e gittata."
+
+Usabile su armamenti da affondo (tranne artigli e lame rovesciate).</text>
+<text id="418000">Cenere di guerra che fornisce a un armamento l'affinità magia e la seguente abilità:
+
+"Sovranità cariana: abilità tramandata dai reali di Caria. Trasforma l'arma in uno spadone magico e sferra un fendente discendente. Premi di nuovo per eseguire un attacco orizzontale. Carica ogni attacco per aumentarne la potenza."
+
+Usabile sulle spade (tranne armamenti colossali).</text>
+<text id="419000">Cenere di guerra che fornisce a un armamento l'affinità occulto e la seguente abilità:
+
+"Grido di sofferenza: abilità degli oppressi. Fa sobbalzare i nemici gridando a squarciagola. Nel frattempo, attinge a tutto il risentimento represso per aumentare la potenza d'attacco in proporzione ai PV residui. L'effetto aumenta al ridursi dei PV."
+
+Usabile su tutti gli armamenti da mischia.</text>
+<text id="422000">Cenere di guerra che fornisce a un armamento l'affinità freddo e la seguente abilità:
+
+"Richiamo spettrale: proietta in avanti l'arma per evocare una fiamma spettrale. Esegui un attacco normale dopo l'abilità per ricoprire il terreno di fiamme spettrali, o un attacco potente per generare una devastante esplosione."
+
+Usabile su spade e lance (tranne armamenti piccoli, lame gemelle e lame rovesciate).</text>
+<text id="505000">Cenere di guerra che fornisce a un armamento l'affinità veleno e la seguente abilità:
+
+"Doppia fioritura velenosa: evoca un aculeo di marcescenza scarlatta sotto il piede per trafiggere il nemico. Se l'attacco colpisce un bersaglio già affetto da veleno o marcescenza, infligge danni ingenti in un sol colpo."
+
+Usabile su tutti gli armamenti da mischia.</text>
+<text id="548000">Cenere di guerra che non fornisce alcuna affinità all'armamento, ma conferisce la seguente abilità:
+
+"Caccia al drago di Igon: abilità del guerriero draconico Igon. Prepara l'arco e scocca il colpo, accompagnandolo con un poderoso urlo che ne accresce la potenza."
+
+Usabile su archi pesanti.</text>
+<text id="800000">Cenere di guerra che non fornisce alcuna affinità all'armamento, ma conferisce la seguente abilità:
+
+"Affondo di scudo: un'abilità che sfrutta lo scudo per attaccare. Premi di nuovo per eseguire fino a tre attacchi supplementari."
+
+Usabile su tutti gli scudi.</text>
+</entries>
+</fmg>

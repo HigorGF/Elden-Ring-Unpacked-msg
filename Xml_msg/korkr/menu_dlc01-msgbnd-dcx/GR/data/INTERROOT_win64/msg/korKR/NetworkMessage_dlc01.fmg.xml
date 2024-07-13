@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="2601425">다른 세계에 소환되었습니다.
+「침의 기사 레다」와 동지들을 쓰러뜨리십시오.</text>
+<text id="2601426">다른 세계에 소환되었습니다.
+「노병 안스바흐」를 쓰러뜨리십시오.</text>
+<text id="2601427">다른 세계에 소환되었습니다.
+「침의 기사 레다」를 쓰러뜨리십시오.</text>
+<text id="2601428">다른 세계에 소환되었습니다.
+「뿔인간」을 쓰러뜨리십시오.</text>
+<text id="2601429">다른 세계에 소환되었습니다.
+「침의 기사 레다」를 쓰러뜨리십시오.</text>
+<text id="2611425">「침의 기사 레다」와 동지들을 쓰러뜨렸습니다.
+원래 세계로 돌아갑니다.</text>
+<text id="2611426">「노병 안스바흐」를 쓰러뜨렸습니다.
+원래 세계로 돌아갑니다.</text>
+<text id="2611427">「침의 기사 레다」를 쓰러뜨렸습니다.
+원래 세계로 돌아갑니다.</text>
+<text id="2611428">「뿔인간」을 쓰러뜨렸습니다.
+원래 세계로 돌아갑니다.</text>
+<text id="2611429">「침의 기사 레다」를 쓰러뜨렸습니다.
+원래 세계로 돌아갑니다.</text>
+<text id="2621425">사망했습니다. 원래 세계로 돌아갑니다.</text>
+<text id="2621426">사망했습니다. 원래 세계로 돌아갑니다.</text>
+<text id="2621427">사망했습니다. 원래 세계로 돌아갑니다.</text>
+<text id="2621428">사망했습니다. 원래 세계로 돌아갑니다.</text>
+<text id="2621429">사망했습니다. 원래 세계로 돌아갑니다.</text>
+<text id="2622425">손가락의 주인이 사망했습니다.
+주인의 세계로 돌아갑니다.</text>
+<text id="2631425">원래 세계로 돌아갑니다.</text>
+<text id="2631426">원래 세계로 돌아갑니다.</text>
+<text id="2631427">원래 세계로 돌아갑니다.</text>
+<text id="2631428">원래 세계로 돌아갑니다.</text>
+<text id="2631429">원래 세계로 돌아갑니다.</text>
+<text id="2632425">손가락의 주인이 원래 세계로 돌아갔습니다.
+주인의 세계로 돌아갑니다.</text>
+<text id="2640425">갈고리 손가락 &lt;?leaveName?&gt;을(를)
+원래 세계로 송환했습니다.</text>
+<text id="2641425">손가락의 주인이 송환했습니다. 원래 세계로 돌아갑니다.</text>
+<text id="2642425">갈고리 손가락 &lt;?leaveName?&gt;이(가)
+원래 세계로 송환되었습니다.</text>
+<text id="2691425">사망했습니다. 원래 세계로 돌아갑니다.</text>
+<text id="2692425">갈고리 손가락 &lt;?deadName?&gt;이(가) 사망했습니다.</text>
+<text id="2693425">원래 세계로 돌아갑니다.</text>
+<text id="2694425">갈고리 손가락 &lt;?leaveName?&gt;이(가)
+원래 세계로 돌아갔습니다.</text>
+<text id="4080100">협력자를 소환하고 있습니다.</text>
+<text id="4080101">%null%</text>
+<text id="4080102">%null%</text>
+<text id="4080103">%null%</text>
+<text id="4080104">%null%</text>
+<text id="4080105">%null%</text>
+<text id="4080106">%null%</text>
+<text id="4080107">%null%</text>
+<text id="4080108">%null%</text>
+<text id="4080109">%null%</text>
+<text id="4080110">다른 협력자가 소환되고 있습니다.</text>
+<text id="4080800">「용의 전사 에이곤」을 협력자로 소환했습니다.</text>
+<text id="4080801">「용의 전사 에이곤」이 협력자로 소환되었습니다.</text>
+<text id="4080802">「용의 전사 에이곤」이 사망했습니다.</text>
+<text id="4080803">%null%</text>
+<text id="4080804">%null%</text>
+<text id="4080805">%null%</text>
+<text id="4080806">%null%</text>
+<text id="4080807">%null%</text>
+<text id="4080808">%null%</text>
+<text id="4080809">%null%</text>
+<text id="4080810">「티에리에」를 협력자로 소환했습니다.</text>
+<text id="4080811">「티에리에」가 협력자로 소환되었습니다.</text>
+<text id="4080812">「티에리에」가 사망했습니다.</text>
+<text id="4080813">%null%</text>
+<text id="4080814">%null%</text>
+<text id="4080815">%null%</text>
+<text id="4080816">%null%</text>
+<text id="4080817">%null%</text>
+<text id="4080818">%null%</text>
+<text id="4080819">%null%</text>
+<text id="4080820">「티에리에」에게 침입당했습니다!</text>
+<text id="4080821">%null%</text>
+<text id="4080822">「티에리에」가 사망했습니다.</text>
+<text id="4080823">%null%</text>
+<text id="4080824">%null%</text>
+<text id="4080825">%null%</text>
+<text id="4080826">%null%</text>
+<text id="4080827">%null%</text>
+<text id="4080828">%null%</text>
+<text id="4080829">%null%</text>
+<text id="4080830">「밤의 검사 욜란」에게 침입당했습니다!</text>
+<text id="4080831">%null%</text>
+<text id="4080832">「밤의 검사 욜란」이 사망했습니다.</text>
+<text id="4080833">%null%</text>
+<text id="4080834">%null%</text>
+<text id="4080835">%null%</text>
+<text id="4080836">%null%</text>
+<text id="4080837">%null%</text>
+<text id="4080838">%null%</text>
+<text id="4080839">%null%</text>
+<text id="4080840">「순혈기사 안스바흐」를 협력자로 소환했습니다.</text>
+<text id="4080841">「순혈기사 안스바흐」가 협력자로 소환되었습니다.</text>
+<text id="4080842">「순혈기사 안스바흐」가 사망했습니다.</text>
+<text id="4080843">「순혈기사 안스바흐」는 잠시 후 협력자로 소환됩니다.</text>
+<text id="4080844">%null%</text>
+<text id="4080845">%null%</text>
+<text id="4080846">%null%</text>
+<text id="4080847">%null%</text>
+<text id="4080848">%null%</text>
+<text id="4080849">%null%</text>
+<text id="4080850">「티에리에」를 협력자로 소환했습니다.</text>
+<text id="4080851">「티에리에」가 협력자로 소환되었습니다.</text>
+<text id="4080852">「티에리에」가 사망했습니다.</text>
+<text id="4080853">「티에리에」는 잠시 후 협력자로 소환됩니다.</text>
+<text id="4080854">%null%</text>
+<text id="4080855">%null%</text>
+<text id="4080856">%null%</text>
+<text id="4080857">%null%</text>
+<text id="4080858">%null%</text>
+<text id="4080859">%null%</text>
+<text id="4080860">「피의 귀족 나탄」을 협력자로 소환했습니다.</text>
+<text id="4080861">「피의 귀족 나탄」이 협력자로 소환되었습니다.</text>
+<text id="4080862">「피의 귀족 나탄」이 사망했습니다.</text>
+<text id="4080863">「피의 귀족 나탄」은 잠시 후 협력자로 소환됩니다.</text>
+<text id="4080864">%null%</text>
+<text id="4080865">%null%</text>
+<text id="4080866">%null%</text>
+<text id="4080867">%null%</text>
+<text id="4080868">%null%</text>
+<text id="4080869">%null%</text>
+<text id="4080870">「뿔인간」을 협력자로 소환했습니다.</text>
+<text id="4080871">「뿔인간」이 협력자로 소환되었습니다.</text>
+<text id="4080872">「뿔인간」이 사망했습니다.</text>
+<text id="4080873">%null%</text>
+<text id="4080874">%null%</text>
+<text id="4080875">%null%</text>
+<text id="4080876">%null%</text>
+<text id="4080877">%null%</text>
+<text id="4080878">%null%</text>
+<text id="4080879">%null%</text>
+<text id="4080880">「밤의 검사 욜란」을 협력자로 소환했습니다.</text>
+<text id="4080881">「밤의 검사 욜란」이 협력자로 소환되었습니다.</text>
+<text id="4080882">「밤의 검사 욜란」이 사망했습니다.</text>
+<text id="4080883">%null%</text>
+<text id="4080884">%null%</text>
+<text id="4080885">%null%</text>
+<text id="4080886">%null%</text>
+<text id="4080887">%null%</text>
+<text id="4080888">%null%</text>
+<text id="4080889">%null%</text>
+<text id="4080890">「뿔인간」이 적대자로 소환되었습니다!</text>
+<text id="4080891">%null%</text>
+<text id="4080892">「뿔인간」이 사망했습니다.</text>
+<text id="4080893">%null%</text>
+<text id="4080894">%null%</text>
+<text id="4080895">%null%</text>
+<text id="4080896">%null%</text>
+<text id="4080897">%null%</text>
+<text id="4080898">%null%</text>
+<text id="4080899">%null%</text>
+<text id="4080900">「무아」가 적대자로 소환되었습니다!</text>
+<text id="4080901">%null%</text>
+<text id="4080902">「무아」가 사망했습니다.</text>
+<text id="4080903">%null%</text>
+<text id="4080904">%null%</text>
+<text id="4080905">%null%</text>
+<text id="4080906">%null%</text>
+<text id="4080907">%null%</text>
+<text id="4080908">%null%</text>
+<text id="4080909">%null%</text>
+<text id="4080910">「적사자 프레이야」가 적대자로 소환되었습니다!</text>
+<text id="4080911">%null%</text>
+<text id="4080912">「적사자 프레이야」가 사망했습니다.</text>
+<text id="4080913">%null%</text>
+<text id="4080914">%null%</text>
+<text id="4080915">%null%</text>
+<text id="4080916">%null%</text>
+<text id="4080917">%null%</text>
+<text id="4080918">%null%</text>
+<text id="4080919">%null%</text>
+<text id="4080920">「침의 기사 레다」가 적대자로 소환되었습니다!</text>
+<text id="4080921">%null%</text>
+<text id="4080922">「침의 기사 레다」가 사망했습니다.</text>
+<text id="4080923">%null%</text>
+<text id="4080924">%null%</text>
+<text id="4080925">%null%</text>
+<text id="4080926">%null%</text>
+<text id="4080927">%null%</text>
+<text id="4080928">%null%</text>
+<text id="4080929">%null%</text>
+<text id="4080930">「낙엽의 단」이 적대자로 소환되었습니다!</text>
+<text id="4080931">%null%</text>
+<text id="4080932">「낙엽의 단」이 사망했습니다.</text>
+</entries>
+</fmg>

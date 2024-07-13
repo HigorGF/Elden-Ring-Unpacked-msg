@@ -1,0 +1,549 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="3000000">Wyblakły na słońcu i lekko przybrudzony kapelusz Dane’a, Suchego Liścia. Noszony tuż nad oczami przesłania wzrok noszącej go osoby.
+
+Skrzyżowanie z kimś spojrzeń może wpłynąć na zmysły, co często prowadzi do upadku tych, którzy pragną podążać szlachetną i samotną drogą poszukiwaczy.</text>
+<text id="3000100">Wyblakły na słońcu i lekko przybrudzony strój podróżny noszony przez duchownych.
+
+Złoty naszyjnik znajdujący się poniżej piersi należy do grupy duchownych poszukiwaczy zwanych Sektą Suchego Liścia.
+
+Ta sekta nie uznaje opierania się na innych w kwestiach wiary. Jej członkowie dążą przede wszystkim do samodyscypliny i samowystarczalności.</text>
+<text id="3000200">Wyblakłe na słońcu i lekko przybrudzone owijacze.
+
+Wiąże się je ciasno wokół ramion, jakby miały zapobiegać złamaniom.</text>
+<text id="3000300">Wyblakłe na słońcu i lekko przybrudzone muszkieterki noszone przez duchownych.
+Buty z twardej skóry.</text>
+<text id="3001100">Wyblakły na słońcu i lekko przybrudzony strój podróżny noszony przez duchownych.
+
+Skórzana sakwa przerzucana przez ramię, ozdobiona jednym z symboli Miquelli, motywem złotej trawy.</text>
+<text id="3010000">Hełm z czarnego żelaza należący do dowódcy Gajusza.
+Część zbroi z wzorem rozsypanych nasion.
+
+Gajusz był najstarszym uczniem tego samego alabastrowego władcy, który nauczył Radahna i Gaeę techniki grawitacyjnej.</text>
+<text id="3010100">Napierśnik z czarnego żelaza należący do dowódcy Gajusza.
+Część zbroi z wzorem rozsypanych nasion.
+
+Gajusz był najstarszym uczniem tego samego alabastrowego władcy, który nauczył Radahna i Gaeę techniki grawitacyjnej.</text>
+<text id="3010200">Rękawice z czarnego żelaza należące do dowódcy Gajusza.
+Część zbroi z wzorem rozsypanych nasion.
+
+Gajusz był najstarszym uczniem tego samego alabastrowego władcy, który nauczył Radahna i Gaeę techniki grawitacyjnej.</text>
+<text id="3010300">Nagolenniki z czarnego żelaza wykonane dla dowódcy Gajusza.
+To okrutny żart, ponieważ nie mógł ich nosić.
+
+Gajusz jeździł na dziku, którego nazywał swoją drugą połową. W rzeczywistości był z pochodzenia wojownikiem albinauryków.</text>
+<text id="5000000">Hełm rycerza Przysięgi.
+Czarny ze złotymi zdobieniami.
+
+Rycerze ci wyruszyli na poszukiwania, mając nadzieję, że sami odnajdą przysięge bliską ich sercu, by wiernie służyć do końca ich dni.</text>
+<text id="5000100">Napierśnik Ledy, rycerza igły.
+Nieznacznie zwiększa atak po przewrocie lub kroku w tył, a także ataku ze sprintu.
+
+Zdobi go motyw złotego krzyżodrzewa, a śnieżnobiały płaszcz i kasak symbolizują honor rycerzy igły.
+
+„Miquella Łagodny uczynił nas swymi igłami, byśmy odpędzali i niszczyli wszystkich wrogów”.</text>
+<text id="5000200">Rękawice rycerza Przysięgi.
+Czarny ze złotymi zdobieniami.
+
+Rycerze ci wyruszyli na poszukiwania, mając nadzieję, że sami odnajdą przysięge bliską ich sercu, by wiernie służyć do końca ich dni.</text>
+<text id="5000300">Nagolenniki rycerza Przysięgi.
+Czarny ze złotymi zdobieniami.
+
+Rycerze ci wyruszyli na poszukiwania, mając nadzieję, że sami odnajdą przysięge bliską ich sercu, by wiernie służyć do końca ich dni.</text>
+<text id="5002100">Napierśnik rycerza Przysięgi.
+Czarny ze złotymi zdobieniami.
+
+Rycerze ci wyruszyli na poszukiwania, mając nadzieję, że sami odnajdą przysięge bliską ich sercu, by wiernie służyć do końca ich dni.</text>
+<text id="5010000">Hełm z niezwykłego metalu zwanego werdygris.
+
+Podobno werdygris jest darem od jednego z bogów zewnętrznych.
+Jest niezwykle wytrzymałe, a przy tym elastyczne, dzięki swej rdzawości.</text>
+<text id="5010100">Napierśnik z niezwykłego metalu zwanego werdygris.
+
+Podobno werdygris jest darem od jednego z bogów zewnętrznych.
+Jest niezwykle wytrzymałe, a przy tym elastyczne, dzięki swej rdzawości.</text>
+<text id="5010200">Rękawice z niezwykłego metalu zwanego werdygris.
+
+Podobno werdygris jest darem od jednego z bogów zewnętrznych.
+Jest niezwykle wytrzymałe, a przy tym elastyczne, dzięki swej rdzawości.</text>
+<text id="5010300">Nagolenniki z niezwykłego metalu zwanego werdygris.
+
+Podobno werdygris jest darem od jednego z bogów zewnętrznych.
+Jest niezwykle wytrzymałe, a przy tym elastyczne, dzięki swej rdzawości.</text>
+<text id="5020000">Futro Ralvy, wielkiego niedźwiedzia rudego, bez żadnych modyfikacji noszone na głowie.
+
+Wzmacnia inkantacje żartobliwie zwane „niedźwiedzią komunią”.
+
+Ta niewyprawiona skóra, zdobyta pod koniec krwawego pojedynku, jest właśnie tym, co z wojownika czyni dzikiego niedźwiedzia.</text>
+<text id="5020100">Napierśnik niedźwiedzia rudego, którego imię porwało szaleństwo.
+Kamizelka wzmocniona żelaznymi nitami.
+
+Zgładziwszy wielkiego niedźwiedzia rudego w krwawym pojedynku, zafascynował się czystością nagiej siły tej bestii.
+
+„Pragnę być niedźwiedziem, ni mniej, ni więcej”.</text>
+<text id="5020200">Rękawice niedźwiedzia rudego, którego imię porwało szaleństwo.
+Wzmocnione żelaznymi nitami.
+
+Zgładziwszy wielkiego niedźwiedzia rudego w krwawym pojedynku, zafascynował się czystością nagiej siły tej bestii.
+
+„Pragnę być niedźwiedziem, ni mniej, ni więcej”.</text>
+<text id="5020300">Nagolenniki niedźwiedzia rudego, którego imię porwało szaleństwo.
+Wzmocnione żelaznymi nitami.
+
+Zgładziwszy wielkiego niedźwiedzia rudego w krwawym pojedynku, zafascynował się czystością nagiej siły tej bestii.
+
+„Pragnę być niedźwiedziem, ni mniej, ni więcej”.</text>
+<text id="5021000">Hełm niedźwiedzia rudego, którego imię porwało szaleństwo.
+Ochronniki policzków mają kształt lwich pazurów.
+
+Może jego fascynacja nieposkromioną siłą wzięła się z czasów, gdy należał do Lwich Grzyw.</text>
+<text id="5030000">Maska, na której wygrawerowano spokojną, śpiącą twarz.
+
+Srebrne włosy są ułożone tak samo jak włosy św. Triny, zwiększając mistycyzm.
+
+Tylko raz Thiollier zaznał spokojnego, aksamitnego snu. Resztę swoich dni spędził, próbując przeżyć to ponownie.</text>
+<text id="5030100">Ciemny strój tych, którzy potajemnie posługują się truciznami.
+
+Srebrne włosy są ułożone tak samo jak włosy św. Triny, zwiększając mistycyzm.
+
+Dodatkowo, w zewnętrzną powłokę wszyto niezliczone igły, pełniące funkcję talizmanu.</text>
+<text id="5030200">Ciemne rękawice tych, którzy potajemnie posługują się truciznami, za co są wiecznie pogardzani i znienawidzeni.</text>
+<text id="5030300">Ciemne spodnie tych, którzy potajemnie posługują się truciznami, za co są wiecznie pogardzani i znienawidzeni.</text>
+<text id="5031100">Ciemny strój tych, którzy potajemnie posługują się truciznami. 
+
+W zewnętrzną powłokę wszyto niezliczone igły, pełniące funkcję talizmanu.
+</text>
+<text id="5060000">Obrzędowy kapelusz hrabiego Ymira, najwyższego kapłana.
+
+Okrągły kształt nawiązuje do Wyższej Woli i mrocznej otchłani.
+
+Hrabia Ymir nauczył Rellanę sztuk magicznych, lecz przestał służyć księżycowi.
+
+„To było tylko najbliższe ciało niebieskie. I nic więcej”.</text>
+<text id="5060100">Szata hrabiego Ymira, najwyższego kapłana.
+Pod nią coś wije się energicznie.
+
+Jest wykonana z purpurowej tkaniny ze złotymi zdobieniami. Przystrojony klejnotami kołnierz mieni się niczym kwiat pokryty rosą.</text>
+<text id="5060200">Rękawice hrabiego Ymira, najwyższego kapłana.
+Miękkie i dobrze uszyte.</text>
+<text id="5060300">Bielizna hrabiego Ymira, najwyższego kapłana.
+Miękka i dobrze uszyta.</text>
+<text id="5062100">Szata hrabiego Ymira, najwyższego kapłana. Jej przód jest odsłonięty i ukazuje wijące się palce.
+
+Zdradzają one jego największe marzenie, jego pragnienie wylewające się, jakby wyrwało się na wolność. Noszenie jej wzmacnia czary palców.
+
+„Zostanę prawdziwą matką.
+Moje palce przyniosą nam odkupienie!”.</text>
+<text id="5070000">Groteskowa maska wykonana z niezliczonych skamieniałych gąsienic. Przedmiot rytualny nadsłojtysów z wioski Bonny.
+
+Służy do odpędzania nieczystych myśli, wątpliwości, pokus i innych niegodziwości, które mogą kogoś dopaść, gdy bierze udział w boskim rytuale.</text>
+<text id="5070100">Znoszony czarny ubiór obleczony plecionym sznurkiem. Strój szukającego zemsty rogatego przybysza.
+
+Pleciony sznurek łączy ze sobą przysięgę mściciela z żalami ofiary. Nie wolno go nigdy rozwiązać.
+
+Wzmacnia czujne duchy oraz duchy zemsty przyzwane przez rogate dzieci.</text>
+<text id="5070200">Znoszona czarna tkanina związana plecionym sznurkiem. Strój szukającego zemsty rogatego przybysza.</text>
+<text id="5070300">Lekko zabrudzona przepaska biodrowa z wytartego materiału służy właściwie tylko do osłony intymnych części ciała.</text>
+<text id="5080000">Czerwony kaptur tancerek Ranaha.
+
+Wzmacnia ataki taneczne.
+
+Taniec Ranaha płonie namiętnością, a najbardziej oddane tancerki nigdy nie pozwalają, by ich pląsy dobiegły końca. Tańczą nieprzerwanie, tracąc nawet swoje imiona.
+
+Widok niknącej namiętności to widok gasnącego płomienia tancerki.</text>
+<text id="5080100">Jasnoczerwona suknia tancerek Ranaha.
+
+Wzmacnia ataki taneczne.
+
+Taniec Ranaha płonie namiętnością, a najbardziej oddane tancerki nigdy nie pozwalają, by ich pląsy dobiegły końca. Tańczą nieprzerwanie, tracąc nawet swoje imiona.
+
+Widok niknącej namiętności to widok gasnącego płomienia tancerki.</text>
+<text id="5080200">Metalowy karwasz tancerek Ranaha. Stworzony, by chronić rękę władającą mieczem.
+
+Wzmacnia ataki taneczne.</text>
+<text id="5080300">Długie czarne spodnie noszone pod szkarłatną suknią tancerek Ranaha.
+
+Wzmacnia ataki taneczne.</text>
+<text id="5081100">Szkarłatna suknia tancerek Ranaha w zmienionej formie.
+To czarna bielizna noszona pod spodem.
+
+Wzmacnia ataki taneczne.</text>
+<text id="5090000">Hełm czarny jak smoła, chłodny w dotyku.
+Powierzchnię zdobią łagodne linie przypominające kształtem odcisk palca. Więzi użytkownika w nieprzeniknionej ciemności.
+
+Powierzany osobom, które urodziły się głęboko pod ziemią, aby mianować je szermierzami nocy.</text>
+<text id="5090100">Napierśnik czarny jak smoła, chłodny w dotyku.
+Powierzchnię zdobią łagodne linie przypominające kształtem odcisk palca. Więzi użytkownika w nieprzeniknionej ciemności.
+
+Powierzany osobom, które urodziły się głęboko pod ziemią, aby mianować je szermierzami nocy.</text>
+<text id="5090200">Rękawice czarne jak smoła, chłodne w dotyku.
+Powierzchnię zdobią łagodne linie przypominające kształtem odcisk palca. Więżą użytkownika w nieprzeniknionej ciemności.
+
+Powierzane osobom, które urodziły się głęboko pod ziemią, aby mianować je szermierzami nocy.</text>
+<text id="5090300">Nagolenniki czarne jak smoła, chłodne w dotyku.
+Powierzchnię zdobią łagodne linie przypominające kształtem odcisk palca. Więżą użytkownika w nieprzeniknionej ciemności.
+
+Powierzane osobom, które urodziły się głęboko pod ziemią, aby mianować je szermierzami nocy.</text>
+<text id="5100000">Hełm Igona, złamanego smoczego wojownika, stanowiący część zbroi uzbieranej z wielu elementów. Mocno zużyty, ma kształt rogu myśliwskiego.
+
+Nieszczęsny grabieżca pól bitewnych odnalazł honor dzięki smoczej komunii.</text>
+<text id="5100100">Zbroja Igona, złamanego smoczego wojownika, uzbierana z wielu elementów. Do tego mocno zużytego pancerza przymocowano brudne rzeczy osobiste.
+
+Nieszczęsny grabieżca pól bitewnych odnalazł honor dzięki smoczej komunii.</text>
+<text id="5100200">Rękawice Igona, złamanego smoczego wojownika. Zdarte z trupa po zakończeniu bitwy; na kolczudze nadal widać ślady krwi poprzedniego właściciela.</text>
+<text id="5100300">Przepaska biodrowa Igona, złamanego smoczego wojownika. Ten kawałek tkaniny, zdarty z trupa po zakończeniu bitwy, wyjątkowo podle cuchnie.</text>
+<text id="5101000">Hełm Igona, złamanego smoczego wojownika, stanowiący część zbroi uzbieranej z wielu elementów. Połatany kawałkami tkaniny.
+
+Nieszczęsny grabieżca pól bitewnych odnalazł honor dzięki smoczej komunii.</text>
+<text id="5101100">Zbroja Igona, złamanego smoczego wojownika, uzbierana z wielu elementów. Połatana kawałkami tkaniny.
+
+Nieszczęsny grabieżca pól bitewnych odnalazł honor dzięki smoczej komunii.</text>
+<text id="5110000">Żelazna maska pana Ansbacha, dzięki której wygląda jak spokojny, mądry, brodaty starzec.
+
+Jednak za maską wciąż czai się dawny strach oraz zimna, niezachwiana dyscyplina, z jaką posługiwał się swoją klingą. Wzmacnia umiejętnośći przysięgi krwi i dynastii noszącego.
+</text>
+<text id="5110100">Ubiór pana Ansbacha. Wyhaftowany herb rycerzy czystej krwi prawie całkowicie wyblakł.
+
+Nieznacznie wzmacnia umiejętnośći przysięgi krwi i dynastii.
+
+Ansbach wiedział, że dotrzymanie przysięgi złożonej dawnemu mistrzowi nie miało nic wspólnego z logiką, nie służyło sprawiedliwości, ale właśnie z tych powodów nie potrafił zrezygnować.</text>
+<text id="5110200">Owijki pana Ansbacha. Czarna skóra ozdobiona złotym haftem.
+
+Nieznacznie wzmacnia umiejętnośći przysięgi krwi i dynastii.</text>
+<text id="5110300">Buty pana Ansbacha. Czarna skóra ozdobiona złotym haftem.
+
+Nieznacznie wzmacnia umiejętnośći przysięgi krwi i dynastii.</text>
+<text id="5111100">Strój pana Ansbacha. Czarna tkanina ozdobiona złotym haftem.
+
+Nieznacznie wzmacnia umiejętnośći przysięgi krwi i dynastii.</text>
+<text id="5120000">Złoty hełm Freyi, Lwiej Grzywy, która należała do najznaczniejszych rycerzy Radahna.
+
+Niegdyś na środku jej twarzy ziała ohydna szkarłatna rana.
+
+Później, Miquella przyłożył tam usta i nieznikająca blizna stała się kompasem, za którego wskazaniami podążała Freyja.</text>
+<text id="5120100">Złota zbroja Freyi, Lwiej Grzywy, która należała do najznaczniejszych rycerzy Radahna. Przypięto do niej czarny wełniany płaszcz.
+
+W młodości Radahn ujrzał odwagę Freyi w walkach gladiatorów, więc zaprosił ją do grona swoich najbardziej zaufanych żołnierzy.</text>
+<text id="5120200">Złote rękawice Freyi, Lwiej Grzywy, która należała do najznaczniejszych rycerzy Radahna.
+
+W młodości Radahn ujrzał odwagę Freyi w walkach gladiatorów, więc zaprosił ją do grona swoich najbardziej zaufanych żołnierzy.</text>
+<text id="5120300">Nagolenniki Freyi, Lwiej Grzywy, która należała do najznaczniejszych rycerzy Radahna.
+
+W młodości Radahn ujrzał odwagę Freyi w walkach gladiatorów, więc zaprosił ją do grona swoich najbardziej zaufanych żołnierzy.</text>
+<text id="5121100">Złota zbroja Freyi, Lwiej Grzywy, która należała do najznaczniejszych rycerzy Radahna.
+
+W młodości Radahn ujrzał odwagę Freyi w walkach gladiatorów, więc zaprosił ją do grona swoich najbardziej zaufanych żołnierzy.</text>
+<text id="5130000">Stalowy hełm rycerzy Samotnego więzienia. Część ciężkiej zbroi, która zakrywa całe ciało właściciela nachodzącymi na siebie stalowymi płytkami.
+
+Mówi się, że bezimienne mauzolea w Królestwie Cieni przetrzymują duchy wojowników, którzy stracili swe imiona bądź serca.</text>
+<text id="5130100">Stalowa zbroja rycerzy Samotnego więzienia. Część ciężkiej zbroi, która zakrywa całe ciało właściciela nachodzącymi na siebie stalowymi płytkami. Udekorowany czarnym płaszczem.
+
+Mówi się, że bezimienne mauzolea w Królestwie Cieni przetrzymują duchy wojowników, którzy stracili swe imiona bądź serca.</text>
+<text id="5130200">Stalowe rękawice rycerzy Samotnego więzienia. Część ciężkiej zbroi, która zakrywa całe ciało właściciela nachodzącymi na siebie stalowymi płytkami.
+
+Mówi się, że bezimienne mauzolea w Królestwie Cieni przetrzymują duchy wojowników, którzy stracili swe imiona bądź serca.</text>
+<text id="5130300">Stalowe nagolenniki rycerzy Samotnego więzienia. Część ciężkiej zbroi, która zakrywa całe ciało właściciela nachodzącymi na siebie stalowymi płytkami.
+
+Mówi się, że bezimienne mauzolea w Królestwie Cieni przetrzymują duchy wojowników, którzy stracili swe imiona bądź serca.</text>
+<text id="5131100">Stalowa zbroja rycerzy Samotnego Więzienia.
+Część ciężkiej zbroi, która zakrywa całe ciało właściciela nachodzącymi na siebie stalowymi płytkami.
+
+Mówi się, że bezimienne mauzolea w Królestwie Cieni przechowują duchy wojowników, którzy stracili swoje imiona lub serca.</text>
+<text id="5140000">Hełm noszony przez żołnierzy służących Messmerowi Palownikowi. Wyposażono go w wizjer.
+
+Grawerunek na czole to wzór z Ostrodrzewa wytrawiony złotem. To niewielkie pocieszenie dla tych, którzy muszą toczyć wojnę bez łaski i honoru.</text>
+<text id="5140100">Zbroja noszona przez żołnierzy służących Messmerowi Palownikowi. Znoszony płaszcz narzucony na zardzewiałą kolczugę.
+
+Grawerunek na napierśniku to motyw Ostrodrzewa wytrawiony złotem. To niewielkie pocieszenie dla tych, którzy muszą toczyć wojnę bez łaski i honoru.</text>
+<text id="5140200">Rękawice noszone przez żołnierzy służących Messmerowi Palownikowi. W czasie niekończącej się wojny pokryły je rdza i brud.</text>
+<text id="5140300">Nagolenniki noszone przez żołnierzy służących Messmerowi Palownikowi. W czasie niekończącej się wojny pokryły je rdza i brud.</text>
+<text id="5141100">Zbroja noszona przez żołnierzy służących Messmerowi Palownikowi. Kolczuga zardzewiała podczas niekończącej się wojny.
+
+Grawerunek na napierśniku to motyw Ostrodrzewa wytrawiony złotem. To niewielkie pocieszenie dla tych, którzy muszą toczyć wojnę bez łaski i honoru.</text>
+<text id="5150000">Hełm noszony przez Czarnych Rycerzy służących Messmerowi Palownikowi. Czarne żelazo zdobione złotem. Unosi się z niego smród zgnilizny.
+
+Może smród pochodzi ze skażonej krwi, która zbryzgała hełm. A może to odór zgniłej duszy właściciela, żerującej na niekończącej się rzezi.</text>
+<text id="5150100">Zbroja noszona przez Czarnych Rycerzy służących Messmerowi Palownikowi.
+
+Grawerunek nad sercem to wzór Ostrodrzewa wytrawiony złotem. To niewielkie pocieszenie dla tych, którzy muszą toczyć wojnę bez łaski i honoru.</text>
+<text id="5150200">Rękawice noszone przez Czarnych Rycerzy służących Messmerowi Palownikowi. Czarne żelazo zdobione złotem. Unosi się z nich smród zgnilizny.
+
+Może smród pochodzi ze skażonej krwi, która zbryzgała rękawice. A może to odór zgniłej duszy właściciela, żerującej na niekończącej się rzezi.</text>
+<text id="5150300">Nagolenniki noszone przez Czarnych Rycerzy służących Messmerowi Palownikowi. Czarne żelazo zdobione złotem. Unosi się z nich smród zgnilizny.
+
+Może smród pochodzi ze skażonej krwi, która zbryzgała rękawice. A może to odór zgniłej duszy właściciela, żerującej na niekończącej się rzezi.</text>
+<text id="5160000">Hełm Rakshasy, skąpany we krwi jej ofiar. Wystaje spod niego postrzępiona tkanina, niczym rżądza rzezi próbująca się uwolnić z właściciela.
+
+Zwiększa obrażenia zadawane przeciwnikom, ale znacząco zwiększa otrzymywane obrażenia.
+
+Tnij ludzi. Pożeraj ich. Ci, którzy niestrudzenie powtarzają ten cykl, mogą wyrzec się siebie i stać się Rakshasą.</text>
+<text id="5160100">Zbroja Rakshasy, skąpana we krwi jej ofiar. Wystaje spod niej postrzępiona tkanina, niczym rżądza rzezi próbująca się uwolnić z właściciela.
+
+Zwiększa obrażenia zadawane przeciwnikom, ale znacząco zwiększa otrzymywane obrażenia.
+
+Tnij ludzi. Pożeraj ich. Ci, którzy niestrudzenie powtarzają ten cykl, mogą wyrzec się siebie i stać się Rakshasą.</text>
+<text id="5160200">Rękawice Rakshasy, skąpane we krwi jej ofiar. Wystaje spod nich postrzępiona tkanina, niczym rżądza rzezi próbująca się uwolnić z właściciela.
+
+Zwiększa obrażenia zadawane przeciwnikom, ale znacząco zwiększa otrzymywane obrażenia.
+
+Tnij ludzi. Pożeraj ich. Ci, którzy niestrudzenie powtarzają ten cykl, mogą wyrzec się siebie i stać się Rakshasą.</text>
+<text id="5160300">Nagolenniki Rakshasy, skąpane we krwi jej ofiar. Wystaje spod nich postrzępiona tkanina, niczym rżądza rzezi próbująca się uwolnić z właściciela.
+
+Zwiększa obrażenia zadawane przeciwnikom, ale znacząco zwiększa otrzymywane obrażenia.
+
+Tnij ludzi. Pożeraj ich. Ci, którzy niestrudzenie powtarzają ten cykl, mogą wyrzec się siebie i stać się Rakshasą.</text>
+<text id="5180000">Szpiczasty hełm rycerzy ognia służących pod rozkazami Messmera Palownika.
+
+Nieznacznie zwiększa maksymalną liczbę PŻ, energię i i udźwig.
+
+Każdy z tych rycerzy pochodził ze znanego rodu z wyższych sfer Złotego Drzewa, ale zostali wzgardzeni i wygnani z domów po tym, jak przysięgli wierność Messmerowi.</text>
+<text id="5180100">Zbroja rycerzy ognia służących pod rozkazami Messmera Palownika.
+
+Wyróżnia się czerwonym płaszczem i dwoma złotymi wężami zdobiącymi szyję, wzmacniającymi inkantacje płomienia Messmera.
+
+Tylko oni naprawdę znali Messmera. Jego płomienie były jak węże. Bolesny los towarzyszył jego przeklętej postaci.</text>
+<text id="5180200">Rękawice rycerzy ognia służących pod rozkazami Messmera Palownika.
+
+Każdy z tych rycerzy pochodził ze znanego rodu z wyższych sfer Złotego Drzewa, ale zostali wzgardzeni i wygnani z domów po tym, jak przysięgli wierność Messmerowi.</text>
+<text id="5180300">Nagolenniki rycerzy ognia służących pod rozkazami Messmera Palownika.
+
+Każdy z tych rycerzy pochodził ze znanego rodu z wyższych sfer Złotego Drzewa, ale zostali wzgardzeni i wygnani z domów po tym, jak przysięgli wierność Messmerowi.</text>
+<text id="5181100">Zbroja rycerzy ognia służących pod rozkazami Messmera Palownika.
+
+Każdy z tych rycerzy pochodził ze znanego rodu z wyższych sfer Złotego Drzewa, ale zostali wzgardzeni i wygnani z domów po tym, jak przysięgli wierność Messmerowi.</text>
+<text id="5182000">Hełm Wega, starszego pośród rycerzy ognia. Dwie nałożone na siebie wykrzywione maski śmierci.
+
+Zmniejsza zużycie PS przy przyzywaniu duchów.
+
+Dręczony samotnością starzec zainteresował się boskimi właściwościami płomienia Messmera i użył go w rytuale wskrzeszenia.
+
+Niestety, pozbawione dusz ciała, które ożywiał, nie przynosiły starszemu żadnej pociechy.</text>
+<text id="5183000">Hełm Kooda, kapitana rycerzy ognia. Zwieńczony skrzydlatym wężem.
+
+Wzmacnia umiejętności rycerzy ognia.
+
+Skrzydlaty wąż jest symbolem wojsk Messmera. To mądry przyjaciel, który odstrasza złośliwe węże i ogranicza ich moc.</text>
+<text id="5184000">Kaptur Salzy, mędrca rycerzy ognia. 
+Owija go duża ilość materiału, co sprawia, że właściciel wygląda, jakby napuchła mu głowa.
+
+Uczeń starszego Wega, który odmówił spalenia starych ruin, narażając tym własne życie.
+</text>
+<text id="5190000">Obręcz noszona przez wyżynnych wojowników, zrobiona z plecionej skóry. Białe zdobienia symbolizują ich rodzinną osadę.
+
+Wyżynni wojownicy są znani z polowań na niedźwiedzie. Nie ma dla nich bardziej chwalebnego czynu niż ujarzmienie dzikiej bestii.</text>
+<text id="5190100">Tradycyjne odzienie wyżynnych wojowników, zrobione z plecionej tkaniny i wykończone futrem. Odzienie składa się z niebieskich i czerwonych wzorzystych tkanin.
+
+Czerwone wzorzyste tkaniny dostępne były tylko dla tych, którzy polowali na niedźwiedzie, dla najdzielniejszych i najznakomitszych wyżynnych wojowników.</text>
+<text id="5190200">Noszone przez wyżynnych wojowników owijki, zrobione z wytrzymałej skóry i mocowane na paski.
+
+Wyżynni wojownicy są znani z polowań na niedźwiedzie. Nie ma dla nich bardziej chwalebnego czynu niż ujarzmienie dzikiej bestii.</text>
+<text id="5190300">Noszone przez wyżynnych wojowników owijacze, zrobione z wytrzymałej skóry i mocowane na paski. Dodatki z futra mają zapewniać ciału ciepło.
+
+Wyżynni wojownicy są znani z polowań na niedźwiedzie. Nie ma dla nich bardziej chwalebnego czynu niż ujarzmienie dzikiej bestii.</text>
+<text id="5191000">Hełm noszony przez wyżynnych wojowników, którego części połączono skórą. Białe zdobienia symbolizują rodzinną osadę.
+
+Wyżynni wojownicy są znani z polowań na niedźwiedzie. Nie ma dla nich bardziej chwalebnego czynu niż ujarzmienie dzikiej bestii.</text>
+<text id="5191100">Tradycyjne odzienie wyżynnych wojowników, zrobione z plecionej tkaniny i wykończone niebieskim wzorzystym materiałem.
+
+Wyżynni wojownicy są znani z polowań na niedźwiedzie. Nie ma dla nich bardziej chwalebnego czynu niż ujarzmienie dzikiej bestii.</text>
+<text id="5200000">Złoty hełm rycerzy śmierci, których maski własnej śmierci służyły jako przyłbice.
+
+Wzmacnia umiejętności i inkantacje starożytnego kultu smoków w stolicy.
+
+Ornament przedstawiający rozpadające się złote koło symbolizuje ich niezłomną lojalność wobec Godwyna, tego, który stał się Księciem Śmierci.</text>
+<text id="5200100">Złota zbroja rycerzy śmierci, ozdobiona starodawnym wizerunkiem Złotego Drzewa.
+
+Wzmacnia umiejętności i inkantacje starożytnego kultu smoków w stolicy.
+
+Rycerze ci, stanowiący niegdyś osobistą gwardię Godwyna, poszukiwali trupiej postaci swojego przemienionego mistrza na nadchodzącą erę narodzin świtu.</text>
+<text id="5200200">Złote rękawice rycerzy śmierci, ozdobione starodawnym wizerunkiem Złotego Drzewa.
+
+Wzmacnia umiejętności i inkantacje starożytnego kultu smoków w stolicy.
+
+Rycerze ci, stanowiący niegdyś osobistą gwardię Godwyna, poszukiwali trupiej postaci swojego przemienionego mistrza na nadchodzącą erę narodzin świtu.</text>
+<text id="5200300">Złote nagolenniki rycerzy śmierci, ozdobione starodawnym wizerunkiem Złotego Drzewa.
+
+Wzmacnia umiejętności i inkantacje starożytnego kultu smoków w stolicy.
+
+Rycerze ci, stanowiący niegdyś osobistą gwardię Godwyna, poszukiwali trupiej postaci swojego przemienionego mistrza na nadchodzącą erę narodzin świtu.</text>
+<text id="5210000">Maska z koroną ze splątanych rogów, noszona przez tych, którzy chcą przywołać boskość.
+
+Boska inwokacja zwiększa zręczność noszącego, ale powoduje, że błogosławieństwo Złotego Drzewa wywołuje mdłości, i zmniejsza lecznicze efekty butelki świętych łez.
+
+Noszenie tej maski zakłóca także skupienie.</text>
+<text id="5210100">Strój ascetów z wieży, uosabiający ich poświęcenie na rzecz surowej egzystencji i ścisłej samokontroli.
+
+Aby wznieść się ponad swoje śmiertelne ciało i zostać bóstwami opiekuńczymi ziemi, wzmacniają swą duchowość poprzez surowy trening ascetyczny.</text>
+<text id="5210200">Ochraniacze na nadgarstki ascetów z wieży, które uosabiają ich poświęcenie na rzecz surowej egzystencji i ścisłej samokontroli.
+
+Aby wznieść się ponad swoje śmiertelne ciało i zostać bóstwami opiekuńczymi ziemi, wzmacniają swą duchowość poprzez surowy trening ascetyczny.</text>
+<text id="5210300">Ochraniacze na kostki ascetów z wieży, które uosabiają ich poświęcenie na rzecz surowej egzystencji i ścisłej samokontroli.
+
+Aby wznieść się ponad swoje śmiertelne ciało i zostać bóstwami opiekuńczymi ziemi, wzmacniają swą duchowość poprzez surowy trening ascetyczny.</text>
+<text id="5220000">Czarny hełm Messmera Palownika, zwieńczony dwoma splecionymi skrzydlatymi wężami.
+Nieznacznie wzmacnia zaklęcia płomienia Messmera oraz umiejętności rycerzy ognia.
+
+Skrzydlate węże były stałymi towarzyszami Messmera.
+
+Były przy nim, gdy za jego okiem zapieczętowano złośliwego węża. Były przez całą wieczność jego cierpienia. Teraz też będą mu towarzyszyć, mimo jego ohydnej formy, która narodziła się, gdy zniweczył łaskę udzieloną mu przez matkę. Węże zaakceptowały jego los tak jak on sam.</text>
+<text id="5220100">Czarna zbroja Messmera Palownika.
+Pokryta czerwonym płaszczem z wyhaftowanym herbem.
+
+Zgodnie z życzeniem matki Messmer stał się symbolem strachu i podjął oczyszczającą krucjatę, której ta pragnęła.
+
+„Skieruj swe złorzeczenia, gniew swój i żal tylko na mnie”.</text>
+<text id="5220200">Czarne rękawice Messmera Palownika.
+
+Zgodnie z życzeniem matki Messmer stał się symbolem strachu i podjął oczyszczającą krucjatę, której ta pragnęła.
+
+„Skieruj swe złorzeczenia, gniew swój i żal tylko na mnie”.</text>
+<text id="5220300">Czarne nagolenniki Messmera Palownika.
+
+Zgodnie z życzeniem matki Messmer stał się symbolem strachu i podjął oczyszczającą krucjatę, której ta pragnęła.
+
+„Skieruj swe złorzeczenia, gniew swój i żal tylko na mnie”.</text>
+<text id="5221000">Czarny hełm Messmera Palownika, zwieńczony dwoma splecionymi skrzydlatymi wężami.
+
+Skrzydlate węże były stałymi towarzyszami Messmera.
+
+Były przy nim, gdy za jego okiem zapieczętowano złośliwego węża. Były przez całą wieczność jego cierpienia. Teraz też będą mu towarzyszyć, mimo jego ohydnej formy, która narodziła się, gdy zniweczył łaskę udzieloną mu przez matkę. Węże zaakceptowały jego los tak jak on sam.</text>
+<text id="5230000">Kamienny hełm z domieszką zielieni. Część pancerza odlanego na podobieństwo cmentarnego ptaka.
+Wzmacnia zaklęcia, które przywołują pierścienie widmowego światła.
+
+Cmentarne ptaki to starożytne golemy, stworzone do strzeżenia duchowych grobów postawionych tam, gdzie ostatecznie zmierzają wszystkie rodzaje Śmierci.</text>
+<text id="5230100">Kamienna zbroja z domieszką zielieni. Część pancerza odlanego na podobieństwo cmentarnego ptaka.
+Posiada pelerynę z czarnych piór ptaka śmierci, która wzmacnia ataki z wyskoku.
+
+Cmentarne ptaki to starożytne golemy, stworzone do strzeżenia duchowych grobów postawionych tam, gdzie ostatecznie zmierzają wszystkie rodzaje Śmierci.</text>
+<text id="5230200">Kamienne bransolety w odcieniach zieleni. Część pancerza odlana na podobieństwo cmentarnego ptaka.
+
+Cmentarne ptaki to starożytne golemy, stworzone do strzeżenia duchowych grobów postawionych tam, gdzie ostatecznie zmierzają wszystkie rodzaje Śmierci.</text>
+<text id="5230300">Kamienne bransolety na kostkę w odcieniach zieleni. Część pancerza odlana na podobieństwo cmentarnego ptaka.
+
+Cmentarne ptaki to starożytne golemy, stworzone do strzeżenia duchowych grobów postawionych tam, gdzie ostatecznie zmierzają wszystkie rodzaje Śmierci.</text>
+<text id="5231100">Kamienna zbroja w odcieniach zieleni. Część pancerza odlana na podobieństwo cmentarnego ptaka.
+
+Cmentarne ptaki to starożytne golemy, stworzone do strzeżenia duchowych grobów postawionych tam, gdzie ostatecznie zmierzają wszystkie rodzaje Śmierci.</text>
+<text id="5240000">Hełm szeregowych żołnierzy Messmera.
+
+Przylgnęła do niego ciemna sadza, podobnie jak do wnętrza twarzy ludzi, którzy takie hełmy nosili.</text>
+<text id="5240100">Wyściełana zbroja szeregowych żołnierzy Messmera.
+
+Przylgnęła do niej ciemna sadza, podobnie jak do wnętrza ludzi, którzy takie zbroje nosili.</text>
+<text id="5240200">Rękawice szeregowych żołnierzy Messmera.
+
+Przylgnęła do nich ciemna sadza, podobnie jak do wnętrza ludzi, którzy takie rękawice nosili.</text>
+<text id="5240300">Nagolenniki szeregowych żołnierzy Messmera.
+
+Przylgnęła do nich ciemna sadza, podobnie jak do wnętrza ludzi, którzy takie nagolenniki nosili.</text>
+<text id="5250000">Hełm z koroną z masywnych, splątanych rogów. Pozwala noszącemu przywołać boskość. Strój rogatych wojowników, strażników wieży.
+
+Boska inwokacja wspomaga siłę noszącego, ale powoduje, że błogosławieństwo Złotego Drzewa wywołuje mdłości, osłabiając lecznicze efekty butelki świętych łez.
+
+Noszenie tego hełmu zakłóca także skupienie.</text>
+<text id="5250100">Zbroja rogatych wojowników, strażników wieży.
+
+Klatkę piersiową pokrywa tkanina w kolorze ochry; ma przypominać postać nagiego bohatera z dawnych czasów.</text>
+<text id="5250200">Rękawice rogatych wojowników, strażników wieży. Wykonane z grubego metalu.</text>
+<text id="5250300">Nagolenniki rogatych wojowników, strażników wieży. Ich kształt ma przypominać postać nagiego bohatera z dawnych czasów.</text>
+<text id="5252000">Hełm ze splątanych rogów przymocowany do maski boskiej bestii. Pozwala noszącemu przywołać boskość. Noszony przez wojowników boskich bestii, wybrańców rogatych wojowników.
+
+Boska inwokacja zwiększa moc burz noszącego, a także jego siłę i zręczność, jednak zmniejsza lecznicze efekty butelki świętych łez.
+
+Noszenie tego hełmu zakłóca także skupienie.</text>
+<text id="5252100">Zbroja czczonych rogatych wojowników wybranych na wojowników boskiej bestii, ozdobiona lwim futrem.
+
+Spośród wojowników boskiej bestii tylko wybitni znawcy boskiej inwokacji stają się rzeźbionymi strażnikami i dostępują zaszczytu lwiego tańca.</text>
+<text id="5253000">Hełm ze splątanych rogów przymocowany do maski boskiego ptaka. Pozwala noszącemu przywołać boskość. Noszony przez wojowników boskiego ptaka, pierwszych ze wszystkich rogatych wojowników.
+
+Boska inwokacja zwiększa siłę piór boskiego ptaka, a także siłę i zręczność noszącego, jednak zmniejsza lecznicze efekty butelki świętych łez.
+
+Noszenie tego hełmu zakłóca także skupienie.</text>
+<text id="5253100">Zbroja wojowników boskiego ptaka, pierwszych ze wszystkich rogatych wojowników; wykonana ze złotego metalu.
+
+Boskie ptaki o złotym ubarwieniu znane są z okrucieństwa i nie lubią towarzystwa ludzi. Niewielu przywoływało ich boskość.</text>
+<text id="5253200">Rękawice wojowników boskiego ptaka, pierwszych ze wszystkich rogatych wojowników; wykonane ze złotego metalu.
+
+Boskie ptaki o złotym ubarwieniu znane są z okrucieństwa i nie lubią towarzystwa ludzi. Niewielu przywoływało ich boskość.</text>
+<text id="5253300">Nagolenniki wojowników boskiego ptaka, pierwszych ze wszystkich rogatych wojowników; wykonane ze złotego metalu.
+
+Wielkie, ostre szpony zwiększają siłę generowaną przez kopnięcia.</text>
+<text id="5260000">Ozdobny hełm Rellany, rycerza Bliźniaczych Księżyców, wykonany ze srebrnego metalu.
+
+Rennala, głowa karyjskiej rodziny królewskiej, podobno podarowała swojej młodszej siostrze, która wyrzekła się swego rodu, by ścigać Messmera, prezent w postaci lśniących czarnych włosów.</text>
+<text id="5260100">Ozdobna zbroja Rellany, rycerza Bliźniaczych Księżyców, wykonana ze srebrnego metalu.
+
+Ozdobiona lazurytowym błękitem uznawanym za symbol Karii. Blask zbroi jeszcze w pełni nie wyblakł.</text>
+<text id="5260200">Rękawice Rellany, rycerza Bliźniaczych Księżyców, wykonane ze skóry wysokiej jakości.</text>
+<text id="5260300">Ozdobne nagolenniki Rellany, rycerza Bliźniaczych Księżyców, wykonane ze srebrnej stali.</text>
+<text id="5270000">Złoty hełm noszony przez Radahna w latach młodości. Dumnie prezentuje heroiczną rudą grzywę i stanowi odpowiedni strój dla lwa.
+
+Gdy Malenia, Ostrze Miquelli, pozwoliła zakwitnąć kwiatom zgnilizny w Aeonii, Radahn usłyszał w uszach szept:
+
+„Miquella czeka na ciebie, obiecany małżonku”.</text>
+<text id="5270100">Złota zbroja noszona przez Radahna w latach młodości. Dumnie ozdobiona heroicznymi rudymi akcentami, stanowi odpowiedni strój dla lwa.
+
+Gdy Malenia, Ostrze Miquelli, pozwoliła zakwitnąć kwiatom zgnilizny w Aeonii, Radahn usłyszał w uszach szept:
+
+„Miquella czeka na ciebie, obiecany małżonku”.</text>
+<text id="5270200">Złote rękawice noszone przez Radahna w latach młodości.
+
+Gdy Malenia, Ostrze Miquelli, pozwoliła zakwitnąć kwiatom zgnilizny w Aeonii, Radahn usłyszał w uszach szept:
+
+„Miquella czeka na ciebie, obiecany małżonku”.</text>
+<text id="5270300">Złote nagolenniki noszone przez Radahna w latach młodości. Część stroju zaciekłego lwa.
+
+Gdy Malenia, Ostrze Miquelli, pozwoliła zakwitnąć kwiatom zgnilizny w Aeonii, Radahn usłyszał w uszach szept:
+
+„Miquella czeka na ciebie, obiecany małżonku”.</text>
+<text id="5271100">Złota zbroja noszona przez Radahna w latach młodości. Część stroju zaciekłego lwa.
+
+Gdy Malenia, Ostrze Miquelli, pozwoliła zakwitnąć kwiatom zgnilizny w Aeonii, Radahn usłyszał w uszach szept:
+
+„Miquella czeka na ciebie, obiecany małżonku”.</text>
+<text id="5272000">Diadem światła, który zdobił głowę Miquelli, gdy ten powrócił w boskim aspekcie. Ozdoba zaczęła gasnąć i przeradzać się w nicość.
+
+Nieznacznie wzmacnia inteligencję, wiarę i mistycyzm, jednocześnie zwiększając moc światła Miquelli.
+
+Zatoczony krąg to fundament, na którym miał stanąć wiek współczucia Miquelli, gdyby kiedykolwiek nadszedł.</text>
+<text id="5280000">Ciemny jak cień hełm noszony przez pospolitaków.
+
+Świeżo spalone pobojowisko roztaczające smród śmierci. Zakazane krainy, które nie trafią na karty historii. Czy dla takiej armii jest lepsze miejsce niż Królestwo Cieni?</text>
+<text id="5280100">Ciemny jak cień pancerz noszony przez pospolitaków.
+
+Świeżo spalone pobojowisko roztaczające smród śmierci. Zakazane krainy, które nie trafią na karty historii. Czy dla takiej armii jest lepsze miejsce niż Królestwo Cieni?</text>
+<text id="5280200">Ciemne jak cień rękawice noszone przez pospolitaków.
+
+Świeżo spalone pobojowisko roztaczające smród śmierci. Zakazane krainy, które nie trafią na karty historii. Czy dla takiej armii jest lepsze miejsce niż Królestwo Cieni?</text>
+<text id="5280300">Ciemne jak cień nagolenniki noszone przez pospolitaków.
+
+Świeżo spalone pobojowisko roztaczające smród śmierci. Zakazane krainy, które nie trafią na karty historii. Czy dla takiej armii jest lepsze miejsce niż Królestwo Cieni?</text>
+<text id="5290000">Rytualne nakrycie głowy w postaci głowy boskiej bestii, używane podczas lwiego tańca. Noszona przez najlepszych z rzeźbionych strażników, którzy jednak nie odpowiadają już na żarliwe modlitwy staruszki.
+
+Boska inwokacja zwiększa moc burz, a także siłę i zręczność, jednak zmniejsza lecznicze efekty butelki świętych łez.
+
+Noszenie tego nakrycia głowy zakłóca także skupienie.</text>
+<text id="5300000">Życie św. Triny zwiędło, ulotne jak pory roku. Pozostawiła po sobie samotną lilię wodną.
+
+Nieznacznie zwiększa maksymalne PS.
+
+Pomimo głęboko purpurowego odcienia kwiat nie jest w żaden sposób trujący. Po prostu kwitnie w ciszy.</text>
+<text id="5310000">Hełm noszony przez Devonię, rycerza Tygla z najdłuższym stażem.
+
+Drzemie w nim potęga Tygla Życia, pierwotnej formy Złotego Drzewa. Wzmacnia aspekty inkantacji Tygla.
+
+Mówi się, że Devonia wyruszyła na poszukiwanie początków Tygla i samotnie opuściła ziemie Złotego Drzewa.</text>
+<text id="5320000">Wielki słój, który po odwróceniu wygodnie układa się na głowie. Strój szamanów odprawiających swoje nabożeństwa w więzieniach.
+
+Zwiększa moc rzucanych garnków we wszystkich rozmiarach.
+
+Oddają swoje modlitwy do trzewi wielkich słojów, aby pewnego dnia mogli odrodzić się w świętości. To jest cykl śmierci i odrodzenia, ujęty w dłonie śmiertelników.</text>
+<text id="5330000">Nakrycie głowy wykonane z prawie niezmienionej głowy figlarnego golema.
+
+Przypomina lwa. Lekko przylgnęła do niego życiowa siła.</text>
+</entries>
+</fmg>

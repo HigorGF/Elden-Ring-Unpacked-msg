@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="80">在賜福消耗幽影樹碎片，能加強「幽影樹庇佑」。
+
+接受「幽影樹庇佑」能強化自身的攻擊力與減傷率，
+但有效範圍僅限於幽影之地。</text>
+<text id="81">在賜福消耗靈灰，能加強「靈灰庇佑」。
+
+接受「靈灰庇佑」能強化受召喚靈魂與靈馬的攻擊力與減傷率，
+但有效範圍僅限於幽影之地。</text>
+<text id="205">初次獲得的道具，能以&lt;?newItemIcon?&gt;標示。
+
+從系統選單的顯示設定，能選擇是否顯示此標示。</text>
+<text id="206">最近獲得的道具，能從專用的標籤進行確認。
+
+從系統選單的顯示設定，能選擇是否顯示此標籤。</text>
+<text id="207">目前已可使用的記號聚集處，
+進入下一次的世界時，也能維持啟用狀態。
+
+從地圖功能選單的記號聚集處一覽，能個別設定為啟用或不啟用。</text>
+</entries>
+</fmg>

@@ -1,0 +1,541 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="2220">Talizman przedstawiający kilka butelek perfum.
+Zwiększa moc sztuk korzystających z perfum.
+
+Pewne ogrody są znane tylko perfumiarzom. Niektóre kryją się na skraju gór lub w ciemnych jaskiniach. Kwiaty rosną tam potajemnie i czekają na możliwość ofiarowania swego zapachu.</text>
+<text id="7000">Medalion z wprawionym bursztynem szkarłatnym.
+Niebywale zwiększa maksymalną liczbę PŻ.
+
+Żywica ze Złotego Drzewa zamienia się w bursztyn, wyjątkowo ceniony klejnot z ery Godfreya, pierwszego Eldeńskiego Władcy.
+
+Te medaliony występują w najróżniejszych odmianach. Otrzymywali je złoci rycerze należący do najbardziej zaufanego kręgu Godwyna. </text>
+<text id="7001">%null%</text>
+<text id="7002">%null%</text>
+<text id="7003">%null%</text>
+<text id="7004">%null%</text>
+<text id="7005">%null%</text>
+<text id="7006">%null%</text>
+<text id="7007">%null%</text>
+<text id="7008">%null%</text>
+<text id="7009">%null%</text>
+<text id="7010">Medalion z wprawionym bursztynem modrym.
+Niebywale zwiększa maksymalną liczbę PS.
+
+Żywica ze Złotego Drzewa zamienia się w bursztyn, wyjątkowo ceniony klejnot z ery Godfreya, pierwszego Eldeńskiego Władcy.
+
+Te medaliony występują w najróżniejszych odmianach. Otrzymywali je złoci rycerze należący do najbardziej zaufanego kręgu Godwyna.</text>
+<text id="7011">%null%</text>
+<text id="7012">%null%</text>
+<text id="7013">%null%</text>
+<text id="7014">%null%</text>
+<text id="7015">%null%</text>
+<text id="7016">%null%</text>
+<text id="7017">%null%</text>
+<text id="7018">%null%</text>
+<text id="7019">%null%</text>
+<text id="7020">Medalion z wprawionym bursztynem malachitowym.
+Niebywale zwiększa maksymalną energię.
+
+Żywica ze Złotego Drzewa zamienia się w bursztyn, wyjątkowo ceniony klejnot z ery Godfreya, pierwszego Eldeńskiego Władcy.
+
+Te medaliony występują w najróżniejszych odmianach. Otrzymywali je złoci rycerze należący do najbardziej zaufanego kręgu Godwyna. </text>
+<text id="7021">%null%</text>
+<text id="7022">%null%</text>
+<text id="7023">%null%</text>
+<text id="7024">%null%</text>
+<text id="7025">%null%</text>
+<text id="7026">%null%</text>
+<text id="7027">%null%</text>
+<text id="7028">%null%</text>
+<text id="7029">%null%</text>
+<text id="7030">Talizman w kształcie zielonego dwugłowego żółwia.
+Znacząco zwiększa szybkość odzyskiwania energii.
+
+Żółwie znane są jako pożywny składnik, symbolizujący niewyczerpaną siłę.
+
+Dwugłowe żółwie są niezwykle lubiane na ziemiach Wieży, a to ze względu na spiralny kształt ich splecionych szyj.</text>
+<text id="7031">%null%</text>
+<text id="7032">%null%</text>
+<text id="7033">%null%</text>
+<text id="7034">%null%</text>
+<text id="7035">%null%</text>
+<text id="7036">%null%</text>
+<text id="7037">%null%</text>
+<text id="7038">%null%</text>
+<text id="7039">%null%</text>
+<text id="7040">Przedmiot ceremonialny noszony przez rogatego przybysza.
+Niezmiernie zwiększa krzepę.
+(Od krzepy zależy odporność na krwawienie i mróz).
+
+Rogi to dla rogatych przybyszów wyjątkowe artefakty, a ich obecność potwierdza przekonanie, że przybysze są ludem wybranym.
+
+Tylko wielokrotne wyrastanie nowych rogów prowadzi do powstania splecionego rogu, który jest uważany za niezbity symbol dominacji.</text>
+<text id="7041">%null%</text>
+<text id="7042">%null%</text>
+<text id="7043">%null%</text>
+<text id="7044">%null%</text>
+<text id="7045">%null%</text>
+<text id="7046">%null%</text>
+<text id="7047">%null%</text>
+<text id="7048">%null%</text>
+<text id="7049">%null%</text>
+<text id="7050">Przedmiot ceremonialny noszony przez rogatego przybysza.
+Niezmiernie zwiększa niewrażliwość.
+(Od niewrażliwości zależy odporność na trucizny i zgniliznę).
+
+Rogi to dla rogatych przybyszów wyjątkowe artefakty, a ich obecność potwierdza przekonanie, że przybysze są ludem wybranym.
+
+Tylko wielokrotne wyrastanie nowych rogów prowadzi do powstania splecionego rogu, który jest uważany za niezbity symbol dominacji.</text>
+<text id="7051">%null%</text>
+<text id="7052">%null%</text>
+<text id="7053">%null%</text>
+<text id="7054">%null%</text>
+<text id="7055">%null%</text>
+<text id="7056">%null%</text>
+<text id="7057">%null%</text>
+<text id="7058">%null%</text>
+<text id="7059">%null%</text>
+<text id="7060">Przedmiot ceremonialny noszony przez rogatego przybysza.
+Niezmiernie zwiększa skupienie.
+(Od skupienia zależy odporność na sen i szaleństwo).
+
+Rogi to dla rogatych przybyszów wyjątkowe artefakty, a ich obecność potwierdza przekonanie, że przybysze są ludem wybranym.
+
+Tylko wielokrotne wyrastanie nowych rogów prowadzi do powstania splecionego rogu, który jest uważany za niezbity symbol dominacji.</text>
+<text id="7080">Przedmiot ceremonialny o wyrazistych kolorach noszony przez rogatego przybysza.
+Niezmiernie zwiększa niewrażliwość, krzepę i skupienie.
+
+Rogi to dla rogatych przybyszów wyjątkowe artefakty, a ich obecność potwierdza przekonanie, że przybysze są ludem wybranym.
+
+Tylko wielokrotne wyrastanie nowych rogów prowadzi do powstania splecionego rogu, który jest uważany za niezbity symbol dominacji.</text>
+<text id="7081">%null%</text>
+<text id="7082">%null%</text>
+<text id="7083">%null%</text>
+<text id="7084">%null%</text>
+<text id="7085">%null%</text>
+<text id="7086">%null%</text>
+<text id="7087">%null%</text>
+<text id="7088">%null%</text>
+<text id="7089">%null%</text>
+<text id="7090">Talizman przedstawiający dużego, niebieskiego starożytnego smoka.
+Niebywale zwiększa negację obrażeń magicznych.
+
+Starożytne smoki, które rządziły w pradawnych czasach poprzedzających Złote Drzewo, chroniłyby swojego władcę niczym żywy kamienny mur.
+Tym samym kształt smoka stał się symbolem wszelkiego rodzaju ochrony.</text>
+<text id="7091">%null%</text>
+<text id="7092">%null%</text>
+<text id="7093">%null%</text>
+<text id="7094">%null%</text>
+<text id="7095">%null%</text>
+<text id="7096">%null%</text>
+<text id="7097">%null%</text>
+<text id="7098">%null%</text>
+<text id="7099">%null%</text>
+<text id="7100">Talizman przedstawiający dużego, czerwonego starożytnego smoka.
+Niebywale zwiększa negację obrażeń ognistych.
+
+Starożytne smoki, które rządziły w pradawnych czasach poprzedzających Złote Drzewo, chroniłyby swojego władcę niczym żywy kamienny mur.
+Tym samym kształt smoka stał się symbolem wszelkiego rodzaju ochrony.</text>
+<text id="7101">%null%</text>
+<text id="7102">%null%</text>
+<text id="7103">%null%</text>
+<text id="7104">%null%</text>
+<text id="7105">%null%</text>
+<text id="7106">%null%</text>
+<text id="7107">%null%</text>
+<text id="7108">%null%</text>
+<text id="7109">%null%</text>
+<text id="7110">Talizman przedstawiający dużego, żółtego starożytnego smoka.
+Niebywale zwiększa negację obrażeń od błyskawic.
+
+Starożytne smoki, które rządziły w pradawnych czasach poprzedzających Złote Drzewo, chroniłyby swojego władcę niczym żywy kamienny mur.
+Tym samym kształt smoka stał się symbolem wszelkiego rodzaju ochrony.</text>
+<text id="7111">%null%</text>
+<text id="7112">%null%</text>
+<text id="7113">%null%</text>
+<text id="7114">%null%</text>
+<text id="7115">%null%</text>
+<text id="7116">%null%</text>
+<text id="7117">%null%</text>
+<text id="7118">%null%</text>
+<text id="7119">%null%</text>
+<text id="7120">Ucięty warkocz złotych włosów.
+Prezent królowej Mariki dla babci.
+Niebywale zwiększa negację świętych obrażeń.
+
+Jaką modlitwę odmówiła? Czego sobie życzyła i co wyznała?
+Nie ostał się nikt, kto mógłby odpowiedzieć, a Marika już nigdy nie wróciła do domu.</text>
+<text id="7121">%null%</text>
+<text id="7122">%null%</text>
+<text id="7123">%null%</text>
+<text id="7124">%null%</text>
+<text id="7125">%null%</text>
+<text id="7126">%null%</text>
+<text id="7127">%null%</text>
+<text id="7128">%null%</text>
+<text id="7129">%null%</text>
+<text id="7130">Talizman przedstawiający dużego, perłowego starożytnego smoka.
+Niebywale zwiększa negację obrażeń niefizycznych.
+
+Starożytne smoki, które rządziły w pradawnych czasach poprzedzających Złote Drzewo, chroniłyby swojego władcę niczym żywy kamienny mur.
+Tym samym kształt smoka stał się symbolem wszelkiego rodzaju ochrony.</text>
+<text id="7131">%null%</text>
+<text id="7132">%null%</text>
+<text id="7133">%null%</text>
+<text id="7134">%null%</text>
+<text id="7135">%null%</text>
+<text id="7136">%null%</text>
+<text id="7137">%null%</text>
+<text id="7138">%null%</text>
+<text id="7139">%null%</text>
+<text id="7140">Szkarłatny talizman przypominający nasiono Złotego Drzewa.
+Znacząco zwiększa przywracanie PŻ przez butelkę szkarłatnych łez.
+
+Nasiono Złotego Drzewa w tym talizmanie uważano za mityczny przedmiot. Ten pradawny artefakt przedstawia również Dwa Palce, prawdopodobnie nawiązując do narodzin Złotego Drzewa.</text>
+<text id="7141">%null%</text>
+<text id="7142">%null%</text>
+<text id="7143">%null%</text>
+<text id="7144">%null%</text>
+<text id="7145">%null%</text>
+<text id="7146">%null%</text>
+<text id="7147">%null%</text>
+<text id="7148">%null%</text>
+<text id="7149">%null%</text>
+<text id="7150">Modry talizman przypominający nasiono Złotego Drzewa.
+Znacząco zwiększa przywracanie PS przez butelkę modrych łez.
+
+Nasiono Złotego Drzewa w tym talizmanie uważano za mityczny przedmiot. Ten pradawny artefakt przedstawia również Dwa Palce, prawdopodobnie nawiązując do narodzin Złotego Drzewa.</text>
+<text id="8000">Talizman przedstawiający błogosławioną nagrodę w postaci kropli błękitnej, świecącej żywicy Złotego Drzewa.
+
+Stopniowo przywraca PS.
+
+Niegdyś sądzono, że błogosławiona żywica Złotego Drzewa będzie zawsze kapała z jego gałęzi, ale ten okres dobrobytu szybko się skończył, a po pewnym czasie Złote Drzewo stało się raczej obiektem kultu.</text>
+<text id="8001">%null%</text>
+<text id="8002">%null%</text>
+<text id="8003">%null%</text>
+<text id="8004">%null%</text>
+<text id="8005">%null%</text>
+<text id="8006">%null%</text>
+<text id="8007">%null%</text>
+<text id="8008">%null%</text>
+<text id="8009">%null%</text>
+<text id="8010">Talizman z cienkich skrzydeł, które odzwierciedlają aspekty różnych stworzeń.
+Powiada się, że dawno temu wyrósł na ludzkim ciele.
+
+Ulepsza kroki w tył, ale zwiększa otrzymywane obrażenia.
+
+Rogaci przybysze uważają ten Tygiel za świętość, a to z powodu doskonałości uzyskiwanej dzięki jego rozwojowym darom. Szczególnie dotyczy to ich splątanych rogów.</text>
+<text id="8011">%null%</text>
+<text id="8012">%null%</text>
+<text id="8013">%null%</text>
+<text id="8014">%null%</text>
+<text id="8015">%null%</text>
+<text id="8016">%null%</text>
+<text id="8017">%null%</text>
+<text id="8018">%null%</text>
+<text id="8019">%null%</text>
+<text id="8020">Talizman z wyrytą legendą boga zewnętrznego.
+Zwiększa mistycyzm.
+
+Klan, który stracił wszystko w wielkich pożarach, uważnie wpatrywał się w trupa swego przodka, co uważa się za święty czyn, i ujrzał w jego cieniu spaczone bóstwo.
+
+Klan cierpiał tak bardzo, że uczynił tego strasznego potwora obiektem wiary.</text>
+<text id="8021">%null%</text>
+<text id="8022">%null%</text>
+<text id="8023">%null%</text>
+<text id="8024">%null%</text>
+<text id="8025">%null%</text>
+<text id="8026">%null%</text>
+<text id="8027">%null%</text>
+<text id="8028">%null%</text>
+<text id="8029">%null%</text>
+<text id="8030">Rozbita kamienna podpora.
+
+Zwiększa moc umiejętności kopania i stąpania.
+
+Kamienne podpory to kotwice duchowe, które ponoć trzymają ziemię w miejscu i tłumią gniew trzęsień ziemi. Kiedy ta została rozbita, otaczające ją miasto zniknęło w rozpadlinie. Jedna z opowieści mówiła nawet o spadającym księżycu.</text>
+<text id="8031">%null%</text>
+<text id="8032">%null%</text>
+<text id="8033">%null%</text>
+<text id="8034">%null%</text>
+<text id="8035">%null%</text>
+<text id="8036">%null%</text>
+<text id="8037">%null%</text>
+<text id="8038">%null%</text>
+<text id="8039">%null%</text>
+<text id="8040">Talizman przedstawiający wojownika z mieczem dwuręcznym.
+Wzmacnia ataki bronią dwuręczną.
+
+Rogaci wojownicy byli doskonałymi dowodami na siłę militarną wieży, której strzegli. Ich zwinne ataki mogły przeciąć ciało każdego wroga.</text>
+<text id="8041">%null%</text>
+<text id="8042">%null%</text>
+<text id="8043">%null%</text>
+<text id="8044">%null%</text>
+<text id="8045">%null%</text>
+<text id="8046">%null%</text>
+<text id="8047">%null%</text>
+<text id="8048">%null%</text>
+<text id="8049">%null%</text>
+<text id="8050">Talizman przedstawiający uniesioną włócznię na tle ognia. Upamiętnia życia tych, którzy zginęli podczas świętej krucjaty, na której czele stał Messmer.
+
+Zwiększa siłę ataku po pokonaniu wroga.
+
+Wojownicy walczący w tej krucjacie wyzbyli się honoru i litości, by oddawać się zabijaniu i paleniu wszystkich, których uznali za nieczystych.
+
+Ci, na których ożywczo działał każdy śmiertelny okrzyk, byli równocześnie tymi, którzy byli przekonani o świętości tej kampanii. </text>
+<text id="8051">%null%</text>
+<text id="8052">%null%</text>
+<text id="8053">%null%</text>
+<text id="8054">%null%</text>
+<text id="8055">%null%</text>
+<text id="8056">%null%</text>
+<text id="8057">%null%</text>
+<text id="8058">%null%</text>
+<text id="8059">%null%</text>
+<text id="8060">Talizman przedstawiający radość podstarzałego nietykalnego, którego głowa przypomina kiść dojrzałych winogron.
+
+Zwiększa siłę ataku, jeśli w pobliżu ktoś jest szalony.
+
+„Podaruj naszemu Panu swoje szaleństwo.
+Pobłogosław naszych braci winogronami.
+Dopilnuj, aby w pełni dojrzały”.</text>
+<text id="8061">%null%</text>
+<text id="8062">%null%</text>
+<text id="8063">%null%</text>
+<text id="8064">%null%</text>
+<text id="8065">%null%</text>
+<text id="8066">%null%</text>
+<text id="8067">%null%</text>
+<text id="8068">%null%</text>
+<text id="8069">%null%</text>
+<text id="8070">Talizman z żelaznych strzał z piórami.
+
+Zwiększa skuteczny zasięg łuków oraz siłę ataku strzał i bełtów.</text>
+<text id="8090">Talizman przedstawiający rycerza z perłową wielką tarczą.
+Zwiększa negację obrażeń niefizycznych podczas zasłony.
+
+Rycerze nie rozumieli natury i potencjału nieczystości, dlatego szykowali się na każdą ewentualność.</text>
+<text id="8091">%null%</text>
+<text id="8092">%null%</text>
+<text id="8093">%null%</text>
+<text id="8094">%null%</text>
+<text id="8095">%null%</text>
+<text id="8096">%null%</text>
+<text id="8097">%null%</text>
+<text id="8098">%null%</text>
+<text id="8099">%null%</text>
+<text id="8100">Osobliwy bukiet uschniętych kwiatów, złożony na małym grobie.
+
+Zwiększa siłę ataku, gdy zginie przyzwany duch.
+
+Cierpienie wywołane przedwczesną śmiercią ukochanej osoby jest uczuciem wspólnym, niezależnym od pochodzenia.</text>
+<text id="8101">%null%</text>
+<text id="8102">%null%</text>
+<text id="8103">%null%</text>
+<text id="8104">%null%</text>
+<text id="8105">%null%</text>
+<text id="8106">%null%</text>
+<text id="8107">%null%</text>
+<text id="8108">%null%</text>
+<text id="8109">%null%</text>
+<text id="8110">Talizman przedstawiający pradawny młot kowalski.
+Wyryto na nim inskrypcję kowalską.
+
+Wzmacnia ataki bronią rzucaną.
+
+W starożytności kowalstwo było boską sztuką, a kowale odczytywali teksty, które widzieli w zmarszczkach powstałych na płynnej stali, i w ten sposób dawali broni duszę.</text>
+<text id="8111">%null%</text>
+<text id="8112">%null%</text>
+<text id="8113">%null%</text>
+<text id="8114">%null%</text>
+<text id="8115">%null%</text>
+<text id="8116">%null%</text>
+<text id="8117">%null%</text>
+<text id="8118">%null%</text>
+<text id="8119">%null%</text>
+<text id="8120">Talizman przedstawiający chorą duszę.
+
+Kiedy zaczynają działać niektóre przypadłości, ten talizman daje na nie odporność.
+
+Gdy słabi zarażali się straszliwą chorobą much, umierali na długo przed metamorfozą. Co dziwne, osoby opiekujące się chorymi i zapewniające im godny pochówek same nigdy nie chorowały.</text>
+<text id="8121">%null%</text>
+<text id="8122">%null%</text>
+<text id="8123">%null%</text>
+<text id="8124">%null%</text>
+<text id="8125">%null%</text>
+<text id="8126">%null%</text>
+<text id="8127">%null%</text>
+<text id="8128">%null%</text>
+<text id="8129">%null%</text>
+<text id="8130">Rękodzieło przedstawiające złote krzyżodrzewo.
+Jeden z przedmiotów ofiarowanych rycerzom igły.
+
+Wzmacnia ataki wykonywane po przewrocie lub kroku w tył.
+
+Dawno temu rycerze igły służyli Miquelli, lecz potem przeminęli. Nie licząc jednego.</text>
+<text id="8131">%null%</text>
+<text id="8132">%null%</text>
+<text id="8133">%null%</text>
+<text id="8134">%null%</text>
+<text id="8135">%null%</text>
+<text id="8136">%null%</text>
+<text id="8137">%null%</text>
+<text id="8138">%null%</text>
+<text id="8139">%null%</text>
+<text id="8140">Rękodzieło przedstawiające złote krzyżodrzewo.
+Jeden z przedmiotów ofiarowanych rycerzom igły.
+
+Wzmacnia ataki ze sprintu.
+
+Dawno temu rycerze igły służyli Miquelli, lecz potem przeminęli. Nie licząc jednego.</text>
+<text id="8141">%null%</text>
+<text id="8142">%null%</text>
+<text id="8143">%null%</text>
+<text id="8144">%null%</text>
+<text id="8145">%null%</text>
+<text id="8146">%null%</text>
+<text id="8147">%null%</text>
+<text id="8148">%null%</text>
+<text id="8149">%null%</text>
+<text id="8150">Talizman przedstawiający łucznika z długim łukiem.
+Wzmacnia siłę ataku strzałów precyzyjnych.
+
+Łucznicy albinauryków byli niedoścignionymi strzelcami, a ich zabójczy specjaliści rażący wrogów z dużej odległości budzili powszechny strach.</text>
+<text id="8151">%null%</text>
+<text id="8152">%null%</text>
+<text id="8153">%null%</text>
+<text id="8154">%null%</text>
+<text id="8155">%null%</text>
+<text id="8156">%null%</text>
+<text id="8157">%null%</text>
+<text id="8158">%null%</text>
+<text id="8159">%null%</text>
+<text id="8160">Talizman przedstawiający uśmiechniętą św. Trinę,
+której obraz pojawił się w głębi serca pewnego człowieka.
+
+Zwiększa siłę ataku, gdy w pobliżu ktoś zapada w sen.
+
+„Tylko ja mogę poznać twój aksamitny sen. Jego łagodne objęcia. Więc proszę, uśmiechnij się. Dla mnie i tylko dla mnie”.</text>
+<text id="8161">%null%</text>
+<text id="8162">%null%</text>
+<text id="8163">%null%</text>
+<text id="8164">%null%</text>
+<text id="8165">%null%</text>
+<text id="8166">%null%</text>
+<text id="8167">%null%</text>
+<text id="8168">%null%</text>
+<text id="8169">%null%</text>
+<text id="8170">Talizman przedstawiający groźnego smoka z Wyszczerbionego Szczytu. Jego ryki sprawiały, że płynna furia góry wrzała i kotłowała się.
+
+Zwiększa moc magmy.
+
+Ten podły smok zwał się Bayle i był straszliwym zwiastunem zniszczenia, który rzucił wyzwanie starożytnemu władcy smoków. Obaj zostali w tej walce poważnie ranni.</text>
+<text id="8171">%null%</text>
+<text id="8172">%null%</text>
+<text id="8173">%null%</text>
+<text id="8174">%null%</text>
+<text id="8175">%null%</text>
+<text id="8176">%null%</text>
+<text id="8177">%null%</text>
+<text id="8178">%null%</text>
+<text id="8179">%null%</text>
+<text id="8180">Amulet przedstawiający szalony, rozbrykany taniec boskiej bestii podczas festiwalu wieży.
+
+Zwiększa moc burz.
+
+Boskie bestie to posłańcy niebios, a ich szał to odbicie zamętu w przestworzach, którego kulminacją są burze.</text>
+<text id="8181">%null%</text>
+<text id="8182">%null%</text>
+<text id="8183">%null%</text>
+<text id="8184">%null%</text>
+<text id="8185">%null%</text>
+<text id="8186">%null%</text>
+<text id="8187">%null%</text>
+<text id="8188">%null%</text>
+<text id="8189">%null%</text>
+<text id="8190">Talizman, który przedstawia zasuszoną dłoń ściskającą delikatnie błyskamień.
+
+Niebywale zmniejsza szybkość rzucania czarów i inkantacji, ale zwiększa otrzymywane obrażenia.
+
+Hrabia Ymir słynął ze swoich recytacji.
+
+„Wystarczy tylko wyobrazić sobie romans gwiazd na niebie i pałające w sercu uwielbienie gwiezdnego pyłu, aby stać się wielkim czarodziejem. Zrób to, a doświadczysz miłości”.</text>
+<text id="8191">%null%</text>
+<text id="8192">%null%</text>
+<text id="8193">%null%</text>
+<text id="8194">%null%</text>
+<text id="8195">%null%</text>
+<text id="8196">%null%</text>
+<text id="8197">%null%</text>
+<text id="8198">%null%</text>
+<text id="8199">%null%</text>
+<text id="8200">Talizman przedstawiający Godfreya, pierwszego Eldeńskiego Władcę, odbierającego bezcenną żywicę.
+
+Używanie butelki łez zwiększa równowagę.
+
+Władca przyjął żywicę ze stoickim spokojem. Nic dziwnego, że Władca Złotego Drzewa rzuca na te ziemie długi cień.</text>
+<text id="8201">%null%</text>
+<text id="8202">%null%</text>
+<text id="8203">%null%</text>
+<text id="8204">%null%</text>
+<text id="8205">%null%</text>
+<text id="8206">%null%</text>
+<text id="8207">%null%</text>
+<text id="8208">%null%</text>
+<text id="8209">%null%</text>
+<text id="8210">Dysk z werdygrisu, skorodowanego metalu słynącego z wytrzymałości.
+
+Zwiększa obronę przy większej wadze wyposażenia.
+
+Wielki ciężar daje wielką siłę. Siłę, która pozwala chronić innych.</text>
+<text id="8211">%null%</text>
+<text id="8212">%null%</text>
+<text id="8213">%null%</text>
+<text id="8214">%null%</text>
+<text id="8215">%null%</text>
+<text id="8216">%null%</text>
+<text id="8217">%null%</text>
+<text id="8218">%null%</text>
+<text id="8219">%null%</text>
+<text id="8220">Talizman ze wspaniałym portretem Rellany, rycerza Bliźniaczych Księżyców.
+
+Wzmacnia ataki po utrzymywaniu przez pewien czas tej samej postawy.
+
+Wygrawerowany, aby przypominał o niesłychanym oddaniu tych, którzy opuścili swoje ojczyzny, by służyć Rellanie.
+
+„Gdy wyruszycie, będziemy towarzyszyć wam wszędzie tam, gdzie zabierze was księżycowy statek”.</text>
+<text id="8221">%null%</text>
+<text id="8222">%null%</text>
+<text id="8223">%null%</text>
+<text id="8224">%null%</text>
+<text id="8225">%null%</text>
+<text id="8226">%null%</text>
+<text id="8227">%null%</text>
+<text id="8228">%null%</text>
+<text id="8229">%null%</text>
+<text id="8230">Cienki sztylet splamiony krwią. Nie nadaje się już do użytku.
+
+Zwiększa siłę ataku po każdym trafieniu krytycznym.
+
+Rogaci przybysze używali takich broni, aby honorowo skracać cierpienia towarzyszy. Po zgładzeniu wielu istnień sztylet pękł, ale zyskał widmową aurę.</text>
+<text id="8231">%null%</text>
+<text id="8232">%null%</text>
+<text id="8233">%null%</text>
+<text id="8234">%null%</text>
+<text id="8235">%null%</text>
+<text id="8236">%null%</text>
+<text id="8237">%null%</text>
+<text id="8238">%null%</text>
+<text id="8239">%null%</text>
+<text id="8240">Ogromna masa skłębionych atrybutów Tygla.
+
+Zmniejsza obrażenia otrzymywane od trafień krytycznych i strzałów w głowę, a także poprawia skuteczność przewrotu i kroku w tył. Jednocześnie zwiększa wszystkie otrzymane obrażenia.
+
+Tradycja starożytnej wieży nazywa ten przedmiot „matką Tygli”. Podobno wyrósł z olbrzymów.</text>
+</entries>
+</fmg>

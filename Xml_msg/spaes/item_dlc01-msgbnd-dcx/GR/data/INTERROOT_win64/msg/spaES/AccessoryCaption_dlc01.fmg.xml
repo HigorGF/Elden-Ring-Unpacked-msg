@@ -1,0 +1,542 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="2220">Un talismán en el que aparecen frascos de perfume.
+Aumenta la potencia de las artes que usan perfume.
+
+Existen jardines que solo los perfumistas conocen. Ya estén escondidos en la periferia de los altiplanos u ocultos en las sombras de las cavernas, las flores brotan en secreto, esperando compartir su aroma.</text>
+<text id="7000">Un medallón con ámbar carmesí incrustado.
+Potencia al máximo los PS.
+
+La savia vieja del Árbol Áureo se convierte en ámbar, considerada como la más preciada de las joyas en la era de Godfrey, primer Señor del Círculo.
+
+Estos grandes medallones se otorgaban al círculo íntimo de distinguidos caballeros de oro de Godwyn. </text>
+<text id="7001">%null%</text>
+<text id="7002">%null%</text>
+<text id="7003">%null%</text>
+<text id="7004">%null%</text>
+<text id="7005">%null%</text>
+<text id="7006">%null%</text>
+<text id="7007">%null%</text>
+<text id="7008">%null%</text>
+<text id="7009">%null%</text>
+<text id="7010">Un medallón con ámbar cerúleo incrustado.
+Potencia al máximo los PC.
+
+La savia vieja del Árbol Áureo se convierte en ámbar, considerada como la más preciada de las joyas en la era de Godfrey, primer Señor del Círculo.
+
+Estos grandes medallones se otorgaban al círculo íntimo de distinguidos caballeros de oro de Godwyn.</text>
+<text id="7011">%null%</text>
+<text id="7012">%null%</text>
+<text id="7013">%null%</text>
+<text id="7014">%null%</text>
+<text id="7015">%null%</text>
+<text id="7016">%null%</text>
+<text id="7017">%null%</text>
+<text id="7018">%null%</text>
+<text id="7019">%null%</text>
+<text id="7020">Un medallón con ámbar viridián incrustado.
+Potencia al máximo la resistencia.
+
+La savia vieja del Árbol Áureo se convierte en ámbar, considerada como la más preciada de las joyas en la era de Godfrey, primer Señor del Círculo.
+
+Estos grandes medallones se otorgaban al círculo íntimo de distinguidos caballeros de oro de Godwyn. </text>
+<text id="7021">%null%</text>
+<text id="7022">%null%</text>
+<text id="7023">%null%</text>
+<text id="7024">%null%</text>
+<text id="7025">%null%</text>
+<text id="7026">%null%</text>
+<text id="7027">%null%</text>
+<text id="7028">%null%</text>
+<text id="7029">%null%</text>
+<text id="7030">Un talismán con forma de tortuga bicéfala verde.
+Aumenta considerablemente la velocidad de recuperación de resistencia.
+
+Las tortugas son conocidas por ser un ingrediente nutritivo, símbolo de una energía inagotable.
+
+Las tortugas bicéfalas son un tema predilecto en la torre por la forma en espiral de sus cuellos entrelazados.</text>
+<text id="7031">%null%</text>
+<text id="7032">%null%</text>
+<text id="7033">%null%</text>
+<text id="7034">%null%</text>
+<text id="7035">%null%</text>
+<text id="7036">%null%</text>
+<text id="7037">%null%</text>
+<text id="7038">%null%</text>
+<text id="7039">%null%</text>
+<text id="7040">Atuendo ceremonial de los cornamentados.
+Aumenta enormemente la robustez.
+(La robustez regula la resistencia a la hemorragia y la congelación).
+
+Los cuernos son artefactos sublimes para los cornamentados y confirman que son un pueblo elegido.
+
+Solo el crecimiento repetido de nuevos cuernos puede crear un cuerno retorcido, símbolo irrefutable de primacía.</text>
+<text id="7041">%null%</text>
+<text id="7042">%null%</text>
+<text id="7043">%null%</text>
+<text id="7044">%null%</text>
+<text id="7045">%null%</text>
+<text id="7046">%null%</text>
+<text id="7047">%null%</text>
+<text id="7048">%null%</text>
+<text id="7049">%null%</text>
+<text id="7050">Atuendo ceremonial de los cornamentados.
+Aumenta enormemente la inmunidad.
+(La inmunidad regula la resistencia al envenenamiento y la putrefacción).
+
+Los cuernos son artefactos sublimes para los cornamentados y confirman que son un pueblo elegido.
+
+Solo el crecimiento repetido de nuevos cuernos puede crear un cuerno retorcido, símbolo irrefutable de primacía.</text>
+<text id="7051">%null%</text>
+<text id="7052">%null%</text>
+<text id="7053">%null%</text>
+<text id="7054">%null%</text>
+<text id="7055">%null%</text>
+<text id="7056">%null%</text>
+<text id="7057">%null%</text>
+<text id="7058">%null%</text>
+<text id="7059">%null%</text>
+<text id="7060">Atuendo ceremonial de los cornamentados.
+Aumenta enormemente la concentración.
+(La concentración regula la resistencia al sueño y la locura).
+
+Los cuernos son artefactos sublimes para los cornamentados y confirman que son un pueblo elegido.
+
+Solo el crecimiento repetido de nuevos cuernos puede crear un cuerno retorcido, símbolo irrefutable de primacía.</text>
+<text id="7080">Colorido atuendo ceremonial de los cornamentados.
+
+Aumenta enormemente la robustez, la inmunidad y la concentración.
+
+Los cuernos son artefactos sublimes para los cornamentados y confirman que son un pueblo elegido.
+
+Solo el crecimiento repetido de nuevos cuernos puede crear un cuerno retorcido, símbolo irrefutable de primacía.</text>
+<text id="7081">%null%</text>
+<text id="7082">%null%</text>
+<text id="7083">%null%</text>
+<text id="7084">%null%</text>
+<text id="7085">%null%</text>
+<text id="7086">%null%</text>
+<text id="7087">%null%</text>
+<text id="7088">%null%</text>
+<text id="7089">%null%</text>
+<text id="7090">Talismán con un gran dragón antiguo azul.
+Potencia al máximo la negación de daños mágicos.
+
+Se dice que los dragones antiguos que gobernaban en la era primigenia anterior al Árbol Áureo protegían a su señor como verdaderos muros vivientes de piedra.
+Es por esto que la silueta del dragón se ha convertido en un símbolo de cualquier tipo de protección.</text>
+<text id="7091">%null%</text>
+<text id="7092">%null%</text>
+<text id="7093">%null%</text>
+<text id="7094">%null%</text>
+<text id="7095">%null%</text>
+<text id="7096">%null%</text>
+<text id="7097">%null%</text>
+<text id="7098">%null%</text>
+<text id="7099">%null%</text>
+<text id="7100">Talismán con un gran dragón antiguo rojo.
+Potencia al máximo la negación de daños de fuego.
+
+Se dice que los dragones antiguos que gobernaban en la era primigenia anterior al Árbol Áureo protegían a su señor como verdaderos muros vivientes de piedra.
+Es por esto que la silueta del dragón se ha convertido en un símbolo de cualquier tipo de protección.</text>
+<text id="7101">%null%</text>
+<text id="7102">%null%</text>
+<text id="7103">%null%</text>
+<text id="7104">%null%</text>
+<text id="7105">%null%</text>
+<text id="7106">%null%</text>
+<text id="7107">%null%</text>
+<text id="7108">%null%</text>
+<text id="7109">%null%</text>
+<text id="7110">Talismán con un gran dragón antiguo amarillo.
+Potencia al máximo la negación de daños de rayo.
+
+Se dice que los dragones antiguos que gobernaban en la era primigenia anterior al Árbol Áureo protegían a su señor como verdaderos muros vivientes de piedra.
+Es por esto que la silueta del dragón se ha convertido en un símbolo de cualquier tipo de protección.</text>
+<text id="7111">%null%</text>
+<text id="7112">%null%</text>
+<text id="7113">%null%</text>
+<text id="7114">%null%</text>
+<text id="7115">%null%</text>
+<text id="7116">%null%</text>
+<text id="7117">%null%</text>
+<text id="7118">%null%</text>
+<text id="7119">%null%</text>
+<text id="7120">Una trenza de cabello dorado cortada.
+La ofrenda de la reina Márika a la Matriarca.
+
+Potencia al máximo la negación de daños sagrados.
+
+¿Cuál fue su plegaria? ¿Su deseo, su confesión?
+No queda nadie para responder y Márika nunca regresó a casa.</text>
+<text id="7121">%null%</text>
+<text id="7122">%null%</text>
+<text id="7123">%null%</text>
+<text id="7124">%null%</text>
+<text id="7125">%null%</text>
+<text id="7126">%null%</text>
+<text id="7127">%null%</text>
+<text id="7128">%null%</text>
+<text id="7129">%null%</text>
+<text id="7130">Talismán con un gran dragón antiguo nacarado.
+Potencia al máximo la negación de los daños que no sean físicos.
+
+Se dice que los dragones antiguos que gobernaban en la era primigenia anterior al Árbol Áureo protegían a su señor como verdaderos muros vivientes de piedra.
+Es por esto que la silueta del dragón se ha convertido en un símbolo de cualquier tipo de protección.</text>
+<text id="7131">%null%</text>
+<text id="7132">%null%</text>
+<text id="7133">%null%</text>
+<text id="7134">%null%</text>
+<text id="7135">%null%</text>
+<text id="7136">%null%</text>
+<text id="7137">%null%</text>
+<text id="7138">%null%</text>
+<text id="7139">%null%</text>
+<text id="7140">Talismán de color carmesí con forma de semilla del Árbol Áureo.
+Aumenta considerablemente la restauración de PS del vial de lágrimas carmesí.
+
+Se suponía que la semilla del Árbol Áureo de este talismán era un objeto mítico. Este artefacto milenario también representa los Dos Dedos y tal vez se remonta al nacimiento del Árbol Áureo.</text>
+<text id="7141">%null%</text>
+<text id="7142">%null%</text>
+<text id="7143">%null%</text>
+<text id="7144">%null%</text>
+<text id="7145">%null%</text>
+<text id="7146">%null%</text>
+<text id="7147">%null%</text>
+<text id="7148">%null%</text>
+<text id="7149">%null%</text>
+<text id="7150">Talismán de color cerúleo con forma de semilla del Árbol Áureo.
+Aumenta considerablemente la restauración de PC del vial de lágrimas cerúleas.
+
+Se suponía que la semilla del Árbol Áureo de este talismán era un objeto mítico. Este artefacto milenario también representa los Dos Dedos y tal vez se remonta al nacimiento del Árbol Áureo.</text>
+<text id="8000">Talismán con una gota de la savia azul y luminiscente del Árbol Áureo, una bendición.
+
+Restaura gradualmente los PC.
+
+Antaño se creía que la savia bendecida del Árbol Áureo caería de sus ramas eternamente, pero esa era de abundancia llegó rápido a su fin y, con el tiempo, el Árbol Áureo se convirtió en un mero objeto de fe.</text>
+<text id="8001">%null%</text>
+<text id="8002">%null%</text>
+<text id="8003">%null%</text>
+<text id="8004">%null%</text>
+<text id="8005">%null%</text>
+<text id="8006">%null%</text>
+<text id="8007">%null%</text>
+<text id="8008">%null%</text>
+<text id="8009">%null%</text>
+<text id="8010">Talismán fabricado con finas plumas, característica propia de la morfología de algunas bestias.
+Se dice que antaño crecían en los humanos.
+
+Mejora el retroceso pero aumenta el daño sufrido de cualquier fuente.
+
+Los cornamentados consideran sagrado el crisol por el refinamiento obtenido con sus cuernos retorcidos y otros dones evolutivos.</text>
+<text id="8011">%null%</text>
+<text id="8012">%null%</text>
+<text id="8013">%null%</text>
+<text id="8014">%null%</text>
+<text id="8015">%null%</text>
+<text id="8016">%null%</text>
+<text id="8017">%null%</text>
+<text id="8018">%null%</text>
+<text id="8019">%null%</text>
+<text id="8020">Talismán grabado con el tema de un dios externo.
+Aumenta el arcano.
+
+El clan, al perderlo todo en los grandes incendios, contempló el cadáver de su antepasado, normalmente un acto de santidad, y vio en su sombra una retorcida deidad.
+
+El clan había sufrido tal tormento que aquel horrible engendro se tomó como objeto de culto.</text>
+<text id="8021">%null%</text>
+<text id="8022">%null%</text>
+<text id="8023">%null%</text>
+<text id="8024">%null%</text>
+<text id="8025">%null%</text>
+<text id="8026">%null%</text>
+<text id="8027">%null%</text>
+<text id="8028">%null%</text>
+<text id="8029">%null%</text>
+<text id="8030">Piedra angular destrozada.
+
+Aumenta la potencia de las habilidades de patada y choque.
+
+Las piedras clave son anclas espirituales que, según se cuenta, mantienen el suelo en su sitio y sofocan la furia de los terremotos. Cuando esta se rompió, la ciudad se hundió en la tierra. Según un relato, hasta la luna cayó del cielo.</text>
+<text id="8031">%null%</text>
+<text id="8032">%null%</text>
+<text id="8033">%null%</text>
+<text id="8034">%null%</text>
+<text id="8035">%null%</text>
+<text id="8036">%null%</text>
+<text id="8037">%null%</text>
+<text id="8038">%null%</text>
+<text id="8039">%null%</text>
+<text id="8040">Talismán que representa a un guerrero blandiendo una espada a dos manos.
+Mejora los ataques con armas a dos manos.
+
+Los guerreros astados encarnaban a la perfección el poderío militar de la torre que vigilaban y sus hábiles ataques fulminaban a todos los enemigos.</text>
+<text id="8041">%null%</text>
+<text id="8042">%null%</text>
+<text id="8043">%null%</text>
+<text id="8044">%null%</text>
+<text id="8045">%null%</text>
+<text id="8046">%null%</text>
+<text id="8047">%null%</text>
+<text id="8048">%null%</text>
+<text id="8049">%null%</text>
+<text id="8050">Talismán con una lanza alzada sobre un fondo llameante, en recuerdo de los caídos en la cruzada sagrada liderada por Messmer.
+
+Aumenta la potencia de ataque tras derrotar a un enemigo.
+
+Los cruzados olvidaron el honor y la piedad para empalar y quemar sin misericordia a quienes consideraban impuros.
+
+Quienes se sentían estimulados por los gritos de muerte eran los mismos que abogaban por la santidad de la campaña. </text>
+<text id="8051">%null%</text>
+<text id="8052">%null%</text>
+<text id="8053">%null%</text>
+<text id="8054">%null%</text>
+<text id="8055">%null%</text>
+<text id="8056">%null%</text>
+<text id="8057">%null%</text>
+<text id="8058">%null%</text>
+<text id="8059">%null%</text>
+<text id="8060">Un talismán que representa la exaltación del anciano, cuya cabeza se asemeja a un racimo de uvas maduras.
+
+Aumenta la potencia de ataque cuando se provoca locura en las inmediaciones.
+
+«Entrega tu locura a nuestro señor.
+Bendice a nuestros hermanos con uvas.
+Asegúrate de que maduren del todo».</text>
+<text id="8061">%null%</text>
+<text id="8062">%null%</text>
+<text id="8063">%null%</text>
+<text id="8064">%null%</text>
+<text id="8065">%null%</text>
+<text id="8066">%null%</text>
+<text id="8067">%null%</text>
+<text id="8068">%null%</text>
+<text id="8069">%null%</text>
+<text id="8070">Talismán compuesto de flechas de hierro emplumadas.
+
+Aumenta el alcance efectivo de los arcos y la potencia de ataque de las flechas y saetas.</text>
+<text id="8090">Talismán que representa a un caballero con un escudo grande nacarado.
+Aumenta la negación de los daños que no sean físicos al protegerse.
+
+Incapaces de comprender la índole y el potencial de la impureza, los caballeros se vieron obligados a prepararse para amenazas conocidas o desconocidas.</text>
+<text id="8091">%null%</text>
+<text id="8092">%null%</text>
+<text id="8093">%null%</text>
+<text id="8094">%null%</text>
+<text id="8095">%null%</text>
+<text id="8096">%null%</text>
+<text id="8097">%null%</text>
+<text id="8098">%null%</text>
+<text id="8099">%null%</text>
+<text id="8100">Singular ramo de flores secas ofrecido a una pequeña tumba.
+
+Aumenta la potencia de ataque cuando muere un espíritu al que se haya invocado.
+
+El dolor por la muerte prematura de un ser querido es un sentimiento compartido por todos, independientemente del lugar de nacimiento.</text>
+<text id="8101">%null%</text>
+<text id="8102">%null%</text>
+<text id="8103">%null%</text>
+<text id="8104">%null%</text>
+<text id="8105">%null%</text>
+<text id="8106">%null%</text>
+<text id="8107">%null%</text>
+<text id="8108">%null%</text>
+<text id="8109">%null%</text>
+<text id="8110">Talismán que representa un antiguo martillo de herrero.
+Grabado con una letra herrérica.
+
+Mejora los ataques de lanzamiento de arma.
+
+En la antigüedad, la herrería era un acto divino y los herreros interpretaban el guion que percibían en las asperezas del acero fundido para imbuir las armas de alma.</text>
+<text id="8111">%null%</text>
+<text id="8112">%null%</text>
+<text id="8113">%null%</text>
+<text id="8114">%null%</text>
+<text id="8115">%null%</text>
+<text id="8116">%null%</text>
+<text id="8117">%null%</text>
+<text id="8118">%null%</text>
+<text id="8119">%null%</text>
+<text id="8120">Talismán que muestra un alma enferma.
+
+Al provocar ciertos efectos, este talismán otorga resistencia al mismo efecto.
+
+Cuando los débiles contraían la temida enfermedad de la mosca, morían mucho antes de sufrir la metamorfosis. Curiosamente, quienes cuidaban de los infectados y les procuraban sepultura jamás se veían afectados.</text>
+<text id="8121">%null%</text>
+<text id="8122">%null%</text>
+<text id="8123">%null%</text>
+<text id="8124">%null%</text>
+<text id="8125">%null%</text>
+<text id="8126">%null%</text>
+<text id="8127">%null%</text>
+<text id="8128">%null%</text>
+<text id="8129">%null%</text>
+<text id="8130">Artesanía que representa un árbol cruzado dorado.
+Uno de los objetos otorgados a los caballeros de la aguja.
+
+Mejora los ataques ejecutados tras rodar o retroceder.
+
+Hace mucho tiempo, los caballeros de la aguja sirvieron a Miquella, aunque ya no en el presente... Salvo una.</text>
+<text id="8131">%null%</text>
+<text id="8132">%null%</text>
+<text id="8133">%null%</text>
+<text id="8134">%null%</text>
+<text id="8135">%null%</text>
+<text id="8136">%null%</text>
+<text id="8137">%null%</text>
+<text id="8138">%null%</text>
+<text id="8139">%null%</text>
+<text id="8140">Artesanía que representa un árbol cruzado dorado.
+Uno de los objetos otorgados a los caballeros de la aguja.
+
+Mejora los ataques a la carrera.
+
+Hace mucho tiempo, los caballeros de la aguja sirvieron a Miquella, aunque ya no en el presente… Salvo uno.</text>
+<text id="8141">%null%</text>
+<text id="8142">%null%</text>
+<text id="8143">%null%</text>
+<text id="8144">%null%</text>
+<text id="8145">%null%</text>
+<text id="8146">%null%</text>
+<text id="8147">%null%</text>
+<text id="8148">%null%</text>
+<text id="8149">%null%</text>
+<text id="8150">Talismán que muestra a un arquero con un arco largo.
+Aumenta la potencia de ataque de los disparos de precisión.
+
+Los arqueros albináuricos eran únicos en su especie y sus letales especialistas de largo alcance infundían temor en los corazones de los hombres.</text>
+<text id="8151">%null%</text>
+<text id="8152">%null%</text>
+<text id="8153">%null%</text>
+<text id="8154">%null%</text>
+<text id="8155">%null%</text>
+<text id="8156">%null%</text>
+<text id="8157">%null%</text>
+<text id="8158">%null%</text>
+<text id="8159">%null%</text>
+<text id="8160">Talismán que muestra a una sonriente Santa Trina,
+una visión conjurada en lo más profundo del corazón de cierto hombre.
+
+Aumenta la potencia de ataque cuando se provoca sueño en las inmediaciones.
+
+«Solo a mí se me permite conocer tu sueño aterciopelado, tu dulce y suave abrazo. Por favor, sonríe para mí y solo para mí».</text>
+<text id="8161">%null%</text>
+<text id="8162">%null%</text>
+<text id="8163">%null%</text>
+<text id="8164">%null%</text>
+<text id="8165">%null%</text>
+<text id="8166">%null%</text>
+<text id="8167">%null%</text>
+<text id="8168">%null%</text>
+<text id="8169">%null%</text>
+<text id="8170">Talismán que representa al temible dragón del pico escarpado, cuyos rugidos agitan y hacen hervir el furioso magma del pico.
+
+Aumenta la potencia del magma.
+
+Bayle era el nombre del monstruo maldito, un terrible presagio de destrucción cuyo desafío al antiguo señor dragón se saldó con graves heridas mutuas.</text>
+<text id="8171">%null%</text>
+<text id="8172">%null%</text>
+<text id="8173">%null%</text>
+<text id="8174">%null%</text>
+<text id="8175">%null%</text>
+<text id="8176">%null%</text>
+<text id="8177">%null%</text>
+<text id="8178">%null%</text>
+<text id="8179">%null%</text>
+<text id="8180">Amuleto que representa la enloquecida y juguetona danza de la bestia divina que se ejecuta en el festival de la torre.
+
+Aumenta la potencia de las tormentas.
+
+Las bestias divinas son mensajeras de los cielos y su furia refleja el tumulto de las alturas, cuyo pináculo son las tormentas.</text>
+<text id="8181">%null%</text>
+<text id="8182">%null%</text>
+<text id="8183">%null%</text>
+<text id="8184">%null%</text>
+<text id="8185">%null%</text>
+<text id="8186">%null%</text>
+<text id="8187">%null%</text>
+<text id="8188">%null%</text>
+<text id="8189">%null%</text>
+<text id="8190">Talismán con una mano mágica que agarra una piedra brillante.
+
+Reduce al máximo el tiempo de lanzamiento de hechizos y encantamientos, pero aumenta el daño recibido.
+
+El conde Ymir era conocido por sus recitaciones.
+«Basta con imaginar el romance de las estrellas y adorar su polvo para convertirse en un gran hechicero y conocer el amor».</text>
+<text id="8191">%null%</text>
+<text id="8192">%null%</text>
+<text id="8193">%null%</text>
+<text id="8194">%null%</text>
+<text id="8195">%null%</text>
+<text id="8196">%null%</text>
+<text id="8197">%null%</text>
+<text id="8198">%null%</text>
+<text id="8199">%null%</text>
+<text id="8200">Talismán que muestra a Godfrey, primer Señor del Círculo, mientras recibe la preciada savia.
+
+Al usar un vial de lágrimas, aumenta el aplomo.
+
+El Señor del Árbol Áureo aceptó la savia estoicamente, sin atisbo de vacilación. ¡No debe sorprendernos que proyecte una larga sombra sobre las tierras!</text>
+<text id="8201">%null%</text>
+<text id="8202">%null%</text>
+<text id="8203">%null%</text>
+<text id="8204">%null%</text>
+<text id="8205">%null%</text>
+<text id="8206">%null%</text>
+<text id="8207">%null%</text>
+<text id="8208">%null%</text>
+<text id="8209">%null%</text>
+<text id="8210">Disco fabricado con verdín, un corroído metal conocido por su resistencia.
+
+Aumenta la defensa al llevar más equipamiento.
+
+Un gran peso otorga una gran fuerza, la necesaria para proteger a los demás.</text>
+<text id="8211">%null%</text>
+<text id="8212">%null%</text>
+<text id="8213">%null%</text>
+<text id="8214">%null%</text>
+<text id="8215">%null%</text>
+<text id="8216">%null%</text>
+<text id="8217">%null%</text>
+<text id="8218">%null%</text>
+<text id="8219">%null%</text>
+<text id="8220">Talismán con un retrato de Rellana, la Caballera de la Luna Gemela.
+
+Mejora los ataques ejecutados tras mantener la misma posición durante un tiempo determinado.
+
+El grabado recuerda la devoción sin igual de quienes abandonaron sus hogares para servir a Rellana.
+
+«Al llegar la hora de tu marcha, iremos contigo allí donde te lleve tu navío lunar».</text>
+<text id="8221">%null%</text>
+<text id="8222">%null%</text>
+<text id="8223">%null%</text>
+<text id="8224">%null%</text>
+<text id="8225">%null%</text>
+<text id="8226">%null%</text>
+<text id="8227">%null%</text>
+<text id="8228">%null%</text>
+<text id="8229">%null%</text>
+<text id="8230">Una daga delgada y manchada de sangre, ya no apta para su uso.
+
+Aumenta la potencia de ataque tras cada golpe crítico.
+
+El cornamentado la empleó para acabar honorablemente con el sufrimiento de un compatriota. Tras cobrarse numerosas vidas, la daga ahora está rota, pero ha adquirido un aura espectral.</text>
+<text id="8231">%null%</text>
+<text id="8232">%null%</text>
+<text id="8233">%null%</text>
+<text id="8234">%null%</text>
+<text id="8235">%null%</text>
+<text id="8236">%null%</text>
+<text id="8237">%null%</text>
+<text id="8238">%null%</text>
+<text id="8239">%null%</text>
+<text id="8240">Colosal masa de atributos de crisol entremezclados.
+
+Reduce el daño recibido de golpes críticos y disparos en la cabeza, y mejora la eficacia al rodar y retroceder, pero también aumenta el daño recibido de cualquier fuente.
+
+Se dice que brotó sobre gigantes y es la «madre de los crisoles» en la tradición de la antigua torre.</text>
+</entries>
+</fmg>

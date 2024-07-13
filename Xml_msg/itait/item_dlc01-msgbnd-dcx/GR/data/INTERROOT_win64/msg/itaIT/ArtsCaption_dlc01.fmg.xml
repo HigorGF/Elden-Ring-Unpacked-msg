@@ -1,0 +1,916 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="2000">Abilità: Turbine Fogliamorta
+
+Questa abilità rappresenta il culmine dello stile di lotta di Dane basato sul gioco di gambe.
+Si eleva in aria con una serie di calci rotanti, per poi abbattersi al suolo con un potente colpo finale. Infonde di energia i calci, incrementandone la gittata.</text>
+<text id="2001">Abilità: Ali del Crogiolo
+
+Questa abilità proviene dalle forme di vita del Crogiolo.
+Spicca il volo con un paio di ali dorate, per poi calare in picchiata sul nemico con l'arma puntata. Se usa una lama gemella, esegue un attacco rotante.</text>
+<text id="4000">Abilità: Affondo gravitazionale rotante
+
+Abilità gravitazionale sviluppata dai discepoli di un campione di alabastro. Usa una tecnica gravitazionale per fluttuare in aria, per poi iniziare a roteare e caricare in avanti. Premi di nuovo per eseguire un attacco supplementare.</text>
+<text id="4001">%null%</text>
+<text id="4002">%null%</text>
+<text id="4003">%null%</text>
+<text id="4004">%null%</text>
+<text id="4005">%null%</text>
+<text id="4006">%null%</text>
+<text id="4007">%null%</text>
+<text id="4008">%null%</text>
+<text id="4009">%null%</text>
+<text id="4010">Abilità: Palmo esplosivo
+
+Abilità del gruppo di ricercatori spirituali noti come la setta della Fogliamorta. Avvolge la mano di energia prima di colpire con il palmo della mano per liberare un'onda esplosiva. Il colpo può essere caricato per ottenere una forza d'impatto ancora maggiore.</text>
+<text id="4011">%null%</text>
+<text id="4012">%null%</text>
+<text id="4013">%null%</text>
+<text id="4014">%null%</text>
+<text id="4015">%null%</text>
+<text id="4016">%null%</text>
+<text id="4017">%null%</text>
+<text id="4018">%null%</text>
+<text id="4019">%null%</text>
+<text id="4020">Abilità: Lancio perforante
+
+Scaglia l'armamento con una potente rotazione, permettendogli di trapassare i nemici e di raggiungere una distanza maggiore.</text>
+<text id="4021">%null%</text>
+<text id="4022">%null%</text>
+<text id="4023">%null%</text>
+<text id="4024">%null%</text>
+<text id="4025">%null%</text>
+<text id="4026">%null%</text>
+<text id="4027">%null%</text>
+<text id="4028">%null%</text>
+<text id="4029">%null%</text>
+<text id="4030">Abilità: Lancio multiplo
+
+Sfrutta le arti di forgiatura per creare più copie dello stesso armamento in entrambe le mani, per poi lanciarle tutte insieme. Premi di nuovo per lanciare un'altra raffica.</text>
+<text id="4031">%null%</text>
+<text id="4032">%null%</text>
+<text id="4033">%null%</text>
+<text id="4034">%null%</text>
+<text id="4035">%null%</text>
+<text id="4036">%null%</text>
+<text id="4037">%null%</text>
+<text id="4038">%null%</text>
+<text id="4039">%null%</text>
+<text id="4040">Abilità: Muro di scintille
+
+Sparge nelle vicinanze una polvere aromatica che produce scintille dopo un breve periodo. È possibile caricare l'abilità per aumentare il potere e la gittata.
+Le proprietà delle scintille variano in base alla bottiglia di profumo usata.</text>
+<text id="4041">%null%</text>
+<text id="4042">%null%</text>
+<text id="4043">%null%</text>
+<text id="4044">%null%</text>
+<text id="4045">%null%</text>
+<text id="4046">%null%</text>
+<text id="4047">%null%</text>
+<text id="4048">%null%</text>
+<text id="4049">%null%</text>
+<text id="4050">Abilità: Scintille vorticanti
+
+Sparge davanti a sé una polvere aromatica che produce vorticose esplosioni di scintille.
+Le proprietà delle scintille variano in base alla bottiglia di profumo usata.</text>
+<text id="4051">%null%</text>
+<text id="4052">%null%</text>
+<text id="4053">%null%</text>
+<text id="4054">%null%</text>
+<text id="4055">%null%</text>
+<text id="4056">%null%</text>
+<text id="4057">%null%</text>
+<text id="4058">%null%</text>
+<text id="4059">%null%</text>
+<text id="4060">Abilità: Belva furente
+
+Esegue un passo ferino, salta e colpisce dall'alto. Il passo iniziale può essere in avanti, indietro, a sinistra o a destra. Può essere seguito da un attacco potente per eseguire un attacco supplementare.</text>
+<text id="4061">%null%</text>
+<text id="4062">%null%</text>
+<text id="4063">%null%</text>
+<text id="4064">%null%</text>
+<text id="4065">%null%</text>
+<text id="4066">%null%</text>
+<text id="4067">%null%</text>
+<text id="4068">%null%</text>
+<text id="4069">%null%</text>
+<text id="4070">Abilità: Artigli selvaggi
+
+Si avventa come una belva sull'avversario e lo attacca con entrambi gli artigli.</text>
+<text id="4071">%null%</text>
+<text id="4072">%null%</text>
+<text id="4073">%null%</text>
+<text id="4074">%null%</text>
+<text id="4075">%null%</text>
+<text id="4076">%null%</text>
+<text id="4077">%null%</text>
+<text id="4078">%null%</text>
+<text id="4079">%null%</text>
+<text id="4080">Abilità unica: Caccia all'orso rosso
+
+Dilania la preda con un'ampia artigliata. L'attacco crea una folata che infligge danni nel tempo. Premi ripetutamente per eseguire fino a due attacchi supplementari.</text>
+<text id="4081">%null%</text>
+<text id="4082">%null%</text>
+<text id="4083">%null%</text>
+<text id="4084">%null%</text>
+<text id="4085">%null%</text>
+<text id="4086">%null%</text>
+<text id="4087">%null%</text>
+<text id="4088">%null%</text>
+<text id="4089">%null%</text>
+<text id="4090">Abilità: Punto cieco
+
+Si porta nel punto cieco del nemico con uno scatto, per poi dilaniarlo dal fianco. La direzione premuta determina da che lato colpire. Questo attacco si insinua sotto la difesa avversaria.</text>
+<text id="4091">%null%</text>
+<text id="4092">%null%</text>
+<text id="4093">%null%</text>
+<text id="4094">%null%</text>
+<text id="4095">%null%</text>
+<text id="4096">%null%</text>
+<text id="4097">%null%</text>
+<text id="4098">%null%</text>
+<text id="4099">%null%</text>
+<text id="4100">Abilità: Fendente rapido
+
+Abilità tramandata tra gli spadaccini degli araldi del corno. Esegue un rapido passo in avanti e colpisce.
+Questo fendente produce anche una folata dilaniante.
+È possibile caricare l'abilità per aumentarne la potenza e la distanza percorsa dal passo.</text>
+<text id="4101">%null%</text>
+<text id="4102">%null%</text>
+<text id="4103">%null%</text>
+<text id="4104">%null%</text>
+<text id="4105">%null%</text>
+<text id="4106">%null%</text>
+<text id="4107">%null%</text>
+<text id="4108">%null%</text>
+<text id="4109">%null%</text>
+<text id="4110">Abilità: Postura alta
+
+Abilità che inizia con la lama tenuta alta, pronta a colpire.
+Esegui un attacco normale da questa postura per fare un passo avanti e colpire verso il basso, o un attacco potente per sferrare una serie di fendenti verso il basso.</text>
+<text id="4111">%null%</text>
+<text id="4112">%null%</text>
+<text id="4113">%null%</text>
+<text id="4114">%null%</text>
+<text id="4115">%null%</text>
+<text id="4116">%null%</text>
+<text id="4117">%null%</text>
+<text id="4118">%null%</text>
+<text id="4119">%null%</text>
+<text id="4120">Abilità: Postura dell'ala
+
+Assume lentamente una postura rivolta a destra. L'attacco normale attiva una combinazione veloce di tre fendenti, l'attacco potente un affondo in salto.</text>
+<text id="4121">%null%</text>
+<text id="4122">%null%</text>
+<text id="4123">%null%</text>
+<text id="4124">%null%</text>
+<text id="4125">%null%</text>
+<text id="4126">%null%</text>
+<text id="4127">%null%</text>
+<text id="4128">%null%</text>
+<text id="4129">%null%</text>
+<text id="4130">Abilità: Lampo fugace
+
+Abilità dei cavalieri aurei di Godwyn. Dopo aver assunto una postura bassa, trasforma il corpo in una saetta, caricando in avanti a velocità fulminea.</text>
+<text id="4131">%null%</text>
+<text id="4132">%null%</text>
+<text id="4133">%null%</text>
+<text id="4134">%null%</text>
+<text id="4135">%null%</text>
+<text id="4136">%null%</text>
+<text id="4137">%null%</text>
+<text id="4138">%null%</text>
+<text id="4139">%null%</text>
+<text id="4140">Abilità: Fiamma perforante
+
+Abilità di Queelign dei cavalieri del fuoco. Avvolge l'armamento nelle fiamme e assume una postura bassa, per poi trafiggere il nemico con un movimento repentino. L'attacco potente libera un colpo incendiario supplementare.</text>
+<text id="4141">%null%</text>
+<text id="4142">%null%</text>
+<text id="4143">%null%</text>
+<text id="4144">%null%</text>
+<text id="4145">%null%</text>
+<text id="4146">%null%</text>
+<text id="4147">%null%</text>
+<text id="4148">%null%</text>
+<text id="4149">%null%</text>
+<text id="4150">Abilità: Artiglio leonino selvaggio
+
+Abilità utilizzata dai più arditi tra i Mantorosso. Esegue una capriola in avanti e colpisce i nemici con l'armamento. Premi di nuovo per eseguire un attacco supplementare.</text>
+<text id="4151">%null%</text>
+<text id="4152">%null%</text>
+<text id="4153">%null%</text>
+<text id="4154">%null%</text>
+<text id="4155">%null%</text>
+<text id="4156">%null%</text>
+<text id="4157">%null%</text>
+<text id="4158">%null%</text>
+<text id="4159">%null%</text>
+<text id="4160">Abilità: Pestone della belva divina
+
+Abilità che riproduce la furibonda danza della belva divina. Solleva una gamba e calpesta il suolo con forza brutale, generando un'ondata di gelo che si propaga sul terreno.
+È possibile caricare l'abilità per aumentarne la potenza e il raggio d'azione.</text>
+<text id="4161">%null%</text>
+<text id="4162">%null%</text>
+<text id="4163">%null%</text>
+<text id="4164">%null%</text>
+<text id="4165">%null%</text>
+<text id="4166">%null%</text>
+<text id="4167">%null%</text>
+<text id="4168">%null%</text>
+<text id="4169">%null%</text>
+<text id="4170">Abilità: Lancia fiammeggiante
+
+Abilità di Kood, capitano dei cavalieri del fuoco.
+Si prepara a eseguire un affondo con l'arma e scaglia una lancia di fuoco davanti a sé. Carica l'attacco per incrementare danni inflitti e gittata.</text>
+<text id="4171">%null%</text>
+<text id="4172">%null%</text>
+<text id="4173">%null%</text>
+<text id="4174">%null%</text>
+<text id="4175">%null%</text>
+<text id="4176">%null%</text>
+<text id="4177">%null%</text>
+<text id="4178">%null%</text>
+<text id="4179">%null%</text>
+<text id="4180">Abilità: Sovranità cariana
+
+Abilità tramandata dai reali di Caria.
+Trasforma l'arma in uno spadone magico e sferra un fendente discendente. Premi di nuovo per eseguire un attacco orizzontale. Carica ogni attacco per aumentarne la potenza.</text>
+<text id="4181">%null%</text>
+<text id="4182">%null%</text>
+<text id="4183">%null%</text>
+<text id="4184">%null%</text>
+<text id="4185">%null%</text>
+<text id="4186">%null%</text>
+<text id="4187">%null%</text>
+<text id="4188">%null%</text>
+<text id="4189">%null%</text>
+<text id="4190">Abilità: Grido di sofferenza
+
+Abilità degli oppressi. Fa sobbalzare i nemici gridando a squarciagola. Nel frattempo, attinge a tutto il risentimento represso per aumentare la potenza d'attacco in proporzione ai PV residui. L'effetto aumenta al ridursi dei PV.</text>
+<text id="4191">%null%</text>
+<text id="4192">%null%</text>
+<text id="4193">%null%</text>
+<text id="4194">%null%</text>
+<text id="4195">%null%</text>
+<text id="4196">%null%</text>
+<text id="4197">%null%</text>
+<text id="4198">%null%</text>
+<text id="4199">%null%</text>
+<text id="4200">Abilità: Affondo di scudo
+
+Un'abilità che sfrutta lo scudo per attaccare. Premi di nuovo per eseguire fino a tre attacchi supplementari.</text>
+<text id="4201">%null%</text>
+<text id="4202">%null%</text>
+<text id="4203">%null%</text>
+<text id="4204">%null%</text>
+<text id="4205">%null%</text>
+<text id="4206">%null%</text>
+<text id="4207">%null%</text>
+<text id="4208">%null%</text>
+<text id="4209">%null%</text>
+<text id="4210">Abilità: Caccia al drago di Igon
+
+Abilità del guerriero draconico Igon. Prepara l'arco e scocca il colpo, accompagnandolo con un poderoso urlo che ne accresce la potenza.</text>
+<text id="4211">%null%</text>
+<text id="4212">%null%</text>
+<text id="4213">%null%</text>
+<text id="4214">%null%</text>
+<text id="4215">%null%</text>
+<text id="4216">%null%</text>
+<text id="4217">%null%</text>
+<text id="4218">%null%</text>
+<text id="4219">%null%</text>
+<text id="4220">Abilità: Richiamo spettrale
+
+Proietta in avanti l'arma per evocare una fiamma spettrale.
+Esegui un attacco normale dopo l'abilità per ricoprire il terreno di fiamme spettrali, o un attacco potente per generare una devastante esplosione.</text>
+<text id="5000">Abilità unica: Fendente squarciadraghi
+
+Abilità nata per la caccia ai draghi. Ammanta l'armamento di un'aura di breccia, quindi sferra un poderoso colpo in salto. È possibile caricare l'abilità per rilasciare l'aura.</text>
+<text id="5001">%null%</text>
+<text id="5002">%null%</text>
+<text id="5003">%null%</text>
+<text id="5004">%null%</text>
+<text id="5005">%null%</text>
+<text id="5006">%null%</text>
+<text id="5007">%null%</text>
+<text id="5008">%null%</text>
+<text id="5009">%null%</text>
+<text id="5010">Abilità unica: Aghi perforanti
+
+Abilità della cavaliera dell'Ago Leda. Genera dieci aghi dorati che trafiggono contemporaneamente il bersaglio. Coloro che vengono infilzati da essi vengono purificati dalle alterazioni di stato ed effetti speciali.</text>
+<text id="5011">%null%</text>
+<text id="5012">%null%</text>
+<text id="5013">%null%</text>
+<text id="5014">%null%</text>
+<text id="5015">%null%</text>
+<text id="5016">%null%</text>
+<text id="5017">%null%</text>
+<text id="5018">%null%</text>
+<text id="5019">%null%</text>
+<text id="5020">Abilità unica: Luce
+
+Libera la luce racchiusa nella lama dell'armamento. Solleva la spada verso l'alto, emettendo una luce abbagliante che diffonde i suoi raggi nell'area circostante.
+Incrementa la potenza dell'attacco sacro.</text>
+<text id="5021">%null%</text>
+<text id="5022">%null%</text>
+<text id="5023">%null%</text>
+<text id="5024">%null%</text>
+<text id="5025">%null%</text>
+<text id="5026">%null%</text>
+<text id="5027">%null%</text>
+<text id="5028">%null%</text>
+<text id="5029">%null%</text>
+<text id="5030">Abilità unica: Tenebre
+
+Solleva la spada verso l'alto e affoga l'area circostante nelle tenebre. Infligge danni sacri e riduce brevemente la resistenza ai danni sacri.</text>
+<text id="5031">%null%</text>
+<text id="5032">%null%</text>
+<text id="5033">%null%</text>
+<text id="5034">%null%</text>
+<text id="5035">%null%</text>
+<text id="5036">%null%</text>
+<text id="5037">%null%</text>
+<text id="5038">%null%</text>
+<text id="5039">%null%</text>
+<text id="5040">Abilità unica: Costellazione di Onze
+
+Questa abilità, che prende il nome da un maestro di spada semiumano, infonde di energia stregata le stelle di scintipietra allineate per eseguire uno squarcio magico. Premi di nuovo per eseguire fino a due attacchi supplementari di potenza crescente.</text>
+<text id="5041">%null%</text>
+<text id="5042">%null%</text>
+<text id="5043">%null%</text>
+<text id="5044">%null%</text>
+<text id="5045">%null%</text>
+<text id="5046">%null%</text>
+<text id="5047">%null%</text>
+<text id="5048">%null%</text>
+<text id="5049">%null%</text>
+<text id="5050">Abilità: Doppia fioritura velenosa
+
+Evoca un aculeo di marcescenza scarlatta sotto il piede per trafiggere il nemico. Se l'attacco colpisce un bersaglio già affetto da veleno o marcescenza, infligge danni ingenti in un sol colpo.</text>
+<text id="5080"> Abilità unica: Ghigliottina rotante
+
+Impugnando l'armamento alle due estremità e inarcandoti, libera un poderoso taglio dall'alto. Premi ripetutamente per effettuare attacchi supplementari consumando vigore. Se seguito da un attacco potente, concatena un balzo che termina con un attacco rotante.</text>
+<text id="5081">%null%</text>
+<text id="5082">%null%</text>
+<text id="5083">%null%</text>
+<text id="5084">%null%</text>
+<text id="5085">%null%</text>
+<text id="5086">%null%</text>
+<text id="5087">%null%</text>
+<text id="5088">%null%</text>
+<text id="5089">%null%</text>
+<text id="5090">Abilità unica: Danza interminabile
+
+Una danza frenetica formata da una serie di fendenti eleganti. Tieni premuto per continuare a danzare fino all'esaurimento del vigore.</text>
+<text id="5091">%null%</text>
+<text id="5092">%null%</text>
+<text id="5093">%null%</text>
+<text id="5094">%null%</text>
+<text id="5095">%null%</text>
+<text id="5096">%null%</text>
+<text id="5097">%null%</text>
+<text id="5098">%null%</text>
+<text id="5099">%null%</text>
+<text id="5100">Abilità unica: Lama del vendicatore
+
+Scatta verso un nemico e lo attacca brandendo una lama in ciascuna mano. Tieni premuto per prolungare lo scatto. Prosegui con un attacco potente per fare a pezzi il nemico.</text>
+<text id="5101">%null%</text>
+<text id="5102">%null%</text>
+<text id="5103">%null%</text>
+<text id="5104">%null%</text>
+<text id="5105">%null%</text>
+<text id="5106">%null%</text>
+<text id="5107">%null%</text>
+<text id="5108">%null%</text>
+<text id="5109">%null%</text>
+<text id="5110">Abilità unica: Foschie del sonno eterno
+
+Rilascia un'avvolgente foschia violacea che si diffonde frontalmente. Induce i nemici al sonno eterno.</text>
+<text id="5111">%null%</text>
+<text id="5112">%null%</text>
+<text id="5113">%null%</text>
+<text id="5114">%null%</text>
+<text id="5115">%null%</text>
+<text id="5116">%null%</text>
+<text id="5117">%null%</text>
+<text id="5118">%null%</text>
+<text id="5119">%null%</text>
+<text id="5120"> Abilità unica: Falciatura dinastica
+
+Abilità evasiva che cre spazio di manovra con un passo elegante. La direzione premuta determina la direzione del passo. Può essere seguita da un attacco potente per sferrare un fendente verso l'alto in avanzata. Un secondo attacco potente rilascia dei fendenti seguiti da un'altro passo elegante all'indietro.</text>
+<text id="5121">%null%</text>
+<text id="5122">%null%</text>
+<text id="5123">%null%</text>
+<text id="5124">%null%</text>
+<text id="5125">%null%</text>
+<text id="5126">%null%</text>
+<text id="5127">%null%</text>
+<text id="5128">%null%</text>
+<text id="5129">%null%</text>
+<text id="5130">Abilità unica: Lampo fugace (ascia gemella)
+
+Dopo aver assunto una postura bassa, si trasforma in una saetta e carica in avanti a velocità fulminea.  Se seguita da un attacco potente permette di eseguire un fendente rotante infuso di fulmine.</text>
+<text id="5131">%null%</text>
+<text id="5132">%null%</text>
+<text id="5133">%null%</text>
+<text id="5134">%null%</text>
+<text id="5135">%null%</text>
+<text id="5136">%null%</text>
+<text id="5137">%null%</text>
+<text id="5138">%null%</text>
+<text id="5139">%null%</text>
+<text id="5140">Abilità unica: Lampo fugace (ascia lunga)
+
+Dopo aver assunto una postura bassa, si trasforma in una saetta e carica in avanti a velocità fulminea. Se seguita da un attacco potente, permette di eseguire un fendente in salto infuso di fulmine.</text>
+<text id="5141">%null%</text>
+<text id="5142">%null%</text>
+<text id="5143">%null%</text>
+<text id="5144">%null%</text>
+<text id="5145">%null%</text>
+<text id="5146">%null%</text>
+<text id="5147">%null%</text>
+<text id="5148">%null%</text>
+<text id="5149">%null%</text>
+<text id="5150">Abilità unica: Promessa di matrimonio
+
+Infonde in due spadoni il fulgore di Miquella, poi esegue un fendente accompagnato da una colonna di luce. Premi di nuovo per eseguire fino a due attacchi supplementari.</text>
+<text id="5151">%null%</text>
+<text id="5152">%null%</text>
+<text id="5153">%null%</text>
+<text id="5154">%null%</text>
+<text id="5155">%null%</text>
+<text id="5156">%null%</text>
+<text id="5157">%null%</text>
+<text id="5158">%null%</text>
+<text id="5159">%null%</text>
+<text id="5160">Abilità unica: Testata del girasole ombra
+
+Schianta a terra il bocciolo di un enorme girasole ombra, generando un'onda d'urto che abbatte i nemici. Premi ripetutamente per eseguire fino a due attacchi supplementari.</text>
+<text id="5161">%null%</text>
+<text id="5162">%null%</text>
+<text id="5163">%null%</text>
+<text id="5164">%null%</text>
+<text id="5165">%null%</text>
+<text id="5166">%null%</text>
+<text id="5167">%null%</text>
+<text id="5168">%null%</text>
+<text id="5169">%null%</text>
+<text id="5170">Abilità unica: Postura della luna e del fuoco
+
+Assumi una posa e carica di magie le due spade. Esegui un attacco normale per lanciare ondate luminose di scintipietra, concatenando fino a due serie di attacchi supplementari.
+Esegui invece un attacco potente per sferrare un colpo rotante che immerge l'area circostante in fiamme.</text>
+<text id="5171">%null%</text>
+<text id="5172">%null%</text>
+<text id="5173">%null%</text>
+<text id="5174">%null%</text>
+<text id="5175">%null%</text>
+<text id="5176">%null%</text>
+<text id="5177">%null%</text>
+<text id="5178">%null%</text>
+<text id="5179">%null%</text>
+<text id="5180">Abilità unica: Vortice di Devonia
+
+Attingi al potere del vortice del Crogiolo per consentire al martello di mulinare a mezz'aria, percuotendo alla fine il terreno creando un'onda d'urto.
+Accumula potenza se caricata.</text>
+<text id="5181">%null%</text>
+<text id="5182">%null%</text>
+<text id="5183">%null%</text>
+<text id="5184">%null%</text>
+<text id="5185">%null%</text>
+<text id="5186">%null%</text>
+<text id="5187">%null%</text>
+<text id="5188">%null%</text>
+<text id="5189">%null%</text>
+<text id="5190">Abilità unica: Assalto di Messmer
+
+Feroce sequenza di attacchi eseguiti con una lancia dalla punta incendiaria. Premi di nuovo per eseguire fino a due attacchi supplementari. La mossa finale consiste nel piantare l'armamento nel terreno, facendo emergere numerose aste acuminate nell'area circostante.</text>
+<text id="5210">Abilità unica: Sonno senza fine
+
+Trafigge il nemico con un ago ricoperto di veleno che infligge sonno eterno. Se l'attacco successivo colpisce un bersaglio già affetto da sonno o sonno eterno, i danni inflitti aumentano notevolmente.</text>
+<text id="5211">%null%</text>
+<text id="5212">%null%</text>
+<text id="5213">%null%</text>
+<text id="5214">%null%</text>
+<text id="5215">%null%</text>
+<text id="5216">%null%</text>
+<text id="5217">%null%</text>
+<text id="5218">%null%</text>
+<text id="5219">%null%</text>
+<text id="5220">Abilità unica: Calvario dorato
+
+Salta in aria e trafiggi il bersaglio dall'alto. Se l'attacco iniziale ha successo, gli aculei dell'arma straziano il bersaglio dall'interno.
+La scena di coloro martoriati dal calvario ricorda vagamente l'Ordine aureo.</text>
+<text id="5221">%null%</text>
+<text id="5222">%null%</text>
+<text id="5223">%null%</text>
+<text id="5224">%null%</text>
+<text id="5225">%null%</text>
+<text id="5226">%null%</text>
+<text id="5227">%null%</text>
+<text id="5228">%null%</text>
+<text id="5229">%null%</text>
+<text id="5230">Abilità unica: Carica di Moore
+
+Impugna lo scudo a due mani e carica in avanti tenendo alta la guardia, per poi sferrare un colpo infuso con la magia del verderame. Respinge i nemici vicini, ma senza causare danni significativi. Tieni premuto per prolungare la carica.</text>
+<text id="5231">%null%</text>
+<text id="5232">%null%</text>
+<text id="5233">%null%</text>
+<text id="5234">%null%</text>
+<text id="5235">%null%</text>
+<text id="5236">%null%</text>
+<text id="5237">%null%</text>
+<text id="5238">%null%</text>
+<text id="5239">%null%</text>
+<text id="5240">Abilità unica: Carica algida
+
+Evoca una luce bianca dalle fessure dell'antico metallo meteoritico da cui è composto lo spadone e attinge al suo potere per trafiggere i nemici con un attacco in carica. Premi di nuovo per far esplodere la luce.</text>
+<text id="5241">%null%</text>
+<text id="5242">%null%</text>
+<text id="5243">%null%</text>
+<text id="5244">%null%</text>
+<text id="5245">%null%</text>
+<text id="5246">%null%</text>
+<text id="5247">%null%</text>
+<text id="5248">%null%</text>
+<text id="5249">%null%</text>
+<text id="5250">Abilità unica: Fendente rancoroso
+
+Colpisce con attacchi rotanti mentre evoca spiriti vendicativi che inseguono i nemici. Premi di nuovo per eseguire un attacco supplementare.</text>
+<text id="5251">%null%</text>
+<text id="5252">%null%</text>
+<text id="5253">%null%</text>
+<text id="5254">%null%</text>
+<text id="5255">%null%</text>
+<text id="5256">%null%</text>
+<text id="5257">%null%</text>
+<text id="5258">%null%</text>
+<text id="5259">%null%</text>
+<text id="5260">Abilità unica: Fendente di mezzanotte
+
+Tiene la spada in orizzontale e la ammanta di tenebre della notte, per poi sferrare una serie di attacchi incorporei imbloccabili. Genera ulteriori fendenti d'ombra se caricata.</text>
+<text id="5261">%null%</text>
+<text id="5262">%null%</text>
+<text id="5263">%null%</text>
+<text id="5264">%null%</text>
+<text id="5265">%null%</text>
+<text id="5266">%null%</text>
+<text id="5267">%null%</text>
+<text id="5268">%null%</text>
+<text id="5269">%null%</text>
+<text id="5270">Abilità unica: Vortice di Euporia
+
+Usando il potere del vortice, fa roteare furiosamente l'arma, sferrando svariati colpi davanti a sé. L'efficacia dell'abilità aumenta in proporzione alla lucentezza recuperata. Tuttavia, usare l'abilità fa perdere la lucentezza accumulata.</text>
+<text id="5271">%null%</text>
+<text id="5272">%null%</text>
+<text id="5273">%null%</text>
+<text id="5274">%null%</text>
+<text id="5275">%null%</text>
+<text id="5276">%null%</text>
+<text id="5277">%null%</text>
+<text id="5278">%null%</text>
+<text id="5279">%null%</text>
+<text id="5280">Abilità unica: Lance delle arti di forgiatura
+
+Conficca a terra l'incudine incandescente, facendo emergere una selva di lance nel momento in cui la si estrae. Le lance svaniscono all'istante.</text>
+<text id="5281">%null%</text>
+<text id="5282">%null%</text>
+<text id="5283">%null%</text>
+<text id="5284">%null%</text>
+<text id="5285">%null%</text>
+<text id="5286">%null%</text>
+<text id="5287">%null%</text>
+<text id="5288">%null%</text>
+<text id="5289">%null%</text>
+<text id="5290">Abilità unica: Fendente rancoroso
+
+Colpisce con attacchi rotanti mentre evoca spiriti vendicativi che inseguono i nemici. Premi di nuovo per eseguire un attacco supplementare.</text>
+<text id="5291">%null%</text>
+<text id="5292">%null%</text>
+<text id="5293">%null%</text>
+<text id="5294">%null%</text>
+<text id="5295">%null%</text>
+<text id="5296">%null%</text>
+<text id="5297">%null%</text>
+<text id="5298">%null%</text>
+<text id="5299">%null%</text>
+<text id="5300">Abilità unica: Purificazione di Romina
+
+Infonde farfalle di marcescenza scarlatta nella lama bocciolo, quindi sferra due ampie spazzate. Un tempo, questo era considerato un sacro rituale di purificazione.</text>
+<text id="5301">%null%</text>
+<text id="5302">%null%</text>
+<text id="5303">%null%</text>
+<text id="5304">%null%</text>
+<text id="5305">%null%</text>
+<text id="5306">%null%</text>
+<text id="5307">%null%</text>
+<text id="5308">%null%</text>
+<text id="5309">%null%</text>
+<text id="5310">Abilità unica: Puntura della mano velenosa
+
+Forma una lancia con la mano e la conficca nel corpo del nemico, infliggendogli una cospicua dose di veleno mortale.</text>
+<text id="5311">%null%</text>
+<text id="5312">%null%</text>
+<text id="5313">%null%</text>
+<text id="5314">%null%</text>
+<text id="5315">%null%</text>
+<text id="5316">%null%</text>
+<text id="5317">%null%</text>
+<text id="5318">%null%</text>
+<text id="5319">%null%</text>
+<text id="5320">Abilità unica: Puntura della mano folle
+
+Forma una lancia con la mano e la conficca nel corpo del nemico, infliggendogli una cospicua dose di follia.</text>
+<text id="5321">%null%</text>
+<text id="5322">%null%</text>
+<text id="5323">%null%</text>
+<text id="5324">%null%</text>
+<text id="5325">%null%</text>
+<text id="5326">%null%</text>
+<text id="5327">%null%</text>
+<text id="5328">%null%</text>
+<text id="5329">%null%</text>
+<text id="5330">Abilità unica: Fiamma frenetica del gracile lord
+
+Punta la torcia davanti a sé e genera una fiammata di frenesia che impone follia a chiunque si trovi nel suo raggio d'azione, esecutore compreso. L'abilità continua finché tieni premuto ed è utilizzabile anche in movimento.</text>
+<text id="5331">%null%</text>
+<text id="5332">%null%</text>
+<text id="5333">%null%</text>
+<text id="5334">%null%</text>
+<text id="5335">%null%</text>
+<text id="5336">%null%</text>
+<text id="5337">%null%</text>
+<text id="5338">%null%</text>
+<text id="5339">%null%</text>
+<text id="5340">Abilità unica: Fuoco a ripetizione
+
+Questa abilità innesca il meccanismo di fuoco rapido dell'arma. Una volta in posizione, continua ad azionare la manovella per sparare una veloce raffica di dardi.</text>
+<text id="5341">%null%</text>
+<text id="5342">%null%</text>
+<text id="5343">%null%</text>
+<text id="5344">%null%</text>
+<text id="5345">%null%</text>
+<text id="5346">%null%</text>
+<text id="5347">%null%</text>
+<text id="5348">%null%</text>
+<text id="5349">%null%</text>
+<text id="5350">Abilità unica: Danza mortale
+
+Impugna una lama circolare con ciascuna mano e fa a pezzi i nemici ruotando vorticosamente. Premi di nuovo per eseguire un calcio ad ascia supplementare.</text>
+<text id="5351">%null%</text>
+<text id="5352">%null%</text>
+<text id="5353">%null%</text>
+<text id="5354">%null%</text>
+<text id="5355">%null%</text>
+<text id="5356">%null%</text>
+<text id="5357">%null%</text>
+<text id="5358">%null%</text>
+<text id="5359">%null%</text>
+<text id="5360">Abilità unica: Sventagliata
+
+Tecnica d'arco con impugnatura orizzontale.
+Incocca otto frecce contemporaneamente, scoccandole assieme in un ventaglio.</text>
+<text id="5361">%null%</text>
+<text id="5362">%null%</text>
+<text id="5363">%null%</text>
+<text id="5364">%null%</text>
+<text id="5365">%null%</text>
+<text id="5366">%null%</text>
+<text id="5367">%null%</text>
+<text id="5368">%null%</text>
+<text id="5369">%null%</text>
+<text id="5370">Abilità unica: Lancio del disco
+
+Lancia lo scudo tondo come un disco. Una volta lanciato, lo scudo riappare all'istante in mano all'esecutore grazie alle arti di forgiatura.</text>
+<text id="5371">%null%</text>
+<text id="5372">%null%</text>
+<text id="5373">%null%</text>
+<text id="5374">%null%</text>
+<text id="5375">%null%</text>
+<text id="5376">%null%</text>
+<text id="5377">%null%</text>
+<text id="5378">%null%</text>
+<text id="5379">%null%</text>
+<text id="5380">Abilità unica: Fulmine draconico floreale
+
+Evoca il fulmine rosso dei draghi antichi per colpire un bersaglio. Infligge danni da fulmine e riduce temporaneamente la resistenza ai danni da fulmine. Accumula potenza se caricata.</text>
+<text id="5381">%null%</text>
+<text id="5382">%null%</text>
+<text id="5383">%null%</text>
+<text id="5384">%null%</text>
+<text id="5385">%null%</text>
+<text id="5386">%null%</text>
+<text id="5387">%null%</text>
+<text id="5388">%null%</text>
+<text id="5389">%null%</text>
+<text id="5390">Abilità unica: Risentimento del genuflesso
+
+Abilità eseguita esibendosi in un violento inchino con la punta del dito. L'accumulo di risentimento culmina in un'esplosione di collera. Tieni premuto per incrementare ulteriormente il risentimento. </text>
+<text id="5420">Abilità unica: Colpo dolente
+
+Colpo di frusta castigatore, volto a infliggere il massimo del dolore. Riduce brevemente la velocità di recupero del vigore. 
+La sofferenza incoraggia docilità nella vittima.</text>
+<text id="5421">%null%</text>
+<text id="5422">%null%</text>
+<text id="5423">%null%</text>
+<text id="5424">%null%</text>
+<text id="5425">%null%</text>
+<text id="5426">%null%</text>
+<text id="5427">%null%</text>
+<text id="5428">%null%</text>
+<text id="5429">%null%</text>
+<text id="5430">Abilità unica: Fendente della luna solitaria
+
+Esegue un fendente dall'alto con lo spadone, da cui scaturisce un arco di luce. L'attacco potente attiva un colpo supplementare in avanzata.</text>
+<text id="5431">%null%</text>
+<text id="5432">%null%</text>
+<text id="5433">%null%</text>
+<text id="5434">%null%</text>
+<text id="5435">%null%</text>
+<text id="5436">%null%</text>
+<text id="5437">%null%</text>
+<text id="5438">%null%</text>
+<text id="5439">%null%</text>
+<text id="5440">Abilità unica: Vendetta della notte
+
+Diffonde tenebre notturne ammantate di magia. Se eseguita subito dopo aver bloccato un colpo, ne assorbe la potenza, incrementando l'efficacia dell'abilità.</text>
+<text id="5441">%null%</text>
+<text id="5442">%null%</text>
+<text id="5443">%null%</text>
+<text id="5444">%null%</text>
+<text id="5445">%null%</text>
+<text id="5446">%null%</text>
+<text id="5447">%null%</text>
+<text id="5448">%null%</text>
+<text id="5449">%null%</text>
+<text id="5450">Abilità unica: Mietitore
+
+Sferra colpi di spada orizzontali simili a falciate, abbattendo i nemici come fili d'erba. Premi di nuovo per continuare ad attaccare fino all'esaurimento del vigore.</text>
+<text id="5451">%null%</text>
+<text id="5452">%null%</text>
+<text id="5453">%null%</text>
+<text id="5454">%null%</text>
+<text id="5455">%null%</text>
+<text id="5456">%null%</text>
+<text id="5457">%null%</text>
+<text id="5458">%null%</text>
+<text id="5459">%null%</text>
+<text id="5460">Abilità unica: Cieca felicità
+
+Fa oscillare la testa con gli occhi coperti, intonando un lamento che rende l'esecutore meno visibile per un breve periodo.
+Per coloro che cercano la felicità, l'ignoranza è beatitudine.</text>
+<text id="5461">%null%</text>
+<text id="5462">%null%</text>
+<text id="5463">%null%</text>
+<text id="5464">%null%</text>
+<text id="5465">%null%</text>
+<text id="5466">%null%</text>
+<text id="5467">%null%</text>
+<text id="5468">%null%</text>
+<text id="5469">%null%</text>
+<text id="5470">Abilità unica: Inquisizione di Jori
+
+Solleva il grande bastone, che libera archi dorati spinosi in rapida successione. Tieni premuto per estendere brevemente la durata della raffica.</text>
+<text id="5471">%null%</text>
+<text id="5472">%null%</text>
+<text id="5473">%null%</text>
+<text id="5474">%null%</text>
+<text id="5475">%null%</text>
+<text id="5476">%null%</text>
+<text id="5477">%null%</text>
+<text id="5478">%null%</text>
+<text id="5479">%null%</text>
+<text id="5480">Abilità unica: Colpo ruggente
+
+Ruggisci come un leone dorato e sferra un colpo di scudo senza abbassare la guardia.
+Respinge i nemici e induce vacillamento ad ampio raggio.</text>
+<text id="5481">%null%</text>
+<text id="5482">%null%</text>
+<text id="5483">%null%</text>
+<text id="5484">%null%</text>
+<text id="5485">%null%</text>
+<text id="5486">%null%</text>
+<text id="5487">%null%</text>
+<text id="5488">%null%</text>
+<text id="5489">%null%</text>
+<text id="5490">Abilità unica: Getto di veleno mortale
+
+Agita la bottiglia di profumo sopra di sé, spargendo polvere aromatica di veleno mortale su un'ampia area. La tossina aleggia nell'aria, depositandosi lentamente.</text>
+<text id="5491">%null%</text>
+<text id="5492">%null%</text>
+<text id="5493">%null%</text>
+<text id="5494">%null%</text>
+<text id="5495">%null%</text>
+<text id="5496">%null%</text>
+<text id="5497">%null%</text>
+<text id="5498">%null%</text>
+<text id="5499">%null%</text>
+<text id="5500">Abilità unica: Brucia serpente, brucia
+
+Innesca una fiamma nei serpenti, potenziando brevemente gli attacchi incendiari. Dopo l'innesco, gli attacchi potenti e i colpi che impattano il suolo producono esplosioni.</text>
+<text id="5501">%null%</text>
+<text id="5502">%null%</text>
+<text id="5503">%null%</text>
+<text id="5504">%null%</text>
+<text id="5505">%null%</text>
+<text id="5506">%null%</text>
+<text id="5507">%null%</text>
+<text id="5508">%null%</text>
+<text id="5509">%null%</text>
+<text id="5510">Abilità unica: Lancio multiplo (artiglio)
+
+Sfrutta le arti di forgiatura per creare più copie degli artigli in entrambe le mani, per poi lanciarle tutte insieme. Premi di nuovo per lanciare un'altra raffica.</text>
+<text id="5511">%null%</text>
+<text id="5512">%null%</text>
+<text id="5513">%null%</text>
+<text id="5514">%null%</text>
+<text id="5515">%null%</text>
+<text id="5516">%null%</text>
+<text id="5517">%null%</text>
+<text id="5518">%null%</text>
+<text id="5519">%null%</text>
+<text id="5520">Abilità unica: Fil di lama
+
+Affila la lama con un gesto, incrementando il recupero di PV.
+I sommi potentati sono molto gelosi dei loro ferri del mestiere.</text>
+<text id="5521">%null%</text>
+<text id="5522">%null%</text>
+<text id="5523">%null%</text>
+<text id="5524">%null%</text>
+<text id="5525">%null%</text>
+<text id="5526">%null%</text>
+<text id="5527">%null%</text>
+<text id="5528">%null%</text>
+<text id="5529">%null%</text>
+<text id="5530">Abilità unica: Richiamo del corno
+
+Invoca corna ritorte sulla lama e conficca l'arma al suolo, sprigionando un ammasso di barbigli di ossa.</text>
+<text id="5531">%null%</text>
+<text id="5532">%null%</text>
+<text id="5533">%null%</text>
+<text id="5534">%null%</text>
+<text id="5535">%null%</text>
+<text id="5536">%null%</text>
+<text id="5537">%null%</text>
+<text id="5538">%null%</text>
+<text id="5539">%null%</text>
+<text id="5540">Abilità unica: Richiamo del corno (tempesta)
+
+Invoca corna ritorte sulla lama e richiama una tempesta su esse, abbattendoti sui nemici come un vortice. Premi di nuovo per eseguire fino a due attacchi supplementari.</text>
+<text id="5541">%null%</text>
+<text id="5542">%null%</text>
+<text id="5543">%null%</text>
+<text id="5544">%null%</text>
+<text id="5545">%null%</text>
+<text id="5546">%null%</text>
+<text id="5547">%null%</text>
+<text id="5548">%null%</text>
+<text id="5549">%null%</text>
+<text id="5550">Abilità unica: Falange imponente
+
+Abilità dei cavalieri troll incantati. Genera nel cielo un arco difensivo di grosse scintilame magiche che attaccano automaticamente i nemici vicini. Se seguita da un attacco potente esegue un affondo in avanti.</text>
+<text id="5551">%null%</text>
+<text id="5552">%null%</text>
+<text id="5553">%null%</text>
+<text id="5554">%null%</text>
+<text id="5555">%null%</text>
+<text id="5556">%null%</text>
+<text id="5557">%null%</text>
+<text id="5558">%null%</text>
+<text id="5559">%null%</text>
+<text id="5560">Abilità unica: Manna dei sanguidemoni
+
+Solleva la lancia sacra e la conficca nel corpo della madre della verità, creando un'esplosione di fiamma sanguinaria nell'area circostante il bersaglio. Premi di nuovo per eseguire fino a tre attacchi supplementari.</text>
+<text id="5561">%null%</text>
+<text id="5562">%null%</text>
+<text id="5563">%null%</text>
+<text id="5564">%null%</text>
+<text id="5565">%null%</text>
+<text id="5566">%null%</text>
+<text id="5567">%null%</text>
+<text id="5568">%null%</text>
+<text id="5569">%null%</text>
+<text id="5570">Abilità unica: Fiamma della forma draconica
+
+Vomita fiamme dalle fauci draconiche, disegnando un arco frontale. Le fiamme sul terreno continueranno a bruciare per un periodo.</text>
+<text id="5571">%null%</text>
+<text id="5572">%null%</text>
+<text id="5573">%null%</text>
+<text id="5574">%null%</text>
+<text id="5575">%null%</text>
+<text id="5576">%null%</text>
+<text id="5577">%null%</text>
+<text id="5578">%null%</text>
+<text id="5579">%null%</text>
+<text id="5580">Abilità unica: Fendente fulmineo
+
+Assume una forma luminosa e salta in avanti per sferrare un fendente verso il basso alla velocità della luce. L'attacco può essere seguito da un ulteriore colpo di luce. Carica per incrementare l'efficacia dell'abilità e il numero di attacchi supplementari.</text>
+<text id="5600">Abilità unica: Colpo rancoroso
+
+Infondi in delle frecce degli spiriti vendicativi, e rilasciale in uno sbarramento. Le frecce possedute inseguono i nemici, tagliando l'aria.</text>
+</entries>
+</fmg>

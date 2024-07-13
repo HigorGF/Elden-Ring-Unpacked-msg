@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="10410">Benedizione dell'Albero Ombra</text>
+<text id="10411">Benedizione ceneri venerate</text>
+<text id="30205">Intensità della benedizione dell'Albero Ombra.
+Ha effetto solo nel regno dell'ombra
+su chi ha ricevuto la benedizione.</text>
+<text id="30206">Intensità della benedizione delle ceneri di spirito venerate.
+Rafforza il destriero fantasma e gli spiriti evocati, ma solo all'interno del regno dell'ombra.</text>
+<text id="40382">Solo tastiera</text>
+<text id="40383">Mouse e tastiera</text>
+<text id="40524">Oggetti recenti</text>
+<text id="60180">Corpo a corpo</text>
+<text id="60181">Bottiglia di profumo</text>
+<text id="60182">Scudo da affondo</text>
+<text id="60183">Lama da lancio</text>
+<text id="60184">Lama rovesciata</text>
+<text id="60185">Spadone leggero</text>
+<text id="60186">Katana gigante</text>
+<text id="60187">Artiglio ferino</text>
+<text id="63051">Usabile su armi corpo a corpo</text>
+<text id="63052">Usabile su bottiglie di profumo</text>
+<text id="63053">Usabile su scudi da affondo</text>
+<text id="63054">Usabile su lame da lancio</text>
+<text id="63055">Usabile su lame rovesciate</text>
+<text id="63056">Usabile su spadoni leggeri</text>
+<text id="63057">Usabile su katana giganti</text>
+<text id="63058">Usabile su artigli ferini</text>
+<text id="63059">Usabile su armamenti da affondo (tranne artigli e lame rovesciate)</text>
+<text id="63060">Usabile su spade grandi e colossali</text>
+<text id="63061">Usabile su spade e lance (tranne armamenti piccoli, lame gemelle e lame rovesciate)</text>
+<text id="80020">Vaso incrinato grande</text>
+<text id="110600">Video</text>
+<text id="110601">Contrassegna nuovi oggetti</text>
+<text id="110602">%null%</text>
+<text id="110603">Mostra scheda Oggetti recenti</text>
+<text id="110700">Audio</text>
+<text id="111024">Movimento cursore menu mappa</text>
+<text id="111025">Sensibilità cambio bersaglio</text>
+<text id="225001">Comunione draconica: Bayle</text>
+<text id="225002">%null%</text>
+<text id="225003">%null%</text>
+<text id="225004">%null%</text>
+<text id="225005">%null%</text>
+<text id="225006">%null%</text>
+<text id="225007">%null%</text>
+<text id="225008">%null%</text>
+<text id="225009">%null%</text>
+<text id="225010">%null%</text>
+<text id="225011">Offerte</text>
+<text id="241337">Altus Ombra</text>
+<text id="241338">Costa cerulea</text>
+<text id="241339">Base del picco frastagliato</text>
+<text id="241340">Picco frastagliato</text>
+<text id="241341">Tomba nascosta di Charo</text>
+<text id="241342">Antiche rovine di Rauh</text>
+<text id="241343">Ombravista</text>
+<text id="241344">Boschi abissali</text>
+<text id="241345">Belurat, insediamento della torre</text>
+<text id="241346">Enir-Ilim</text>
+<text id="241347">Rocca delle ombre</text>
+<text id="241348">Rocca delle ombre, quartiere della chiesa</text>
+<text id="241349">Magazzino di esemplari</text>
+<text id="241350">Faglia dei sarcofagi di pietra</text>
+<text id="241351">Canonica di Midra</text>
+<text id="241352">Castello di Ensis</text>
+<text id="241353">Piana dei sepolcri</text>
+<text id="241354">Base di Rauh</text>
+<text id="241417">Piana dei sepolcri</text>
+<text id="241418">Altus Ombra</text>
+<text id="241419">Regione della torre</text>
+<text id="241420">Rocca delle ombre</text>
+<text id="241500">Menu funzioni mappa</text>
+<text id="241501">Visualizzazione stato multigiocatore</text>
+<text id="241502">Elenco bacini evocazione</text>
+<text id="241503">Visualizza comandi</text>
+<text id="241504">Spiegazione menu</text>
+<text id="241600">Elenco bacini evocazione</text>
+<text id="280060">Menu</text>
+<text id="280600">Mappa</text>
+<text id="331340">CUORE RUBATO</text>
+</entries>
+</fmg>

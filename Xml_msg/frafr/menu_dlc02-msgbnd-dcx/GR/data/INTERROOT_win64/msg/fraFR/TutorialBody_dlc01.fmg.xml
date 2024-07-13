@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="302600">Des esquilles de l'Arbre-Occulte sont disséminés dans le Royaume des ombres.
+
+Consommez-les auprès d'un Site de grâce pour renforcer votre bénédiction de l'Arbre-Occulte.
+
+La bénédiction de l'Arbre-Occulte renforce votre capacité à infliger des dégâts ainsi que votre résistance, mais est sans effet hors du Royaume des ombres.</text>
+<text id="302601">%null%</text>
+<text id="302602">%null%</text>
+<text id="302603">%null%</text>
+<text id="302604">%null%</text>
+<text id="302605">%null%</text>
+<text id="302606">%null%</text>
+<text id="302607">%null%</text>
+<text id="302608">%null%</text>
+<text id="302609">%null%</text>
+<text id="302610">De la cendre spirituelle vénérée est disséminée dans le Royaume des ombres.
+
+Consommez-en auprès d'un Site de grâce pour renforcer votre bénédiction de la cendre spirituelle vénérée.
+
+La bénédiction de la cendre spirituelle vénérée renforce la capacité à infliger des dégâts ainsi que la résistance des esprits invoqués et du destrier spectral, mais est sans effet hors du Royaume des ombres.</text>
+<text id="302611">%null%</text>
+<text id="302612">%null%</text>
+<text id="302613">%null%</text>
+<text id="302614">%null%</text>
+<text id="302615">%null%</text>
+<text id="302616">%null%</text>
+<text id="302617">%null%</text>
+<text id="302618">%null%</text>
+<text id="302619">%null%</text>
+<text id="302620">De nouvelles fonctionnalités peuvent être activées en vous rendant dans l'onglet Affichage du menu Configuration.
+
+- Les objets obtenus pour la première fois peuvent être marqués à l'aide de &lt;?newItemIcon?&gt;.
+- Un onglet dédié a été implémenté afin de visualiser les objets récemment obtenus.</text>
+<text id="402600">Consommez des esquilles de l'Arbre-Occulte pour renforcer votre bénédiction de l'Arbre-Occulte.
+
+La bénédiction de l'Arbre-Occulte renforce votre capacité à infliger des dégâts ainsi que votre résistance, mais est sans effet hors du Royaume des ombres.</text>
+<text id="402601">%null%</text>
+<text id="402602">%null%</text>
+<text id="402603">%null%</text>
+<text id="402604">%null%</text>
+<text id="402605">%null%</text>
+<text id="402606">%null%</text>
+<text id="402607">%null%</text>
+<text id="402608">%null%</text>
+<text id="402609">%null%</text>
+<text id="402610">Consommez de la cendre spirituelle vénérée pour renforcer votre bénédiction de la cendre spirituelle vénérée.
+
+La bénédiction de la cendre spirituelle vénérée renforce la capacité à infliger des dégâts ainsi que la résistance des esprits invoqués et du destrier spectral, mais est sans effet hors du Royaume des ombres.
+</text>
+</entries>
+</fmg>

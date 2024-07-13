@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="80">Consommez des esquilles de l'Arbre-Occulte auprès d'un Site de grâce pour renforcer la bénédiction correspondante.
+
+La bénédiction de l'Arbre-Occulte renforce votre capacité à infliger des dégâts ainsi que votre résistance, mais est sans effet hors du Royaume des ombres.</text>
+<text id="81">Consommez de la cendre spirituelle vénérée auprès d'un Site de grâce pour renforcer la bénédiction correspondante.
+
+La bénédiction de la cendre spirituelle vénérée renforce la capacité à infliger des dégâts ainsi que la résistance des esprits invoqués et du destrier spectral, mais est sans effet hors du Royaume des ombres.</text>
+<text id="205">Les objets obtenus pour la première fois peuvent être marqués à l'aide de &lt;?newItemIcon?&gt;.
+
+Vous pouvez activer ou désactiver cette marque en vous rendant dans les Options du menu Configuration.</text>
+<text id="206">Les éléments récemment obtenus sont visibles dans un onglet dédié.
+
+Vous pouvez activer ou désactiver cet onglet en vous rendant dans l'onglet Affichage du menu Configuration.</text>
+<text id="207">Les recueils d'invocations activés seront également activés lors de vos prochaines parties.
+
+Vous pouvez activer ou désactiver chaque recueil d'invocations à l'aide de la liste située dans le menu de la carte.</text>
+</entries>
+</fmg>

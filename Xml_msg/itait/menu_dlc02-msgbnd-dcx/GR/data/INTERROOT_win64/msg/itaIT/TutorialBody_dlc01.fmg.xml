@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="302600">I frammenti di Albero Ombra sono disseminati nel regno dell'ombra.
+
+Consumali nei luoghi di grazia per rafforzare la tua benedizione dell'Albero Ombra.
+
+La benedizione dell'Albero Ombra rafforza la capacità offensiva e difensiva di chi la possiede, ma non ha effetto al di fuori del regno dell'ombra.</text>
+<text id="302601">%null%</text>
+<text id="302602">%null%</text>
+<text id="302603">%null%</text>
+<text id="302604">%null%</text>
+<text id="302605">%null%</text>
+<text id="302606">%null%</text>
+<text id="302607">%null%</text>
+<text id="302608">%null%</text>
+<text id="302609">%null%</text>
+<text id="302610">Le ceneri di spirito venerate sono disseminate nel regno dell'ombra.
+
+Consumale nei luoghi di grazia per rafforzare la tua benedizione delle ceneri di spirito venerate.
+
+La benedizione delle ceneri di spirito venerate rafforza le capacità offensive e difensive del destriero fantasma e degli spiriti evocati, ma non ha effetto al di fuori del regno dell'ombra.</text>
+<text id="302611">%null%</text>
+<text id="302612">%null%</text>
+<text id="302613">%null%</text>
+<text id="302614">%null%</text>
+<text id="302615">%null%</text>
+<text id="302616">%null%</text>
+<text id="302617">%null%</text>
+<text id="302618">%null%</text>
+<text id="302619">%null%</text>
+<text id="302620">Puoi attivare le nuove funzionalità nella sezione Video del menu di sistema.
+
+- Gli oggetti ottenuti per la prima volta possono essere contrassegnati con &lt;?newItemIcon?&gt;.
+- È stata aggiunta una scheda apposita per la visualizzazione degli oggetti recenti.</text>
+<text id="402600">Consuma i frammenti di Albero Ombra per rafforzare la tua benedizione dell'Albero Ombra.
+
+La benedizione dell'Albero Ombra rafforza le capacità offensive e difensive di chi la possiede, ma non ha effetto al di fuori del regno dell'ombra.</text>
+<text id="402601">%null%</text>
+<text id="402602">%null%</text>
+<text id="402603">%null%</text>
+<text id="402604">%null%</text>
+<text id="402605">%null%</text>
+<text id="402606">%null%</text>
+<text id="402607">%null%</text>
+<text id="402608">%null%</text>
+<text id="402609">%null%</text>
+<text id="402610">Consuma le ceneri di spirito venerate per rafforzare la tua benedizione delle ceneri di spirito venerate.
+
+La benedizione delle ceneri di spirito venerate rafforza le capacità offensive e difensive del destriero fantasma e degli spiriti evocati, ma non ha effetto al di fuori del regno dell'ombra.</text>
+</entries>
+</fmg>

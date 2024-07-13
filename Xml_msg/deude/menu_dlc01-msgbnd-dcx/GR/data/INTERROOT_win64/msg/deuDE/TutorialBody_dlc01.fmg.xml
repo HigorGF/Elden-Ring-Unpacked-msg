@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="302600">Scadubaum-Fragmente findet man im Reich der Schatten überall.
+
+Konsumiert sie an Orten der Gnade, um Euren Segen des Scadubaums zu verstärken.
+
+Der Segen des Scadubaums steigert die Fähigkeit des Empfängers, Schaden zu verursachen und zu widerstehen, hat aber außerhalb des Reichs der Schatten keine Auswirkungen.</text>
+<text id="302601">%null%</text>
+<text id="302602">%null%</text>
+<text id="302603">%null%</text>
+<text id="302604">%null%</text>
+<text id="302605">%null%</text>
+<text id="302606">%null%</text>
+<text id="302607">%null%</text>
+<text id="302608">%null%</text>
+<text id="302609">%null%</text>
+<text id="302610">Verehrte Geisterasche findet man im Reich der Schatten überall.
+
+Konsumiert diese Asche an Orten der Gnade, um Euren Segen der Verehrten Geisterasche zu verstärken.
+
+Der Segen der Verehrten Geisterasche erhöht die Mächte beschworener Geister und die Fähigkeiten des Spektralrosses, Schaden zu verursachen und zu widerstehen, hat aber außerhalb des Reichs der Schatten keine Auswirkungen.</text>
+<text id="302611">%null%</text>
+<text id="302612">%null%</text>
+<text id="302613">%null%</text>
+<text id="302614">%null%</text>
+<text id="302615">%null%</text>
+<text id="302616">%null%</text>
+<text id="302617">%null%</text>
+<text id="302618">%null%</text>
+<text id="302619">%null%</text>
+<text id="302620">Neue Funktionen können in den Anzeigeoptionen des Systemmenüs aktiviert werden.
+
+- Erstmalig erhaltene Gegenstände können mit &lt;?newItemIcon?&gt; markiert werden.
+- Ein besonderer Menüreiter wurde eingerichtet, auf dem die zuletzt erhaltenen Gegenstände angezeigt werden.</text>
+<text id="402600">Konsumiert Scadubaum-Fragmente, um Euren Segen des Scadubaums zu verstärken.
+
+Der Segen des Scadubaums erhöht die Mächte seines Trägers, Schaden zu verursachen und zu widerstehen, hat aber außerhalb des Reichs der Schatten keine Auswirkungen.</text>
+<text id="402601">%null%</text>
+<text id="402602">%null%</text>
+<text id="402603">%null%</text>
+<text id="402604">%null%</text>
+<text id="402605">%null%</text>
+<text id="402606">%null%</text>
+<text id="402607">%null%</text>
+<text id="402608">%null%</text>
+<text id="402609">%null%</text>
+<text id="402610">Konsumiert Verehrte Geisterasche, um Euren Segen der Verehrten Geisterasche zu verstärken.
+
+Der Segen der Verehrten Geisterasche erhöht die Mächte beschworener Geister und die Fähigkeiten des Spektralrosses, Schaden zu verursachen und zu widerstehen, hat aber außerhalb des Reichs der Schatten keine Auswirkungen.</text>
+</entries>
+</fmg>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="280004">ไม่​สามารถ​ตัง​ค่า​การ​ควบคุม​บาง​ส่วน​ซ้อน​กับ​การ​ควบคุม​เมนู​ได้
+​โปรด​ตรวจ​สอบ​การ​ตัง​ค่า</text>
+<text id="401130">ไม่​พบ DLC ​ที​ต้องการ
+
+&lt;?requiredDlcList?&gt;
+
+​ไม่​สามารถ​อ่าน​โพร​ไฟล์​นี​ได้
+​จนกว่า​จะ​ติด​ตัง DLC ​อีก​ครัง</text>
+<text id="401131">Shadow of the Erdtree</text>
+<text id="401406">เชือม​ต่อ Steamworks ​ไม่​สําเร็จ: &lt;?errcodeSteam?&gt;
+​ย้อน​กลับ​ไป​หน้า​จอ​หลัก</text>
+</entries>
+</fmg>

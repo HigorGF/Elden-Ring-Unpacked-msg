@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1200">손가락의 마술을 강화한다</text>
+<text id="1201">미켈라의 기도를 강화한다</text>
+<text id="1202">메스메르의 불의 기도를 강화한다</text>
+<text id="1203">나선의 기도를 강화한다</text>
+<text id="6800">영면 상태 이상을 축적한다(&lt;?sleepATKpwr?&gt;)</text>
+</entries>
+</fmg>

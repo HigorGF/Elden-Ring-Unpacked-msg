@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="80">Benedizione dell'Albero Ombra</text>
+<text id="81">Benedizione delle ceneri di spirito venerate</text>
+<text id="205">Tenere traccia dei nuovi oggetti</text>
+<text id="206">Tenere traccia degli oggetti recenti</text>
+<text id="207">Importare i bacini di evocazione</text>
+</entries>
+</fmg>

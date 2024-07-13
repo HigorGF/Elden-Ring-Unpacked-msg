@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="200000">Cenere di guerra: Turbine Fogliamorta</text>
+<text id="200100">Cenere di guerra: Ali del Crogiolo</text>
+<text id="400000">Cenere di guerra: Affondo gravitazionale rotante</text>
+<text id="401000">Cenere di guerra: Palmo esplosivo</text>
+<text id="402000">Cenere di guerra: Lancio perforante</text>
+<text id="403000">Cenere di guerra: Lancio multiplo</text>
+<text id="404000">Cenere di guerra: Muro di scintille</text>
+<text id="405000">Cenere di guerra: Scintille vorticanti</text>
+<text id="406000">Cenere di guerra: Belva furente</text>
+<text id="407000">Cenere di guerra: Artigli selvaggi</text>
+<text id="409000">Cenere di guerra: Punto cieco</text>
+<text id="410000">Cenere di guerra: Fendente rapido</text>
+<text id="411000">Cenere di guerra: Postura alta</text>
+<text id="412000">Cenere di guerra: Postura dell'ala</text>
+<text id="413000">Cenere di guerra: Lampo fugace</text>
+<text id="414000">Cenere di guerra: Fiamma perforante</text>
+<text id="415000">Cenere di guerra: Artiglio leonino selvaggio</text>
+<text id="416000">Cenere di guerra: Pestone della belva divina</text>
+<text id="417000">Cenere di guerra: Lancia fiammeggiante</text>
+<text id="418000">Cenere di guerra: Sovranità cariana</text>
+<text id="419000">Cenere di guerra: Grido di sofferenza</text>
+<text id="422000">Cenere di guerra: Richiamo spettrale</text>
+<text id="505000">Cenere di guerra: Doppia fioritura velenosa</text>
+<text id="548000">Cenere di guerra: Caccia al drago di Igon</text>
+<text id="800000">Cenere di guerra: Affondo di scudo</text>
+</entries>
+</fmg>

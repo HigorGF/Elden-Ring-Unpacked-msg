@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="10410">Błogosławieństwo Ostrodrzewa</text>
+<text id="10411">Błogosławieństwo prochów czcigodnego ducha</text>
+<text id="30205">Siła błogosławieństwa Ostrodrzewa.
+Działa tylko na przebywających w Królestwie Cieni,
+którzy otrzymali błogosławieństwo Ostrodrzewa.</text>
+<text id="30206">Siła błogosławieństwa prochów czcigodnego ducha.
+Wzmacnia przywołane duchy i widmowego wierzchowca, ale nie działa poza Królestwem Cieni.</text>
+<text id="40382">Tylko klawiatura</text>
+<text id="40383">Klawiatura i mysz</text>
+<text id="40524">Ostatnie przedmioty</text>
+<text id="60180">Walka wręcz</text>
+<text id="60181">Butelka perfum</text>
+<text id="60182">Tarcza pchnięć</text>
+<text id="60183">Ostrze do rzucania</text>
+<text id="60184">Zakrzywione ostrze</text>
+<text id="60185">Lekki wielki miecz</text>
+<text id="60186">Wielka katana</text>
+<text id="60187">Szpon bestii</text>
+<text id="63051">Do użytku na broni do walki wręcz</text>
+<text id="63052">Do użytku na butelkach perfum</text>
+<text id="63053">Do użytku na tarczach pchnięć</text>
+<text id="63054">Do użytku na ostrzach do rzucania</text>
+<text id="63055">Do użytku na zakrzywionych ostrzach</text>
+<text id="63056">Do użytku na lekkich wielkich mieczach</text>
+<text id="63057">Do użytku na wielkich katanach</text>
+<text id="63058">Do użytku na szponach bestii</text>
+<text id="63059">Do użytku na orężu kolnym (z wyjątkiem pazurów i zakrzywionych ostrzy)</text>
+<text id="63060">Do użytku na dużych i olbrzymich mieczach</text>
+<text id="63061">Do użytku na mieczach i włóczniach (z wyjątkiem małego oręża, podwójnych i zakrzywionych ostrzy)</text>
+<text id="80020">Duży pęknięty garnek</text>
+<text id="110600">Ekran</text>
+<text id="110601">Zaznacz nowe przedmioty</text>
+<text id="110602">%null%</text>
+<text id="110603">Pokaż zakładkę ostatnich przedmiotów</text>
+<text id="110700">Dźwięk</text>
+<text id="111024">Ruch kursora w menu mapy</text>
+<text id="111025">Czułość namierzenia celu</text>
+<text id="225001">Smocza komunia: Bayle</text>
+<text id="225002">%null%</text>
+<text id="225003">%null%</text>
+<text id="225004">%null%</text>
+<text id="225005">%null%</text>
+<text id="225006">%null%</text>
+<text id="225007">%null%</text>
+<text id="225008">%null%</text>
+<text id="225009">%null%</text>
+<text id="225010">%null%</text>
+<text id="225011">Dary</text>
+<text id="241337">Ostrowyż Altus</text>
+<text id="241338">Modre wybrzeże</text>
+<text id="241339">Podnóże Wyszczerbionego Szczytu</text>
+<text id="241340">Wyszczerbiony Szczyt</text>
+<text id="241341">Ukryty grób Charo</text>
+<text id="241342">Starożytne ruiny Rauh</text>
+<text id="241343">Ostrowidok</text>
+<text id="241344">Las Otchłani</text>
+<text id="241345">Belurat, osada przy wieży</text>
+<text id="241346">Enir-Ilim</text>
+<text id="241347">Donżon cienia</text>
+<text id="241348">Donżon cienia, dzielnica kościelna</text>
+<text id="241349">Magazyn z okazami</text>
+<text id="241350">Szczelina kamiennego sarkofagu</text>
+<text id="241351">Włości Midry</text>
+<text id="241352">Zamek Ensis</text>
+<text id="241353">Cmentarna równina</text>
+<text id="241354">Podnóże Rauh</text>
+<text id="241417">Cmentarna równina</text>
+<text id="241418">Ostrowyż Altus</text>
+<text id="241419">Ziemie Wieży </text>
+<text id="241420">Donżon cienia</text>
+<text id="241500">Menu funkcji mapy</text>
+<text id="241501">Ekran statusu gry wieloosobowej</text>
+<text id="241502">Lista puli przyzwania</text>
+<text id="241503">Pokaż sterowanie</text>
+<text id="241504">Menu wyjaśnienia</text>
+<text id="241600">Lista puli przyzwania</text>
+<text id="280060">Menu</text>
+<text id="280600">Mapa</text>
+<text id="331340">SKRADZIONE SERCE</text>
+</entries>
+</fmg>

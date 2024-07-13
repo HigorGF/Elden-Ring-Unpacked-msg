@@ -1,0 +1,1086 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="2000">전투 기술 「낙엽 선풍각」
+
+단류 발차기술의 오의인 전투 기술.
+연속 돌려차기로 상승하고 마지막에 내려찬다.
+발차기에 기를 둘러 공격 범위가 넓다.</text>
+<text id="2001">전투 기술 「도가니의 모습/날개」
+
+도가니의 생명에서 유래한 전투 기술.
+황금 날개를 만들어 비상한 후 무기를 들고
+돌격한다.
+쌍날검인 경우 돌격이 회전격으로 변한다.</text>
+<text id="4000">전투 기술 「중력 회전 찌르기」
+
+과거에 백왕에게 배운 자들이 수련한 중력 기술.
+중력으로 떠오른 후 몸채 회전하며 돌격한다.
+추가 입력으로 한 번 더 돌격한다.</text>
+<text id="4001">%null%</text>
+<text id="4002">%null%</text>
+<text id="4003">%null%</text>
+<text id="4004">%null%</text>
+<text id="4005">%null%</text>
+<text id="4006">%null%</text>
+<text id="4007">%null%</text>
+<text id="4008">%null%</text>
+<text id="4009">%null%</text>
+<text id="4010">전투 기술 「발경」
+
+낙엽파라 불리는 구도자들의 전투 기술.
+기를 담은 손바닥을 내지른 뒤 폭발시킨다.
+위력도 충격도 크며 차지 공격으로 강화된다.</text>
+<text id="4011">%null%</text>
+<text id="4012">%null%</text>
+<text id="4013">%null%</text>
+<text id="4014">%null%</text>
+<text id="4015">%null%</text>
+<text id="4016">%null%</text>
+<text id="4017">%null%</text>
+<text id="4018">%null%</text>
+<text id="4019">%null%</text>
+<text id="4020">전투 기술 「관통 투척」
+
+무기에 세게 회전을 주어 투척하는 전투 기술.
+투척한 무기는 평소보다 긴 거리를 날아가
+적의 몸을 관통한다.</text>
+<text id="4021">%null%</text>
+<text id="4022">%null%</text>
+<text id="4023">%null%</text>
+<text id="4024">%null%</text>
+<text id="4025">%null%</text>
+<text id="4026">%null%</text>
+<text id="4027">%null%</text>
+<text id="4028">%null%</text>
+<text id="4029">%null%</text>
+<text id="4030">전투 기술 「산탄 투척」
+
+단조술로 양손에 무기를 복제해
+여러 개를 동시에 투척하는 전투 기술.
+추가 입력으로 한 번 더 투척한다.</text>
+<text id="4031">%null%</text>
+<text id="4032">%null%</text>
+<text id="4033">%null%</text>
+<text id="4034">%null%</text>
+<text id="4035">%null%</text>
+<text id="4036">%null%</text>
+<text id="4037">%null%</text>
+<text id="4038">%null%</text>
+<text id="4039">%null%</text>
+<text id="4040">전투 기술 「둘러싼 불꽃의 향기」
+
+자기 주위에 넓게 향분을 살포해서
+시간차로 큰 불꽃을 만드는 전투 기술.
+차지 공격으로 강화, 불꽃 범위가 넓어진다.
+불꽃의 성질은 조향병의 종류에 따라 변화한다.</text>
+<text id="4041">%null%</text>
+<text id="4042">%null%</text>
+<text id="4043">%null%</text>
+<text id="4044">%null%</text>
+<text id="4045">%null%</text>
+<text id="4046">%null%</text>
+<text id="4047">%null%</text>
+<text id="4048">%null%</text>
+<text id="4049">%null%</text>
+<text id="4050">전투 기술 「늘어선 불꽃의 향기」
+
+전방에 향분을 살포해서 시간차로
+큰 불꽃을 늘어서듯 만드는 전투 기술.
+불꽃의 성질은 조향병의 종류에 따라 변화한다.</text>
+<text id="4051">%null%</text>
+<text id="4052">%null%</text>
+<text id="4053">%null%</text>
+<text id="4054">%null%</text>
+<text id="4055">%null%</text>
+<text id="4056">%null%</text>
+<text id="4057">%null%</text>
+<text id="4058">%null%</text>
+<text id="4059">%null%</text>
+<text id="4060">전투 기술 「짐승의 급습」
+
+짐승처럼 재빠른 스텝 후 높이 뛰어
+상공에서 적을 베어 가르는 전투 기술.
+스텝 방향은 전후좌우로 제어할 수 있으며
+강 공격으로 추가 공격으로 이을 수 있다.</text>
+<text id="4061">%null%</text>
+<text id="4062">%null%</text>
+<text id="4063">%null%</text>
+<text id="4064">%null%</text>
+<text id="4065">%null%</text>
+<text id="4066">%null%</text>
+<text id="4067">%null%</text>
+<text id="4068">%null%</text>
+<text id="4069">%null%</text>
+<text id="4070">전투 기술 「짐승 발톱 공격」
+
+짐승처럼 낮게 도약한 후 좌우 손톱으로
+격렬하게 적을 베어 가르는 전투 기술.</text>
+<text id="4071">%null%</text>
+<text id="4072">%null%</text>
+<text id="4073">%null%</text>
+<text id="4074">%null%</text>
+<text id="4075">%null%</text>
+<text id="4076">%null%</text>
+<text id="4077">%null%</text>
+<text id="4078">%null%</text>
+<text id="4079">%null%</text>
+<text id="4080">전용 전투 기술 「붉은곰의 사냥」
+
+팔을 크게 치켜들고 날카로운 발톱으로 사냥감을
+제압하는 전투 기술. 그 공격은 진공을 만들어
+연속으로 대미지를 입힌다.
+추가 입력으로 2회까지 추가 공격이 가능하다.</text>
+<text id="4081">%null%</text>
+<text id="4082">%null%</text>
+<text id="4083">%null%</text>
+<text id="4084">%null%</text>
+<text id="4085">%null%</text>
+<text id="4086">%null%</text>
+<text id="4087">%null%</text>
+<text id="4088">%null%</text>
+<text id="4089">%null%</text>
+<text id="4090">전투 기술 「사각에서의 일격」
+
+적의 품의 낮은 위치로 뛰어들어
+측면 사각에서 칼날로 찌르는 전투 기술.
+뛰어드는 방향은 좌우로 제어할 수 있으며
+그 공격은 가드의 틈을 파고든다.</text>
+<text id="4091">%null%</text>
+<text id="4092">%null%</text>
+<text id="4093">%null%</text>
+<text id="4094">%null%</text>
+<text id="4095">%null%</text>
+<text id="4096">%null%</text>
+<text id="4097">%null%</text>
+<text id="4098">%null%</text>
+<text id="4099">%null%</text>
+<text id="4100">전투 기술 「속참」
+
+뿔인간 검사에게 전수되는 전투 기술.
+순식간에 뛰어들어 적을 벤다.
+일격은 날카롭고, 베어 가르는 진공을 만든다.
+차지 공격으로 강화, 뛰어드는 거리가 길어진다.</text>
+<text id="4101">%null%</text>
+<text id="4102">%null%</text>
+<text id="4103">%null%</text>
+<text id="4104">%null%</text>
+<text id="4105">%null%</text>
+<text id="4106">%null%</text>
+<text id="4107">%null%</text>
+<text id="4108">%null%</text>
+<text id="4109">%null%</text>
+<text id="4110">전투 기술 「대상단」
+
+머리 위로 높게 검을 올리는 전투 기술.
+일반 공격은 파고들며 내려 베기,
+강 공격은 연속 내려 베기로 파생한다.</text>
+<text id="4111">%null%</text>
+<text id="4112">%null%</text>
+<text id="4113">%null%</text>
+<text id="4114">%null%</text>
+<text id="4115">%null%</text>
+<text id="4116">%null%</text>
+<text id="4117">%null%</text>
+<text id="4118">%null%</text>
+<text id="4119">%null%</text>
+<text id="4120">전투 기술 「편익의 자세」
+
+조용히 오른팔로 자세를 잡고 공격으로
+이어가는 전투 기술.
+일반 공격으로 고속 3연격,
+강 공격으로 도약 후 찌르기로 파생한다.</text>
+<text id="4121">%null%</text>
+<text id="4122">%null%</text>
+<text id="4123">%null%</text>
+<text id="4124">%null%</text>
+<text id="4125">%null%</text>
+<text id="4126">%null%</text>
+<text id="4127">%null%</text>
+<text id="4128">%null%</text>
+<text id="4129">%null%</text>
+<text id="4130">전투 기술 「순뢰」
+
+고드윈을 섬긴 황금 기사들의 전투 기술.
+낮은 자세에서 자신을 벼락으로 바꾸어
+전방으로 고속 이동한다.</text>
+<text id="4131">%null%</text>
+<text id="4132">%null%</text>
+<text id="4133">%null%</text>
+<text id="4134">%null%</text>
+<text id="4135">%null%</text>
+<text id="4136">%null%</text>
+<text id="4137">%null%</text>
+<text id="4138">%null%</text>
+<text id="4139">%null%</text>
+<text id="4140">전투 기술 「불의 관통」
+
+불의 기사 퀼라인의 전투 기술.
+무기에 불을 두르고 낮은 자세로 파고들어
+그대로 단번에 적을 꿰뚫는다.
+강 공격으로 추가 공격의 불을 쏜다.</text>
+<text id="4141">%null%</text>
+<text id="4142">%null%</text>
+<text id="4143">%null%</text>
+<text id="4144">%null%</text>
+<text id="4145">%null%</text>
+<text id="4146">%null%</text>
+<text id="4147">%null%</text>
+<text id="4148">%null%</text>
+<text id="4149">%null%</text>
+<text id="4150">전투 기술 「용맹한 사자 베기」
+
+적사자 중에서도 특히 용맹한 전사의 전투 기술.
+전방에 도약하여 회전하며 무기를 내려친다.
+추가 입력으로 한 번 더 무기를 내려친다.</text>
+<text id="4151">%null%</text>
+<text id="4152">%null%</text>
+<text id="4153">%null%</text>
+<text id="4154">%null%</text>
+<text id="4155">%null%</text>
+<text id="4156">%null%</text>
+<text id="4157">%null%</text>
+<text id="4158">%null%</text>
+<text id="4159">%null%</text>
+<text id="4160">전투 기술 「신수 서리 밟기」
+
+신수 사자무가 사용하는 분노의 전투 기술.
+발을 들어 올리고 대지를 강하게 밟아
+전방에 격렬한 서리 땅울림을 일으킨다.
+차지 공격으로 강화, 땅울림 범위가 넓어진다.</text>
+<text id="4161">%null%</text>
+<text id="4162">%null%</text>
+<text id="4163">%null%</text>
+<text id="4164">%null%</text>
+<text id="4165">%null%</text>
+<text id="4166">%null%</text>
+<text id="4167">%null%</text>
+<text id="4168">%null%</text>
+<text id="4169">%null%</text>
+<text id="4170">전투 기술 「불의 창」
+
+불의 기사 필두, 쿠드의 전투 기술.
+무기를 찌르듯 잡고 전방에 불의 창을 쏜다.
+차지 공격으로 강화되며 창의 비거리도 늘어난다.</text>
+<text id="4171">%null%</text>
+<text id="4172">%null%</text>
+<text id="4173">%null%</text>
+<text id="4174">%null%</text>
+<text id="4175">%null%</text>
+<text id="4176">%null%</text>
+<text id="4177">%null%</text>
+<text id="4178">%null%</text>
+<text id="4179">%null%</text>
+<text id="4180">전투 기술 「로얄 카리아」
+
+카리아 왕족에 전해지는 전투 기술.
+검신을 마력 대검으로 변화시켜 내리친다.
+추가 입력으로 수평으로 광범위를 쓸어버린다.
+두 공격 모두 차지 공격으로 강화된다.</text>
+<text id="4181">%null%</text>
+<text id="4182">%null%</text>
+<text id="4183">%null%</text>
+<text id="4184">%null%</text>
+<text id="4185">%null%</text>
+<text id="4186">%null%</text>
+<text id="4187">%null%</text>
+<text id="4188">%null%</text>
+<text id="4189">%null%</text>
+<text id="4190">전투 기술 「비통한 외침」
+
+유린당한 자들의 전투 기술.
+외침소리로 주위의 적을 움츠러들게 하면서
+깊은 원한을 떠올려 자신의 공격력을 높인다.
+자신의 HP가 줄어들어 있을수록 효과가 높다.</text>
+<text id="4191">%null%</text>
+<text id="4192">%null%</text>
+<text id="4193">%null%</text>
+<text id="4194">%null%</text>
+<text id="4195">%null%</text>
+<text id="4196">%null%</text>
+<text id="4197">%null%</text>
+<text id="4198">%null%</text>
+<text id="4199">%null%</text>
+<text id="4200">전투 기술 「방패 공격」
+
+방패로 공격하는 전투 기술.
+추가 입력으로 3회까지 추가 공격이 가능하다.</text>
+<text id="4201">%null%</text>
+<text id="4202">%null%</text>
+<text id="4203">%null%</text>
+<text id="4204">%null%</text>
+<text id="4205">%null%</text>
+<text id="4206">%null%</text>
+<text id="4207">%null%</text>
+<text id="4208">%null%</text>
+<text id="4209">%null%</text>
+<text id="4210">전투 기술 「에이곤의 용 사냥」
+
+용의 전사 에이곤의 전투 기술.
+대궁을 반신으로 지탱하고, 포효와 함께 비틀어
+쏘면서 그 공격력을 크게 높인다.</text>
+<text id="4211">%null%</text>
+<text id="4212">%null%</text>
+<text id="4213">%null%</text>
+<text id="4214">%null%</text>
+<text id="4215">%null%</text>
+<text id="4216">%null%</text>
+<text id="4217">%null%</text>
+<text id="4218">%null%</text>
+<text id="4219">%null%</text>
+<text id="4220">전투 기술 「영혼 불꽃 부르기」
+
+무기를 내밀어 영혼 불꽃을 부르는 전투 기술.
+일반 공격으로 화염을 땅에 퍼지게 쏘고
+강 공격으로 크게 폭발시킨다.</text>
+<text id="5000">전용 전투 기술 「용상 베기」
+
+거대한 용을 사냥하기 위한 전투 기술.
+조약돌 역가시에 기를 두른 뒤 도약해
+높은 위치에서 기세를 실어 내려 벤다.
+차지 공격 시 두른 기를 함께 방출한다.</text>
+<text id="5001">%null%</text>
+<text id="5002">%null%</text>
+<text id="5003">%null%</text>
+<text id="5004">%null%</text>
+<text id="5005">%null%</text>
+<text id="5006">%null%</text>
+<text id="5007">%null%</text>
+<text id="5008">%null%</text>
+<text id="5009">%null%</text>
+<text id="5010">전용 전투 기술 「침 찌르기」
+
+침의 기사 레다의 전투 기술.
+황금 침 10개를 만들어 대상을 동시에 찌른다.
+또한 찌른 대상의 모든 상태 이상과
+특수한 효과를 지운다.</text>
+<text id="5011">%null%</text>
+<text id="5012">%null%</text>
+<text id="5013">%null%</text>
+<text id="5014">%null%</text>
+<text id="5015">%null%</text>
+<text id="5016">%null%</text>
+<text id="5017">%null%</text>
+<text id="5018">%null%</text>
+<text id="5019">%null%</text>
+<text id="5020">전용 전투 기술 「빛」
+
+도신에 새겨진 빛을 해방하는 전투 기술.
+검을 공중에 치켜들어 눈부신 빛을 내고
+여러 개의 광선으로 주위를 쓸어버린다.
+또 잠시 자신의 신성 공격력이 상승한다.</text>
+<text id="5021">%null%</text>
+<text id="5022">%null%</text>
+<text id="5023">%null%</text>
+<text id="5024">%null%</text>
+<text id="5025">%null%</text>
+<text id="5026">%null%</text>
+<text id="5027">%null%</text>
+<text id="5028">%null%</text>
+<text id="5029">%null%</text>
+<text id="5030">전용 전투 기술 「어둠」
+
+검을 공중에 치켜들어 어둠으로 주위를
+쓸어버리는 전투 기술.
+신성 속성 대미지를 줌과 동시에 일시적으로
+신성 경감률을 저하시킨다.</text>
+<text id="5031">%null%</text>
+<text id="5032">%null%</text>
+<text id="5033">%null%</text>
+<text id="5034">%null%</text>
+<text id="5035">%null%</text>
+<text id="5036">%null%</text>
+<text id="5037">%null%</text>
+<text id="5038">%null%</text>
+<text id="5039">%null%</text>
+<text id="5040">전용 전투 기술 「온지의 연성」
+
+아인 검성의 이름을 따온 전투 기술.
+늘어선 휘석에 마력을 담은 베기 공격.
+추가 입력으로 2회까지 추가 공격이 가능하며
+추가 공격을 할 때마다 강화된다.</text>
+<text id="5041">%null%</text>
+<text id="5042">%null%</text>
+<text id="5043">%null%</text>
+<text id="5044">%null%</text>
+<text id="5045">%null%</text>
+<text id="5046">%null%</text>
+<text id="5047">%null%</text>
+<text id="5048">%null%</text>
+<text id="5049">%null%</text>
+<text id="5050">전투 기술 「독꽃은 두 번 찌른다」
+
+발밑에 붉은 부패의 가시를 만들어 적을 찌르는
+전투 기술.
+이미 독이나 부패 상태인 적에게 추가 공격을
+성공하면 단숨에 큰 대미지를 입힌다.</text>
+<text id="5080">전용 전투 기술 「회전 길로틴」
+
+무기의 양 끝을 들고 몸을 뒤로 젖히며
+머리 위에서 수렁의 칼날을 내리치는 전투 기술.
+추가 입력으로 스태미나가 다할 때까지 공격하며
+강 공격은 도약 후 회전 공격으로 이을 수 있다.</text>
+<text id="5081">%null%</text>
+<text id="5082">%null%</text>
+<text id="5083">%null%</text>
+<text id="5084">%null%</text>
+<text id="5085">%null%</text>
+<text id="5086">%null%</text>
+<text id="5087">%null%</text>
+<text id="5088">%null%</text>
+<text id="5089">%null%</text>
+<text id="5090">전용 전투 기술 「끝 없는 춤」
+
+격렬히 춤추며 연속으로 참격을 쓰는 전투 기술.
+길게 누르는 동안은 스태미나가 다할 때까지
+춤이 끝나지 않는다.</text>
+<text id="5091">%null%</text>
+<text id="5092">%null%</text>
+<text id="5093">%null%</text>
+<text id="5094">%null%</text>
+<text id="5095">%null%</text>
+<text id="5096">%null%</text>
+<text id="5097">%null%</text>
+<text id="5098">%null%</text>
+<text id="5099">%null%</text>
+<text id="5100">전용 전투 기술 「복수의 칼날」
+
+적의 품으로 달려들어 좌우로 베는 전투 기술.
+길게 누르면 달려드는 거리가 길어진다.
+또한 강 공격으로 난도질로 이을 수 있다.</text>
+<text id="5101">%null%</text>
+<text id="5102">%null%</text>
+<text id="5103">%null%</text>
+<text id="5104">%null%</text>
+<text id="5105">%null%</text>
+<text id="5106">%null%</text>
+<text id="5107">%null%</text>
+<text id="5108">%null%</text>
+<text id="5109">%null%</text>
+<text id="5110">전용 전투 기술 「영면의 안개」
+
+전방 광범위에 잠의 보랏빛 안개를 만드는
+전투 기술.
+그 안개에는 영면 상태 이상 효과가 있다.</text>
+<text id="5111">%null%</text>
+<text id="5112">%null%</text>
+<text id="5113">%null%</text>
+<text id="5114">%null%</text>
+<text id="5115">%null%</text>
+<text id="5116">%null%</text>
+<text id="5117">%null%</text>
+<text id="5118">%null%</text>
+<text id="5119">%null%</text>
+<text id="5120">전용 전투 기술 「왕조 낫 기술」
+
+화려하게 공격을 회피하고 적과 거리를 두는
+전투 기술. 회전 방향을 제어할 수 있다.
+강 공격으로 전진 후 올려 베기로 이어지며
+다시 강 공격으로 다시 화려하게 내려 벤다.</text>
+<text id="5121">%null%</text>
+<text id="5122">%null%</text>
+<text id="5123">%null%</text>
+<text id="5124">%null%</text>
+<text id="5125">%null%</text>
+<text id="5126">%null%</text>
+<text id="5127">%null%</text>
+<text id="5128">%null%</text>
+<text id="5129">%null%</text>
+<text id="5130">전용 전투 기술 「순뢰/쌍도끼」
+
+낮은 자세에서 자신을 벼락으로 바꾸어
+전방으로 고속 이동하는 전투 기술.
+강 공격으로 벼락을 두른 회전 베기로
+이을 수 있다.</text>
+<text id="5131">%null%</text>
+<text id="5132">%null%</text>
+<text id="5133">%null%</text>
+<text id="5134">%null%</text>
+<text id="5135">%null%</text>
+<text id="5136">%null%</text>
+<text id="5137">%null%</text>
+<text id="5138">%null%</text>
+<text id="5139">%null%</text>
+<text id="5140">전용 전투 기술 「순뢰/긴 자루 도끼」
+
+낮은 자세에서 자신을 벼락으로 바꾸어
+전방으로 고속 이동하는 전투 기술.
+강 공격으로 벼락을 두른 도약 베기로
+이을 수 있다.</text>
+<text id="5141">%null%</text>
+<text id="5142">%null%</text>
+<text id="5143">%null%</text>
+<text id="5144">%null%</text>
+<text id="5145">%null%</text>
+<text id="5146">%null%</text>
+<text id="5147">%null%</text>
+<text id="5148">%null%</text>
+<text id="5149">%null%</text>
+<text id="5150">전용 전투 기술 「약속의 왕」
+
+두 자루의 대검에 미켈라의 빛을 두르고
+빛의 기둥을 수반하는 참격을 쓰는 전투 기술.
+추가 입력으로 2회까지 연속 공격이 가능하다.</text>
+<text id="5151">%null%</text>
+<text id="5152">%null%</text>
+<text id="5153">%null%</text>
+<text id="5154">%null%</text>
+<text id="5155">%null%</text>
+<text id="5156">%null%</text>
+<text id="5157">%null%</text>
+<text id="5158">%null%</text>
+<text id="5159">%null%</text>
+<text id="5160">전용 전투 기술 「그림자 고리 박치기」
+
+큰 영륜초 꽃을 내리쳐
+충격파와 함께 적을 짓누르는 전투 기술.
+추가 입력으로 2회까지 추가 공격이 가능하다.</text>
+<text id="5161">%null%</text>
+<text id="5162">%null%</text>
+<text id="5163">%null%</text>
+<text id="5164">%null%</text>
+<text id="5165">%null%</text>
+<text id="5166">%null%</text>
+<text id="5167">%null%</text>
+<text id="5168">%null%</text>
+<text id="5169">%null%</text>
+<text id="5170">전용 전투 기술 「달과 불의 자세」
+
+검 두 자루에 마력을 담고 마술로 잇는 전투
+기술. 일반 공격은 휘석 광파를 연속으로 쏘고
+강 공격은 회전하며 주위를 불로 쓸어버린다.
+추가 입력으로 2회까지 광파 추가 공격이 가능하다.</text>
+<text id="5171">%null%</text>
+<text id="5172">%null%</text>
+<text id="5173">%null%</text>
+<text id="5174">%null%</text>
+<text id="5175">%null%</text>
+<text id="5176">%null%</text>
+<text id="5177">%null%</text>
+<text id="5178">%null%</text>
+<text id="5179">%null%</text>
+<text id="5180">전용 전투 기술 「데보니아의 소용돌이」
+
+도가니의 소용돌이의 힘으로 대형 망치 전체를
+격렬히 회전시키고 그대로 충격과 함께 대지에
+내리치는 전투 기술.
+차지 공격으로 강화된다.</text>
+<text id="5181">%null%</text>
+<text id="5182">%null%</text>
+<text id="5183">%null%</text>
+<text id="5184">%null%</text>
+<text id="5185">%null%</text>
+<text id="5186">%null%</text>
+<text id="5187">%null%</text>
+<text id="5188">%null%</text>
+<text id="5189">%null%</text>
+<text id="5190">전용 전투 기술 「메스메르의 강습」
+
+칼날에 불을 두른 격렬한 연속 공격 전투 기술.
+추가 입력으로 2회까지 추가 공격이 가능하며
+마지막에 주위에 수많은 창을 생성한다.</text>
+<text id="5210">전용 전투 기술 「영원히 잠들라」
+
+영면의 독침으로 적을 깊이 찌르는 전투 기술.
+이미 수면이나 영면 상태인 적에게 추가 공격을
+성공하면 단숨에 큰 대미지를 입힌다.</text>
+<text id="5211">%null%</text>
+<text id="5212">%null%</text>
+<text id="5213">%null%</text>
+<text id="5214">%null%</text>
+<text id="5215">%null%</text>
+<text id="5216">%null%</text>
+<text id="5217">%null%</text>
+<text id="5218">%null%</text>
+<text id="5219">%null%</text>
+<text id="5220">전용 전투 기술 「황금 책형」
+
+공중에 뜬 후 위에서 내리 찌르는 전투 기술.
+적을 찌르면 역가시를 열어 상처를 입히며
+놓치면 추가 입력으로 주위에 역가시를 펼친다.
+그 모습은 어딘가 황금의 규율을 닮았다.</text>
+<text id="5221">%null%</text>
+<text id="5222">%null%</text>
+<text id="5223">%null%</text>
+<text id="5224">%null%</text>
+<text id="5225">%null%</text>
+<text id="5226">%null%</text>
+<text id="5227">%null%</text>
+<text id="5228">%null%</text>
+<text id="5229">%null%</text>
+<text id="5230">전용 전투 기술 「무아의 돌격」
+
+양손으로 방패를 들어 가드한 채로 돌격한 후
+녹청의 마력을 담아 밀치는 전투 기술.
+주위의 적을 날리지만 큰 상처는 입히지 않는다.
+길게 누르면 전진 거리를 늘릴 수 있다.</text>
+<text id="5231">%null%</text>
+<text id="5232">%null%</text>
+<text id="5233">%null%</text>
+<text id="5234">%null%</text>
+<text id="5235">%null%</text>
+<text id="5236">%null%</text>
+<text id="5237">%null%</text>
+<text id="5238">%null%</text>
+<text id="5239">%null%</text>
+<text id="5240">전용 전투 기술 「백광의 돌격」
+
+옛 운철의 갈라진 틈에 흰 빛을 만들어내고
+그 힘으로 돌격해 적을 꿰뚫는 전투 기술.
+추가 입력으로 그 빛을 폭발시킨다.</text>
+<text id="5241">%null%</text>
+<text id="5242">%null%</text>
+<text id="5243">%null%</text>
+<text id="5244">%null%</text>
+<text id="5245">%null%</text>
+<text id="5246">%null%</text>
+<text id="5247">%null%</text>
+<text id="5248">%null%</text>
+<text id="5249">%null%</text>
+<text id="5250">전용 전투 기술 「원혼 베기」
+
+몸을 회전시켜서 적을 베며
+매달리는 원혼을 부르는 전투 기술.
+추가 입력으로 추가 공격이 가능하다.</text>
+<text id="5251">%null%</text>
+<text id="5252">%null%</text>
+<text id="5253">%null%</text>
+<text id="5254">%null%</text>
+<text id="5255">%null%</text>
+<text id="5256">%null%</text>
+<text id="5257">%null%</text>
+<text id="5258">%null%</text>
+<text id="5259">%null%</text>
+<text id="5260">전용 전투 기술 「어두운 밤의 참격」
+
+수평으로 든 검에 밤의 어둠을 둘러
+연속으로 실체가 없는 참격을 쓰는 전투 기술.
+가드할 수 없으며, 차지 공격으로 강화된다.</text>
+<text id="5261">%null%</text>
+<text id="5262">%null%</text>
+<text id="5263">%null%</text>
+<text id="5264">%null%</text>
+<text id="5265">%null%</text>
+<text id="5266">%null%</text>
+<text id="5267">%null%</text>
+<text id="5268">%null%</text>
+<text id="5269">%null%</text>
+<text id="5270">전용 전투 기술 「에우포리에의 소용돌이」
+
+소용돌이의 힘으로 무기 전체를 격렬히 회전시켜
+그대로 전방을 연속으로 베는 전투 기술.
+반짝임을 되찾을수록 위력이 높아진다.
+전투 기술을 사용하면 반짝임을 잃는다.</text>
+<text id="5271">%null%</text>
+<text id="5272">%null%</text>
+<text id="5273">%null%</text>
+<text id="5274">%null%</text>
+<text id="5275">%null%</text>
+<text id="5276">%null%</text>
+<text id="5277">%null%</text>
+<text id="5278">%null%</text>
+<text id="5279">%null%</text>
+<text id="5280">전용 전투 기술 「대장장이의 창」
+
+붉게 달궈진 모루를 땅에 내리꽂는 전투 기술.
+뽑을 때 지면에서 수많은 창을 생성한다.
+그 창은 금방 사라진다.</text>
+<text id="5281">%null%</text>
+<text id="5282">%null%</text>
+<text id="5283">%null%</text>
+<text id="5284">%null%</text>
+<text id="5285">%null%</text>
+<text id="5286">%null%</text>
+<text id="5287">%null%</text>
+<text id="5288">%null%</text>
+<text id="5289">%null%</text>
+<text id="5290">전용 전투 기술 「원혼 베기」
+
+몸을 회전시켜서 적을 베며
+매달리는 원혼을 부르는 전투 기술.
+추가 입력으로 추가 공격이 가능하다.</text>
+<text id="5291">%null%</text>
+<text id="5292">%null%</text>
+<text id="5293">%null%</text>
+<text id="5294">%null%</text>
+<text id="5295">%null%</text>
+<text id="5296">%null%</text>
+<text id="5297">%null%</text>
+<text id="5298">%null%</text>
+<text id="5299">%null%</text>
+<text id="5300">전용 전투 기술 「로미나의 정화」
+
+꽃봉오리 칼날에 붉은 부패의 나비를 둘러
+휩쓸듯이 크게 두 번 베는 전투 기술.
+과거에 그것은 성스러운 정화였다.</text>
+<text id="5301">%null%</text>
+<text id="5302">%null%</text>
+<text id="5303">%null%</text>
+<text id="5304">%null%</text>
+<text id="5305">%null%</text>
+<text id="5306">%null%</text>
+<text id="5307">%null%</text>
+<text id="5308">%null%</text>
+<text id="5309">%null%</text>
+<text id="5310">전용 전투 기술 「독 관수」
+
+손가락 끝을 앞을 향해 내밀어
+적의 몸을 푹 찌르는 전투 기술.
+대량의 맹독을 단번에 축적한다.</text>
+<text id="5311">%null%</text>
+<text id="5312">%null%</text>
+<text id="5313">%null%</text>
+<text id="5314">%null%</text>
+<text id="5315">%null%</text>
+<text id="5316">%null%</text>
+<text id="5317">%null%</text>
+<text id="5318">%null%</text>
+<text id="5319">%null%</text>
+<text id="5320">전용 전투 기술 「발광 관수」
+
+손가락 끝을 앞을 향해 내밀어
+적의 몸을 푹 찌르는 전투 기술.
+대량의 발광을 단번에 축적한다.</text>
+<text id="5321">%null%</text>
+<text id="5322">%null%</text>
+<text id="5323">%null%</text>
+<text id="5324">%null%</text>
+<text id="5325">%null%</text>
+<text id="5326">%null%</text>
+<text id="5327">%null%</text>
+<text id="5328">%null%</text>
+<text id="5329">%null%</text>
+<text id="5330">전용 전투 기술 「약한 왕의 미친 불」
+
+횃불을 앞으로 들고 미친 불을 뿌리는 전투 기술.
+주위와 사용자 자신에게 발광을 축적한다.
+길게 누르는 동안에는 계속되며
+발을 멈추지 않고 사용할 수 있다.</text>
+<text id="5331">%null%</text>
+<text id="5332">%null%</text>
+<text id="5333">%null%</text>
+<text id="5334">%null%</text>
+<text id="5335">%null%</text>
+<text id="5336">%null%</text>
+<text id="5337">%null%</text>
+<text id="5338">%null%</text>
+<text id="5339">%null%</text>
+<text id="5340">전용 전투 기술 「연노 연사」
+
+연사용 기구를 작동시키는 전투 기술.
+자세를 잡고 앞쪽 핸들을 돌려서
+연속으로 볼트를 쏠 수 있다.</text>
+<text id="5341">%null%</text>
+<text id="5342">%null%</text>
+<text id="5343">%null%</text>
+<text id="5344">%null%</text>
+<text id="5345">%null%</text>
+<text id="5346">%null%</text>
+<text id="5347">%null%</text>
+<text id="5348">%null%</text>
+<text id="5349">%null%</text>
+<text id="5350">전용 전투 기술 「재앙의 춤」
+
+양손에 원형 칼날을 들고
+격렬한 회전으로 적을 베는 전투 기술.
+추가 입력으로 예리한 내려차기로 이을 수 있다.</text>
+<text id="5351">%null%</text>
+<text id="5352">%null%</text>
+<text id="5353">%null%</text>
+<text id="5354">%null%</text>
+<text id="5355">%null%</text>
+<text id="5356">%null%</text>
+<text id="5357">%null%</text>
+<text id="5358">%null%</text>
+<text id="5359">%null%</text>
+<text id="5360">전용 전투 기술 「부채꼴 쏘기」
+
+수평으로 활을 잡는 전투 기술.
+8개의 화살을 동시에 걸고
+부채꼴로 쏠 수 있다.</text>
+<text id="5361">%null%</text>
+<text id="5362">%null%</text>
+<text id="5363">%null%</text>
+<text id="5364">%null%</text>
+<text id="5365">%null%</text>
+<text id="5366">%null%</text>
+<text id="5367">%null%</text>
+<text id="5368">%null%</text>
+<text id="5369">%null%</text>
+<text id="5370">전용 전투 기술 「원반 투척」
+
+방패를 원반처럼 투척하는 전투 기술.
+투척된 방패는 단조술에 의해
+즉시 손에 재생성된다.</text>
+<text id="5371">%null%</text>
+<text id="5372">%null%</text>
+<text id="5373">%null%</text>
+<text id="5374">%null%</text>
+<text id="5375">%null%</text>
+<text id="5376">%null%</text>
+<text id="5377">%null%</text>
+<text id="5378">%null%</text>
+<text id="5379">%null%</text>
+<text id="5380">전용 전투 기술 「꽃의 용뢰」
+
+대상에 고룡의 붉은 벼락을 내리는 전투 기술.
+벼락 속성 대미지를 줌과 동시에
+일시적으로 벼락 경감률을 저하시킨다.
+차지 공격으로 강화된다.</text>
+<text id="5381">%null%</text>
+<text id="5382">%null%</text>
+<text id="5383">%null%</text>
+<text id="5384">%null%</text>
+<text id="5385">%null%</text>
+<text id="5386">%null%</text>
+<text id="5387">%null%</text>
+<text id="5388">%null%</text>
+<text id="5389">%null%</text>
+<text id="5390">전용 전투 기술 「고두분노」
+
+손가락 머리로 격렬하게 찍어 누르는 전투 기술.
+그대로 분노를 모아 폭발시킨다.
+길게 누르면 그 분노는 더욱 커진다.</text>
+<text id="5420">전용 전투 기술 「통타」
+
+특히 아픔을 주기 위한 채찍의 일격.
+일시적으로 스태미나 회복 속도를 저하시킨다.
+그리고 아픔은 사람을 순종적으로 만든다.</text>
+<text id="5421">%null%</text>
+<text id="5422">%null%</text>
+<text id="5423">%null%</text>
+<text id="5424">%null%</text>
+<text id="5425">%null%</text>
+<text id="5426">%null%</text>
+<text id="5427">%null%</text>
+<text id="5428">%null%</text>
+<text id="5429">%null%</text>
+<text id="5430">전용 전투 기술 「초승달 베기」
+
+대검을 예리하게 내려베어
+호 형태의 광파를 전방에 쏘는 전투 기술.
+강 공격으로 전진하는 추가 공격도 가능하다.</text>
+<text id="5431">%null%</text>
+<text id="5432">%null%</text>
+<text id="5433">%null%</text>
+<text id="5434">%null%</text>
+<text id="5435">%null%</text>
+<text id="5436">%null%</text>
+<text id="5437">%null%</text>
+<text id="5438">%null%</text>
+<text id="5439">%null%</text>
+<text id="5440">전용 전투 기술 「밤의 보복」
+
+밤의 어둠에 마력을 담아 쏘는 전투 기술.
+공격을 가드한 직후에 사용하면
+그 힘을 흡수해 위력이 늘어난다.</text>
+<text id="5441">%null%</text>
+<text id="5442">%null%</text>
+<text id="5443">%null%</text>
+<text id="5444">%null%</text>
+<text id="5445">%null%</text>
+<text id="5446">%null%</text>
+<text id="5447">%null%</text>
+<text id="5448">%null%</text>
+<text id="5449">%null%</text>
+<text id="5450">전용 전투 기술 「풀베기」
+
+크게 검을 휘둘러 사람을 베는 전투 기술.
+추가 입력으로 공격을 계속할 수 있으며
+스태미나가 다할 때까지 이어진다.</text>
+<text id="5451">%null%</text>
+<text id="5452">%null%</text>
+<text id="5453">%null%</text>
+<text id="5454">%null%</text>
+<text id="5455">%null%</text>
+<text id="5456">%null%</text>
+<text id="5457">%null%</text>
+<text id="5458">%null%</text>
+<text id="5459">%null%</text>
+<text id="5460">전용 전투 기술 「행복한 눈가리기」
+
+눈을 가리며 얼굴을 흔들어, 한탄하는 목소리와
+함께 사용자의 모습을 일시적으로 잘 보이지
+않게 하는 전투 기술.
+행복하고 싶다면 아무 것도 보지 마라.</text>
+<text id="5461">%null%</text>
+<text id="5462">%null%</text>
+<text id="5463">%null%</text>
+<text id="5464">%null%</text>
+<text id="5465">%null%</text>
+<text id="5466">%null%</text>
+<text id="5467">%null%</text>
+<text id="5468">%null%</text>
+<text id="5469">%null%</text>
+<text id="5470">전용 전투 기술 「이오리의 고문」
+
+큰 지팡이를 찌르듯 내어 들고
+역가시의 모습을 한 황금 포물선을 연속으로
+쏘는 전투 기술.
+길게 누르면 잠시동안 계속 이어진다.</text>
+<text id="5471">%null%</text>
+<text id="5472">%null%</text>
+<text id="5473">%null%</text>
+<text id="5474">%null%</text>
+<text id="5475">%null%</text>
+<text id="5476">%null%</text>
+<text id="5477">%null%</text>
+<text id="5478">%null%</text>
+<text id="5479">%null%</text>
+<text id="5480">전용 전투 기술 「포효 강타」
+
+황금 사자의 포효와 함께
+가드한 상태인 방패로 부딪치는 전투 기술.
+적을 밀어내고 비틀거리게 하는 범위가 넓다.</text>
+<text id="5481">%null%</text>
+<text id="5482">%null%</text>
+<text id="5483">%null%</text>
+<text id="5484">%null%</text>
+<text id="5485">%null%</text>
+<text id="5486">%null%</text>
+<text id="5487">%null%</text>
+<text id="5488">%null%</text>
+<text id="5489">%null%</text>
+<text id="5490">전용 전투 기술 「맹독 살포」
+
+조향병을 머리 위에서 크게 휘둘러
+넓은 범위에 맹독 향분을 살포하는 전투 기술.
+맹독은 아름답게 춤추며 조용히 쏟아진다.</text>
+<text id="5491">%null%</text>
+<text id="5492">%null%</text>
+<text id="5493">%null%</text>
+<text id="5494">%null%</text>
+<text id="5495">%null%</text>
+<text id="5496">%null%</text>
+<text id="5497">%null%</text>
+<text id="5498">%null%</text>
+<text id="5499">%null%</text>
+<text id="5500">전용 전투 기술 「뱀이여 불타라」
+
+뱀 안에 있는 불을 불타게 해 일시적으로 화염
+공격력을 높이는 전투 기술.
+그 상태로 강 공격 등으로 지면을 치면
+충격으로 폭발이 발생한다.</text>
+<text id="5501">%null%</text>
+<text id="5502">%null%</text>
+<text id="5503">%null%</text>
+<text id="5504">%null%</text>
+<text id="5505">%null%</text>
+<text id="5506">%null%</text>
+<text id="5507">%null%</text>
+<text id="5508">%null%</text>
+<text id="5509">%null%</text>
+<text id="5510">전용 전투 기술 「산탄 투척/손톱」
+
+단조술로 양손에 손톱을 복제해
+여러 개를 동시에 투척하는 전투 기술.
+추가 입력으로 한 번 더 투척한다.</text>
+<text id="5511">%null%</text>
+<text id="5512">%null%</text>
+<text id="5513">%null%</text>
+<text id="5514">%null%</text>
+<text id="5515">%null%</text>
+<text id="5516">%null%</text>
+<text id="5517">%null%</text>
+<text id="5518">%null%</text>
+<text id="5519">%null%</text>
+<text id="5520">전용 전투 기술 「칼날 갈기」
+
+칼날을 쓰다듬듯이 갈아서 예리함을 더하고
+HP 회복량을 늘리는 전투 기술.
+큰 항아리 도공들은 생업의 도구를 아낀다.</text>
+<text id="5521">%null%</text>
+<text id="5522">%null%</text>
+<text id="5523">%null%</text>
+<text id="5524">%null%</text>
+<text id="5525">%null%</text>
+<text id="5526">%null%</text>
+<text id="5527">%null%</text>
+<text id="5528">%null%</text>
+<text id="5529">%null%</text>
+<text id="5530">전용 전투 기술 「뿔내림」
+
+도신에 혼각을 내리는 전투 기술.
+그대로 무기를 지면에 꽂아
+솟아오르는 뿔 가시를 생성한다.</text>
+<text id="5531">%null%</text>
+<text id="5532">%null%</text>
+<text id="5533">%null%</text>
+<text id="5534">%null%</text>
+<text id="5535">%null%</text>
+<text id="5536">%null%</text>
+<text id="5537">%null%</text>
+<text id="5538">%null%</text>
+<text id="5539">%null%</text>
+<text id="5540">전용 전투 기술 「뿔내림/폭풍」
+
+도신에 혼각을 내리는 전투 기술.
+그 뿔에 폭풍을 불러 적을 쓸어버린다.
+추가 입력으로 2회까지 추가 공격이 가능하다.</text>
+<text id="5541">%null%</text>
+<text id="5542">%null%</text>
+<text id="5543">%null%</text>
+<text id="5544">%null%</text>
+<text id="5545">%null%</text>
+<text id="5546">%null%</text>
+<text id="5547">%null%</text>
+<text id="5548">%null%</text>
+<text id="5549">%null%</text>
+<text id="5550">전용 전투 기술 「거검진」
+
+트롤 마술기사들의 전투 기술.
+거대한 마력 휘검으로 원진을 펼친다.
+휘검은 자동으로 가까운 적을 향해 날아간다.
+강 공격으로 뛰어드는 찌르기로 이을 수 있다.</text>
+<text id="5551">%null%</text>
+<text id="5552">%null%</text>
+<text id="5553">%null%</text>
+<text id="5554">%null%</text>
+<text id="5555">%null%</text>
+<text id="5556">%null%</text>
+<text id="5557">%null%</text>
+<text id="5558">%null%</text>
+<text id="5559">%null%</text>
+<text id="5560">전용 전투 기술 「혈귀의 피 수여」
+
+성창을 들어 진실의 어머니를 찌르는 전투 기술.
+대상 주위에 혈염 폭발을 발생시킨다.
+추가 입력으로 3회까지 연속 사용이 가능하다.</text>
+<text id="5561">%null%</text>
+<text id="5562">%null%</text>
+<text id="5563">%null%</text>
+<text id="5564">%null%</text>
+<text id="5565">%null%</text>
+<text id="5566">%null%</text>
+<text id="5567">%null%</text>
+<text id="5568">%null%</text>
+<text id="5569">%null%</text>
+<text id="5570">전용 전투 기술 「용 모습의 화염」
+
+용 모양의 입에서 불을 뿜는 전투 기술.
+좌우로 흔들리며 전방을 불태운다.
+화염은 잠시 땅을 계속 불태운다.</text>
+<text id="5571">%null%</text>
+<text id="5572">%null%</text>
+<text id="5573">%null%</text>
+<text id="5574">%null%</text>
+<text id="5575">%null%</text>
+<text id="5576">%null%</text>
+<text id="5577">%null%</text>
+<text id="5578">%null%</text>
+<text id="5579">%null%</text>
+<text id="5580">전용 전투 기술 「광속참」
+
+스스로 빛이 되어 뛴 후 광속으로 내려 베는
+전투 기술.
+연속으로 빛의 추가 공격이 발생한다.
+차지 공격으로 강화, 추가 공격 수가 증가한다.</text>
+<text id="5600">전용 전투 기술 「원혼 쏘기」
+
+화살에 원혼을 불러 연속으로 쏘는 전투 기술.
+원혼 화살은 적을 쫓아다니듯 날아간다.</text>
+</entries>
+</fmg>

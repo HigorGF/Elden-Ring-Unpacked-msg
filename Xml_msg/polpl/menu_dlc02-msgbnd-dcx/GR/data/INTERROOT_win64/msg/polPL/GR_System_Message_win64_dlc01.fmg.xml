@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="280004">Sprawdź ustawienia. Klawiszom powiązanym z funkcjami menu nie można przypisać innych funkcji.</text>
+<text id="401130">Nie udało się znaleźć następującego dodatku:
+
+&lt;?requiredDlcList?&gt;
+
+Profil będzie można wczytać dopiero po ponownej instalacji wymaganego dodatku.</text>
+<text id="401131">Shadow of the Erdtree</text>
+<text id="401406">Nie udało się połączyć ze Steamworks: &lt;?errcodeSteam?&gt;
+Powrócisz do menu głównego.</text>
+</entries>
+</fmg>

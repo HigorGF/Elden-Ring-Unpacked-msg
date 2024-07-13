@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="80">ﻣﺑﺎرﻛﺔ ﺷﺟﺭة ﺳﻛﺎدو</text>
+<text id="81">ﻣﺑﺎرﻛﺔ رﻣﺎد اﻷرواح اﻟﺟﻠﻳﻝ</text>
+<text id="205">ﺗﺗﺑﻊ اﻟﻌﻧﺎﺻﺭ اﻟﺟﺩﻳﺩة</text>
+<text id="206">ﺗﺗﺑﻊ اﻟﻌﻧﺎﺻﺭ اﻟﺣﺩﻳﺛﺔ</text>
+<text id="207">ﻧﻘﻝ ﻣﻭاﺿﻊ اﻻﺳﺗﺩﻋﺎء</text>
+</entries>
+</fmg>

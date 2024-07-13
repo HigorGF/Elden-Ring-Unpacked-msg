@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="80">Consume fragmentos del Noctárbol en sitios de gracia para fortalecer la bendición del Noctárbol.
+
+La bendición del Noctárbol aumenta las habilidades del receptor para infligir y neutralizar daño, pero no tiene efecto fuera del Reino de las Sombras.</text>
+<text id="81">Consume las cenizas de espíritus venerados en sitios de gracia para fortalecer la bendición de cenizas de espíritus venerados.
+
+La bendición de cenizas de espíritus venerados fortalece las habilidades de los espíritus invocados y el corcel espectral para infligir y neutralizar daño, pero no tiene efecto fuera del Reino de las Sombras.</text>
+<text id="205">Los objetos obtenidos por primera vez pueden marcarse con &lt;?newItemIcon?&gt;.
+
+La visualización de esta marca se puede activar o desactivar en la pestaña Mostrar del menú del sistema.</text>
+<text id="206">Los objetos obtenidos hace poco se pueden ver en una pestaña específica.
+
+Puedes activar o desactivar esta pestaña en la sección de Mostrar del menú del sistema.</text>
+<text id="207">Los grupos de invocaciones activados se trasladarán a las partidas posteriores.
+
+Puedes activar o desactivar los grupos de invocaciones de forma individual con la lista en el menú de funciones del mapa.</text>
+</entries>
+</fmg>

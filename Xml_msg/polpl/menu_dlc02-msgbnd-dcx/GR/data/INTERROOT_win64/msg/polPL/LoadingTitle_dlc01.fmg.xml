@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="80">Błogosławieństwo Ostrodrzewa</text>
+<text id="81">Błogosławieństwo prochów czcigodnego ducha</text>
+<text id="205">Informowanie o nowych przedmiotach</text>
+<text id="206">Informowanie o ostatnich przedmiotach</text>
+<text id="207">Przenoszenie pul przyzwania</text>
+</entries>
+</fmg>

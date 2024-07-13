@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="111108">Se cambiará la configuración del límite de velocidad de cuadros, ya que el valor anterior ya no es válido.</text>
+<text id="225001">Ofreced corazón de Bayle
+para hacer que &lt;?itemName?&gt; sea vuestro</text>
+<text id="236031">No se puede crear este objeto porque no tienes suficientes recipientes rajados pesados.</text>
+<text id="236061">No puedes crear este objeto porque no tienes ningún recipiente rajado pesado.</text>
+<text id="241200">Se encontró un nuevo mapa.
+()</text>
+<text id="241201">Se encontró un nuevo mapa.
+(Noctaltus)</text>
+<text id="241202">Se encontró un nuevo mapa.
+(Llanura de las Tumbas)</text>
+<text id="241203">Se encontró un nuevo mapa.
+(Ruinas de Rauh)</text>
+<text id="241204">Se encontró un nuevo mapa.
+(Abismo)</text>
+</entries>
+</fmg>

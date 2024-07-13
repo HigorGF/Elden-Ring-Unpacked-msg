@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="302600">Los fragmentos del Noctárbol se encuentran en todo el Reino de las Sombras.
+
+Consúmelos en sitios de gracia para fortalecer la bendición del Noctárbol.
+
+La bendición del Noctárbol aumenta las habilidades del receptor para infligir y neutralizar daño, pero no tiene efecto fuera del Reino de las Sombras.</text>
+<text id="302601">%null%</text>
+<text id="302602">%null%</text>
+<text id="302603">%null%</text>
+<text id="302604">%null%</text>
+<text id="302605">%null%</text>
+<text id="302606">%null%</text>
+<text id="302607">%null%</text>
+<text id="302608">%null%</text>
+<text id="302609">%null%</text>
+<text id="302610">Las cenizas de espíritus venerados se encuentran en todo el Reino de las Sombras.
+
+Consúmelas en sitios de gracia para fortalecer la bendición de cenizas de espíritus venerados.
+
+La bendición de cenizas de espíritus venerados fortalece las habilidades de los espíritus invocados y el corcel espectral para infligir y neutralizar daño, pero no tiene efecto fuera del Reino de las Sombras.</text>
+<text id="302611">%null%</text>
+<text id="302612">%null%</text>
+<text id="302613">%null%</text>
+<text id="302614">%null%</text>
+<text id="302615">%null%</text>
+<text id="302616">%null%</text>
+<text id="302617">%null%</text>
+<text id="302618">%null%</text>
+<text id="302619">%null%</text>
+<text id="302620">Las características nuevas se pueden activar en la pestaña Mostrar del menú de sistema.
+
+- Los objetos obtenidos por primera vez se pueden marcar con &lt;?newItemIcon?&gt;.
+- Se creó una pestaña específica para ver los objetos obtenidos hace poco.</text>
+<text id="402600">Consume fragmentos del Noctárbol para fortalecer la bendición del Noctárbol.
+
+La bendición del Noctárbol fortalece las habilidades del portador para infligir y neutralizar daño, pero no tiene efecto fuera del Reino de las Sombras.</text>
+<text id="402601">%null%</text>
+<text id="402602">%null%</text>
+<text id="402603">%null%</text>
+<text id="402604">%null%</text>
+<text id="402605">%null%</text>
+<text id="402606">%null%</text>
+<text id="402607">%null%</text>
+<text id="402608">%null%</text>
+<text id="402609">%null%</text>
+<text id="402610">Consume cenizas de espíritus venerados para fortalecer la bendición de cenizas de espíritus venerados.
+
+La bendición de cenizas de espíritus venerados fortalece las habilidades de los espíritus invocados y el corcel espectral para infligir y  neutralizar daño, pero no tiene efecto fuera del Reino de las Sombras.</text>
+</entries>
+</fmg>

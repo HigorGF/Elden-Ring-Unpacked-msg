@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1200">指の魔術を強化する</text>
+<text id="1201">ミケラの祈祷を強化する</text>
+<text id="1202">メスメルの火の祈祷を強化する</text>
+<text id="1203">螺旋の祈祷を強化する</text>
+<text id="6800">永眠の状態異常を蓄積する（&lt;?sleepATKpwr?&gt;）</text>
+</entries>
+</fmg>

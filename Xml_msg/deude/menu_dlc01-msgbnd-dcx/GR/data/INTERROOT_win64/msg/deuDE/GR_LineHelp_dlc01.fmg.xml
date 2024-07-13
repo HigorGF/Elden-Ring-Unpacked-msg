@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="110601">Neue Objekte mit einem Symbol markieren</text>
+<text id="110602">%null%</text>
+<text id="110603">Reiter für kürzlich verwendete Objekte im Inventarmenü ausblenden</text>
+<text id="111024">Cursor-Bewegung im Kartenmenü konfigurieren</text>
+<text id="111025">Ändert den Wert der Mausempfindlichkeit bei Zieländerung</text>
+<text id="225001">Eine Fähigkeit von Bayle wählen, um sie sich zu eigen zu machen.</text>
+<text id="241501">Mehrspieler-Statusanzeigen konfigurieren</text>
+<text id="241502">Herbeirufungsreserven-Liste ansehen und Reserven aktivieren/deaktivieren</text>
+<text id="241503">Steuerung auf einer Liste ansehen</text>
+<text id="241504">Erklärung des Kartenmenüs ansehen</text>
+<text id="241600">Herbeirufungsreserven zum Aktivieren/Deaktivieren auswählen</text>
+<text id="280600">Kartenmenü anzeigen</text>
+</entries>
+</fmg>

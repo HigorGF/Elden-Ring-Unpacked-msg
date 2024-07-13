@@ -1,0 +1,555 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="3000000">Il cappello leggermente macchiato e scolorito dal sole di Dane Fogliamorta. Calato sul volto, ostruisce la vista di chi lo indossa.
+
+Incrociare uno sguardo altrui può sopraffare i sensi e indurre alla rovina coloro che hanno scelto la vita nobile e solitaria del ricercatore.</text>
+<text id="3000100">Capo da viaggio per sacerdoti leggermente macchiato e scolorito dal sole.
+
+La collana d'oro sotto il petto appartiene a un gruppo di ricercatori spirituali noti come la setta della Fogliamorta.
+
+Questa setta ripudia la dipendenza dal prossimo in ambito di fede, prediligendo una disciplina ferrea basata sull'autosufficienza.</text>
+<text id="3000200">Fasciature per le braccia leggermente macchiate e scolorite dal sole.
+
+Vengono indossate strette intorno alle braccia, come se fossero sufficienti a proteggerle dalle fratture.</text>
+<text id="3000300">Capo da viaggio per sacerdoti leggermente macchiato e scolorito dal sole.
+Stivali di cuoio robusto.</text>
+<text id="3001100">Capo da viaggio per sacerdoti leggermente macchiato e scolorito dal sole.
+
+La sacca di cuoio appesa alla spalla è decorata con uno degli emblemi di Miquella, un motivo composto da steli d'oro.</text>
+<text id="3010000">Elmo di ferro nero del comandante Gaius.
+Parte di un'armatura ispirata ai semi caduti.
+
+Gaius era il discepolo più anziano del medesimo campione di alabastro che insegnò a Radahn e Gaea la tecnica gravitazionale.</text>
+<text id="3010100">Corazza di ferro nero del comandante Gaius.
+Parte di un'armatura ispirata ai semi caduti.
+
+Gaius era il discepolo più anziano del medesimo campione di alabastro che insegnò a Radahn e Gaea la tecnica gravitazionale.</text>
+<text id="3010200">Guanti d'arme di ferro nero del comandante Gaius.
+Parte di un'armatura ispirata ai semi caduti.
+
+Gaius era il discepolo più anziano del medesimo campione di alabastro che insegnò a Radahn e Gaea la tecnica gravitazionale.</text>
+<text id="3010300">Schinieri di ferro nero forgiati per il comandante Gaius.
+Scherzo di dubbio gusto, poiché non poteva indossarli.
+
+Sempre in sella al suo inseparabile cinghiale, Gaius era un guerriero di origini albinaure.</text>
+<text id="5000000">Elmo dei cavalieri cercatori di voto.
+In metallo nero, sormontato da decorazioni dorate.
+
+Questi cavalieri hanno intrapreso diversi viaggi e missioni, nella speranza di riuscire ciascuno a trovare e stipulare un giuramento votivo a loro scelta, concedendo la loro vita in perfetta devozione.</text>
+<text id="5000100">Corazza della cavaliera dell'Ago Leda.
+
+Potenzia leggermente gli attacchi eseguiti dopo una capriola, un passo indietro o uno scatto.
+
+È decorata con un intreccio arboreo dorato, mentre il bianco candido di sopravveste e mantello simboleggia l'onore dei Cavalieri dell'Ago.
+
+"Miquella il Gentile ci ha scelti come aghi per reprimere e respingere ogni minaccia."</text>
+<text id="5000200">Guanti d'arme dei cavalieri cercatori di voto.
+In metallo nero, sormontati da decorazioni dorate.
+
+Questi cavalieri hanno intrapreso diversi viaggi e missioni, nella speranza di riuscire ciascuno a trovare e stipulare un giuramento votivo a loro scelta, concedendo la loro vita in perfetta devozione.</text>
+<text id="5000300">Schinieri dei cavalieri cercatori di voto.
+In metallo nero, sormontati da decorazioni dorate.
+
+Questi cavalieri hanno intrapreso diversi viaggi e missioni, nella speranza di riuscire ciascuno a trovare e stipulare un giuramento votivo a loro scelta, concedendo la loro vita in perfetta devozione.</text>
+<text id="5002100">Corazza dei cavalieri cercatori di voto.
+In metallo nero, sormontata da decorazioni dorate.
+
+Questi cavalieri hanno intrapreso diversi viaggi e missioni, nella speranza di riuscire ciascuno a trovare e stipulare un giuramento votivo a loro scelta, concedendo la loro vita in perfetta devozione.</text>
+<text id="5010000">Elmo forgiato con un metallo inusuale, il verderame.
+
+Il verderame è considerato un dono di una divinità esterna.
+A causa della sua conformazione rugginosa, risulta robusto e pesante, ma al contempo flessibile.</text>
+<text id="5010100">Corazza forgiata con un metallo inusuale, il verderame.
+
+Il verderame è considerato un dono di una divinità esterna.
+A causa della sua conformazione rugginosa, risulta robusto e pesante, ma al contempo flessibile.</text>
+<text id="5010200">Guanti d'arme forgiati con un metallo inusuale, il verderame.
+
+Il verderame è considerato un dono di una divinità esterna.
+A causa della sua conformazione rugginosa, risulta robusto e pesante, ma al contempo flessibile.</text>
+<text id="5010300">Schinieri forgiati con un metallo inusuale, il verderame.
+
+Il verderame è considerato un dono di una divinità esterna.
+A causa della sua conformazione rugginosa, risulta robusto e pesante, ma al contempo flessibile.</text>
+<text id="5020000">La pelliccia di Ralva, il grande orso rosso. Indossata al naturale come copricapo.
+
+Potenzia gli incantesimi scherzosamente ribattezzati come "comunione dell'orso".
+
+Questo pellame senza modifiche vinto alla fine di una lotta all'ultimo sangue è perfetto per trasformare un guerriero in un orso selvaggio.</text>
+<text id="5020100">Corazza dell'Orso rosso, il cui vero nome si perse nella follia.
+Veste rinforzata con borchie di ferro.
+
+Dopo aver ucciso il grande orso rosso in una lotta all'ultimo sangue, rimase affascinato dalla gloria della sua forza incontaminata.
+"Desidero essere un orso, né più né meno".</text>
+<text id="5020200">Guanti d'arme dell'Orso rosso, il cui vero nome si perse nella follia.
+Rinforzati con borchie di ferro.
+
+Dopo aver ucciso il grande orso rosso in una lotta all'ultimo sangue, rimase affascinato dalla gloria della sua forza incontaminata.
+"Desidero essere un orso, né più né meno".</text>
+<text id="5020300">Schinieri dell'Orso rosso, il cui vero nome si perse nella follia.
+Rinforzati con borchie di ferro.
+
+Dopo aver ucciso il grande orso rosso in una lotta all'ultimo sangue, rimase affascinato dalla gloria della sua forza incontaminata.
+"Desidero essere un orso, né più né meno".</text>
+<text id="5021000">Elmo dell'Orso rosso, il cui vero nome si perse nella follia.
+I paraguance hanno le fattezze di zanne leonine.
+
+Forse la sua fascinazione per la forza indomita della natura selvaggia è conseguenza del passato da Mantorosso.</text>
+<text id="5030000">Maschera raffigurante un volto che dorme sereno.
+
+I capelli argentei sono disposti nello stesso stile di quelli di Santa Trina, aumentando l'arcano.
+
+Solo una volta a Thiollier fu concesso il dolce ristoro di un placido sonno e trascorse il resto dei suoi giorni nel tentativo di ritrovarlo.</text>
+<text id="5030100">Indumenti scuri di coloro che maneggiano i veleni in segreto.
+
+I capelli argentei sono disposti nello stesso stile di quelli di Santa Trina, aumentando l'arcano.
+
+Inoltre, all'esterno sono cuciti innumerevoli aghi, apparentemente con funzione di talismani.
+</text>
+<text id="5030200">Guanti scuri di coloro che maneggiano il veleno in segreto, da sempre derisi e disprezzati.</text>
+<text id="5030300">Pantaloni scuri di coloro che maneggiano il veleno in segreto, da sempre derisi e disprezzati.</text>
+<text id="5031100">Indumenti scuri di coloro che maneggiano i veleni in segreto. 
+
+L'esterno è ricoperto di aghi con funzione di talismani.
+
+</text>
+<text id="5060000">Copricapo del conte Ymir, prelato.
+
+La sommità circolare rappresenta la Volontà superiore, nonché l'abisso di tenebra.
+
+Sebbene abbia insegnato la stregoneria a Rellana, il conte Ymir ha successivamente ripudiato la sua fedeltà alla luna.
+"Era soltanto il corpo celeste più vicino. Nulla di più."</text>
+<text id="5060100">Veste del conte Ymir, prelato.
+Nasconde alla vista le convulsioni sottostanti.
+
+Il tessuto viola è decorato con ricami dorati, mentre il colletto ingioiellato sfavilla come un fiore ricoperto di rugiada.</text>
+<text id="5060200">Guanti del conte Ymir, prelato.
+Soffici e di pregevole fattura.</text>
+<text id="5060300">Indumenti intimi del conte Ymir, prelato.
+Soffici e di pregevole fattura.</text>
+<text id="5062100">Veste del conte Ymir, prelato.
+Aperta sul davanti a mostrare il contorcimento delle dita.
+
+Questa veste è la realizzazione di un fervente desiderio finalmente avverrato, un sogno manifestato, e indossarla potenzia le stregonerie delle dita.
+
+"Diventerò una vera madre.
+Le mie dita condurranno il mondo alla salvezza!"</text>
+<text id="5070000">Maschera grottesca composta da innumerevoli bruchi solidificati. Uno strumento rituale dei sommi potentati del villaggio di Bonny.
+
+Protegge da pensieri impuri, dubbi, tentazioni e altre perversioni a cui si è vulnerabili mentre si è assorti nei rituali divini.</text>
+<text id="5070100">Tessuto nero logoro e ricoperto di corda intrecciata. Tenuta degli araldi del corno in cerca di vendetta.
+
+La corda intrecciata lega indissolubilmente la promessa del vendicatore al risentimento delle vittime. Mai e poi mai potrà essere sciolta.
+
+Potenzia sia gli spiriti vigili che gli spiriti vendicativi evocati dai pargoli dalle lunghe corna .</text>
+<text id="5070200">Tessuto nero logoro e legato con una corda intrecciata. Tenuta degli araldi del corno in cerca di vendetta.</text>
+<text id="5070300">Queste brache logore e macchiate nascondono a stento le parti basse di chi le indossa.</text>
+<text id="5080000">Cappuccio rosso delle danzatrici di Ranah.
+
+Potenzia gli attacchi di danza.
+
+La danza di Ranah è un concentrato di passione, in cui le ballerine danzano infervorate senza sosta, arrivando a dimenticare persino il proprio nome.
+
+Se la passione si affievolisce, significa che il fuoco della danzatrice si sta spegnendo.</text>
+<text id="5080100">Abito rosso accesso delle danzatrici di Ranah.
+
+Potenzia gli attacchi di danza.
+
+La danza di Ranah è un concentrato di passione, in cui le ballerine danzano infervorate senza sosta, arrivando a dimenticare persino il proprio nome.
+
+Se la passione si affievolisce, significa che il fuoco della danzatrice si sta spegnendo.</text>
+<text id="5080200">Bracciale in metallo delle danzatrici di Ranah.
+
+Potenzia gli attacchi di danza.
+
+Creato per proteggere la mano che impugna la spada.</text>
+<text id="5080300">Lunghi pantaloni neri indossati dalle danzatrici di Ranah sotto l'abito cremisi.
+
+Potenzia gli attacchi di danza.</text>
+<text id="5081100">Versione modificata dell'abito cremisi delle danzatrici di Ranah.
+Questa è la biancheria nera indossata sotto l'abito.
+
+Potenzia gli attacchi di danza.</text>
+<text id="5090000">Elmo nero senza fondo e freddo al tatto.
+La superficie è adornata da linee fluenti che disegnano forme simili a impronte digitali. Avvolge chi lo indossa in una coltre di tenebre.
+
+Viene assegnato a coloro che nascono nelle viscere della terra, sancendone la consacrazione a spade della notte.</text>
+<text id="5090100">Corazza nera senza fondo e fredda al tatto.
+La superficie è adornata da linee fluenti che disegnano forme simili a impronte digitali. Avvolge chi la indossa in una coltre di tenebre.
+
+Viene assegnata a coloro che nascono nelle viscere della terra, sancendone la consacrazione a spade della notte.</text>
+<text id="5090200">Guanti d'arme neri senza fondo e freddi al tatto.
+La superficie è adornata da linee fluenti che disegnano forme simili a impronte digitali. Avvolgono chi li indossa in una coltre di tenebre.
+
+Vengono assegnati a coloro che nascono nelle viscere della terra, sancendone la consacrazione a spade della notte.</text>
+<text id="5090300">Schinieri neri senza fondo e freddi al tatto.
+La superficie è adornata da linee fluenti che disegnano forme simili a impronte digitali. Avvolgono chi li indossa in una coltre di tenebre.
+
+Vengono assegnati a coloro che nascono nelle viscere della terra, sancendone la consacrazione a spade della notte.</text>
+<text id="5100000">Elmo del perduto guerriero draconico Igon, proveniente da un'armatura composta da un'accozzaglia di parti. Questa protezione malconcia è a forma di corno.
+
+Il misero sciacallo dei campi di battaglia trovò riscatto nella comunione draconica.</text>
+<text id="5100100">Corazza del perduto guerriero draconico Igon, proveniente da un'armatura composta da un'accozzaglia di parti. Questa protezione malconcia reca ancora sudici effetti personali.
+
+Il misero sciacallo dei campi di battaglia trovò riscatto nella comunione draconica.</text>
+<text id="5100200">Guanti d'arme del perduto guerriero draconico Igon. La cotta di maglia, depredata da un cadavere all'indomani di una battaglia, è ancora incrostata dal sangue del precedente proprietario.</text>
+<text id="5100300">Brache del perduto guerriero draconico Igon. Questo misero straccio, depredato da un cadavere all'indomani di una battaglia, emette un fetore nauseante.</text>
+<text id="5101000">Elmo del perduto guerriero draconico Igon, proveniente da un'armatura composta da un'accozzaglia di parti. Rattoppato con brandelli di tessuto.
+
+Il misero sciacallo dei campi di battaglia trovò riscatto nella comunione draconica.</text>
+<text id="5101100">Corazza del perduto guerriero draconico Igon, proveniente da un'armatura composta da un'accozzaglia di parti. Rattoppata con brandelli di tessuto.
+
+Il misero sciacallo dei campi di battaglia trovò riscatto nella comunione draconica.</text>
+<text id="5110000">Maschera di ferro del ser Ansbach, che conferisce a chi la indossa l'aspetto di un anziano, laconico e saggio uomo barbuto.
+
+Tuttavia un'antica paura permane da sotto la maschera, nonché dall'inflessibile disciplina con egli maneggiava la sua lama.
+Questa maestria potenzia le abilità dinastiche e del voto di sangue.</text>
+<text id="5110100">Tenuta del ser Ansbach. Lo stemma ricamato dei cavalieri di sangue puro è ormai sbiadito.
+
+Potenzia leggermente le abilità dinastiche e del Voto di sangue.
+
+Ansbach comprese che mantenere la parola data al vecchio maestro andava contro ogni senso logico o di giustizia, ma fu proprio per questo che non seppe rinnegarla.</text>
+<text id="5110200">Polsini del ser Ansbach. Cuoio nero decorato con ricami dorati.
+
+Potenzia leggermente le abilità dinastiche e del Voto di sangue.</text>
+<text id="5110300">Stivali del ser Ansbach. Cuoio nero decorato con ricami dorati.
+
+Potenzia leggermente le abilità dinastiche e del Voto di sangue.</text>
+<text id="5111100">Tenuta del ser Ansbach. Tessuto nero decorato con ricami dorati.
+
+Potenzia leggermente le abilità dinastiche e del Voto di sangue.</text>
+<text id="5120000">Elmo dorato della cavaliera Mantorosso Freyja, membro della cerchia dei più nobili cavalieri del generale Radahn.
+
+Un tempo, il suo viso era sfigurato da una terribile ferita.
+
+In seguito, Miquella vi posò gentilmente le labbra e quella cicatrice imperitura divenne la bussola della vita di Freyja.</text>
+<text id="5120100">Corazza dorata della cavaliera Mantorosso Freyja, membro della cerchia dei più nobili cavalieri del generale Radahn. Corredata da un mantello di lana nera.
+
+Dopo aver apprezzato in gioventù il coraggio di Freyja come gladiatrice, Radahn la invitò a unirsi alla schiera dei suoi più fidati combattenti.</text>
+<text id="5120200">Guanti d'arme dorati della cavaliera Mantorosso Freyja, membro della cerchia dei più nobili cavalieri del generale Radahn.
+
+Dopo aver apprezzato in gioventù il coraggio di Freyja come gladiatrice, Radahn la invitò a unirsi alla schiera dei suoi più fidati combattenti.</text>
+<text id="5120300">Schinieri dorati della cavaliera Mantorosso Freyja, membro della cerchia dei più nobili cavalieri del generale Radahn.
+
+Dopo aver apprezzato in gioventù il coraggio di Freyja come gladiatrice, Radahn la invitò a unirsi alla schiera dei suoi più fidati combattenti.</text>
+<text id="5121100">Corazza dorata della cavaliera Mantorosso Freyja, membro della cerchia dei più nobili cavalieri del generale Radahn.
+
+Dopo aver apprezzato in gioventù il coraggio di Freyja come gladiatrice, Radahn la invitò a unirsi alla schiera dei suoi più fidati combattenti.</text>
+<text id="5130000">Elmo d'acciaio dei cavalieri della galera solitaria.
+Parte di un'armatura che ricopre interamente il corpo di placche d'acciaio sovrapposte.
+
+Si dice che nei mausolei ignoti del regno dell'ombra sia possibile trovare gli spiriti di guerrieri che hanno perduto il loro nome, o anche il loro cuore.</text>
+<text id="5130100">Corazza d'acciaio dei cavalieri della galera solitaria.
+Parte di un'armatura che ricopre interamente il corpo di placche d'acciaio sovrapposte.
+
+Si dice che nei mausolei ignoti del regno dell'ombra sia possibile trovare gli spiriti di guerrieri che hanno perduto il loro nome, o anche il loro cuore.</text>
+<text id="5130200">Guanti d'arme d'acciaio dei cavalieri della galera solitaria.
+Parte di un'armatura che ricopre interamente il corpo di placche d'acciaio sovrapposte.
+
+Si dice che nei mausolei ignoti del regno dell'ombra sia possibile trovare gli spiriti di guerrieri che hanno perduto il loro nome, o anche il loro cuore.</text>
+<text id="5130300">Schinieri d'acciaio dei cavalieri della galera solitaria.
+Parte di un'armatura che ricopre interamente il corpo di placche d'acciaio sovrapposte.
+
+Si dice che nei mausolei ignoti del regno dell'ombra sia possibile trovare gli spiriti di guerrieri che hanno perduto il loro nome, o anche il loro cuore.</text>
+<text id="5131100">Corazza d'acciaio dei cavalieri della galera solitaria.
+Parte di un'armatura che ricopre interamente il corpo di placche d'acciaio sovrapposte.
+
+Si dice che i mausolei senza nome del regno dell'ombra custodiscano gli spiriti dei guerrieri che hanno perso il loro nome o il loro cuore.</text>
+<text id="5140000">Elmo di ferro con visiera indossato dai soldati al servizio di Messmer l'Impalatore.
+
+Sebbene ritragga l'Albero Ombra, la decorazione sulla fronte è incisa in oro. Una magra consolazione per chi è costretto ad andare in guerra senza grazia né onore.</text>
+<text id="5140100">Corazza indossata dai soldati al servizio di Messmer l'Impalatore. La cotta arrugginita è ricoperta da un mantello lacero.
+
+Sebbene ritragga l'Albero Ombra, la decorazione sul petto è incisa in oro. Una magra consolazione per chi è costretto ad andare in guerra senza grazia né onore.</text>
+<text id="5140200">Guanti d'arme indossati dai soldati al servizio di Messmer l'Impalatore, arrugginiti e incrostati di sudiciume per l'uso prolungato in battaglia.</text>
+<text id="5140300">Schinieri indossati dai soldati al servizio di Messmer l'Impalatore, arrugginiti e incrostati di sudiciume per l'uso prolungato in battaglia.</text>
+<text id="5141100">Corazza indossata dai soldati al servizio di Messmer l'Impalatore. La cotta si è arrugginita nel corso di un'interminabile guerra.
+
+Sebbene ritragga l'Albero Ombra, la decorazione sul petto è incisa in oro. Una magra consolazione per chi è costretto ad andare in guerra senza grazia né onore.</text>
+<text id="5150000">Elmo indossato dai cavalieri neri, ordine al servizio di Messmer l'Impalatore.
+In ferro nero con decorazioni d'oro. Emana un ostinato fetore di decomposizione.
+
+L'odore potrebbe essere conseguenza della natura corrotta del sangue che lo ha imbrattato. O forse dell'anima torbida di chi lo indossava, incancrenita dai continui massacri.</text>
+<text id="5150100">Corazza indossata dai cavalieri neri, ordine al servizio di Messmer l'Impalatore.
+
+Sebbene ritragga l'Albero Ombra, la decorazione sul cuore è incisa in oro. Una magra consolazione per chi è costretto ad andare in guerra senza grazia né onore.</text>
+<text id="5150200">Guanti d'arme indossati dai cavalieri neri, ordine al servizio di Messmer l'Impalatore, di ferro nero con decorazioni d'oro. Emanano un ostinato fetore di decomposizione.
+
+L'odore potrebbe essere conseguenza della natura corrotta del sangue che li ha imbrattati. O forse dell'anima torbida di chi li indossava, incancrenita dai continui massacri.</text>
+<text id="5150300">Schinieri indossati dai cavalieri neri al servizio di Messmer l'Impalatore, di ferro nero con decorazioni d'oro. Emanano un ostinato fetore di decomposizione.
+
+L'odore potrebbe essere conseguenza della natura corrotta del sangue che li ha imbrattati. O forse dell'anima torbida di chi li indossava, incancrenita dai continui massacri.</text>
+<text id="5160000">Elmo di Rakshasa, impregnato del sangue versato dalle vittime. Brandelli di stoffa lacera sporgono a casaccio, come se la sua brama di carneficina minacciasse di liberarsi.
+
+Incrementa i danni inflitti ai nemici, ma incrementa notevolmente i danni subiti da chi li indossa.
+
+Uccidere e divorare. Chi ripeterà questo ciclo senza sosta può veramente sovvertire l'io e diventare Rakshasa.</text>
+<text id="5160100">Corazza di Rakshasa, impregnata del sangue versato dalle vittime. Brandelli di stoffa lacera sporgono a casaccio, come se la sua brama di carneficina minacciasse di liberarsi.
+
+Incrementa i danni inflitti ai nemici, ma incrementa notevolmente i danni subiti da chi li indossa.
+
+Uccidere e divorare. Chi ripeterà questo ciclo senza sosta può veramente sovvertire l'io e diventare Rakshasa.</text>
+<text id="5160200">Guanti d'arme di Rakshasa, impregnati del sangue versato dalle vittime. Brandelli di stoffa lacera sporgono a casaccio, come se la sua brama di carneficina minacciasse di liberarsi.
+
+Incrementano i danni inflitti ai nemici, ma incrementano notevolmente i danni subiti da chi li indossa.
+
+Uccidere e divorare. Chi ripeterà questo ciclo senza sosta può veramente sovvertire l'io e diventare Rakshasa.</text>
+<text id="5160300">Schinieri di Rakshasa, impregnati del sangue versato dalle vittime. Brandelli di stoffa lacera sporgono a casaccio, come se la sua brama di carneficina minacciasse di liberarsi.
+
+Incrementano i danni inflitti ai nemici, ma incrementano notevolmente i danni subiti da chi li indossa.
+
+Uccidere e divorare. Chi ripeterà questo ciclo senza sosta può veramente sovvertire l'io e diventare Rakshasa.</text>
+<text id="5180000">Elmo a punta dei cavalieri del fuoco alle dirette dipendenze di Messmer l'Impalatore.
+
+Incrementa leggermente PV, vigore e carico equipaggiamento massimi.
+
+I cavalieri provenivano dalle più illustri famiglie delle alte gerarchie dell'Albero Madre. Quando giurarono fedeltà a Messmer, tuttavia, furono emarginati e scacciati dalle proprie terre.</text>
+<text id="5180100">Corazza dei cavalieri del fuoco alle dirette dipendenze di Messmer l'Impalatore.
+
+Si distingue per il mantello rosso e i due serpenti dorati che adornano il collo, accrescendo la potenza degli incantesimi di fuoco di Messmer.
+
+Erano gli unici a conoscere realmente Messmer. Le sue fiamme erano come serpenti. Il tragico destino che accompagnava la sua forma maledetta.</text>
+<text id="5180200">Guanti d'arme dei cavalieri del fuoco alle dirette dipendenze di Messmer l'Impalatore.
+
+I cavalieri provenivano dalle più illustri famiglie delle alte gerarchie dell'Albero Madre. Quando giurarono fedeltà a Messmer, tuttavia, furono emarginati e scacciati dalle proprie terre.</text>
+<text id="5180300">Schinieri dei cavalieri del fuoco alle dirette dipendenze di Messmer l'Impalatore.
+
+I cavalieri provenivano dalle più illustri famiglie delle alte gerarchie dell'Albero Madre. Quando giurarono fedeltà a Messmer, tuttavia, furono emarginati e scacciati dalle proprie terre.</text>
+<text id="5181100">Corazza dei cavalieri del fuoco alle dirette dipendenze di Messmer l'Impalatore.
+
+I cavalieri provenivano dalle più illustri famiglie delle alte gerarchie dell'Albero Madre. Quando giurarono fedeltà a Messmer, tuttavia, furono emarginati e scacciati dalle proprie terre.</text>
+<text id="5182000">Elmo di Wego, il più anziano dei cavalieri del fuoco. È composto da due maschere della morte sovrapposte.
+
+Limita il consumo di PA per evocare gli spiriti.
+
+Consumato dalla solitudine, l'anziano si interessò alla spiritualità della fiamma di Messmer, che utilizzò in un rito di resurrezione.</text>
+<text id="5183000">Elmo di Kood, capitano dei cavalieri del fuoco. È sormontato da un serpente alato.
+
+Potenzia le abilità dei cavalieri del fuoco.
+
+Il serpente alato è la creatura simbolo delle forze militari di Messmer. È un amico saggio che tiene lontana la spregevole serpe e ne imbriglia i poteri.</text>
+<text id="5184000">Cappuccio di Salza, saggio dei cavalieri del fuoco.
+
+Avvolge la testa di chi lo indossa in un'enorme quantità di tessuto, facendola apparire gonfia oltre misura. Indossarlo aumenta l'intelligenza.
+
+Discepolo dell'anziano Wego, rischiò la vita rifiutandosi di bruciare delle vecchie rovine.
+</text>
+<text id="5190000">Fascia di cuoio intrecciato indossata dai guerrieri degli altopiani. Il dettaglio bianco rappresenta il loro villaggio.
+
+I guerrieri degli altopiani sono abili cacciatori di orsi. Nella loro cultura, non esiste gesto più nobile della sottomissione di una belva.</text>
+<text id="5190100">Veste tradizionale dei guerrieri degli altopiani, realizzata in stoffa con finiture di pelliccia. Questo capo integra tessuti blu e rossi.
+
+Le aggiunte in tessuto rosso erano concesse solamente a coloro che davano la caccia agli orsi, i più valorosi tra i guerrieri degli altopiani.</text>
+<text id="5190200">Fasciature per le braccia indossate dai guerrieri degli altopiani, realizzate in cuoio robusto e fissate con cinghie arrotolate.
+
+I guerrieri degli altopiani sono abili cacciatori di orsi. Nella loro cultura, non esiste gesto più nobile della sottomissione di una belva.</text>
+<text id="5190300">Gambali indossati dai guerrieri degli altopiani, realizzati in cuoio robusto e fissati con cinghie arrotolate.
+
+I guerrieri degli altopiani sono abili cacciatori di orsi. Nella loro cultura, non esiste gesto più nobile della sottomissione di una belva.</text>
+<text id="5191000">Elmo di cuoio indossato dai guerrieri degli altopiani. Il dettaglio bianco rappresenta il loro villaggio.
+
+I guerrieri degli altopiani sono abili cacciatori di orsi. Nella loro cultura, lottare contro belve feroci è un mezzo per ottenere onore e rispetto.</text>
+<text id="5191100">Veste tradizionale dei guerrieri degli altopiani, realizzata in tessuto e decorata con stoffa dai motivi blu.
+
+I guerrieri degli altopiani sono abili cacciatori di orsi. Nella loro cultura, lottare contro belve feroci è un mezzo per ottenere onore e rispetto.</text>
+<text id="5200000">Elmo dorato dei cavalieri della morte, che usano le proprie maschere mortali come visiera dell'armatura.
+
+Potenzia gli incantesimi e le abilità degli adepti del drago antico della capitale.
+
+La ruota d'oro deteriorata che campeggia sull'elmo rappresenta la loro incrollabile lealtà a Godwyn, divenuto Principe della Morte.</text>
+<text id="5200100">Corazza dorata dei cavalieri della morte, decorata con un'antica raffigurazione dell'Albero Madre.
+
+Potenzia gli incantesimi e le abilità degli adepti del drago antico della capitale.
+
+Questi cavalieri, un tempo guardie personali di Godwyn, andarono alla ricerca del cadavere surrogato del loro signore in previsione dell'era della prole crepuscolare.</text>
+<text id="5200200">Guanti d'arme dorati dei cavalieri della morte, decorati con un'antica raffigurazione dell'Albero Madre.
+
+Potenzia gli incantesimi e le abilità degli adepti del drago antico della capitale.
+
+Questi cavalieri, un tempo guardie personali di Godwyn, andarono alla ricerca del cadavere surrogato del loro signore in previsione dell'era della prole crepuscolare.</text>
+<text id="5200300">Schinieri dorati dei cavalieri della morte, decorati con un'antica raffigurazione dell'Albero Madre.
+
+Potenzia gli incantesimi e le abilità degli adepti del drago antico della capitale.
+
+Questi cavalieri, un tempo guardie personali di Godwyn, andarono alla ricerca del cadavere surrogato del loro signore in previsione dell'era della prole crepuscolare.</text>
+<text id="5210000">Maschera con una corona di corna intrecciate, indossata da coloro che si appellavano al divino.
+
+L'invocazione divina accresce la destrezza, ma rende nauseabonda la benedizione dell'Albero Madre, riducendo l'effetto ristoratore delle ampolle di lacrime sacre.
+
+Questa maschera compromette anche la concentrazione.</text>
+<text id="5210100">Tenuta degli asceti della torre, simbolo del loro impegno a condurre un'austera esistenza di rigido autocontrollo.
+
+Per ascendere dalla condizione mortale a quella di divinità tutelari è necessario sviluppare la propria spiritualità attraverso pratiche ascetiche.</text>
+<text id="5210200">Protezioni per i polsi degli asceti della torre, simbolo del loro impegno a condurre un'austera esistenza di rigido autocontrollo.
+
+Per ascendere dalla condizione mortale a quella di divinità tutelari è necessario sviluppare la propria spiritualità attraverso pratiche ascetiche.</text>
+<text id="5210300">Protezioni per le caviglie degli asceti della torre, simbolo del loro impegno a condurre un'austera esistenza di rigido autocontrollo.
+
+Per ascendere dalla condizione mortale a quella di divinità tutelari è necessario sviluppare la propria spiritualità attraverso pratiche ascetiche.</text>
+<text id="5220000">Elmo annerito di Messmer l'Impalatore, sormontato da due serpenti alati avviluppati l'uno sull'altro.
+Potenzia leggermente gli incantesimi di fuoco di Messmer e le abilità dei cavalieri del fuoco.
+
+I serpenti alati erano gli inseparabili compagni di Messmer.
+
+Non lo abbandonarono quando la spregevole serpe fu sigillata dietro il suo occhio. Non lo abbandonarono nella sua esistenza di dolore. E non lo abbandoneranno nemmeno ora che ha assunto una nuova e ributtante forma, conseguenza del suo rifiuto della grazia materna. Essi hanno accettato di condividerne il destino.</text>
+<text id="5220100">Corazza annerita di Messmer l'Impalatore.
+Ornata da un manto rosso su cui è ricamato il suo stemma.
+
+Come ella stessa desiderava, Messmer rese sua madre un simbolo di terrore, dando inizio alla crociata di epurazione da lei ordinata.
+
+"Rivolgi le tue maledizioni, la tua collera e il tuo dolore verso di me, e me soltanto."</text>
+<text id="5220200">Guanti d'arme anneriti di Messmer l'Impalatore.
+
+Come ella stessa desiderava, Messmer rese sua madre un simbolo di terrore, dando inizio alla crociata di epurazione da lei ordinata.
+
+"Rivolgi le tue maledizioni, la tua collera e il tuo dolore verso di me, e me soltanto."</text>
+<text id="5220300">Schinieri anneriti di Messmer l'Impalatore.
+
+Come ella stessa desiderava, Messmer rese sua madre un simbolo di terrore, dando inizio alla crociata di epurazione da lei ordinata.
+
+"Rivolgi le tue maledizioni, la tua collera e il tuo dolore verso di me, e me soltanto."</text>
+<text id="5221000">Elmo annerito di Messmer l'Impalatore, sormontato da due serpenti alati avviluppati l'uno sull'altro.
+
+I serpenti alati erano gli inseparabili compagni di Messmer.
+
+Non lo abbandonarono quando la spregevole serpe fu sigillata dietro il suo occhio. Non lo abbandonarono nella sua esistenza di dolore. E non lo abbandoneranno nemmeno ora che ha assunto una nuova e ributtante forma, conseguenza del suo rifiuto della grazia materna. Essi hanno accettato di condividerne il destino.</text>
+<text id="5230000">Elmo di pietra con sfumature verdi. Parte dell'armatura completa dell'uccello becchino.
+Catalizza incantesimi che evocano anelli di luce spettrale.
+
+Gli uccelli becchini sono golem antichi creati per vegliare sui sepolcri spiritici in cui convergono tutti i defunti.</text>
+<text id="5230100">Corazza di pietra con sfumature verdi. Parte dell'armatura completa dell'uccello becchino.
+Ornata da un mantello nero di piume di uccello della morte, potenzia gli attacchi in salto.
+
+Gli uccelli becchini sono golem antichi creati per vegliare sui sepolcri spiritici in cui convergono tutti i defunti.</text>
+<text id="5230200">Bracciali di pietra con sfumature verdi. Parte dell'armatura completa dell'uccello becchino.
+
+Gli uccelli becchini sono golem antichi creati per vegliare sui sepolcri spiritici in cui convergono tutti i defunti.</text>
+<text id="5230300">Cavigliere di pietra con sfumature verdi. Parte dell'armatura completa dell'uccello becchino.
+
+Gli uccelli becchini sono golem antichi creati per vegliare sui sepolcri spiritici in cui convergono tutti i defunti.</text>
+<text id="5231100">Corazza di pietra con sfumature verdi. Parte dell'armatura completa dell'uccello becchino.
+
+Gli uccelli becchino sono antichi golem, creati con il compito di custodire I sepolcri spiritici dove confluiscono I defunti.</text>
+<text id="5240000">Elmo da soldato semplice dell'esercito di Messmer.
+
+È incrostato da uno strato di fuliggine nero come l'anima di chi l'ha indossato.</text>
+<text id="5240100">Corazza di stoffa da soldato semplice dell'esercito di Messmer.
+
+È incrostata da uno strato di fuliggine nero come l'anima di chi l'ha indossata.</text>
+<text id="5240200">Guanti d'arme da soldato semplice dell'esercito di Messmer.
+
+Sono incrostati da uno strato di fuliggine nero come l'anima di chi li ha indossati.</text>
+<text id="5240300">Schinieri da soldato semplice dell'esercito di Messmer.
+
+Sono incrostati da uno strato di fuliggine nero come l'anima di chi li ha indossati.</text>
+<text id="5250000">Elmo sormontato da una corona di robuste corna intrecciate che permette di appellarsi al divino. Tenuta dei guerrieri dalle lunghe corna, custodi della torre.
+
+L'invocazione divina accresce la forza, ma rende nauseabonda la benedizione dell'Albero Madre, riducendo l'effetto ristoratore delle ampolle di lacrime sacre.
+
+Questo elmo compromette anche la concentrazione.</text>
+<text id="5250100">Corazza dei guerrieri dalle lunghe corna, custodi della torre.
+
+Il tessuto ocra copre una corazza che riproduce il corpo nudo di un antico eroe.</text>
+<text id="5250200">Guanti d'arme dei guerrieri dalle lunghe corna, custodi della torre, realizzati in metallo massiccio.</text>
+<text id="5250300">Schinieri dei guerrieri dalle lunghe corna, custodi della torre. La foggia riproduce il corpo nudo di un antico eroe.</text>
+<text id="5252000">Elmo di corna intrecciate fissato alla maschera di una belva divina che permette di invocare divinità. Indossato dai guerrieri della belva divina, i migliori tra i guerrieri dalle lunghe corna.
+
+L'invocazione divina accresce la potenza delle tempeste, oltre a forza e destrezza, ma riduce l'effetto ristoratore delle ampolle di lacrime sacre.
+
+Questo elmo compromette anche la concentrazione.</text>
+<text id="5252100">Corazza dei gloriosi guerrieri dalle lunghe corna scelti per essere nominati guerrieri della belva divina, adornata da una pelliccia di leone.
+
+Tra i guerrieri della belva divina, solo i migliori a invocare il divino possono diventare scultorei custodi, a cui è concesso l'onore della danza leonina.</text>
+<text id="5253000">Elmo di corna intrecciate fissato alla maschera di un uccello divino che permette di invocare divinità. Indossato dai guerrieri dell'uccello divino, i migliori tra i guerrieri dalle lunghe corna.
+
+L'invocazione divina accresce la potenza delle piume divine, oltre a forza e destrezza, ma riduce l'effetto ristoratore delle ampolle di lacrime sacre.
+
+Questo elmo compromette anche la concentrazione.</text>
+<text id="5253100">Corazza dei guerrieri dell'uccello divino, l'élite delle truppe dalle lunghe corna, forgiata con metallo dorato.
+
+I divini uccelli dorati sono noti per essere creature malvagie, che disdegnano la compagnia umana. Pochi sono riusciti a invocare il loro favore.</text>
+<text id="5253200">Guanti d'arme dei guerrieri dell'uccello divino, l'élite delle truppe dalle lunghe corna, forgiati con metallo dorato.
+
+I divini uccelli dorati sono noti per essere creature malvagie, che disdegnano la compagnia umana. Pochi sono riusciti a invocare il loro favore.</text>
+<text id="5253300">Schinieri dei guerrieri dell'uccello divino, l'élite delle truppe dalle lunghe corna, forgiati con metallo dorato.
+
+Gli enormi artigli affilati incrementano la forza dei calci.</text>
+<text id="5260000">Elmo decorato di Rellana, cavaliera della Luna gemella, forgiato con acciaio argentato.
+
+Si narra che Rennala, guida della famiglia reale di Caria, donò lunghi capelli neri alla sorella minore, che aveva rinunciato al proprio lignaggio per seguire Messmer.</text>
+<text id="5260100">Corazza decorata di Rellana, cavaliera della Luna gemella, forgiata con acciaio argentato.
+
+È adornata da lapislazzuli blu simbolo di Caria, la cui lucentezza non è ancora sbiadita.</text>
+<text id="5260200">Guanti di Rellana, cavaliera della Luna gemella, realizzati con cuoio pregiato.</text>
+<text id="5260300">Schinieri decorati di Rellana, cavaliera della Luna gemella, forgiati con acciaio argentato.</text>
+<text id="5270000">Elmo dorato indossato da Radahn in gioventù. Adornato dalla sua eroica chioma rossa, che lo rende un copricapo degno di un leone.
+
+Quando Malenia, spada di Miquella, permise al fiore putrescente di sbocciare ad Aeonia, Radahn sentì un mormorio all'orecchio...
+
+"Miquella ti attende, o consorte promesso."</text>
+<text id="5270100">Corazza dorata indossata da Radahn in gioventù. Adornata da eroiche finiture rosse, che la rendono un indumento degno di un leone.
+
+Quando Malenia, spada di Miquella, permise al fiore putrescente di sbocciare ad Aeonia, Radahn sentì un mormorio all'orecchio...
+
+"Miquella ti attende, o consorte promesso."</text>
+<text id="5270200">Guanti d'arme dorati indossati da Radahn in gioventù.
+
+Quando Malenia, spada di Miquella, permise al fiore putrescente di sbocciare ad Aeonia, Radahn sentì un mormorio all'orecchio...
+
+"Miquella ti attende, o consorte promesso."</text>
+<text id="5270300">Schinieri dorati indossati da Radahn in gioventù. Degni di un leone feroce.
+
+Quando Malenia, spada di Miquella, permise al fiore putrescente di sbocciare ad Aeonia, Radahn sentì un mormorio all'orecchio...
+
+"Miquella ti attende, o consorte promesso."</text>
+<text id="5271100">Corazza dorata indossata da Radahn in gioventù. Degna di un leone feroce.
+
+Quando Malenia, spada di Miquella, permise al fiore putrescente di sbocciare ad Aeonia, Radahn sentì un mormorio all'orecchio...
+
+"Miquella ti attende, o consorte promesso."</text>
+<text id="5272000">Il cerchietto di luce che cingeva la testa di Miquella al suo ritorno in forma divina e che ora sta svanendo nel nulla.
+
+Incrementa leggermente intelligenza, fede e arcano, oltre all'intensità della luce di Miquella.
+
+Questo cerchio era la pietra angolare su cui avrebbe dovuto reggersi l'era della compassione di Miquella, se mai si fosse realizzata.</text>
+<text id="5280000">Elmo nero come le tenebre indossato da rozzi miliziani.
+
+Campi di battaglia inceneriti e invasi dal tanfo della morte. Terre proibite che la storia consegnerà inevitabilmente all'oblio. Quale luogo migliore del regno dell'ombra, dunque, per una simile armata?</text>
+<text id="5280100">Corazza nera come le tenebre indossata da rozzi miliziani.
+
+Campi di battaglia inceneriti e invasi dal tanfo della morte. Terre proibite che la storia consegnerà inevitabilmente all'oblio. Quale luogo migliore del regno dell'ombra, dunque, per una simile armata?</text>
+<text id="5280200">Guanti d'arme neri come le tenebre indossati da rozzi miliziani.
+
+Campi di battaglia inceneriti e invasi dal tanfo della morte. Terre proibite che la storia consegnerà inevitabilmente all'oblio. Quale luogo migliore del regno dell'ombra, dunque, per una simile armata?</text>
+<text id="5280300">Schinieri neri come le tenebre indossati da rozzi miliziani.
+
+Campi di battaglia inceneriti e invasi dal tanfo della morte. Terre proibite che la storia consegnerà inevitabilmente all'oblio. Quale luogo migliore del regno dell'ombra, dunque, per una simile armata?</text>
+<text id="5290000">Copricapo rituale a forma di testa di una belva divina, usato per eseguire la danza leonina. Indossato dai migliori tra gli scultorei custodi. Ahimè, non risponde più alla sincera prece dell'anziana donna.
+
+L'invocazione divina accresce l'intensità delle tempeste, oltre a forza e destrezza, ma riduce l'effetto ristoratore delle ampolle di lacrime sacre.
+
+Questo copricapo compromette anche la concentrazione.</text>
+<text id="5300000">La vita di Santa Trina si avvizzì fino a spegnersi, passeggera come le stagioni. Quando scomparve, al suo posto sbocciò una ninfea.
+
+Incrementa leggermente i PA massimi.
+
+Nonostante l'intenso colore purpureo, non è velenoso. È un semplice fiore che sboccia in silenzio.</text>
+<text id="5310000">Elmo indossata da Devonia, membro più anziano dei cavalieri del Crogiolo.
+
+Al suo interno scorre l'energia vitale del Crogiolo, la forma primordiale dell'Albero Madre. Potenzia gli incantesimi della forma del Crogiolo.
+
+Devonia lasciò le terre dell'Albero Madre per intraprendere una missione solitaria alla ricerca dell'origine del Crogiolo.</text>
+<text id="5320000">Vaso gigante che copre perfettamente la testa se capovolto. Accessorio degli sciamani che eseguono i propri rituali nelle prigioni.
+
+Incrementa la potenza dei vasi da lancio di ogni dimensione.
+
+Costoro dedicano le loro preghiere al contenuto dei grandi vasi, nella speranza di rinascere in santità. È un ciclo di morte e rigenerazioni interamente gestito da uomini mortali.</text>
+<text id="5330000">Copricapo ricavato dalla testa quasi intatta di un malevolo golem.
+
+Assomiglia a un leone e conserva flebili tracce di vita.</text>
+</entries>
+</fmg>

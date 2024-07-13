@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="110601">첫 입수한 아이템의 아이콘 표시를 설정합니다</text>
+<text id="110602">%null%</text>
+<text id="110603">인벤토리 메뉴 「최근 입수한 아이템」 탭 표시를 설정합니다</text>
+<text id="111024">지도 메뉴에서 커서 이동 조작 방법을 선택합니다</text>
+<text id="111025">마우스로 고정 타깃 변경 조작 시, 변경 임계치를 설정합니다</text>
+<text id="225001">자신의 것으로 삼을 베일의 힘을 선택해주십시오</text>
+<text id="241501">멀티 플레이 상황 표시를 설정합니다</text>
+<text id="241502">사인 대기소 목록을 표시하고 유효/무효를 개별 설정합니다</text>
+<text id="241503">버튼 가이드 목록을 표시합니다</text>
+<text id="241504">지도 메뉴의 설명을 표시합니다</text>
+<text id="241600">유효/무효를 설정할 사인 대기소를 선택해주십시오</text>
+<text id="280600">지도 메뉴를 표시합니다</text>
+</entries>
+</fmg>

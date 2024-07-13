@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1200">Zwiększa magię palców</text>
+<text id="1201">Zwiększa inkantacje Miquelli</text>
+<text id="1202">Zwiększa inkantacje płomienia Messmera</text>
+<text id="1203">Zwiększa spiralne inkantacje</text>
+<text id="6800">Powoduje nagromadzenie wiecznego snu (&lt;?sleepATKpwr?&gt;) </text>
+</entries>
+</fmg>

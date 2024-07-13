@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="80">Usa fragmentos del Árbol Umbrío en lugares de Gracia y aumenta la bendición del Árbol Umbrío.
+
+Dicha bendición aumenta la capacidad de infligir y anular daño del receptor, pero solo funciona en el Reino de las Sombras.</text>
+<text id="81">Consume cenizas de espíritu venerado en lugares de Gracia para aumentar la bendición de cenizas de espíritu venerado.
+
+Dicha bendición mejora la capacidad de los espíritus invocados y del corcel espectral de infligir y anular daño, pero solo funciona en el Reino de las Sombras.</text>
+<text id="205">Los objetos obtenidos por primera vez se pueden marcar con &lt;?newItemIcon?&gt;.
+
+Esta marca se puede activar o desactivar desde la sección Pantalla del menú «Sistema».</text>
+<text id="206">Los objetos obtenidos recientemente se pueden ver en una pestaña propia.
+
+Esta pestaña se puede activar o desactivar desde la pestaña «Pantalla» del menú «Sistema».</text>
+<text id="207">Los altares de invocación activados se conservarán en las partidas posteriores.
+
+Puedes activar o desactivar dichos altares de invocación de forma individual en la lista del menú «Funciones del mapa».</text>
+</entries>
+</fmg>

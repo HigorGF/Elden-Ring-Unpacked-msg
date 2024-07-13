@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="200000">Ces cendres de guerre ne confèrent aucune affinité à votre arme, mais octroient la compétence suivante :
+
+Tourbillon de Mortefeuille : cette compétence représente l'apogée de l'expertise martiale de Dane basé sur le jeu de jambes. Vous bondissez dans les airs en donnant plusieurs coups de pied tournoyants, avant de vous laisser retomber sur le sol en frappant une dernière fois. Imprègne les coups de pied d'énergie, ce qui augmente leur portée.
+
+Utilisable sur les armes de combat rapproché.</text>
+<text id="200100">Ces cendres de guerre confèrent à une arme l'affinité Sacré et la compétence suivante :
+
+Aspects du Creuset : ailes : cette compétence tire son origine de l'énergie vitale du Creuset. Vous conjurez une paire d'ailes dans votre dos, avant de vous élever dans les airs, puis de plonger vers le sol en pointant votre arme vers votre ennemi. Si vous portez une lame double, cette attaque tournoie.
+
+Utilisable sur les épées et les armes d'hast capables d'estocades (sauf les armes de taille colossale).</text>
+<text id="400000">Ces cendres de guerre confèrent à une arme l'affinité Lourd et la compétence suivante :
+
+Frappe gravitationnelle rotative : une compétence gravitationnelle conçue par les disciples du seigneur d'albâtre. Vous puisez dans la gravité pour vous suspendre dans les airs, avant de vous mettre à tourbillonner en fonçant vers l'avant. Enchaînez cette compétence pour effectuer une attaque supplémentaire.
+
+Utilisable sur les épées de taille grande et colossale.</text>
+<text id="401000">Ces cendres de guerre ne confèrent aucune affinité à votre arme, mais octroient la compétence suivante :
+
+Coup de paume : compétence des chercheurs spirituels appartenant à la secte de Mortefeuille. Vous imprégnez votre main d'énergie avant de frapper avec votre paume, ce qui déclenche une explosion. Chargez cette attaque pour accroître sa puissance et son effet.
+
+Utilisable sur les armes de combat rapproché.</text>
+<text id="402000">Ces cendres de guerre confèrent à une arme l'affinité Acéré et la compétence suivante :
+
+Lancer perforant : vous lancez votre arme et la faites tournoyer, ce qui lui permet de transpercer les cibles atteintes. En utilisant cette compétence, l'arme peut être lancée plus loin que la normale et transpercer les ennemis.
+
+Utilisable sur les lames de lancer.</text>
+<text id="403000">Ces cendres de guerre confèrent à une arme l'affinité Acéré et la compétence suivante :
+
+Lancer multiple : vous faites appel aux arts de la forge pour conjurer plusieurs exemplaires de votre arme dans chaque main, avant de toutes les lancer d'un coup. Réutilisez la compétence pour lancer à nouveau.
+
+Utilisable sur les lames de lancer.</text>
+<text id="404000">Ces cendres de guerre ne confèrent aucune affinité à votre arme, mais octroient la compétence suivante :
+
+Mur étincelant : vous parsemez de la poudre parfumée près de vous, ce qui produit de vives étincelles après un certain temps. Chargez cette compétence pour augmenter la puissance et la portée. Leurs propriétés dépendent du flacon de parfum utilisé.
+
+Utilisable sur les flacons de parfum.</text>
+<text id="405000">Ces cendres de guerre ne confèrent aucune affinité à votre arme, mais octroient la compétence suivante :
+
+Déferlement étincelant : vous parsemez de la poudre parfumée devant vous, ce qui produit un déferlement d'explosions étincelantes. Leurs propriétés dépendent du flacon de parfum utilisé.
+
+Utilisable sur les flacons de parfum.</text>
+<text id="406000">Ces cendres de guerre confèrent à une arme l'affinité Acéré et la compétence suivante :
+
+Fureur bestiale : vous foncez telle une bête, bondissez et tailladez vos ennemis depuis les airs. Vous pouvez choisir d'effectuer le mouvement initial vers l'avant, l'arrière, la gauche ou la droite. Enchaînez avec une attaque puissante pour effectuer une autre attaque.
+
+Utilisable sur les griffes bestiales.</text>
+<text id="407000">Ces cendres de guerre confèrent à une arme l'affinité Acéré et la compétence suivante :
+
+Griffes sauvages : vous bondissez telle une bête et tailladez vos ennemis avec un coup de griffes droit et gauche.
+
+Utilisable sur les griffes bestiales.</text>
+<text id="409000">Ces cendres de guerre confèrent à une arme l'affinité Acéré et la compétence suivante :
+
+Angle mort : vous bondissez vers votre ennemi pour vous rapprocher et atteindre son angle mort, puis lui assénez un violent coup sur le côté. La compétence détermine de quel côté vous frappez. Cette attaque passe sous la garde de votre adversaire.
+
+Utilisable sur les lames-revers.</text>
+<text id="410000">Ces cendres de guerre confèrent à une arme l'affinité Acéré et la compétence suivante :
+
+Taillade rapide : une compétence que se transmettent les épéistes kérastiens. Vous faites un pas brusque vers l'avant et transpercez vos ennemis. Cette attaque crée également une zone de vide tranchante. Chargez cette compétence pour augmenter sa puissance et la distance du pas en avant.
+
+Utilisable sur les lames-revers.</text>
+<text id="411000">Ces cendres de guerre confèrent à une arme l'affinité Acéré et la compétence suivante :
+
+Quinte : une compétence qui vous met dans une posture de combat, l'arme tenue en l'air. Vous partez de votre posture et avancez pour effectuer une attaque normale, puis reculez en frappant à nouveau. Vous pouvez également asséner une attaque puissante pour administrer plusieurs coups vers le bas.
+
+Utilisable sur les grands katanas.</text>
+<text id="412000">Ces cendres de guerre confèrent à une arme l'affinité Qualité et la compétence suivante :
+
+Posture unilatérale : vous adoptez avec sérénité une posture s'appuyant sur votre côté droit. Les attaques normales déclenchent une volée de trois coups. Les attaques puissantes vous font bondir dans une frappe d'estoc ascendante.
+
+Utilisable sur les espadons légers.</text>
+<text id="413000">Ces cendres de guerre confèrent à une arme l'affinité Foudre et la compétence suivante :
+
+Charge fulminante : compétence utilisée par les chevaliers de l'Ordre d'or au service de Godwyn. Vous adoptez une posture basse et laissez votre corps se transformer en un éclair crépitant, avant de charger vers l'avant à une vitesse fulgurante.
+
+Utilisable sur toutes les armes de corps à corps.</text>
+<text id="414000">Ces cendres de guerre confèrent à une arme l'affinité Pyrotechnique et la compétence suivante :
+
+Embrochement ardent : compétence de Queelign, membre des chevaliers de Feu. Vous enveloppez votre arme de flammes et adoptez une posture basse, avant d'embrocher votre ennemi d'un coup net. Enchaînez avec une attaque puissante pour effectuer une attaque enflammée supplémentaire.
+
+Utilisable sur les armes grandes et colossales capables d'estocades.</text>
+<text id="415000">Ces cendres de guerre confèrent à une arme l'affinité Lourd et la compétence suivante :
+
+Griffe du lion sauvage : compétence provenant d'une personne particulièrement courageuse, même pour un Lion rouge. Vous bondissez vers l'avant et frappez vos ennemis à l'aide votre arme. Enchaînez cette compétence pour effectuer une autre attaque.
+
+Utilisable sur les épées (sauf les épées d'estoc), les lames doubles, les haches et les marteaux.</text>
+<text id="416000">Ces cendres de guerre confèrent à une arme l'affinité Glace et la compétence suivante :
+
+Écrasement glacial divin : une compétence qui imite la rage de la bête divine lorsqu'elle danse. Vous levez une jambe en l'air et la laissez retomber lourdement et puissamment à terre, ce qui projette une redoutable onde de givre au ras du sol. Chargez cette compétence pour augmenter la puissance et la portée.
+
+Utilisable sur toutes les armes de corps à corps.</text>
+<text id="417000">Ces cendres de guerre confèrent à une arme l'affinité Pyrotechnique et la compétence suivante :
+
+Lance de feu : compétence de Kood, capitaine des chevaliers de Feu. Vous vous préparez à asséner une frappe d'estoc et projetez une lance de feu devant vous. Chargez cette attaque pour augmenter ses dégâts et la distance parcourue.
+
+Utilisable sur les armes capables d'estocades (sauf les griffes et les lames-revers).</text>
+<text id="418000">Ces cendres de guerre confèrent à une arme l'affinité Magie et la compétence suivante :
+
+Souveraineté de Caria : une compétence transmise dans la famille royale de Caria. Vous transformez votre arme en un espadon magique et l'utilisez pour asséner un coup. Enchaînez cette compétence pour effectuer une attaque horizontale de zone. Chargez ces attaques pour augmenter leur puissance.
+
+Utilisable sur les épées (sauf les armes colossales).</text>
+<text id="419000">Ces cendres de guerre confèrent à une arme l'affinité Occulte et la compétence suivante :
+
+Cri de désespoir : compétence utilisée par les opprimés. Vous hurlez, ce qui fait vaciller les ennemis proches tout en faisant monter en vous un profond ressentiment qui augmente votre puissance d'attaque en fonction de vos PV. Plus vos PV sont bas, plus l'effet est important.
+
+Utilisable sur toutes les armes de corps à corps.</text>
+<text id="422000">Ces cendres de guerre confèrent à une arme l'affinité Glace et la compétence suivante :
+
+Invocation de flammes spectrales : vous portez un coup d'estoc conjurant des flammes spectrales. Enchaînez avec une attaque normale pour couvrir le sol de flammes spectrales, ou une attaque puissante pour déclencher une forte explosion.
+
+Utilisable sur les épées et les lances (sauf armes de petite taille, lames doubles et lames-revers).</text>
+<text id="505000">Ces cendres de guerre confèrent à une arme l'affinité Poison et la compétence suivante :
+
+Floraison toxique : vous conjurez un dard recouvert de putréfaction écarlate sous votre ennemi afin de le poignarder. Si cette attaque touche un ennemi déjà empoisonné ou putréfié, elle lui assène un coup unique aux dégâts considérables.
+
+Utilisable sur toutes les armes de corps à corps.</text>
+<text id="548000">Ces cendres de guerre ne confèrent aucune affinité à votre arme, mais octroient la compétence suivante :
+
+Traque du dragon d'Igon : compétence d'Igon, le guerrier draconique. Vous bandez votre arc, puis assénez un tir difforme dans un hurlement strident qui augmente sa puissance.
+
+Utilisable sur les arcs géants.</text>
+<text id="800000">Ces cendres de guerre ne confèrent aucune affinité à votre arme, mais octroient la compétence suivante :
+
+Frappe de bouclier : Une compétence qui utilise le bouclier pour attaquer. Enchaînez cette compétence pour asséner jusqu'à trois attaques supplémentaires.
+
+Utilisable sur tous les boucliers.</text>
+</entries>
+</fmg>

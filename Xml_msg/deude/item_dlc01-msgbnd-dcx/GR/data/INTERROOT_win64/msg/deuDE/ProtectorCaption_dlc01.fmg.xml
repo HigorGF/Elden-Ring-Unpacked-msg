@@ -1,0 +1,544 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="3000000">Der sonnenverblasste und leicht beschmutzte Hut von Trockenblatt Dane. Er wird tief ins Gesicht gezogen und versperrt seinem Träger die Sicht.
+
+Eine Begegnung mit dem Blick anderer kann die Sinne überwältigen und führt oft zum Untergang derer, die den edlen und einsamen Pfad der Suchenden beschreiten wollen.</text>
+<text id="3000100">Sonnenverblasste und leicht beschmutzte Reisekleidung von Geistlichen.
+
+Das goldene Halsband unter der Brust gehört einer Gruppe geistlicher Suchender an, die als Trockenblatt-Sekte bekannt ist.
+
+Diese Sekte lehnt die Abhängigkeit von anderen in allen Glaubenssachen ab und stellt Selbstdisziplin sowie Selbstgenügsamkeit über alles andere.</text>
+<text id="3000200">Sonnenverblasste und leicht beschmutzte Armwickel.
+
+So eng um die Arme geschlungen, als würden sie diese damit vor einem Bruch bewahren.</text>
+<text id="3000300">Sonnenverblasste und leicht beschmutzte Reisekleidung von Geistlichen.
+Stiefel aus robustem Leder.</text>
+<text id="3001100">Sonnenverblasste und leicht beschmutzte Reisekleidung von Geistlichen.
+
+Das Ledersäckchen, das von der Schulter hängt, ist mit einem von Miquellas Emblemen verziert, einem goldenen Gras-Motiv.</text>
+<text id="3010000">Helm aus schwarzem Eisen von Kommandant Gaius.
+Teil einer Rüstung nach dem Vorbild gefallener Samen.
+
+Gaius war der dienstälteste Schüler desselben Alabaster-Lords, der Radahn und Gaea die Gravitationszauberei lehrte.</text>
+<text id="3010100">Brustpanzer aus schwarzem Eisen von Kommandant Gaius.
+Teil einer Rüstung nach dem Vorbild gefallener Samen.
+
+Gaius war der dienstälteste Schüler desselben Alabaster-Lords, der Radahn und Gaea die Gravitationszauberei lehrte.</text>
+<text id="3010200">Stulpen aus schwarzem Eisen von Kommandant Gaius.
+Teil einer Rüstung nach dem Vorbild gefallener Samen.
+
+Gaius war der dienstälteste Schüler desselben Alabaster-Lords, der Radahn und Gaea die Gravitationszauberei lehrte.</text>
+<text id="3010300">Beinschutz aus schwarzem Eisen, der für Kommandant Gaius gefertigt wurde.
+Ein fieser Scherz, da er sie nicht tragen konnte.
+
+Er ritt auf dem Eber, den er seine zweite Hälfte nannte, denn Gaius war ein Krieger albinaurischen Ursprungs.</text>
+<text id="5000000">Helm eines Eidesuchender Ritter.
+Schwarz mit goldenen Ornamenten.
+
+Diese Ritter begeben sich auf Entdeckungsreise, in der Hoffnung, selbst einen Eid ihrer Wahl zu finden, um in lebenslanger Hingabe zu dienen.</text>
+<text id="5000100">Brustpanzer der Nadelritterin Leda.
+Verstärkt Angriffe nach einer Ausweichrolle oder einem Rückwärtsschritt sowie Sprintangriffe leicht.
+
+Mit einer goldenen Verflechtung verziert, symbolisieren der kreideweiße Umhang und Wappenrock die Ehre der Nadelritter.
+
+"Der gütige Miquella hat uns als seine Nadeln geformt, um alle niederzuschlagen, alle abzuwehren."</text>
+<text id="5000200">Stulpen eines Eidesuchender Ritter.
+Schwarz mit goldenen Ornamenten.
+
+Diese Ritter begeben sich auf Entdeckungsreise, in der Hoffnung, selbst einen Eid ihrer Wahl zu finden, um in lebenslanger Hingabe zu dienen.</text>
+<text id="5000300">Beinschutz eines Eidesuchender Ritter.
+Schwarz mit goldenen Ornamenten.
+
+Diese Ritter begeben sich auf Entdeckungsreise, in der Hoffnung, selbst einen Eid ihrer Wahl zu finden, um in lebenslanger Hingabe zu dienen.</text>
+<text id="5002100">Brustpanzer eines Eidesuchender Ritter.
+Schwarz mit goldenen Ornamenten.
+
+Diese Ritter begeben sich auf Entdeckungsreise, in der Hoffnung, selbst einen Eid ihrer Wahl zu finden, um in lebenslanger Hingabe zu dienen.</text>
+<text id="5010000">Helm aus einem ungewöhnlichen Metall namens Grünspan.
+
+Grünspan soll das Geschenk einer fremden Gottheit sein.
+Dank der rostigen Struktur verfügt es über schwere, aber dennoch flexible Kraft.</text>
+<text id="5010100">Brustpanzer aus einem ungewöhnlichen Metall namens Grünspan.
+
+Grünspan soll das Geschenk einer fremden Gottheit sein.
+Dank der rostigen Struktur verfügt es über schwere, aber dennoch flexible Kraft.</text>
+<text id="5010200">Stulpen aus einem ungewöhnlichen Metall namens Grünspan.
+
+Grünspan soll das Geschenk einer fremden Gottheit sein.
+Dank der rostigen Struktur verfügt es über schwere, aber dennoch flexible Kraft.</text>
+<text id="5010300">Beinschutz aus einem ungewöhnlichen Metall namens Grünspan.
+
+Grünspan soll das Geschenk einer fremden Gottheit sein.
+Dank der rostigen Struktur verfügt es über schwere, aber dennoch flexible Kraft.</text>
+<text id="5020000">Der Pelz von Ralva, dem Großen Rotbären, der ohne Veränderung auf dem Kopf getragen wird.
+
+Verbessert Anrufungen, die scherzhaft "Bärenkommunion" genannt werden.
+
+Dieser unbehandelte Pelz, der am Ende eines blutigen Kampfes gewonnen wurde, machte aus einem wilden Bären einen Krieger.</text>
+<text id="5020100">Brustpanzer des Rotbären, dessen Name im Wahnsinn verloren gegangen ist.
+Mit Eisennieten verstärkt.
+
+Nachdem er einen Bären in einem furchtbar blutigen Kampf erlegte, war er fasziniert von der unverfälschten Herrlichkeit seiner bloßen Stärke.
+
+"Ich möchte ein Bär sein, nicht mehr und nicht weniger."</text>
+<text id="5020200">Stulpen des Rotbären, dessen Name im Wahnsinn verloren gegangen ist.
+Mit Eisennieten verstärkt.
+
+Nachdem er einen Bären in einem furchtbar blutigen Kampf erlegte, war er fasziniert von der unverfälschten Herrlichkeit seiner bloßen Stärke.
+
+"Ich möchte ein Bär sein, nicht mehr und nicht weniger."</text>
+<text id="5020300">Beinschutz des Rotbären, dessen Name im Wahnsinn verloren gegangen ist.
+Mit Eisennieten verstärkt.
+
+Nachdem er einen Bären in einem furchtbar blutigen Kampf erlegte, war er fasziniert von der unverfälschten Herrlichkeit seiner bloßen Stärke.
+
+"Ich möchte ein Bär sein, nicht mehr und nicht weniger."</text>
+<text id="5021000">Helm des Rotbären, dessen Name im Wahnsinn verloren gegangen ist.
+Die Wangenschützer sind Löwenfängen nachempfunden.
+
+Vielleicht stammte seine Faszination für die ungezähmte Stärke der Wildnis aus seiner Zeit als Redmane.</text>
+<text id="5030000">Eine Maske, in die ein friedlich schlafendes Gesicht geschnitzt wurde.
+
+Das silberne Haar ist dem von St. Trina nachempfunden und erhöht die Arkanenergie.
+
+Nur ein einziges Mal war Thiollier die süße Ruhe samtigen Schlafes vergönnt. Den Rest seines Lebens verbrachte er mit dem Versuch, dieses Gefühl erneut zu verspüren.</text>
+<text id="5030100">Die dunkle Kleidung derer, die heimlich mit Gift arbeiten.
+
+Das silberne Haar ist dem von St. Trina nachempfunden und erhöht die Arkanenergie.
+
+Für eine magische Wirkung wurden unzählige Nadeln auf die Außenseite genäht.</text>
+<text id="5030200">Die dunklen Handschuhe derer, die heimlich mit Gift arbeiten, dabei stets verachtet und verabscheut werden.</text>
+<text id="5030300">Die dunkle Hose derer, die heimlich mit Gift arbeiten, dabei stets verachtet und verabscheut werden.</text>
+<text id="5031100">Die dunkle Kleidung derer, die heimlich mit Gift arbeiten.
+
+Für eine magische Wirkung wurden unzählige Nadeln auf die Außenseite genäht.</text>
+<text id="5060000">Der Hut von Fürst Ymir, dem Hohepriester.
+Die kreisrunde Verzierung an der Spitze steht für den Höheren Willen und dessen abgrundtiefe Dunkelheit.
+
+Zwar unterrichtete Fürst Ymir Rellana in den Zauberkünsten, er schwor jedoch seiner Treue zum Mond ab.
+
+"Er war nur der nächste der Himmelskörper. Nichts weiter."</text>
+<text id="5060100">Die Robe von Fürst Ymir, dem Hohepriester.
+Verbirgt reichliches Winden darunter.
+
+Mit purpurfarbenem Stoff und goldenen Verzierungen. Die juwelenbesetzte Krause glitzert wie eine Blume voller Morgentau.</text>
+<text id="5060200">Handschuhe von Fürst Ymir, dem Hohepriester.
+Weich und gut geschneidert.</text>
+<text id="5060300">Untergewand von Fürst Ymir, dem Hohepriester.
+Weich und gut geschneidert.</text>
+<text id="5062100">Robe von Fürst Ymir, dem Hohepriester.
+Sie ist an der Vorderseite geöffnet und gewährt den Blick auf die sich windenden Finger darunter.
+
+Dieses Robe ist das Bild seines brennenden Verlangens, das sich befreit hat und seinen größten Wunsch offenbart. Verbessert Fingerzaubereien.
+
+"Ich werde die echte Mutter sein.
+Meine Finger werden uns die Erlösung schenken!"</text>
+<text id="5070000">Groteske Maske aus zahllosen verhärteten Raupen. Ein Ritualfetisch der höherrangigen Herrscher des Bonny-Dorfes.
+
+Sie wurde genutzt, um Gedanken an Unreinheit, Zweifel, Verlockung und andere Boshaftigkeiten abzuwehren, für die man in göttlichen Ritualen anfällig ist.</text>
+<text id="5070100">Zerlumpter schwarzer Stoff, über dem eine geflochtene Kordel liegt. Kleidung der Hornherold-Rächer.
+
+Die geflochtene Kordel bindet den Schwur des Rächers an den Groll der Opfer. Sie darf niemals gelöst werden.
+
+Verbessert sowohl die wachsamen Geister als auch die rachsüchtigen Geister, die von gehörnten Kindern beschworen werden.</text>
+<text id="5070200">Zerlumpter schwarzer Stoff, mit geflochtener Kordel gebunden. Kleidung der Hornherold-Rächer.</text>
+<text id="5070300">Dieser leicht beschmutzte Lendenschurz aus zerlumptem Stoff vermag kaum mehr, als das Nötigste zu verbergen.</text>
+<text id="5080000">Eine hellrote Kapuze der Tänzerinnen von Ranah.
+Erhöht die Stärke von Tanzangriffen.
+
+Der Tanz von Ranah ist von brennender Leidenschaft geprägt. Die leidenschaftlichsten Tänzerinnen lassen ihren feurigen Tanz niemals enden und verlieren dabei sogar ihre Namen.
+
+Erlischt ihre Leidenschaft, erlischt auch ihr Lebenslicht.</text>
+<text id="5080100">Ein hellrotes Kleid der Tänzerinnen von Ranah.
+Erhöht die Stärke von Tanzangriffen.
+
+Der Tanz von Ranah ist von brennender Leidenschaft geprägt. Die leidenschaftlichsten Tänzerinnen lassen ihren feurigen Tanz niemals enden und verlieren dabei sogar ihre Namen.
+
+Erlischt ihre Leidenschaft, erlischt auch ihr Lebenslicht.</text>
+<text id="5080200">Ein Metallarmschutz der Tänzerinnen von Ranah.
+
+Erhöht die Stärke von Tanzangriffen.
+
+Dient dem Schutz der Schwerthand.</text>
+<text id="5080300">Ein lange schwarze Hose, die unter dem purpurroten Kleid der Tänzerinnen von Ranah getragen wird.
+
+Erhöht die Stärke von Tanzangriffen.</text>
+<text id="5081100">Eine andere Form des purpurroten Kleids der Tänzerinnen von Ranah.
+Es handelt sich hierbei um das schwarze Untergewand.
+
+Erhöht die Stärke von Tanzangriffen.</text>
+<text id="5090000">Ein tiefschwarzer Helm, der sich kühl anfühlt.
+Fließende Linien in einer Form, die einem Fingerabdruck ähnelt, verzieren seine Oberfläche. Hält den Träger in absolut lichtloser Dunkelheit gefangen.
+
+Wurde denen verliehen, die weit unter der Erde geboren wurden, um sie zu Schwerthänden der Nacht zu ernennen.</text>
+<text id="5090100">Ein tiefschwarzer Brustpanzer, der sich kühl anfühlt.
+Fließende Linien in einer Form, die einem Fingerabdruck ähnelt, verzieren seine Oberfläche. Hält den Träger in absolut lichtloser Dunkelheit gefangen.
+
+Wurde denen verliehen, die weit unter der Erde geboren wurden, um sie zu Schwerthänden der Nacht zu ernennen.</text>
+<text id="5090200">Tiefschwarze Stulpen, die sich kühl anfühlen.
+Fließende Linien in einer Form, die einem Fingerabdruck ähnelt, verzieren seine Oberfläche. Hält den Träger in absolut lichtloser Dunkelheit gefangen.
+
+Wurde denen verliehen, die weit unter der Erde geboren wurden, um sie zu Schwerthänden der Nacht zu ernennen.</text>
+<text id="5090300">Tiefschwarzer Beinschutz, der sich kühl anfühlt.
+Fließende Linien in einer Form, die einem Fingerabdruck ähnelt, verzieren seine Oberfläche. Hält den Träger in absolut lichtloser Dunkelheit gefangen.
+
+Wurde denen verliehen, die weit unter der Erde geboren wurden, um sie zu Schwerthänden der Nacht zu ernennen.</text>
+<text id="5100000">Helm des gebrochenen Drachlingkriegers Igon, der aus einer Rüstung mit vielen verschiedenen Teilen stammt. Diese verkommene Schutzkleidung ist wie ein Horn geformt.
+
+Der arme Schlachtfeldplünderer fand seine Ehre in der Drachenkommunion.</text>
+<text id="5100100">Rüstung des gebrochenen Drachlingkriegers Igon, die aus vielen verschiedenen Teilen besteht. An diese verkommene Schutzkleidung sind schmutzige Habseligkeiten angebracht.
+
+Der arme Schlachtfeldplünderer fand seine Ehre in der Drachenkommunion.</text>
+<text id="5100200">Stulpen des gebrochenen Drachlingkriegers Igon. Sie wurden nach einer Schlacht an einer Leiche gefunden, deren Blut noch immer das Kettenhemd ziert.</text>
+<text id="5100300">Lendenschurz des gebrochenen Drachlingkriegers Igon. Sie wurden nach einer Schlacht an einer Leiche gefunden, dementsprechend schrecklich riecht dieses Stück Stoff.</text>
+<text id="5101000">Helm des gebrochenen Drachlingkriegers Igon, der aus einer Rüstung mit vielen verschiedenen Teilen stammt. Mit Stofffetzen geflickt.
+
+Der arme Schlachtfeldplünderer fand seine Ehre in der Drachenkommunion.</text>
+<text id="5101100">Rüstung des gebrochenen Drachlingkriegers Igon, die aus vielen verschiedenen Teilen besteht. Mit Stofffetzen geflickt.
+
+Der arme Schlachtfeldplünderer fand seine Ehre in der Drachenkommunion.</text>
+<text id="5110000">Die eiserne von Sir Ansbach, die aussieht wie ein ruhiger und weiser alter Mann mit Bart.
+
+Aber eine alte Furcht  lauert dahinter, zusammen mit der kalten, unerschütterlichen Disziplin, die einst seine Klinge schärfte und nun dazu dient, Bluteid und dynastische Talente zu verbessern.</text>
+<text id="5110100">Kleidung von Sir Ansbach. Das aufgebrachte Wappen der Reinblutritter ist fast vollständig verblasst.
+
+Verbessert leicht den Blutseid und die dynastischen Talente.
+
+Ansbach verstand, dass die Einhaltung seines Eids an seinen alten Meister nichts mit Logik zu tun hatte und auch nicht für Gerechtigkeit sorgen würde, doch genau deshalb konnte er nicht loslassen.</text>
+<text id="5110200">Manschetten von Sir Ansbach. Goldbesticktes, schwarzes Leder.
+
+Verbessert leicht den Blutseid und die dynastischen Talente.</text>
+<text id="5110300">Stiefel von Sir Ansbach. Goldbesticktes, schwarzes Leder.
+
+Verbessert leicht den Blutseid und die dynastischen Talente.</text>
+<text id="5111100">Kleidung von Sir Ansbach. Goldbestickter, schwarzer Stoff.
+
+Verbessert leicht den Blutseid und die dynastischen Talente.</text>
+<text id="5120000">Goldener Helm von Rotmähne Freyja, eine von General Radahns angesehensten Rittern.
+
+Einst wurde eine abscheuliche scharlachrote Wunde in die Mitte des Gesichts gehauen.
+
+Eines Tages legte Miquella zärtlich seine Lippen darauf, und die unnachgiebige Narbe bildete den Kompass, dem Freyja fortan folgte.</text>
+<text id="5120100">Goldene Rüstung von Rotmähne Freyja, eine von General Radahns angesehensten Rittern. Mit einem schwarzen Wollmantel versehen.
+
+Nachdem er in seiner Jugend Zeuge von Freyjas Tapferkeit als Gladiatorin wurde, lud Radahn sie ein, seinen treuesten Kriegern beizutreten.</text>
+<text id="5120200">Goldene Stulpen von Rotmähne Freyja, eine von General Radahns angesehensten Rittern.
+
+Nachdem er in seiner Jugend Zeuge von Freyjas Tapferkeit als Gladiatorin wurde, lud Radahn sie ein, seinen treuesten Kriegern beizutreten.</text>
+<text id="5120300">Goldener Beinschutz von Rotmähne Freyja, eine von General Radahns angesehensten Rittern.
+
+Nachdem er in seiner Jugend Zeuge von Freyjas Tapferkeit als Gladiatorin wurde, lud Radahn sie ein, seinen treuesten Kriegern beizutreten.</text>
+<text id="5121100">Goldene Rüstung von Rotmähne Freyja, eine von General Radahns angesehensten Rittern.
+
+Nachdem er in seiner Jugend Zeuge von Freyjas Tapferkeit als Gladiatorin wurde, lud Radahn sie ein, seinen treuesten Kriegern beizutreten.</text>
+<text id="5130000">Stahlhelm der Ritter des Einsamen Kerker. Teil einer schweren Rüstung, die den ganzen Körper des Trägers in überlappende Stahlplatten hüllt.
+
+Die namenlosen Mausoleen des Reichs der Schatten sollen die Geister von Kriegern halten, die ihren Namen oder ihr Herz verloren haben.</text>
+<text id="5130100">Stahlrüstung der Ritter des Einsamen Kerker. Teil einer schweren Rüstung, die den ganzen Körper in überlappende Stahlplatten hüllt. Mit einem pechschwarzen Mantel geschmückt.
+
+Die namenlosen Mausoleen des Reichs der Schatten sollen die Geister von Kriegern halten, die ihren Namen oder ihr Herz verloren haben.</text>
+<text id="5130200">Stahlstulpen der Ritter des Einsamen Kerker. Teil einer schweren Rüstung, die den ganzen Körper des Trägers in überlappende Stahlplatten hüllt.
+
+Die namenlosen Mausoleen des Reichs der Schatten sollen die Geister von Kriegern halten, die ihren Namen oder ihr Herz verloren haben.</text>
+<text id="5130300">Stahlbeinschutz der Ritter des Einsamen Kerker. Teil einer schweren Rüstung, die den ganzen Körper des Trägers in überlappende Stahlplatten hüllt.
+
+Die namenlosen Mausoleen des Reichs der Schatten sollen die Geister von Kriegern halten, die ihren Namen oder ihr Herz verloren haben.</text>
+<text id="5131100">Brustpanzer aus Stahl der Schwarzkerker-Ritter. Teil einer schweren Rüstung, die den ganzen Körper des Trägers in überlappende Stahlplatten hüllt.
+
+Die namenlosen Mausoleen des Reichs der Schatten sollen die Geister von Kriegern halten, die ihren Namen oder ihr Herz verloren haben.</text>
+<text id="5140000">Von Soldaten, die Messmer dem Pfähler dienen, getragener Helm. Der Eisenhelm ist mit einem Visier ausgestattet.
+
+Auch wenn die Gravur auf der Stirn einen Scadubaum zeigt, ist sie in Gold geätzt. Ein schmaler Trost für jene, die gezwungen sind, einen Krieg ohne Gnade und Ehre zu führen.</text>
+<text id="5140100">Von Soldaten, die Messmer dem Pfähler dienen, getragene Rüstung. Ein zerlumpter Mantel liegt über rostigen Ketten.
+
+Auch wenn ein Scadubaum die Brust ziert, wurde sie in Gold graviert. Ein schmaler Trost für jene, die gezwungen sind, einen Krieg ohne Gnade und Ehre zu führen.</text>
+<text id="5140200">Von Soldaten, die Messmer dem Pfähler dienen, getragene Stulpen, die durch den Kampf in einem niemals endenden Krieg voller Rost und Dreck sind.</text>
+<text id="5140300">Von Soldaten, die Messmer dem Pfähler dienen, getragener Beinschutz, der durch den Kampf in einem niemals endenden Krieg voller Rost und Dreck ist.</text>
+<text id="5141100">Von Soldaten, die Messmer dem Pfähler dienen, getragene Rüstung. Die Ketten sind im Laufe eines niemals endenden Krieges verrostet.
+
+Auch wenn ein Scadubaum die Brust ziert, wurde sie in Gold graviert. Ein schmaler Trost für jene, die gezwungen sind, einen Krieg ohne Gnade und Ehre zu führen.</text>
+<text id="5150000">Von den Schwarzen Rittern, die Messmer dem Pfähler dienen, getragener Helm. Mit Gold verziertes, schwarzes Eisen. Ein fauliger Gestank lässt ihn nicht mehr los.
+
+Vielleicht stammt er von dem verdorbenen Blut, das an ihm klebt. Oder er entfleucht der schwarzen Seele des Trägers, die nach endlosem Gemetzel verwest</text>
+<text id="5150100">Von den Schwarzen Rittern, die Messmer dem Pfähler dienen, getragene Rüstung.
+
+Auch wenn die Gravur über dem Herzen einen Scadubaum zeigt, ist sie in Gold geätzt. Ein schmaler Trost für jene, die gezwungen sind, einen Krieg ohne Gnade und Ehre zu führen.</text>
+<text id="5150200">Von den Schwarzen Rittern, die Messmer dem Pfähler dienen, getragene Stulpen. Mit Gold verziertes, schwarzes Eisen. Ein fauliger Gestank lässt sie nicht mehr los.
+
+Vielleicht stammt er von dem verdorbenen Blut, das an ihnen klebt. Oder er entfleucht der schwarzen Seele des Trägers, die nach endlosem Gemetzel verwest</text>
+<text id="5150300">Von Schwarzen Rittern, die Messmer dem Pfähler dienen, getragener Beinschutz. Mit Gold verziertes, schwarzes Eisen. Ein fauliger Gestank lässt ihn nicht mehr los.
+
+Vielleicht stammt er von dem verdorbenen Blut, das an ihm klebt. Oder er entfleucht der schwarzen Seele des Trägers, die nach endlosem Gemetzel verwest.</text>
+<text id="5160000">Helm von Rakshasa, der mit Blutspritzern ihrer Opfer getränkt ist. Zerfetzte Stofffetzen ragen heraus, als wolle ihre Mordslust freibrechen wollen.
+
+Erhöht Feinden zugefügten Schaden, aber erhöht deutlich erlittenen Schaden des Trägers.
+
+Niedermähen und verschlingen. Nur diejenigen, die den Zyklus ohne Unterlass wiederholen, können wirklich Rakshasa werden.</text>
+<text id="5160100">Rüstung von Rakshasa, der mit Blutspritzern ihrer Opfer getränkt ist. Zerfetzte Stofffetzen ragen heraus, als wolle ihre Mordslust freibrechen wollen.
+
+Erhöht Feinden zugefügten Schaden, aber erhöht deutlich erlittenen Schaden des Trägers.
+
+Niedermähen und verschlingen. Nur diejenigen, die den Zyklus ohne Unterlass wiederholen, können wirklich Rakshasa werden.</text>
+<text id="5160200">Stulpen von Rakshasa, der mit Blutspritzern ihrer Opfer getränkt ist. Zerfetzte Stofffetzen ragen heraus, als wolle ihre Mordslust freibrechen wollen.
+
+Erhöht Feinden zugefügten Schaden, aber erhöht deutlich erlittenen Schaden des Trägers.
+
+Niedermähen und verschlingen. Nur diejenigen, die den Zyklus ohne Unterlass wiederholen, können wirklich Rakshasa werden.</text>
+<text id="5160300">Beinschutz von Rakshasa, der mit Blutspritzern ihrer Opfer getränkt ist. Zerfetzte Stofffetzen ragen heraus, als wolle ihre Mordslust freibrechen wollen.
+
+Erhöht Feinden zugefügten Schaden, aber erhöht deutlich erlittenen Schaden des Trägers.
+
+Niedermähen und verschlingen. Nur diejenigen, die den Zyklus ohne Unterlass wiederholen, können wirklich Rakshasa werden.</text>
+<text id="5180000">Spitzer Helm der Feuerritter, die unter dem persönlichen Befehl von Messmer dem Pfähler standen.
+
+Erhöht leicht die maximalen LP, Ausdauer und maximales Ausrüstungsgewicht.
+
+Jeder einzelne Ritter stammte aus einer angesehenen Familie der Oberschicht des Erdenbaums, wurde jedoch nach dem Treueschwur und der Anerkennung Messmers als Meister gemieden und aus der Heimat verjagt.</text>
+<text id="5180100">Rüstung der Feuerritter, die unter dem persönlichen Befehl von Messmer dem Pfähler standen.
+
+Sie hebt sich durch ihren roten Umhang und die zwei goldenen Schlangen um den Nacken ab. Verstärkt Feueranrufungen Messmers.
+
+Nur sie kannten Messmer wirklich. Seine Flammen wie Schlangen. Das schmerzhafte Schicksal, das mit seiner verfluchten Form einherging.</text>
+<text id="5180200">Stulpen der Feuerritter, die unter dem persönlichen Befehl von Messmer dem Pfähler standen.
+
+Jeder einzelne Ritter stammte aus einer angesehenen Familie der Oberschicht des Erdenbaums, wurde jedoch nach dem Treueschwur und der Anerkennung Messmers als Meister gemieden und aus der Heimat verjagt.</text>
+<text id="5180300">Beinschutz der Feuerritter, die unter dem persönlichen Befehl von Messmer dem Pfähler standen.
+
+Jeder einzelne Ritter stammte aus einer angesehenen Familie der Oberschicht des Erdenbaums, wurde jedoch nach dem Treueschwur und der Anerkennung Messmers als Meister gemieden und aus der Heimat verjagt.</text>
+<text id="5181100">Rüstung der Feuerritter, die unter dem persönlichen Befehl von Messmer dem Pfähler standen.
+
+Jeder einzelne Ritter stammte aus einer angesehenen Familie der Oberschicht des Erdenbaums, wurde jedoch nach dem Treueschwur und der Anerkennung Messmers als Meister gemieden und aus der Heimat verjagt.</text>
+<text id="5182000">Helm von Wego, dem Ältesten unter den Feuerrittern. Zwei verzerrte Todesmasken, die aufeinander gestapelt wurden.
+
+Verringert FP verbrauch beim Herbeirufen von Geistern.
+
+Von der Einsamkeit verzehrt, wandte der alte Mann seine Aufmerksamkeit der Spiritualität von Messmers Flamme zu, die er in einem Ritual der Auferstehung verwendete.
+
+Dennoch brachten die seelenlosen Körper, die der arme Wego zum Leben erweckte, ihm keinen Trost.</text>
+<text id="5183000">Helm von Kood, dem Kapitän der Feuerritter. Darauf thront eine geflügelte Schlange.
+
+Verbessert Feuerritter-Talente.
+
+Die geflügelte Schlange ist die Symbolfigur von Messmers Militärkräften. Sie fungiert als weiser Freund, der die böse Schlange zügelt und ihre Macht unter Kontrolle hält.</text>
+<text id="5184000">Kapuze von Salza, dem Weisen der Feuerritter. Eine Menge Stoff ist darum gewickelt, wodurch der Kopf des Trägers deutlich geschwollen wirkt.
+
+Als Schüler des Ältesten Wego weigerte er sich, eine alte Ruine niederzubrennen und riskierte dabei sein eigenes Leben.</text>
+<text id="5190000">Stirnband der Hochlandkrieger, aus geflochtenem Leder gefertigt. Die weiße Gunst verkörpert ihre Heimat.
+
+Die Hochlandkrieger sind als Bärenjäger bekannt. Für sie gibt es keine glorreichere Tat als die Unterwerfung eines wilden Tiers.</text>
+<text id="5190100">Traditionelle Kleidung der Hochlandkrieger, aus gewobenem Stoff und Fellen gefertigt. Dieses Kleidungsstück ist aus Stoffen mit blauen und roten Mustern hergestellt.
+
+Rote Stoffe waren nur denjenigen erlaubt, die Bären jagten - den größten und ruhmreichsten der Hochlandkrieger.</text>
+<text id="5190200">Armwickel der Hochlandkrieger, aus robustem Leder gefertigt und mit Riemen fixiert.
+
+Die Hochlandkrieger sind als Bärenjäger bekannt. Für sie gibt es keine glorreichere Tat als die Unterwerfung eines wilden Tiers.</text>
+<text id="5190300">Beinwickel der Hochlandkrieger, aus robustem Leder gefertigt und mit Riemen fixiert. Sie sind zusätzlich mit einem Tierfell versehen, um den Träger zu wärmen.
+
+Die Hochlandkrieger sind als Bärenjäger bekannt. Für sie gibt es keine glorreichere Tat als die Unterwerfung eines wilden Tiers.</text>
+<text id="5191000">Helm der Hochlandkrieger, aus verschiedenen Lederstücken gefertigt. Die weiße Gunst verkörpert ihre Heimat.
+
+Die Hochlandkrieger sind als Bärenjäger bekannt. Im Kampf gegen wilde Tiere erlangen sie Ehre und Respekt.</text>
+<text id="5191100">Traditionelle Kleidung der Hochlandkrieger, aus gewobenem Stoff, der mit einem blau gemusterten Tuch verziert ist.
+
+Die Hochlandkrieger sind als Bärenjäger bekannt. Im Kampf gegen wilde Tiere erlangen sie Ehre und Respekt.</text>
+<text id="5200000">Der goldene Helm der Todesritter, deren Todesmasken ihnen als Rüstungsvisier dienten.
+
+Verbessert Talente und Anrufungen des uralten Drachenkults der Hauptstadt.
+
+Der korrodierte goldene Ring, der den Helm ziert, symbolisiert ihre unbedingte Loyalität gegenüber Godwyn, der zum Todesprinzen aufgestiegen war.</text>
+<text id="5200100">Die goldene Rüstung der Todesritter, verziert mit einer altmodischen Darstellung des Erdenbaums.
+
+Verbessert Talente und Anrufungen des uralten Drachenkults der Hauptstadt.
+
+Diese Ritter, die einst Godwyns Leibgarde bildeten, machten sich auf die Suche nach den verstümmelten Überresten ihres Herrn, als Vorbereitung für das bevorstehende Zeitalter der Nachtgeborenen.</text>
+<text id="5200200">Die goldenen Stulpen der Todesritter, verziert mit einer altmodischen Darstellung des Erdenbaums.
+
+Verbessert Talente und Anrufungen des uralten Drachenkults der Hauptstadt.
+
+Diese Ritter, die einst Godwyns Leibgarde bildeten, machten sich auf die Suche nach den verstümmelten Überresten ihres Herrn, als Vorbereitung für das bevorstehende Zeitalter der Nachtgeborenen.</text>
+<text id="5200300">Der goldene Beinschutz der Todesritter, verziert mit einer altmodischen Darstellung des Erdenbaums.
+
+Verbessert Talente und Anrufungen des uralten Drachenkults der Hauptstadt.
+
+Diese Ritter, die einst Godwyns Leibgarde bildeten, machten sich auf die Suche nach den verstümmelten Überresten ihres Herrn, als Vorbereitung für das bevorstehende Zeitalter der Nachtgeborenen.</text>
+<text id="5210000">Eine Maske mit einer Krone aus verschlungenen Hörnern, die jene tragen, die das Göttliche anzurufen suchen.
+
+Die göttliche Anrufung steigert das Geschick des Trägers, bewirkt aber auch, dass der Segen des Erdenbaums Übelkeit hervorruft. Dadurch verringert sich die wiederherstellende Wirkung, wenn man aus einer Flasche mit heiligen Tränen trinkt.
+
+Das Tragen dieser Maske beeinträchtigt außerdem den Fokus.</text>
+<text id="5210100">Die Kleidung der Asketen des Turms. Sie symbolisiert ihre Hingabe an ein Leben des Verzichts und der Selbstbeherrschung.
+
+Um von ihrem sterblichen Dasein zu Schutzgöttern des Landes aufzusteigen, steigern sie ihre Spiritualität durch strenge asketische Praktiken.</text>
+<text id="5210200">Die Handgelenksschützer der Asketen des Turms. Sie symbolisieren ihre Hingabe an ein Leben des Verzichts und der Selbstbeherrschung.
+
+Um von ihrem sterblichen Dasein zu Schutzgöttern des Landes aufzusteigen, steigern sie ihre Spiritualität durch strenge asketische Praktiken.</text>
+<text id="5210300">Die Knöchelschützer der Asketen des Turms. Sie symbolisieren ihre Hingabe an ein Leben des Verzichts und der Selbstbeherrschung.
+
+Um von ihrem sterblichen Dasein zu Schutzgöttern des Landes aufzusteigen, steigern sie ihre Spiritualität durch strenge asketische Praktiken.</text>
+<text id="5220000">Der schwarze Helm von Messmer dem Pfähler, verziert mit zwei verflochtenen geflügelten Schlangen.
+Verbessert leicht Feueranrufungen von Messmer, sowie Feuerritter-Talenten.
+
+Die geflügelten Schlangen waren Messmers ständige Gefährten.
+
+Sie waren bei ihm, als die böse Schlange hinter seinem Auge eingesperrt wurde. Sie bei ihm, als er eine Ewigkeit leiden musste. Und sie werden auch in seiner abscheulichen neuen Gestalt bei ihm sein, die er der Zerstörung seiner Mutter Gnade verdankt. Sie haben sein Schicksal genauso sehr akzeptiert wie er selbst.</text>
+<text id="5220100">Die schwarze Rüstung von Messmer dem Pfähler.
+Drapiert mit einem roten Mantel, auf den sein Wappen aufgestickt ist.
+
+Auf Wunsch seiner Mutter machte sich Messmer zum Symbol der Furcht und begab sich auf den Kreuzzug der Läuterung, den sie sich so sehr wünschte.
+
+"Richte deine Verleumdungen, deinen Zorn und deinen Kummer ganz allein auf mich."</text>
+<text id="5220200">Der schwarze Armschutz von Messmer dem Pfähler.
+
+Auf Wunsch seiner Mutter machte sich Messmer zum Symbol der Furcht und begab sich auf den Kreuzzug der Läuterung, den sie sich so sehr wünschte.
+
+"Richte deine Verleumdungen, deinen Zorn und deinen Kummer ganz allein auf mich."</text>
+<text id="5220300">Der schwarze Beinschutz von Messmer dem Pfähler.
+
+Auf Wunsch seiner Mutter machte sich Messmer zum Symbol der Furcht und begab sich auf den Kreuzzug der Läuterung, den sie sich so sehr wünschte.
+
+"Richte deine Verleumdungen, deinen Zorn und deinen Kummer ganz allein auf mich."</text>
+<text id="5221000">Der schwarze Helm von Messmer dem Pfähler, verziert mit zwei verflochtenen geflügelten Schlangen.
+
+Die geflügelten Schlangen waren Messmers ständige Gefährten.
+
+Sie waren bei ihm, als die böse Schlange hinter seinem Auge eingesperrt wurde. Sie bei ihm, als er eine Ewigkeit leiden musste. Und sie werden auch in seiner abscheulichen neuen Gestalt bei ihm sein, die er der Zerstörung seiner Mutter Gnade verdankt. Sie haben sein Schicksal genauso sehr akzeptiert wie er selbst.</text>
+<text id="5230000">Ein Steinhelm mit leichtem Grünton. Gehört zur Grabvogelrüstungsgarnitur.
+Stärkt Zauber, die Ringe aus Spektrallicht beschwören.
+
+Grabvögel sind uralte Golems und wurden zum Schutz der Geistergräber erschaffen, die überall dort gebaut wurden, wo der Tod in den verschiedensten Formen weilt.</text>
+<text id="5230100">Eine Steinrüstung mit leichtem Grünton. Gehört zur Grabvogelrüstungsgarnitur.
+Die Rüstung ist mit einem Umhang aus schwarzen Todesvogelfedern versehen und verbessert Sprungangriffe.
+
+Grabvögel sind uralte Golems und wurden zum Schutz der Geistergräber erschaffen, die überall dort gebaut wurden, wo der Tod in den verschiedensten Formen weilt.</text>
+<text id="5230200">Steinarmreife mit leichtem Grünton. Gehört zur Grabvogelrüstungsgarnitur.
+
+Grabvögel sind uralte Golems und wurden zum Schutz der Geistergräber erschaffen, die überall dort gebaut wurden, wo der Tod in den verschiedensten Formen weilt.</text>
+<text id="5230300">Steinfußreife mit leichtem Grünton. Gehört zur Grabvogelrüstungsgarnitur.
+
+Grabvögel sind uralte Golems und wurden zum Schutz der Geistergräber erschaffen, die überall dort gebaut wurden, wo der Tod in den verschiedensten Formen weilt.</text>
+<text id="5231100">Steinrüstung mit leichten Grünton. Gehört zur Grabvogelrüstungsgarnitur.
+
+Grabvögel sind uralte Golems, die erschaffen wurden, um die Geistergräber zu bewachen, in denen alle Arten des Todes letztendlich treiben.</text>
+<text id="5240000">Helm der gewöhnlichen Soldaten in Messmers Armee.
+
+Er ist voller pechschwarzem Ruß, genau wie die Gesichter der Männer, die diese Helme trugen.</text>
+<text id="5240100">Stoffrüstung der gewöhnlichen Soldaten in Messmers Armee.
+
+Sie ist voller pechschwarzem Ruß, genau wie die Gesichter der Männer, die sie trugen.</text>
+<text id="5240200">Stulpen der gewöhnlichen Soldaten in Messmers Armee.
+
+Sie sind voller pechschwarzem Ruß, genau wie die Gesichter der Männer, die sie trugen.</text>
+<text id="5240300">Beinschutz der gewöhnlichen Soldaten in Messmers Armee.
+
+Er ist voller pechschwarzem Ruß, genau wie die Gesichter der Männer, die diesen Schutz trugen.</text>
+<text id="5250000">Ein Helm mit einer Krone aus robusten, verschlungenen Hörnern, die es dem Träger erlauben, das Göttliche anzurufen. Kleidung der Hornkrieger, Wächter des Turmes.
+
+Die göttliche Anrufung erhöht die Stärke des Trägers, bewirkt aber auch, dass der Segen des Erdenbaums Übelkeit hervorruft. Dadurch verringert sich die wiederherstellende Wirkung, wenn man aus einer Flasche mit heiligen Tränen trinkt.
+
+Das Tragen dieses Helms beeinträchtigt außerdem den Fokus.</text>
+<text id="5250100">Rüstung der Hornkrieger, Wächter des Turmes.
+
+Der ockerfarbene Stoff ist so über ein Bruststück drapiert, dass es an die unverhüllte Gestalt eines Helden aus alten Zeiten erinnert.</text>
+<text id="5250200">Stulpen der Hornkrieger, Wächter des Turmes. Gefertigt aus dickem Metall.</text>
+<text id="5250300">Beinschutz der Hornkrieger, Wächter des Turmes. So geformt, dass er an die unverhüllte Gestalt eines Helden aus alten Zeiten erinnert.</text>
+<text id="5252000">Ein Helm mit einem verschlungenen Horn an einer göttlichen Bestienmaske. Erlaubt es dem Träger, das Göttliche anzurufen. Wird von göttlichen Bestienkriegern getragen, Auserwählten der Hornkrieger.
+
+Die göttliche Anrufung erhöht neben der Stärke und des Geschicks auch die Wirkung der Stürme des Trägers, verringert aber die wiederherstellende Wirkung beim Trinken aus einer Flasche mit heiligen Tränen.
+
+Das Tragen dieses Helms beeinträchtigt außerdem den Fokus.</text>
+<text id="5252100">Rüstung der gefeierten Hornkrieger, die dazu auserkoren wurden, zu göttlichen Bestienkriegern aufzusteigen. Verziert mit einem Löwenpelz.
+
+Unter den göttlichen Bestienkriegern werden nur jene zu wohlgeformten Hütern, die die göttliche Anrufung wahrlich gemeistert haben. Dadurch wird ihnen auch die Ehre des Löwentanzes zuteil.</text>
+<text id="5253000">Ein Helm mit einem verschlungenen Horn an einer göttlichen Vogelmaske. Erlaubt es dem Träger, das Göttliche anzurufen. Wird von göttlichen Vogelkriegern getragen, den allerersten der Hornkrieger.
+
+Die göttliche Anrufung erhöht neben der Stärke und des Geschicks des Trägers auch die Kraft der göttlichen Vogelfedern. Andererseits verringert sie aber die wiederherstellende Wirkung beim Trinken aus einer Flasche mit heiligen Tränen.
+
+Das Tragen dieses Helms beeinträchtigt außerdem den Fokus.</text>
+<text id="5253100">Aus goldenem Metall gefertigte Rüstung der göttlichen Vogelkrieger, der ersten Hornkrieger.
+
+Die goldenen göttlichen Vögel sind für ihr grausames Wesen bekannt und haben noch nie Gefallen an menschlicher Gesellschaft gefunden. Nur die wenigsten von ihnen riefen ihre Göttlichkeit an.</text>
+<text id="5253200">Aus goldenem Metall gefertigter Armschutz der göttlichen Vogelkrieger, der ersten Hornkrieger.
+
+Die goldenen göttlichen Vögel sind für ihr grausames Wesen bekannt und haben noch nie Gefallen an menschlicher Gesellschaft gefunden. Nur die wenigsten von ihnen riefen ihre Göttlichkeit an.</text>
+<text id="5253300">Aus goldenem Metall gefertigter Beinschutz der göttlichen Vogelkrieger, der ersten Hornkrieger.
+
+Die großen scharfen Krallen erhöhen die Wucht von Tritten.</text>
+<text id="5260000">Verzierter, aus Silberstahl gefertigter Helm von Rellana, der Zwillings-Mondritterin.
+
+Rennala, das Oberhaupt der königlichen Familie von Caria, soll ihn einst ihrer jüngeren Schwester geschenkt haben, die ihrer Blutlinie abschwor, um Messmer hinterherzujagen.</text>
+<text id="5260100">Verzierte, aus Silberstahl gefertigte Rüstung von Rellana, der Zwillings-Mondritterin.
+
+Die lapislazuliblaue Farbe, das Symbol Carias, hat noch nichts von ihrem Glanz eingebüßt.</text>
+<text id="5260200">Handschuhe von Rellana, der Zwillings-Mondritterin. Aus hochwertigem Leder gefertigt.</text>
+<text id="5260300">Verzierter Beinschutz von Rellana, der Zwillings-Mondritterin. Aus Silberstahl gefertigt.</text>
+<text id="5270000">Der goldene Helm, den Radahn in jüngeren Jahren trug. Er stellt stolz sein heroisches rotes Haar zur Schau und ist das passende Kleidungsstück für einen Löwen.
+
+Als Malenia, Miquellas Klinge, die Fäulnisblume in Aeonia erblühen ließ, hörte Radahn das Murmeln einer Stimme in seinem Ohr:
+
+"Miquella erwartet Euch, o versprochener Gemahl."</text>
+<text id="5270100">Die goldene Rüstung, die Radahn in jüngeren Jahren trug. Sie ist mit stolz anmutenden roten Akzenten verziert und damit das passende Kleidungsstück für einen Löwen.
+
+Als Malenia, Miquellas Klinge, die Fäulnisblume in Aeonia erblühen ließ, hörte Radahn das Murmeln einer Stimme in seinem Ohr:
+
+"Miquella erwartet Euch, o versprochener Gemahl."</text>
+<text id="5270200">Die goldenen Stulpen, die Radahn in jüngeren Jahren trug.
+
+Als Malenia, Miquellas Klinge, die Fäulnisblume in Aeonia erblühen ließ, hörte Radahn das Murmeln einer Stimme in seinem Ohr:
+
+"Miquella erwartet Euch, o versprochener Gemahl."</text>
+<text id="5270300">Der goldene Beinschutz, den Radahn in jüngeren Jahren trug. Steht einem wilden Löwen gut zu Gesicht.
+
+Als Malenia, Miquellas Klinge, die Fäulnisblume in Aeonia erblühen ließ, hörte Radahn das Murmeln einer Stimme in seinem Ohr:
+
+"Miquella erwartet Euch, o versprochener Gemahl."</text>
+<text id="5271100">Die goldene Rüstung, die Radahn in jüngeren Jahren trug. Steht einem wilden Löwen gut zu Gesicht.
+
+Als Malenia, Miquellas Klinge, die Fäulnisblume in Aeonia erblühen ließ, hörte Radahn das Murmeln einer Stimme in seinem Ohr:
+
+"Miquella erwartet Euch, o versprochener Gemahl."</text>
+<text id="5272000">Der Kranz des Lichts, der Miquellas Haupt zierte, als er in göttlicher Gestalt zurückkehrte. Er hat begonnen, sich in nichts aufzulösen.
+
+Erhöht leicht die Weisheit, den Glauben und die Arkanenergie und stärkt gleichzeitig die Macht von Miquellas Licht.
+
+Dieser Kranz sollte das Fundament von Miquellas Zeitalter des Mitgefühls bilden, wäre es jemals angebrochen.</text>
+<text id="5280000">Ein Helm, so dunkel wie ein Schatten. Wird von niederen Milizionären getragen.
+
+Verbrannte Schlachtfelder erfüllt vom Gestank des Todes, verbotene Lande, die alle lieber schnell vergessen sollten. Einen besseren Ort als das Reich der Schatten kann es für solch eine Armee wohl kaum geben.</text>
+<text id="5280100">Eine Rüstung, so dunkel wie ein Schatten. Wird von niederen Milizionären getragen.
+
+Verbrannte Schlachtfelder erfüllt vom Gestank des Todes, verbotene Lande, die alle lieber schnell vergessen sollten. Einen besseren Ort als das Reich der Schatten kann es für solch eine Armee wohl kaum geben.</text>
+<text id="5280200">Handschuhe, so dunkel wie ein Schatten. Werden von niederen Milizionären getragen.
+
+Verbrannte Schlachtfelder erfüllt vom Gestank des Todes, verbotene Lande, die alle lieber schnell vergessen sollten. Einen besseren Ort als das Reich der Schatten kann es für solch eine Armee wohl kaum geben.</text>
+<text id="5280300">Ein Beinschutz, so dunkel wie ein Schatten. Wird von niederen Milizionären getragen.
+
+Verbrannte Schlachtfelder erfüllt vom Gestank des Todes, verbotene Lande, die alle lieber schnell vergessen sollten. Einen besseren Ort als das Reich der Schatten kann es für solch eine Armee wohl kaum geben.</text>
+<text id="5290000">Kopf einer göttlichen Bestie, die in der Lage ist, den Löwentanz zu vollführen. Wird nur von den edelsten wohlgeformten Hütern getragen, reagiert jedoch nicht mehr auf die innigen Gebete der alten Frau.
+
+Die göttliche Anrufung erhöht neben der Stärke und des Geschicks auch die Heftigkeit der Stürme des Trägers, verringert aber die wiederherstellende Wirkung beim Trinken aus einer Flasche mit heiligen Tränen.
+
+Das Tragen dieses Kopf beeinträchtigt außerdem den Fokus.</text>
+<text id="5300000">St. Trinas Leben verwelkte und verging. Es war so vergänglich wie die Jahreszeiten. Am Ende ließ sie eine einzige Wasserlilie zurück.
+
+Erhöht leicht die maximalen FP.
+
+Trotz ihrer dunkelvioletten Farbe ist die Blume überhaupt nicht giftig, sie blüht einfach nur in aller Stille.</text>
+<text id="5310000">Der Helm von Devonia, der am längsten dienenden Schmelztiegelritterin.
+
+Durch diesen Helm strömt die Macht aus dem Schmelztiegel des Lebens, der ursprünglichen Form des Erdenbaums. Verstärkt Anrufungen für die Aspekte des Schmelztiegels.
+
+Es heißt, Devonia habe nach dem Ursprung des Schmelztiegels gesucht und die Lande des Erdenbaums ganz ohne Begleitung verlassen.</text>
+<text id="5320000">Ein großes Gefäß, das umgestülpt perfekt über den Kopf passt. Gehört zum Gewand der Schamanen, die ihre kultischen Anbetungen in Kerkern vollführen.
+
+Erhöht die Macht von Wurftöpfen aller Größen.
+
+Sie bringen ihre Gebete den Innereien der großen Gefäße dar, auf dass sie eines Tages als Heilige wiedergeboren werden. Dies ist der Kreislauf aus Tod und Wiedergeburt, in die Hände der Sterblichen gelegt.</text>
+<text id="5330000">Ein Kopfschutz hergestellt aus dem kaum veränderten Kopf eines Wichtgolems.
+
+Ähnelt einem Löwen. Die Lebenskraft klammert sich noch schwach daran.</text>
+</entries>
+</fmg>

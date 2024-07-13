@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="80">Konsumiert Scadubaum-Fragmente an Orten der Gnade, um Euren Segen des Scadubaums zu verstärken.
+
+Der Segen des Scadubaums steigert die Fähigkeit des Empfängers, Schaden zu verursachen und zu widerstehen, hat aber außerhalb des Reichs der Schatten keine Auswirkungen.</text>
+<text id="81">Konsumiert Verehrte Geisterasche an Orten der Gnade, um Euren Segen der Verehrten Geisterasche zu verstärken.
+
+Der Segen der Verehrten Geisterasche steigert die Fähigkeit beschworener Geister und des Spektralrosses, Schaden zu verursachen und zu widerstehen, hat aber außerhalb des Reichs der Schatten keine Auswirkungen.</text>
+<text id="205">Gegenstände, die zum ersten Mal erhalten werden, können mit &lt;?newItemIcon?&gt; markiert werden.
+
+Die Anzeige dieser Markierung kann über die Anzeigeoptionen im Systemmenü ein- oder ausgeschaltet werden.</text>
+<text id="206">Kürzlich erhaltene Gegenstände können in einem entsprechenden Reiter betrachtet werden.
+
+Dieser Reiter lässt sich über das Anzeigemenü ein- oder ausschalten.</text>
+<text id="207">Aktivierte Herbeirufungsreserven werden in nachfolgende Spieldurchgänge übernommen.
+
+Herbeirufungsreserven können mit der Liste im Kartenfunktionen-Menü individuell aktiviert oder deaktiviert werden.</text>
+</entries>
+</fmg>

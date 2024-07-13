@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="80">Używaj odłamków Ostrodrzewa w miejscach łaski, żeby wzmocnić swoje błogosławieństwo Ostrodrzewa.
+
+Błogosławieństwo Ostrodrzewa wspomaga zadawanie i negowanie obrażeń przez użytkownika, ale nie działa poza Królestwem Cieni.</text>
+<text id="81">Używaj prochów czcigodnego ducha w miejscach łaski, żeby wzmocnić swoje błogosławieństwo prochów czcigodnego ducha.
+
+Błogosławieństwo to wspomaga zadawanie i negowanie obrażeń przez przywołane duchy i widmowego wierzchowca, ale nie działa poza Królestwem Cieni.</text>
+<text id="205">Przedmioty zdobyte pierwszy raz można zaznaczyć za pomocą &lt;?newItemIcon?&gt;.
+
+Wyświetlanie tego znaku można włączyć albo wyłączyć używając zakładki „Ekran” w menu głównym.</text>
+<text id="206">Niedawno zdobyte przedmioty można zobaczyć w specjalnej zakładce.
+
+Możesz włączać i wyłączać tę opcję używając zakładki „Ekran” w menu głównym.</text>
+<text id="207">Aktywne pule przyzwania zostaną przeniesione do kolejnych rozgrywek.
+
+Możesz indywidualnie włączać lub wyłączać pule przyzwania, korzystając z listy w menu funkcji mapy.</text>
+</entries>
+</fmg>

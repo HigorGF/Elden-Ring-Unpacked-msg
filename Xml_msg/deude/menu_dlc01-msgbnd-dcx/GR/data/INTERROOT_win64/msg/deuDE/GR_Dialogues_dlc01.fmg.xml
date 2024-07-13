@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="111108">Die Einstellung für die maximale Bildrate wird geändert, da der vorherige Wert ungültig ist.</text>
+<text id="225001">Biete Herz von Bayle, um &lt;?itemName?&gt;
+zu erhalten.</text>
+<text id="236031">Objekt kann nicht hergestellt werden.
+Ihr habt nicht genug schwere gesprungene Töpfe.</text>
+<text id="236061">Objekt kann nicht hergestellt werden.
+Ihr habt keine schweren gesprungenen Töpfe.</text>
+<text id="241200">Neue Karte gefunden.
+(Grabfeld-Ebene)</text>
+<text id="241201">Neue Karte gefunden.
+(Scadu Altus)</text>
+<text id="241202">Neue Karte gefunden.
+(Südufer)</text>
+<text id="241203">Neue Karte gefunden.
+(Ruinen von Rauh)</text>
+<text id="241204">Neue Karte gefunden.
+(Abgrund)</text>
+</entries>
+</fmg>

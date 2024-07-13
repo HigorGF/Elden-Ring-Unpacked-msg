@@ -1,0 +1,904 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="2000">Habilidad: Torbellino de hojaseca
+
+Culmen de las artes marciales centradas en las patadas de Dane.
+Elévate por los aires con una serie de patadas giratorias antes de caer con un golpe final. Imbuye de energía los ataques con patada y aumenta su alcance.</text>
+<text id="2001">Habilidad: Características del crisol (Alas)
+
+Tiene su origen en las formas de vida del crisol.
+Desarrolla un par de alas doradas y elévate para abalanzarte sobre el enemigo arma en mano. Al blandir una hoja doble, lanzas un ataque giratorio.</text>
+<text id="4000">Habilidad: Embestida gravitatoria giratoria
+
+Habilidad gravitatoria mejorada por los discípulos de un Señor de alabastro. Elévate, gira y carga hacia delante. Vuelve a pulsar para seguir atacando.</text>
+<text id="4001">%null%</text>
+<text id="4002">%null%</text>
+<text id="4003">%null%</text>
+<text id="4004">%null%</text>
+<text id="4005">%null%</text>
+<text id="4006">%null%</text>
+<text id="4007">%null%</text>
+<text id="4008">%null%</text>
+<text id="4009">%null%</text>
+<text id="4010">Habilidad: Estallido de palma
+
+Habilidad de los buscadores espirituales conocidos como secta hojaseca. Imbuye la mano con energía antes de realizar un golpe con la palma para desatar una ráfaga explosiva. Carga el ataque para reforzar la potencia y el impacto.</text>
+<text id="4011">%null%</text>
+<text id="4012">%null%</text>
+<text id="4013">%null%</text>
+<text id="4014">%null%</text>
+<text id="4015">%null%</text>
+<text id="4016">%null%</text>
+<text id="4017">%null%</text>
+<text id="4018">%null%</text>
+<text id="4019">%null%</text>
+<text id="4020">Habilidad: Lanzamiento perforante
+
+Lanza el arma con un potente giro, lo cual facilita que atraviese a los enemigos. Al usar esta habilidad, el arma se puede lanzar más lejos de lo normal y, además, atravesará enemigos.</text>
+<text id="4021">%null%</text>
+<text id="4022">%null%</text>
+<text id="4023">%null%</text>
+<text id="4024">%null%</text>
+<text id="4025">%null%</text>
+<text id="4026">%null%</text>
+<text id="4027">%null%</text>
+<text id="4028">%null%</text>
+<text id="4029">%null%</text>
+<text id="4030">Habilidad: Lanzamiento disperso
+
+Usa artes de herrería para conjurar varias copias del arma en ambas manos y, luego, lánzalas todas a la vez. Pulsa otra vez para volver a lanzar.</text>
+<text id="4031">%null%</text>
+<text id="4032">%null%</text>
+<text id="4033">%null%</text>
+<text id="4034">%null%</text>
+<text id="4035">%null%</text>
+<text id="4036">%null%</text>
+<text id="4037">%null%</text>
+<text id="4038">%null%</text>
+<text id="4039">%null%</text>
+<text id="4040">Habilidad: Muro de chispas
+
+Un aroma se dispersa por los alrededores y produce intensas chispas tras un tiempo. Se puede cargar para aumentar la potencia y el alcance.
+Las propiedades de las chispas vienen determinadas por la botella de perfume usada.</text>
+<text id="4041">%null%</text>
+<text id="4042">%null%</text>
+<text id="4043">%null%</text>
+<text id="4044">%null%</text>
+<text id="4045">%null%</text>
+<text id="4046">%null%</text>
+<text id="4047">%null%</text>
+<text id="4048">%null%</text>
+<text id="4049">%null%</text>
+<text id="4050">Habilidad: Chispas ondulantes
+
+Un perfume se dispersa ante ti y produce letales explosiones de chispas.
+Las propiedades de las chispas vienen determinadas por la botella de perfume usada.</text>
+<text id="4051">%null%</text>
+<text id="4052">%null%</text>
+<text id="4053">%null%</text>
+<text id="4054">%null%</text>
+<text id="4055">%null%</text>
+<text id="4056">%null%</text>
+<text id="4057">%null%</text>
+<text id="4058">%null%</text>
+<text id="4059">%null%</text>
+<text id="4060">Habilidad: Bestia iracunda
+
+Veloz cual bestia, salta más alto y ataca desde arriba. El primer paso puede ser hacia adelante, atrás, izquierda o derecha. El ataque fuerte permite realizar un ataque adicional.</text>
+<text id="4061">%null%</text>
+<text id="4062">%null%</text>
+<text id="4063">%null%</text>
+<text id="4064">%null%</text>
+<text id="4065">%null%</text>
+<text id="4066">%null%</text>
+<text id="4067">%null%</text>
+<text id="4068">%null%</text>
+<text id="4069">%null%</text>
+<text id="4070">Habilidad: Garras salvajes
+
+Salta como una bestia para rajar violentamente al enemigo con las garras izquierda y derecha.</text>
+<text id="4071">%null%</text>
+<text id="4072">%null%</text>
+<text id="4073">%null%</text>
+<text id="4074">%null%</text>
+<text id="4075">%null%</text>
+<text id="4076">%null%</text>
+<text id="4077">%null%</text>
+<text id="4078">%null%</text>
+<text id="4079">%null%</text>
+<text id="4080">Habilidad única: Caza del Oso Rojo
+
+Masacra a la presa con afiladas garras en un golpe ascendente con el brazo y crea una corriente de aire que inflige daño continuado. Repítelo para ejecutar hasta dos ataques adicionales.</text>
+<text id="4081">%null%</text>
+<text id="4082">%null%</text>
+<text id="4083">%null%</text>
+<text id="4084">%null%</text>
+<text id="4085">%null%</text>
+<text id="4086">%null%</text>
+<text id="4087">%null%</text>
+<text id="4088">%null%</text>
+<text id="4089">%null%</text>
+<text id="4090">Habilidad: Punto ciego
+
+Salta a corta distancia para aprovechar el punto ciego del enemigo y masacrarlo por un lado. La dirección afecta desde dónde ejecutas el ataque. Este ataque se cuela bajo la guardia del rival.</text>
+<text id="4091">%null%</text>
+<text id="4092">%null%</text>
+<text id="4093">%null%</text>
+<text id="4094">%null%</text>
+<text id="4095">%null%</text>
+<text id="4096">%null%</text>
+<text id="4097">%null%</text>
+<text id="4098">%null%</text>
+<text id="4099">%null%</text>
+<text id="4100">Habilidad: Tajo rápido
+
+Una habilidad que se transmite entre espadachines cornamentados. Da un veloz paso adelante para atravesar a los enemigos. También provoca un torbellino cortante. Se puede cargar para aumentar la potencia de la habilidad y la distancia recorrida.</text>
+<text id="4101">%null%</text>
+<text id="4102">%null%</text>
+<text id="4103">%null%</text>
+<text id="4104">%null%</text>
+<text id="4105">%null%</text>
+<text id="4106">%null%</text>
+<text id="4107">%null%</text>
+<text id="4108">%null%</text>
+<text id="4109">%null%</text>
+<text id="4110">Habilidad: Posición elevada
+
+Una habilidad que empieza con la espada en alto y en guardia.
+Ejecuta un ataque normal con esta posición para avanzar y cortar hacia abajo, o usa un ataque fuerte para una serie de tajos hacia abajo.</text>
+<text id="4111">%null%</text>
+<text id="4112">%null%</text>
+<text id="4113">%null%</text>
+<text id="4114">%null%</text>
+<text id="4115">%null%</text>
+<text id="4116">%null%</text>
+<text id="4117">%null%</text>
+<text id="4118">%null%</text>
+<text id="4119">%null%</text>
+<text id="4120">Habilidad: Posición lateral
+
+Postura del lado derecho. El ataque normal desata una rápida combinación de tres tajos, y el fuerte, una estocada con salto.</text>
+<text id="4121">%null%</text>
+<text id="4122">%null%</text>
+<text id="4123">%null%</text>
+<text id="4124">%null%</text>
+<text id="4125">%null%</text>
+<text id="4126">%null%</text>
+<text id="4127">%null%</text>
+<text id="4128">%null%</text>
+<text id="4129">%null%</text>
+<text id="4130">Habilidad: Rayo titilante
+
+Habilidad de los caballeros de oro que servían a Godwyn. Desde una postura baja, el cuerpo se transforma en un rayo y carga en línea recta a gran velocidad.</text>
+<text id="4131">%null%</text>
+<text id="4132">%null%</text>
+<text id="4133">%null%</text>
+<text id="4134">%null%</text>
+<text id="4135">%null%</text>
+<text id="4136">%null%</text>
+<text id="4137">%null%</text>
+<text id="4138">%null%</text>
+<text id="4139">%null%</text>
+<text id="4140">Habilidad: Ensartado llameante
+
+Habilidad del Caballero de Fuego Queelign. Envuelve el arma en llamas y ensarta al enemigo en un solo movimiento. El ataque fuerte desata un ataque de llamas adicional.</text>
+<text id="4141">%null%</text>
+<text id="4142">%null%</text>
+<text id="4143">%null%</text>
+<text id="4144">%null%</text>
+<text id="4145">%null%</text>
+<text id="4146">%null%</text>
+<text id="4147">%null%</text>
+<text id="4148">%null%</text>
+<text id="4149">%null%</text>
+<text id="4150">Habilidad: Garra de león salvaje
+
+Habilidad de los más valientes caballeros de la Melena Roja. Da una voltereta hacia adelante y golpea. Vuelve a pulsar para lanzar otro golpe.</text>
+<text id="4151">%null%</text>
+<text id="4152">%null%</text>
+<text id="4153">%null%</text>
+<text id="4154">%null%</text>
+<text id="4155">%null%</text>
+<text id="4156">%null%</text>
+<text id="4157">%null%</text>
+<text id="4158">%null%</text>
+<text id="4159">%null%</text>
+<text id="4160">Habilidad: Pisotón helado de bestia divina
+
+Imita la ira de la danza de la bestia divina. Levanta una pierna y estámpala contra el suelo para enviar una poderosa ola de escarcha. Se puede cargar para aumentar la potencia y el alcance.</text>
+<text id="4161">%null%</text>
+<text id="4162">%null%</text>
+<text id="4163">%null%</text>
+<text id="4164">%null%</text>
+<text id="4165">%null%</text>
+<text id="4166">%null%</text>
+<text id="4167">%null%</text>
+<text id="4168">%null%</text>
+<text id="4169">%null%</text>
+<text id="4170">Habilidad: Lanza llameante
+
+Habilidad de Kood, capitán de los Caballeros de Fuego.
+Prepara el arma para lanzar un ataque de embestida y una línea de llamas. Al cargar el ataque aumentan el daño y la distancia.</text>
+<text id="4171">%null%</text>
+<text id="4172">%null%</text>
+<text id="4173">%null%</text>
+<text id="4174">%null%</text>
+<text id="4175">%null%</text>
+<text id="4176">%null%</text>
+<text id="4177">%null%</text>
+<text id="4178">%null%</text>
+<text id="4179">%null%</text>
+<text id="4180">Habilidad: Soberanía cariana
+
+Habilidad de la realeza cariana. Convierte la hoja en una gran espada mágica y blándela hacia abajo. Ejecuta un ataque de barrido horizontal al volver a pulsar. Puedes cargar ambos ataques para potenciarlos.</text>
+<text id="4181">%null%</text>
+<text id="4182">%null%</text>
+<text id="4183">%null%</text>
+<text id="4184">%null%</text>
+<text id="4185">%null%</text>
+<text id="4186">%null%</text>
+<text id="4187">%null%</text>
+<text id="4188">%null%</text>
+<text id="4189">%null%</text>
+<text id="4190">Habilidad: Alarido de pesar
+
+Habilidad de los oprimidos. Grita para que los enemigos cercanos se estremezcan de resentimiento y aumentar la potencia de ataque en función de los PS restantes. Cuanto menos PS tengas, mayor será el efecto.</text>
+<text id="4191">%null%</text>
+<text id="4192">%null%</text>
+<text id="4193">%null%</text>
+<text id="4194">%null%</text>
+<text id="4195">%null%</text>
+<text id="4196">%null%</text>
+<text id="4197">%null%</text>
+<text id="4198">%null%</text>
+<text id="4199">%null%</text>
+<text id="4200">Habilidad: Arremetida con escudo
+
+Una habilidad que utiliza el escudo para atacar.
+Vuelve a pulsar para realizar hasta tres ataques adicionales.</text>
+<text id="4201">%null%</text>
+<text id="4202">%null%</text>
+<text id="4203">%null%</text>
+<text id="4204">%null%</text>
+<text id="4205">%null%</text>
+<text id="4206">%null%</text>
+<text id="4207">%null%</text>
+<text id="4208">%null%</text>
+<text id="4209">%null%</text>
+<text id="4210">Habilidad: Caza dracónica de Igon
+
+Habilidad del guerrero dracónico Igon. Lanza con el arco una retorcida saeta reforzada con un potente bramido.</text>
+<text id="4211">%null%</text>
+<text id="4212">%null%</text>
+<text id="4213">%null%</text>
+<text id="4214">%null%</text>
+<text id="4215">%null%</text>
+<text id="4216">%null%</text>
+<text id="4217">%null%</text>
+<text id="4218">%null%</text>
+<text id="4219">%null%</text>
+<text id="4220">Habilidad: Invocación de llama espectral
+
+Saca el arma e invoca una llama espectral.
+Sigue con un ataque normal para incendiar el suelo o con un ataque fuerte para crear un gran estallido.</text>
+<text id="5000">Habilidad única: Tajo hiendedragones
+
+Esta habilidad para cazar dragones colosales envuelve el arma en un aura de grava afilada antes de ejecutar un amplio tajo de salto. Carga el ataque para disparar el aura.</text>
+<text id="5001">%null%</text>
+<text id="5002">%null%</text>
+<text id="5003">%null%</text>
+<text id="5004">%null%</text>
+<text id="5005">%null%</text>
+<text id="5006">%null%</text>
+<text id="5007">%null%</text>
+<text id="5008">%null%</text>
+<text id="5009">%null%</text>
+<text id="5010">Habilidad única: Aguja perforadora
+
+Habilidad de la caballera de la aguja Leda. Genera diez agujas de oro que atraviesan a su objetivo a la vez. Al ser atravesado, todos los efectos de estado negativos y los efectos especiales del objetivo son anulados.</text>
+<text id="5011">%null%</text>
+<text id="5012">%null%</text>
+<text id="5013">%null%</text>
+<text id="5014">%null%</text>
+<text id="5015">%null%</text>
+<text id="5016">%null%</text>
+<text id="5017">%null%</text>
+<text id="5018">%null%</text>
+<text id="5019">%null%</text>
+<text id="5020">Habilidad única: Luz
+
+Desata la luz grabada en la hoja del arma. Envía la espada a lo alto para liberar una luz cegadora cuyos numerosos rayos barren la zona. También mejora temporalmente los ataques sagrados.</text>
+<text id="5021">%null%</text>
+<text id="5022">%null%</text>
+<text id="5023">%null%</text>
+<text id="5024">%null%</text>
+<text id="5025">%null%</text>
+<text id="5026">%null%</text>
+<text id="5027">%null%</text>
+<text id="5028">%null%</text>
+<text id="5029">%null%</text>
+<text id="5030">Habilidad única: Oscuridad
+
+Alza la espada y hiende la zona con oscuridad. Inflige daño sagrado y reduce temporalmente la negación de daños sagrados.</text>
+<text id="5031">%null%</text>
+<text id="5032">%null%</text>
+<text id="5033">%null%</text>
+<text id="5034">%null%</text>
+<text id="5035">%null%</text>
+<text id="5036">%null%</text>
+<text id="5037">%null%</text>
+<text id="5038">%null%</text>
+<text id="5039">%null%</text>
+<text id="5040">Habilidad única: Línea de estrellas de Onze
+
+Esta habilidad, que recibe su nombre de un maestro espadachín semihumano, imbuye de energía mágica las piedras refulgentes alineadas y ejecuta un ataque de tajo. Repítelo para ejecutar hasta dos ataques adicionales cada vez más dañinos.</text>
+<text id="5041">%null%</text>
+<text id="5042">%null%</text>
+<text id="5043">%null%</text>
+<text id="5044">%null%</text>
+<text id="5045">%null%</text>
+<text id="5046">%null%</text>
+<text id="5047">%null%</text>
+<text id="5048">%null%</text>
+<text id="5049">%null%</text>
+<text id="5050">Habilidad: Flor venenosa doble
+
+Conjura aguijones plagados de putrefacción roja para apuñalar al enemigo. Si este ya está infectado por veneno o putrefacción, inflige daño masivo en el segundo golpe.</text>
+<text id="5080">Habilidad única: Guillotina giratoria
+
+Sujeta la hoja pútrida por ambos extremos y arquéate para desatar un potente tajo desde arriba. Repítelo para ejecutar tantos ataques adicionales como te permita la resistencia. Los ataques potentes realizan un salto seguido de un ataque giratorio.</text>
+<text id="5081">%null%</text>
+<text id="5082">%null%</text>
+<text id="5083">%null%</text>
+<text id="5084">%null%</text>
+<text id="5085">%null%</text>
+<text id="5086">%null%</text>
+<text id="5087">%null%</text>
+<text id="5088">%null%</text>
+<text id="5089">%null%</text>
+<text id="5090">Habilidad única: Danza sin fin
+
+Un furioso baile consistente en una sucesión de ataques cortantes. Si continúas pulsando, el baile continuará mientras tengas energía.</text>
+<text id="5091">%null%</text>
+<text id="5092">%null%</text>
+<text id="5093">%null%</text>
+<text id="5094">%null%</text>
+<text id="5095">%null%</text>
+<text id="5096">%null%</text>
+<text id="5097">%null%</text>
+<text id="5098">%null%</text>
+<text id="5099">%null%</text>
+<text id="5100">Habilidad única: Hoja vengadora
+
+Acércate a un enemigo y ábrelo en canal con las cuchillas que llevas en las manos. Si continúas pulsando, el impulso inicial se alargará. Luego, utiliza un ataque fuerte y despedaza al enemigo.</text>
+<text id="5101">%null%</text>
+<text id="5102">%null%</text>
+<text id="5103">%null%</text>
+<text id="5104">%null%</text>
+<text id="5105">%null%</text>
+<text id="5106">%null%</text>
+<text id="5107">%null%</text>
+<text id="5108">%null%</text>
+<text id="5109">%null%</text>
+<text id="5110">Habilidad única: Neblina del sueño eterno
+
+Libera una aterciopelada neblina morada que se extiende frente a ti y causa somnolencia eterna al enemigo.</text>
+<text id="5111">%null%</text>
+<text id="5112">%null%</text>
+<text id="5113">%null%</text>
+<text id="5114">%null%</text>
+<text id="5115">%null%</text>
+<text id="5116">%null%</text>
+<text id="5117">%null%</text>
+<text id="5118">%null%</text>
+<text id="5119">%null%</text>
+<text id="5120">Habilidad única: Hoz dinástica
+
+Una habilidad evasiva que crea espacio para maniobrar. El paso hacia atrás dependerá de la dirección. Acompáñala con un ataque potente para lanzar un tajo ascendente. Un segundo ataque fuerte hará descender el arma.</text>
+<text id="5121">%null%</text>
+<text id="5122">%null%</text>
+<text id="5123">%null%</text>
+<text id="5124">%null%</text>
+<text id="5125">%null%</text>
+<text id="5126">%null%</text>
+<text id="5127">%null%</text>
+<text id="5128">%null%</text>
+<text id="5129">%null%</text>
+<text id="5130">Habilidad única: Rayo titilante: Hachas gemelas
+
+Desde una postura baja, el cuerpo transformado en rayo carga rápido en línea recta. Los ataques potentes realizan un tajo giratorio cargado por el rayo.</text>
+<text id="5131">%null%</text>
+<text id="5132">%null%</text>
+<text id="5133">%null%</text>
+<text id="5134">%null%</text>
+<text id="5135">%null%</text>
+<text id="5136">%null%</text>
+<text id="5137">%null%</text>
+<text id="5138">%null%</text>
+<text id="5139">%null%</text>
+<text id="5140">Habilidad única: Rayo titilante: Hacha de mango largo
+
+Desde una postura baja, el cuerpo transformado en rayo carga rápido en línea recta. Los ataques potentes realizan un tajo de salto cargado por el rayo.</text>
+<text id="5141">%null%</text>
+<text id="5142">%null%</text>
+<text id="5143">%null%</text>
+<text id="5144">%null%</text>
+<text id="5145">%null%</text>
+<text id="5146">%null%</text>
+<text id="5147">%null%</text>
+<text id="5148">%null%</text>
+<text id="5149">%null%</text>
+<text id="5150">Habilidad única: Consorte prometido
+
+Imbuye los dos espadones de la luz de Miquella y lanza un ataque cortante acompañado de columnas de luz. Vuelve a pulsar para lanzar dos ataques adicionales.</text>
+<text id="5151">%null%</text>
+<text id="5152">%null%</text>
+<text id="5153">%null%</text>
+<text id="5154">%null%</text>
+<text id="5155">%null%</text>
+<text id="5156">%null%</text>
+<text id="5157">%null%</text>
+<text id="5158">%null%</text>
+<text id="5159">%null%</text>
+<text id="5160">Habilidad única: Cabezazo de girasol sombrío
+
+Golpea la flor de un gran girasol sombrío y lanza una onda expansiva aplastante. Repítelo para ejecutar hasta dos ataques adicionales.</text>
+<text id="5161">%null%</text>
+<text id="5162">%null%</text>
+<text id="5163">%null%</text>
+<text id="5164">%null%</text>
+<text id="5165">%null%</text>
+<text id="5166">%null%</text>
+<text id="5167">%null%</text>
+<text id="5168">%null%</text>
+<text id="5169">%null%</text>
+<text id="5170">Habilidad única: Postura de luna y fuego
+
+Ponte en guardia con las espadas imbuidas de magia. Sigue con un ataque normal para lanzar ondas de piedra refulgente, o con un ataque potente para lanzar un ataque giratorio que hace arder la zona. Las ondas cuentan con hasta dos ataques adicionales.</text>
+<text id="5171">%null%</text>
+<text id="5172">%null%</text>
+<text id="5173">%null%</text>
+<text id="5174">%null%</text>
+<text id="5175">%null%</text>
+<text id="5176">%null%</text>
+<text id="5177">%null%</text>
+<text id="5178">%null%</text>
+<text id="5179">%null%</text>
+<text id="5180">Habilidad única: Vórtice de Devonia
+
+Usa el poder del vórtice del crisol para hacer girar el martillo, golpear el suelo y generar una onda expansiva. Carga la habilidad para aumentar su potencia.</text>
+<text id="5181">%null%</text>
+<text id="5182">%null%</text>
+<text id="5183">%null%</text>
+<text id="5184">%null%</text>
+<text id="5185">%null%</text>
+<text id="5186">%null%</text>
+<text id="5187">%null%</text>
+<text id="5188">%null%</text>
+<text id="5189">%null%</text>
+<text id="5190">Habilidad única: Asalto de Messmer
+
+Una feroz sucesión de ataques con la punta de una llameante lanza. Vuelve a pulsar para realizar hasta dos ataques adicionales. El movimiento final clava el arma en el suelo para crear innumerables réplicas por la zona.</text>
+<text id="5210">Habilidad única: Sueño eterno
+
+Atraviesa al enemigo con una aguja recubierta de veneno que infunde sueño eterno. Si el siguiente golpe cae sobre un enemigo ya sumido en letargo o sueño eterno, infligirá un daño considerable.</text>
+<text id="5211">%null%</text>
+<text id="5212">%null%</text>
+<text id="5213">%null%</text>
+<text id="5214">%null%</text>
+<text id="5215">%null%</text>
+<text id="5216">%null%</text>
+<text id="5217">%null%</text>
+<text id="5218">%null%</text>
+<text id="5219">%null%</text>
+<text id="5220">Habilidad única: Ensartado dorado
+
+Da un salto antes de ensartar al enemigo desde arriba. Si tienes éxito, las púas del arma saldrán disparadas para atormentar al enemigo desde dentro; en caso contrario, vuelve a pulsar para lanzar las púas en el área. La imagen recuerda extrañamente a la Orden Dorada.</text>
+<text id="5221">%null%</text>
+<text id="5222">%null%</text>
+<text id="5223">%null%</text>
+<text id="5224">%null%</text>
+<text id="5225">%null%</text>
+<text id="5226">%null%</text>
+<text id="5227">%null%</text>
+<text id="5228">%null%</text>
+<text id="5229">%null%</text>
+<text id="5230">Habilidad única: Carga de Moore
+
+Prepara el escudo con ambas manos, carga hacia delante en guardia y termina con un empujón imbuido de magia de verdín. Hace retroceder a los enemigos cercanos, pero no es muy potente. Mantén pulsado para prolongar la carga.</text>
+<text id="5231">%null%</text>
+<text id="5232">%null%</text>
+<text id="5233">%null%</text>
+<text id="5234">%null%</text>
+<text id="5235">%null%</text>
+<text id="5236">%null%</text>
+<text id="5237">%null%</text>
+<text id="5238">%null%</text>
+<text id="5239">%null%</text>
+<text id="5240">Habilidad única: Carga de luz blanca
+
+Invoca la luz blanca del mineral del meteorito ancestral y lanza un ataque de carga para atravesar a los enemigos. Vuelve a pulsar para que la luz estalle.</text>
+<text id="5241">%null%</text>
+<text id="5242">%null%</text>
+<text id="5243">%null%</text>
+<text id="5244">%null%</text>
+<text id="5245">%null%</text>
+<text id="5246">%null%</text>
+<text id="5247">%null%</text>
+<text id="5248">%null%</text>
+<text id="5249">%null%</text>
+<text id="5250">Habilidad única: Tajo del rencor
+
+Gira, acuchilla al enemigo e invoca espíritus vengativos que lo persigan. Vuelve a pulsar para seguir atacando.</text>
+<text id="5251">%null%</text>
+<text id="5252">%null%</text>
+<text id="5253">%null%</text>
+<text id="5254">%null%</text>
+<text id="5255">%null%</text>
+<text id="5256">%null%</text>
+<text id="5257">%null%</text>
+<text id="5258">%null%</text>
+<text id="5259">%null%</text>
+<text id="5260">Habilidad única: Tajo de brujería
+
+Sujeta la espada a nivel del pecho e imbúyela de la oscuridad de la Noche antes de desatar una serie de ataques incorpóreos. No puede bloquearse. Se puede cargar para aumentar la potencia.</text>
+<text id="5261">%null%</text>
+<text id="5262">%null%</text>
+<text id="5263">%null%</text>
+<text id="5264">%null%</text>
+<text id="5265">%null%</text>
+<text id="5266">%null%</text>
+<text id="5267">%null%</text>
+<text id="5268">%null%</text>
+<text id="5269">%null%</text>
+<text id="5270">Habilidad única: Vórtice de Euporia
+
+Usa el poder del vórtice para hacer girar el arma y asestar varios tajos hacia delante. Cuanto mayor sea el lustre del arma, mayor será el poder de la habilidad. Sin embargo, esta habilidad consumirá todo el lustre del arma.</text>
+<text id="5271">%null%</text>
+<text id="5272">%null%</text>
+<text id="5273">%null%</text>
+<text id="5274">%null%</text>
+<text id="5275">%null%</text>
+<text id="5276">%null%</text>
+<text id="5277">%null%</text>
+<text id="5278">%null%</text>
+<text id="5279">%null%</text>
+<text id="5280">Habilidad única: Lanzas de artes de herrería
+
+Golpea el yunque al rojo vivo contra el suelo y al extraerlo arroja innumerables lanzas que desaparecen al instante.</text>
+<text id="5281">%null%</text>
+<text id="5282">%null%</text>
+<text id="5283">%null%</text>
+<text id="5284">%null%</text>
+<text id="5285">%null%</text>
+<text id="5286">%null%</text>
+<text id="5287">%null%</text>
+<text id="5288">%null%</text>
+<text id="5289">%null%</text>
+<text id="5290">Habilidad única: Tajo del rencor
+
+Gira, acuchilla al enemigo e invoca espíritus vengativos que lo persigan. Vuelve a pulsar para seguir atacando.</text>
+<text id="5291">%null%</text>
+<text id="5292">%null%</text>
+<text id="5293">%null%</text>
+<text id="5294">%null%</text>
+<text id="5295">%null%</text>
+<text id="5296">%null%</text>
+<text id="5297">%null%</text>
+<text id="5298">%null%</text>
+<text id="5299">%null%</text>
+<text id="5300">Habilidad única: Purificación de Romina
+
+Imbuye la hoja brote de mariposas de putrefacción roja antes de asestar dos grandes tajos. Antes se consideraba un acto sacro de purificación.</text>
+<text id="5301">%null%</text>
+<text id="5302">%null%</text>
+<text id="5303">%null%</text>
+<text id="5304">%null%</text>
+<text id="5305">%null%</text>
+<text id="5306">%null%</text>
+<text id="5307">%null%</text>
+<text id="5308">%null%</text>
+<text id="5309">%null%</text>
+<text id="5310">Habilidad única: Golpe de lanza ponzoñosa
+
+Confiere a la mano la forma de una lanza antes de asestar una estocada que penetra en el cuerpo del enemigo y le inflige una gran dosis de veneno mortal.</text>
+<text id="5311">%null%</text>
+<text id="5312">%null%</text>
+<text id="5313">%null%</text>
+<text id="5314">%null%</text>
+<text id="5315">%null%</text>
+<text id="5316">%null%</text>
+<text id="5317">%null%</text>
+<text id="5318">%null%</text>
+<text id="5319">%null%</text>
+<text id="5320">Habilidad única: Golpe de lanza enloquecedora
+
+Confiere a la mano la forma de una lanza antes de asestar una estocada que penetra en el cuerpo del enemigo y le inflige una gran dosis de locura.</text>
+<text id="5321">%null%</text>
+<text id="5322">%null%</text>
+<text id="5323">%null%</text>
+<text id="5324">%null%</text>
+<text id="5325">%null%</text>
+<text id="5326">%null%</text>
+<text id="5327">%null%</text>
+<text id="5328">%null%</text>
+<text id="5329">%null%</text>
+<text id="5330">Habilidad única: Llama frenética debilitante
+
+Sostiene la antorcha al frente y escupe una llama frenética. Enloquece tanto a quienes quedan atrapados en su área de efecto como al usuario. El efecto persistirá si sigues pulsando. Puede usarse en movimiento.</text>
+<text id="5331">%null%</text>
+<text id="5332">%null%</text>
+<text id="5333">%null%</text>
+<text id="5334">%null%</text>
+<text id="5335">%null%</text>
+<text id="5336">%null%</text>
+<text id="5337">%null%</text>
+<text id="5338">%null%</text>
+<text id="5339">%null%</text>
+<text id="5340">Habilidad única: Fuego tenaz
+
+Prepara el mecanismo de disparo rápido del arma. Una vez en posición, acciona la manivela para disparar proyectiles en rápida sucesión.</text>
+<text id="5341">%null%</text>
+<text id="5342">%null%</text>
+<text id="5343">%null%</text>
+<text id="5344">%null%</text>
+<text id="5345">%null%</text>
+<text id="5346">%null%</text>
+<text id="5347">%null%</text>
+<text id="5348">%null%</text>
+<text id="5349">%null%</text>
+<text id="5350">Habilidad única: Danza mortal
+
+Una agresiva habilidad giratoria que desgarra a los enemigos utilizando las cuchillas circulares. Vuelve a pulsar para propinar una afilada patada de hacha.</text>
+<text id="5351">%null%</text>
+<text id="5352">%null%</text>
+<text id="5353">%null%</text>
+<text id="5354">%null%</text>
+<text id="5355">%null%</text>
+<text id="5356">%null%</text>
+<text id="5357">%null%</text>
+<text id="5358">%null%</text>
+<text id="5359">%null%</text>
+<text id="5360">Habilidad única: Disparo en abanico
+
+Usa el arco en posición horizontal. Prepara ocho flechas a la vez y dispáralas en forma de abanico.</text>
+<text id="5361">%null%</text>
+<text id="5362">%null%</text>
+<text id="5363">%null%</text>
+<text id="5364">%null%</text>
+<text id="5365">%null%</text>
+<text id="5366">%null%</text>
+<text id="5367">%null%</text>
+<text id="5368">%null%</text>
+<text id="5369">%null%</text>
+<text id="5370">Habilidad única: Lanzamiento de disco
+
+Lanza como un disco el escudo redondo. Tras lanzarlo, gracias a las artes de herrería, regresará al instante a la mano del portador.</text>
+<text id="5371">%null%</text>
+<text id="5372">%null%</text>
+<text id="5373">%null%</text>
+<text id="5374">%null%</text>
+<text id="5375">%null%</text>
+<text id="5376">%null%</text>
+<text id="5377">%null%</text>
+<text id="5378">%null%</text>
+<text id="5379">%null%</text>
+<text id="5380">Habilidad única: Dracorrayo florido
+
+Invoca relámpagos rojos de los dragones antiguos para golpear al objetivo. Inflige daño de rayo y reduce temporalmente la negación de daños de rayo del objetivo. Cárgalo para aumentar su potencia.</text>
+<text id="5381">%null%</text>
+<text id="5382">%null%</text>
+<text id="5383">%null%</text>
+<text id="5384">%null%</text>
+<text id="5385">%null%</text>
+<text id="5386">%null%</text>
+<text id="5387">%null%</text>
+<text id="5388">%null%</text>
+<text id="5389">%null%</text>
+<text id="5390">Habilidad única: Postración resentida
+
+Violenta reverencia ejecutada con la protrusión delantera de un dedo. El resentimiento aumenta al inclinarlo, hasta que estalla de ira. Continúa pulsando para que crezca aún más. </text>
+<text id="5420">Habilidad única: Golpe doloroso
+
+Latigazo concebido para maximizar el dolor. Reduce temporalmente la velocidad a la que se recupera la resistencia. Así, el dolor induce a la obediencia.</text>
+<text id="5421">%null%</text>
+<text id="5422">%null%</text>
+<text id="5423">%null%</text>
+<text id="5424">%null%</text>
+<text id="5425">%null%</text>
+<text id="5426">%null%</text>
+<text id="5427">%null%</text>
+<text id="5428">%null%</text>
+<text id="5429">%null%</text>
+<text id="5430">Habilidad única: Tajo lunar solitario
+
+Da un fuerte tajo hacia abajo con el espadón y lanza un arco de luz hacia delante. Ataca fuerte para seguir con otro tajo.</text>
+<text id="5431">%null%</text>
+<text id="5432">%null%</text>
+<text id="5433">%null%</text>
+<text id="5434">%null%</text>
+<text id="5435">%null%</text>
+<text id="5436">%null%</text>
+<text id="5437">%null%</text>
+<text id="5438">%null%</text>
+<text id="5439">%null%</text>
+<text id="5440">Habilidad única: Revancha de la Noche
+
+Desata la oscuridad de la Noche imbuida de poder mágico. Si se usa inmediatamente después de bloquear un ataque, su poder se absorbe y aumenta su potencia.</text>
+<text id="5441">%null%</text>
+<text id="5442">%null%</text>
+<text id="5443">%null%</text>
+<text id="5444">%null%</text>
+<text id="5445">%null%</text>
+<text id="5446">%null%</text>
+<text id="5447">%null%</text>
+<text id="5448">%null%</text>
+<text id="5449">%null%</text>
+<text id="5450">Habilidad única: Siega de malas hierbas
+
+Ejecuta movimientos horizontales con la espada al estilo guadaña para segar a los enemigos como si fueran hierbajos. Repítelo para continuar con el ataque mientras quede energía.</text>
+<text id="5451">%null%</text>
+<text id="5452">%null%</text>
+<text id="5453">%null%</text>
+<text id="5454">%null%</text>
+<text id="5455">%null%</text>
+<text id="5456">%null%</text>
+<text id="5457">%null%</text>
+<text id="5458">%null%</text>
+<text id="5459">%null%</text>
+<text id="5460">Habilidad única: Venda de la felicidad
+
+Balancea la cabeza mientras le cubres los ojos, haciendo que emita un gemido de lamento, lo que temporalmente te hace más dificil de ver. Si buscas la felicidad, lo mejor es que no veas nada.</text>
+<text id="5461">%null%</text>
+<text id="5462">%null%</text>
+<text id="5463">%null%</text>
+<text id="5464">%null%</text>
+<text id="5465">%null%</text>
+<text id="5466">%null%</text>
+<text id="5467">%null%</text>
+<text id="5468">%null%</text>
+<text id="5469">%null%</text>
+<text id="5470">Habilidad única: Inquisición de Jori
+
+Lanza el báculo al aire y dispara una sucesión de arcos de púas doradas. Si continúas pulsando, la descarga proseguirá durante un tiempo.</text>
+<text id="5471">%null%</text>
+<text id="5472">%null%</text>
+<text id="5473">%null%</text>
+<text id="5474">%null%</text>
+<text id="5475">%null%</text>
+<text id="5476">%null%</text>
+<text id="5477">%null%</text>
+<text id="5478">%null%</text>
+<text id="5479">%null%</text>
+<text id="5480">Habilidad única: Golpe rugiente
+
+Ruge como un león dorado y golpea con el escudo desde una posición de guardia. Aleja al rival y lo tambalea en un amplio radio.</text>
+<text id="5481">%null%</text>
+<text id="5482">%null%</text>
+<text id="5483">%null%</text>
+<text id="5484">%null%</text>
+<text id="5485">%null%</text>
+<text id="5486">%null%</text>
+<text id="5487">%null%</text>
+<text id="5488">%null%</text>
+<text id="5489">%null%</text>
+<text id="5490">Habilidad única: Rociado de veneno mortal
+
+Agita en lo alto el frasco de perfume y esparce sobre una amplia zona un perfumado veneno mortal que danzará en el aire y se irá derramando.</text>
+<text id="5491">%null%</text>
+<text id="5492">%null%</text>
+<text id="5493">%null%</text>
+<text id="5494">%null%</text>
+<text id="5495">%null%</text>
+<text id="5496">%null%</text>
+<text id="5497">%null%</text>
+<text id="5498">%null%</text>
+<text id="5499">%null%</text>
+<text id="5500">Habilidad única: Arde, sierpe
+
+Prende una llama dentro de las serpientes que potenciará temporalmente los ataques de llamas. Una vez encendida, los ataques fuertes u otros que golpeen el suelo provocarán una explosión.</text>
+<text id="5501">%null%</text>
+<text id="5502">%null%</text>
+<text id="5503">%null%</text>
+<text id="5504">%null%</text>
+<text id="5505">%null%</text>
+<text id="5506">%null%</text>
+<text id="5507">%null%</text>
+<text id="5508">%null%</text>
+<text id="5509">%null%</text>
+<text id="5510">Habilidad única: Dispersión (Garra)
+
+Usa artes de herrería para conjurar varias copias de las garras en ambas manos y lánzalas todas a la vez. Pulsa de nuevo para volver a lanzarlas.</text>
+<text id="5511">%null%</text>
+<text id="5512">%null%</text>
+<text id="5513">%null%</text>
+<text id="5514">%null%</text>
+<text id="5515">%null%</text>
+<text id="5516">%null%</text>
+<text id="5517">%null%</text>
+<text id="5518">%null%</text>
+<text id="5519">%null%</text>
+<text id="5520">Habilidad única: Afilado de hoja
+
+Afila tu hoja para aumentar la cantidad de PS recuperados. Los grandes tarrotenientes atesoran los enseres de su oficio.</text>
+<text id="5521">%null%</text>
+<text id="5522">%null%</text>
+<text id="5523">%null%</text>
+<text id="5524">%null%</text>
+<text id="5525">%null%</text>
+<text id="5526">%null%</text>
+<text id="5527">%null%</text>
+<text id="5528">%null%</text>
+<text id="5529">%null%</text>
+<text id="5530">Habilidad única: Invocación de cuernos
+
+Invoca cuernos retorcidos para cubrir la hoja del arma. Al clavar el arma en el suelo, se generan cuernos punzantes.</text>
+<text id="5531">%null%</text>
+<text id="5532">%null%</text>
+<text id="5533">%null%</text>
+<text id="5534">%null%</text>
+<text id="5535">%null%</text>
+<text id="5536">%null%</text>
+<text id="5537">%null%</text>
+<text id="5538">%null%</text>
+<text id="5539">%null%</text>
+<text id="5540">Habilidad única: Invocación de cuerno: Tormenta
+
+Invoca cuernos retorcidos para cubrir la hoja. Llama una tormenta con los cuernos y masacra al enemigo. Cuenta con hasta dos ataques adicionales.</text>
+<text id="5541">%null%</text>
+<text id="5542">%null%</text>
+<text id="5543">%null%</text>
+<text id="5544">%null%</text>
+<text id="5545">%null%</text>
+<text id="5546">%null%</text>
+<text id="5547">%null%</text>
+<text id="5548">%null%</text>
+<text id="5549">%null%</text>
+<text id="5550">Habilidad única: Gran falange
+
+Habilidad de los caballeros trol hechizados. Crea un arco defensivo de grandes cuchillas mágicas que atacan automáticamente al enemigo cercano. Acompáñala con un ataque potente para encadenar esta habilidad con una estocada.</text>
+<text id="5551">%null%</text>
+<text id="5552">%null%</text>
+<text id="5553">%null%</text>
+<text id="5554">%null%</text>
+<text id="5555">%null%</text>
+<text id="5556">%null%</text>
+<text id="5557">%null%</text>
+<text id="5558">%null%</text>
+<text id="5559">%null%</text>
+<text id="5560">Habilidad única: Favor sanguino del sanguinemigo
+
+Levanta la lanza sagrada, atraviesa el cuerpo de la madre de la verdad y crea una explosión de hemofuego alrededor del objetivo. Repítelo para ejecutar hasta tres ataques adicionales.</text>
+<text id="5561">%null%</text>
+<text id="5562">%null%</text>
+<text id="5563">%null%</text>
+<text id="5564">%null%</text>
+<text id="5565">%null%</text>
+<text id="5566">%null%</text>
+<text id="5567">%null%</text>
+<text id="5568">%null%</text>
+<text id="5569">%null%</text>
+<text id="5570">Habilidad única: Llama de dragón
+
+Lanza fuego desde unas fauces dragontinas y traza un arco hacia delante. Las llamas del suelo seguirán ardiendo un rato.</text>
+<text id="5571">%null%</text>
+<text id="5572">%null%</text>
+<text id="5573">%null%</text>
+<text id="5574">%null%</text>
+<text id="5575">%null%</text>
+<text id="5576">%null%</text>
+<text id="5577">%null%</text>
+<text id="5578">%null%</text>
+<text id="5579">%null%</text>
+<text id="5580">Habilidad única: Tajo ultraveloz
+
+Adopta una forma luminosa y salta hacia delante para asestar un tajo descendente a la velocidad de la luz. A este ataque le seguirá otro de luz. Carga para aumentar la potencia y los ataques adicionales.</text>
+<text id="5600">Habilidad única: Disparo de rencor
+
+Imbuye las flechas con espíritus vengativos antes de dispararlas en un aluvión. Las flechas imbuídas persiguen a los enemigos durante su trayectoria.</text>
+</entries>
+</fmg>

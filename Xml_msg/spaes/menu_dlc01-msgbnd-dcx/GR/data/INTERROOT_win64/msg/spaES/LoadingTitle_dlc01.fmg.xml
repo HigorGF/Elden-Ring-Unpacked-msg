@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="80">Bendición del Árbol Umbrío</text>
+<text id="81">Bendición de cenizas de espíritu venerado</text>
+<text id="205">Seguir la pista a los objetos nuevos</text>
+<text id="206">Seguir la pista a los objetos recientes</text>
+<text id="207">Conservar altares de invocación</text>
+</entries>
+</fmg>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="80">幽影樹庇佑</text>
+<text id="81">靈灰庇佑</text>
+<text id="205">初次獲得的道具</text>
+<text id="206">最近獲得的道具</text>
+<text id="207">記號聚集處的啟用狀態</text>
+</entries>
+</fmg>

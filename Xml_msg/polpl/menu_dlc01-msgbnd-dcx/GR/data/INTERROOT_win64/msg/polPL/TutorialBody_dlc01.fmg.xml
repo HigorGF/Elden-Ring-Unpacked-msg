@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="302600">Odłamki Ostrodrzewa można znaleźć w Królestwie Cieni.
+
+Używaj ich w miejscach łaski, żeby wzmocnić swoje błogosławieństwo Ostrodrzewa.
+
+Błogosławieństwo Ostrodrzewa wspomaga zadawanie i negowanie obrażeń przez użytkownika, ale nie działa poza Królestwem Cieni.</text>
+<text id="302601">%null%</text>
+<text id="302602">%null%</text>
+<text id="302603">%null%</text>
+<text id="302604">%null%</text>
+<text id="302605">%null%</text>
+<text id="302606">%null%</text>
+<text id="302607">%null%</text>
+<text id="302608">%null%</text>
+<text id="302609">%null%</text>
+<text id="302610">Prochy czcigodnego ducha można znaleźć w Królestwie Cieni.
+
+Używaj tych prochów w miejscach łaski, żeby wzmocnić swoje błogosławieństwo prochów czcigodnego ducha.
+
+Błogosławieństwo to wspomaga zadawanie i negowanie obrażeń przez przywołane duchy i widmowego wierzchowca, ale nie działa poza Królestwem Cieni.</text>
+<text id="302611">%null%</text>
+<text id="302612">%null%</text>
+<text id="302613">%null%</text>
+<text id="302614">%null%</text>
+<text id="302615">%null%</text>
+<text id="302616">%null%</text>
+<text id="302617">%null%</text>
+<text id="302618">%null%</text>
+<text id="302619">%null%</text>
+<text id="302620">Nowe funkcje można włączyć używając zakładki „Ekran” w menu głównym.
+
+– Przedmioty zdobyte pierwszy raz można zaznaczyć za pomocą &lt;?newItemIcon?&gt;.
+– Utworzono specjalną zakładkę do przeglądania ostatnio zdobytych przedmiotów.</text>
+<text id="402600">Używaj odłamków Ostrodrzewa, żeby wzmocnić swoje błogosławieństwo Ostrodrzewa.
+
+Błogosławieństwo Ostrodrzewa wspomaga zadawanie i negowanie obrażeń przez użytkownika, ale nie działa poza Królestwem Cieni.</text>
+<text id="402601">%null%</text>
+<text id="402602">%null%</text>
+<text id="402603">%null%</text>
+<text id="402604">%null%</text>
+<text id="402605">%null%</text>
+<text id="402606">%null%</text>
+<text id="402607">%null%</text>
+<text id="402608">%null%</text>
+<text id="402609">%null%</text>
+<text id="402610">Używaj prochów czcigodnego ducha, żeby wzmocnić swoje błogosławieństwo prochów czcigodnego ducha.
+
+Błogosławieństwo prochów czcigodnego ducha wspomaga zadawanie i negowanie obrażeń przez przywołane duchy i widmowego wierzchowca, ale nie działa poza Królestwem Cieni.</text>
+</entries>
+</fmg>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="80">Bendición del Noctárbol</text>
+<text id="81">Bendición de cenizas de espíritus venerados</text>
+<text id="205">Seguimiento de los objetos nuevos</text>
+<text id="206">Seguimiento de los objetos recientes</text>
+<text id="207">Traslado de los grupos de invocaciones</text>
+</entries>
+</fmg>

@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="200000">Esta Ceniza de Guerra no confiere ninguna afinidad, pero sí la siguiente habilidad:
+
+«Torbellino de hojaseca: Culmen de las artes marciales centradas en las patadas de Dane. Elévate por los aires con una serie de patadas giratorias antes de caer con un golpe final. Imbuye de energía los ataques con patada y aumenta su alcance».
+
+Puede usarse en armas cuerpo a cuerpo.</text>
+<text id="200100">Esta Ceniza de Guerra confiere a un arma la afinidad «Sagrado» y la siguiente habilidad:
+
+«Características del crisol (Alas): Tiene su origen en las formas de vida del crisol. Desarrolla un par de alas doradas y elévate para abalanzarte sobre el enemigo arma en mano. Al blandir una hoja doble, lanzas un ataque giratorio».
+
+Puede usarse en espadas y armas de asta de embestida (exceptuando armas colosales).</text>
+<text id="400000">Esta Ceniza de Guerra confiere a un arma la afinidad «Pesado» y la siguiente habilidad:
+
+«Embestida gravitatoria giratoria: Habilidad gravitatoria mejorada por los discípulos de un Señor de alabastro. Elévate, gira y carga hacia delante. Vuelve a pulsar para seguir atacando».
+
+Puede usarse en espadas grandes y colosales.</text>
+<text id="401000">Esta Ceniza de Guerra no confiere ninguna afinidad, pero sí la siguiente habilidad:
+
+«Estallido de palma: Habilidad de los buscadores espirituales conocidos como secta hojaseca. Imbuye la mano con energía antes de realizar un golpe con la palma para desatar una ráfaga explosiva. Carga el ataque para reforzar la potencia y el impacto».
+
+Puede usarse en armas cuerpo a cuerpo.</text>
+<text id="402000">Esta Ceniza de Guerra confiere a un arma la afinidad «Ligero» y la siguiente habilidad:
+
+«Lanzamiento perforante: Lanza el arma con un potente giro, lo cual facilita que atraviese a los enemigos. Al usar esta habilidad, el arma se puede lanzar más lejos de lo normal y, además, atravesará enemigos».
+
+Puede usarse en hojas arrojadizas.</text>
+<text id="403000">Esta Ceniza de Guerra confiere a un arma la afinidad «Ligero» y la siguiente habilidad:
+
+«Lanzamiento disperso: Usa artes de herrería para conjurar varias copias del arma en ambas manos y, luego, lánzalas todas a la vez. Pulsa otra vez para volver a lanzar».
+
+Puede usarse en hojas arrojadizas.</text>
+<text id="404000">Esta Ceniza de Guerra no confiere ninguna afinidad, pero sí la siguiente habilidad:
+
+«Muro de chispas: Un aroma se dispersa por los alrededores y produce intensas chispas tras un tiempo. Se puede cargar para aumentar la potencia y el alcance. Las propiedades de las chispas vienen determinadas por la botella de perfume usada».
+
+Puede usarse en botellas de perfume.</text>
+<text id="405000">Esta Ceniza de Guerra no confiere ninguna afinidad, pero sí la siguiente habilidad:
+
+«Chispas ondulantes: Un perfume se dispersa ante ti y produce letales explosiones de chispas. Las propiedades de las chispas vienen determinadas por la botella de perfume usada».
+
+Puede usarse en botellas de perfume.</text>
+<text id="406000">Esta Ceniza de Guerra confiere a un arma la afinidad «Ligero» y la siguiente habilidad:
+
+«Bestia iracunda: Veloz cual bestia, salta más alto y ataca desde arriba. El primer paso puede ser hacia adelante, atrás, izquierda o derecha. El ataque fuerte permite realizar un ataque adicional».
+
+Puede usarse en garras de bestia.</text>
+<text id="407000">Esta Ceniza de Guerra confiere a un arma la afinidad «Ligero» y la siguiente habilidad:
+
+«Garras salvajes: Salta como una bestia para rajar violentamente al enemigo con las garras izquierda y derecha».
+
+Puede usarse en garras de bestia.</text>
+<text id="409000">Esta Ceniza de Guerra confiere a un arma la afinidad «Ligero» y la siguiente habilidad:
+
+«Punto ciego: Salta a corta distancia para aprovechar el punto ciego del enemigo y masacrarlo por un lado. La dirección afecta desde dónde ejecutas el ataque. Este ataque se cuela bajo la guardia del rival».
+
+Puede usarse en hojas de revés.</text>
+<text id="410000">Esta Ceniza de Guerra confiere a un arma la afinidad «Ligero» y la siguiente habilidad:
+
+«Tajo rápido: Una habilidad que se transmite entre espadachines cornamentados. Da un veloz paso adelante para atravesar a los enemigos. También provoca un torbellino cortante. Se puede cargar para aumentar la potencia de la habilidad y la distancia recorrida».
+
+Puede usarse en hojas de revés.</text>
+<text id="411000">Esta Ceniza de Guerra confiere a un arma la afinidad «Ligero» y la siguiente habilidad:
+
+«Posición elevada: Empieza con la espada en alto y en guardia. Ejecuta un ataque normal para avanzar y cortar hacia abajo, o usa un ataque fuerte para ejecutar una serie de tajos hacia abajo».
+
+Puede usarse en grandes catanas.</text>
+<text id="412000">Esta Ceniza de Guerra confiere a un arma la afinidad «De calidad» y la siguiente habilidad:
+
+«Posición lateral: Postura del lado derecho. El ataque normal desata una rápida combinación de tres tajos, y el fuerte, una estocada con salto».
+
+Puede usarse en espadones ligeros.</text>
+<text id="413000">Esta Ceniza de Guerra confiere a un arma la afinidad «Fulgurante» y la siguiente habilidad:
+
+«Rayo titilante: Habilidad de los caballeros de oro que servían a Godwyn. Desde una postura baja, el cuerpo se transforma en un rayo y carga en línea recta a gran velocidad».
+
+Puede usarse en todas las armas cuerpo a cuerpo.</text>
+<text id="414000">Esta Ceniza de Guerra confiere a un arma la afinidad «Llameante» y la siguiente habilidad:
+
+«Ensartado llameante: Habilidad del Caballero de Fuego Queelign. Envuelve el arma en llamas y ensarta al enemigo en un solo movimiento. El ataque fuerte desata un ataque de llamas adicional».
+
+Puede usarse en armas de embestida de tamaño mediano y grande.</text>
+<text id="415000">Esta Ceniza de Guerra confiere a un arma la afinidad «Pesado» y la siguiente habilidad:
+
+«Garra de león salvaje: Habilidad de los mejores caballeros de la Melena Roja. Da una voltereta hacia adelante y golpea. Vuelve a pulsar para lanzar otro golpe».
+
+Puede usarse en espadas, hachas y martillos
+(exceptuando armas pequeñas y espadas de embestida).</text>
+<text id="416000">Esta Ceniza de Guerra confiere a un arma la afinidad «Frío» y la siguiente habilidad:
+
+«Pisotón helado de bestia sagrada: Imita la ira de la danza de la bestia sagrada. Levanta una pierna y estámpala contra el suelo para enviar una poderosa ola de escarcha. Se puede cargar para aumentar la potencia y el alcance».
+
+Puede usarse en todas las armas cuerpo a cuerpo.</text>
+<text id="417000">Esta Ceniza de Guerra confiere a un arma la afinidad «Llameante» y la siguiente habilidad:
+
+«Lanza llameante: Habilidad de Kood, capitán de los Caballeros de Fuego. Prepara el arma para lanzar un ataque de embestida y una línea de llamas. Al cargar el ataque aumentan el daño y la distancia».
+
+Puede usarse en armas de embestida (salvo garras y hojas de revés).</text>
+<text id="418000">Esta Ceniza de Guerra confiere a un arma la afinidad «Mágico» y la siguiente habilidad:
+
+«Soberanía cariana: Habilidad de la realeza cariana. Convierte la hoja en una gran espada mágica y blándela hacia abajo. Vuelve a pulsar el botón para lanzar un amplio ataque de barrido horizontal. Ambos ataques pueden cargarse para potenciarlos».
+
+Puede usarse en espadas (salvo armas colosales).</text>
+<text id="419000">Esta Ceniza de Guerra confiere a un arma la afinidad «Oculto» y la siguiente habilidad:
+
+«Alarido de pesar: Habilidad de los oprimidos. Grita para que los enemigos cercanos se estremezcan de resentimiento y aumentar la potencia de ataque en función de los PS restantes. Cuanto menos PS tengas, mayor será el efecto».
+
+Puede usarse en todas las armas cuerpo a cuerpo.</text>
+<text id="422000">Esta Ceniza de Guerra confiere a un arma la afinidad «Frío» y la siguiente habilidad:
+
+«Invocación de llama espectral: Saca el arma e invoca una llama espectral. Sigue con un ataque normal para incendiar el suelo o con uno potente para crear una gran explosión».
+
+Puede usarse en espadas y lanzas
+(salvo armas pequeñas, hojas dobles y hojas de revés).</text>
+<text id="505000">Esta Ceniza de Guerra confiere a un arma la afinidad «Venenoso» y la siguiente habilidad:
+
+«Flor venenosa doble: Conjura aguijones plagados de putrefacción roja para apuñalar al enemigo. Si este ya está infectado por veneno o putrefacción, inflige daño masivo en el segundo golpe».
+
+Puede usarse en todas las armas cuerpo a cuerpo.</text>
+<text id="548000">Esta Ceniza de Guerra no confiere ninguna afinidad, pero sí la siguiente habilidad:
+
+«Caza dracónica de Igon: Habilidad del guerrero dracónico Igon. Lanza con el arco una retorcida saeta reforzada con un potente bramido».
+
+Puede usarse en arcos grandes.</text>
+<text id="800000">Esta Ceniza de Guerra no confiere ninguna afinidad, pero sí la siguiente habilidad:
+
+«Arremetida con escudo: Una habilidad que utiliza el escudo para atacar. Vuelve a pulsar para realizar hasta tres ataques adicionales».
+
+Puede usarse en todos los escudos.</text>
+</entries>
+</fmg>

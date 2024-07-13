@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="111108">La limite d'images/seconde sera modifiée, car la précédente valeur est maintenant invalide.</text>
+<text id="225001">Offrir le cœur de Bayle
+pour s'approprier &lt;?itemName?&gt;</text>
+<text id="236031">Impossible de fabriquer cet objet, car vous ne disposez pas d'assez de grands pots fissurés.</text>
+<text id="236061">Impossible de fabriquer cet objet, car vous ne disposez pas de grand pot fissuré.</text>
+<text id="241200">Nouvelle carte trouvée.
+(Plaine sépulcrale)</text>
+<text id="241201">Nouvelle carte trouvée.
+(Altus Occulte)</text>
+<text id="241202">Nouvelle carte trouvée.
+(Côte sud)</text>
+<text id="241203">Nouvelle carte trouvée.
+(Ruines de Rauh)</text>
+<text id="241204">Nouvelle carte trouvée.
+(Abysse)</text>
+</entries>
+</fmg>

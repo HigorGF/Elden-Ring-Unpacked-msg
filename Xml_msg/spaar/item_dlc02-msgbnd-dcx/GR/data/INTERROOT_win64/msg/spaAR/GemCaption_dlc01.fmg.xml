@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="200000">Esta ceniza de guerra no otorga ninguna afinidad a un armamento, pero sí la siguiente habilidad:
+
+"Remolino Hojaseca: Esta habilidad es la máxima expresión de la destreza marcial del juego de piernas de Dane. Te elevas en el aire con una serie de patadas giratorias, caes y ejecutas un ataque final. Imbuye de energía los ataques de patada y aumenta su alcance".
+
+Se puede usar en armas cuerpo a cuerpo.</text>
+<text id="200100">Esta ceniza de guerra otorga a un armamento afinidad a lo sagrado y la siguiente habilidad:
+
+"Apariencia del Crisol (Alas): Esta habilidad se origina de las formas de vida del crisol. Te crecen un par de alas doradas, te elevas en el aire y luego te lanzas en picada hacia el enemigo, con tu arma en mano. Si usas hojas gemelas, ejecutas un ataque giratorio".
+
+Se puede usar en espadas y en armas de asta con capacidad de embestida (excepto armas colosales).</text>
+<text id="400000">Esta ceniza de guerra le otorga a un armamento afinidad a lo pesado y la siguiente habilidad:
+
+"Embestida de rotación gravitatoria: Una habilidad gravitatoria perfeccionada por los discípulos del Señor de Alabastro. Usas el poder de la gravedad para suspenderte en el aire, girar el cuerpo y embestir. Si la activas otra vez, se ejecuta un ataque consecutivo".
+
+Se puede usar en espadas grandes y colosales.</text>
+<text id="401000">Esta ceniza de guerra no otorga ninguna afinidad a un armamento, pero sí la siguiente habilidad:
+
+"Palma explosiva: Es una habilidad de los buscadores espirituales conocidos como la secta Hojaseca. Imbuye la mano con energía antes de usar palma explosiva para desatar una explosión. Ese poder y ese impacto formidables se pueden potenciar cargando el ataque".
+
+Se puede usar en armas cuerpo a cuerpo.</text>
+<text id="402000">Esta ceniza de guerra le otorga a un armamento afinidad a lo afilado y la siguiente habilidad:
+
+"Lanzamiento perforante: Lanza el armamento con un giro potente para atravesar a los enemigos. Al usar esta habilidad, el armamento pude ser lanzado más lejos de lo normal y atraviesa a los enemigos".
+
+Puede usarse en hojas arrojadizas.</text>
+<text id="403000">Esta ceniza de guerra le otorga a un armamento afinidad a lo afilado y la siguiente habilidad:
+
+"Lanzamiento de dispersión: Usa las artes de herrería para conjurar varias copias del armamento en ambas manos, para después lanzarlas todas al mismo tiempo. Presiona una entrada adicional para lanzar nuevamente".
+
+Se puede usar en hojas arrojadizas.</text>
+<text id="404000">Esta ceniza de guerra no otorga ninguna afinidad a un armamento, pero sí la siguiente habilidad:
+
+"Muro de chispas: Esparce polvo perfumado en las cercanías, que producirá chispas intensas después de un tiempo. Se puede cargar para aumentar su poder y alcance. Las propiedades de las chispas dependen de la botella de perfume que se use".
+
+Se puede usar en botellas de perfume.</text>
+<text id="405000">Esta ceniza de guerra no otorga ninguna afinidad a un armamento, pero sí la siguiente habilidad:
+
+"Chispas continuas: Esparce polvo perfumado frente a ti que producirá explosiones continuas de chispas letales. Las propiedades de las chispas dependen de la botella de perfume que se use".
+
+Se puede usar en botellas de perfume.</text>
+<text id="406000">Esta ceniza de guerra le otorga a un armamento afinidad a lo afilado y la siguiente habilidad:
+
+"Bestia enfurecida: Te mueves con la velocidad de una bestia, saltas alto y cortas a tus enemigos desde arriba. El paso inicial puede ser hacia delante, atrás, derecha o izquierda. Con un ataque fuerte se ejecuta un ataque consecutivo".
+
+Puede usarse en garras de bestia.</text>
+<text id="407000">Esta ceniza de guerra le otorga a un armamento afinidad a lo afilado y la siguiente habilidad:
+
+"Garras salvajes: Te abalanzas como una bestia y cortas a tus enemigos con ambas garras".
+
+Puede usarse en garras de bestia.</text>
+<text id="409000">Esta ceniza de guerra le otorga a un armamento afinidad a lo afilado y la siguiente habilidad:
+
+"Punto ciego: Saltas cerca del enemigo para aprovechar su punto ciego y despedazarlo desde el costado. La dirección del ataque depende de la entrada que uses. Este ataque no se ve impedido por la defensa del oponente".
+
+Se puede usar en hojas de revés.</text>
+<text id="410000">Esta ceniza de guerra le otorga a un armamento afinidad a lo afilado y la siguiente habilidad:
+
+"Corte raudo: Una habilidad pasada de generación en generación entre espadachines astados. Das un paso rápido hacia delante para atravesar a los enemigos. Este ataque también dispara un vacío cortante. Se puede cargar para aumentar su poder y la distancia recorrida".
+
+Se puede usar en hojas de revés.</text>
+<text id="411000">Esta ceniza de guerra le otorga a un armamento afinidad a lo afilado y la siguiente habilidad:
+
+"Postura elevada: Una habilidad que empieza con la hoja sostenida en alto en una postura de combate. Ejecuta un ataque normal desde esta postura para dar un paso hacia delante y cortar hacia abajo. Ejecuta un ataque fuerte para realizar una serie de cortes hacia abajo".
+
+Se puede usar en katanas grandes.</text>
+<text id="412000">Esta ceniza de guerra le otorga a un armamento afinidad a la calidad y la siguiente habilidad:
+
+"Postura de ala: Adoptas con calma una postura lateral derecha. Los ataques normales activan una combinación de tres cortes rápidos. Los ataques fuertes activan una embestida con salto".
+
+Se puede usar en espadones ligeros.</text>
+<text id="413000">Esta ceniza de guerra le otorga a un armamento afinidad al rayo y la siguiente habilidad:
+
+"Rayo parpadeante: Habilidad utilizada por los caballeros dorados que servían a Godwyn. Desde una postura baja, el cuerpo se transforma en un rayo que embiste hacia adelante con una velocidad fulgurosa".
+
+Se puede usar en todas las armas cuerpo a cuerpo.</text>
+<text id="414000">Esta ceniza de guerra le otorga a un armamento afinidad al arte de llama y la siguiente habilidad:
+
+"Brocheta ígnea: Habilidad de Queelign, de los caballeros ígneos. Envuelves el armamento en llamas, adoptas una postura baja y ensartas al enemigo con un solo movimiento. Los ataques fuertes liberan un ataque ígneo consecutivo".
+
+Se puede usar en armamentos medianos y grandes con capacidad de embestida.</text>
+<text id="415000">Esta ceniza de guerra le otorga a un armamento afinidad a lo pesado y la siguiente habilidad:
+
+"Garra del león salvaje: Habilidad de quienes son particularmente valientes, incluso entre los melenarroja. Ejecutas un salto mortal hacia adelante y atacas al enemigo con tu arma. Se puede ejecutar un ataque adicional si se vuelve a activar la habilidad".
+
+Se puede usar en espadas, hachas y martillos
+(excepto en armamentos pequeños y espadas de embestida).</text>
+<text id="416000">Esta ceniza de guerra le otorga a un armamento afinidad al frío y la siguiente habilidad:
+
+"Pisotón gélido de la Bestia Divina: Una habilidad que imita la ira plasmada en la danza de la Bestia Divina. Levantas una pierna y pisas con mucha fuerza. Envías una poderosa oleada de escarcha a lo largo del suelo".
+
+Se puede usar en todas las armas cuerpo a cuerpo.</text>
+<text id="417000">Esta ceniza de guerra le otorga a un armamento afinidad al arte de llama y la siguiente habilidad:
+
+"Lanza de fuego: Habilidad de Kood, capitán de los caballeros ígneos. Preparas el arma para un ataque de embestida y arrojas una lanza de fuego hacia adelante. Puedes cargar el ataque para aumentar el daño infligido y la distancia recorrida".
+
+Se puede usar en armamentos con capacidad de embestida (excepto en garras y hojas de revés).</text>
+<text id="418000">Esta ceniza de guerra le otorga a un armamento afinidad a la magia y la siguiente habilidad:
+
+"Soberanía de Caria: Habilidad transmitida entre la familia real cariana. El arma se transforma en un espadón mágico que blandes hacia abajo. Ejecutas un ataque horizontal de amplio alcance al volver a activar la habilidad. Ambos ataques se pueden cargar para reforzar su poder".
+
+Se puede usar en espadas (excepto en armas colosales).</text>
+<text id="419000">Esta ceniza de guerra le otorga a un armamento afinidad a lo oculto y la siguiente habilidad:
+
+"Alarido de pena: Habilidad utilizada por los oprimidos. Gritas, haces que los enemigos cercanos flaqueen y evocas un profundo resentimiento, lo que fortalece tu poder de ataque en función de la cantidad de PV restantes. Cuantos menos PV tengas, mayor será el efecto".
+
+Se puede usar en todas las armas cuerpo a cuerpo.</text>
+<text id="422000">Esta ceniza de guerra le otorga a un armamento afinidad al frío y la siguiente habilidad:
+
+"Invocación de llama espectral: Desenfundas tu arma para invocar llamas espectrales. Puedes continuar con un ataque normal para incendiar el suelo con las llamas espectrales o con un ataque fuerte para activar una explosión enorme".
+
+Se puede usar en espadas y lanzas
+(excepto en armas pequeñas, hojas gemelas y hojas de revés).</text>
+<text id="505000">Esta ceniza de guerra le otorga a un armamento afinidad al veneno y la siguiente habilidad:
+
+"La flor venenosa brota dos veces: Conjura desde el suelo aguijones infestados de podredumbre escarlata para apuñalar al enemigo. Si un ataque consecutivo impacta en un enemigo al que ya se le aplicó envenenamiento o podredumbre, inflige un daño enorme de un solo golpe".
+
+Se puede usar en todas las armas cuerpo a cuerpo. </text>
+<text id="548000">Esta ceniza de guerra no otorga ninguna afinidad a un armamento, pero sí la siguiente habilidad:
+
+"Cacería dragontina de Igon: Habilidad de Igon, guerrero draco. Preparas el arco y lanzas un disparo retorcido emitiendo un bramido potente que aumenta bastante su poder".
+
+Se puede usar en arcos grandes.</text>
+<text id="800000">Esta ceniza de guerra no otorga ninguna afinidad a un armamento, pero sí la siguiente habilidad:
+
+"Embestida de escudo: Una habilidad que usa el escudo para atacar. Presiona entradas adicionales para realizar hasta tres ataques consecutivos".
+
+Puede usarse en todos los escudos.</text>
+</entries>
+</fmg>

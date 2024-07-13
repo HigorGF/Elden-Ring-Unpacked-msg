@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="80">ความ​คุ้มครอง​แห่ง​พฤกษา​เงา</text>
+<text id="81">ความ​คุ้มครอง​แห่ง​ธุลี​วิญญาณ</text>
+<text id="205">ไอ​เท​ม​ที​ได้​รับ​ครัง​แรก</text>
+<text id="206">ไอ​เท​ม​ที​ได้​รับ​ล่าสุด</text>
+<text id="207">การ​เก็บ​แหล่ง​รวม​สัญญาณ</text>
+</entries>
+</fmg>

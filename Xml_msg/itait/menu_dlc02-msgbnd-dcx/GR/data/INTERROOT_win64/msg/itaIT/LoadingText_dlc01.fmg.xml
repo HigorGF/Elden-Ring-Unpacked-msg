@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="80">Consuma i frammenti di Albero Ombra nei luoghi di grazia per rafforzare la tua benedizione dell'Albero Ombra.
+
+La benedizione dell'Albero Ombra rafforza la capacità offensiva e difensiva di chi la possiede, ma non ha effetto al di fuori del regno dell'ombra.</text>
+<text id="81">Consuma le ceneri di spirito venerate nei luoghi di grazia per rafforzare la tua benedizione delle ceneri di spirito venerate.
+
+La benedizione delle ceneri di spirito venerate rafforza le capacità offensive e difensive del destriero fantasma e degli spiriti evocati, ma non ha effetto al di fuori del regno dell'ombra.</text>
+<text id="205">Gli oggetti ottenuti per la prima volta possono essere contrassegnati con &lt;?newItemIcon?&gt;.
+
+La visualizzazione del contrassegno può essere attivata o disattivata nella sezione Opzioni di gioco del menu di sistema.</text>
+<text id="206">Gli oggetti appena ottenuti possono essere visualizzati in una scheda apposita.
+
+Puoi attivare o disattivare questa scheda nella sezione Video del menu di sistema.</text>
+<text id="207">I bacini di evocazione attivi possono essere importati nelle partite successive.
+
+Puoi attivare o disattivare i singoli bacini di evocazione dall'elenco presente nel menu delle funzioni della mappa.</text>
+</entries>
+</fmg>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1200">Améliore les sorcelleries des Doigts</text>
+<text id="1201">Améliore les incantations de Miquella</text>
+<text id="1202">Améliore les incantations de flamme de Messmer</text>
+<text id="1203">Améliore les incantations spirales</text>
+<text id="6800">Provoque une accumulation de sommeil éternel (&lt;?sleepATKpwr?&gt;) </text>
+</entries>
+</fmg>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="80">Bénédiction de l'Arbre-Occulte</text>
+<text id="81">Bénédiction de la cendre spirituelle vénérée</text>
+<text id="205">Suivi des nouveaux éléments</text>
+<text id="206">Suivi des éléments récents</text>
+<text id="207">Transférer les recueils d'invocations</text>
+</entries>
+</fmg>

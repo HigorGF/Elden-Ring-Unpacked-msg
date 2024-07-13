@@ -1,0 +1,1915 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1500000">Dolch mit großem Handschutz.
+
+Zur Führung in der linken Hand vorgesehen, um mit einem durchbohrenden Schwert oder einer gleichartigen Klinge in der rechten Hand einen unverwechselbaren Kampfstil zu ermöglichen.</text>
+<text id="1500100">Dolch mit großem Handschutz.
+
+Zur Führung in der linken Hand vorgesehen, um mit einem durchbohrenden Schwert oder einer gleichartigen Klinge in der rechten Hand einen unverwechselbaren Kampfstil zu ermöglichen.</text>
+<text id="1500200">Dolch mit großem Handschutz.
+
+Zur Führung in der linken Hand vorgesehen, um mit einem durchbohrenden Schwert oder einer gleichartigen Klinge in der rechten Hand einen unverwechselbaren Kampfstil zu ermöglichen.</text>
+<text id="1500300">Dolch mit großem Handschutz.
+
+Zur Führung in der linken Hand vorgesehen, um mit einem durchbohrenden Schwert oder einer gleichartigen Klinge in der rechten Hand einen unverwechselbaren Kampfstil zu ermöglichen.</text>
+<text id="1500400">Dolch mit großem Handschutz.
+
+Zur Führung in der linken Hand vorgesehen, um mit einem durchbohrenden Schwert oder einer gleichartigen Klinge in der rechten Hand einen unverwechselbaren Kampfstil zu ermöglichen.</text>
+<text id="1500500">Dolch mit großem Handschutz.
+
+Zur Führung in der linken Hand vorgesehen, um mit einem durchbohrenden Schwert oder einer gleichartigen Klinge in der rechten Hand einen unverwechselbaren Kampfstil zu ermöglichen.</text>
+<text id="1500600">Dolch mit großem Handschutz.
+
+Zur Führung in der linken Hand vorgesehen, um mit einem durchbohrenden Schwert oder einer gleichartigen Klinge in der rechten Hand einen unverwechselbaren Kampfstil zu ermöglichen.</text>
+<text id="1500700">Dolch mit großem Handschutz.
+
+Zur Führung in der linken Hand vorgesehen, um mit einem durchbohrenden Schwert oder einer gleichartigen Klinge in der rechten Hand einen unverwechselbaren Kampfstil zu ermöglichen.</text>
+<text id="1500800">Dolch mit großem Handschutz.
+
+Zur Führung in der linken Hand vorgesehen, um mit einem durchbohrenden Schwert oder einer gleichartigen Klinge in der rechten Hand einen unverwechselbaren Kampfstil zu ermöglichen.</text>
+<text id="1500900">Dolch mit großem Handschutz.
+
+Zur Führung in der linken Hand vorgesehen, um mit einem durchbohrenden Schwert oder einer gleichartigen Klinge in der rechten Hand einen unverwechselbaren Kampfstil zu ermöglichen.</text>
+<text id="1501000">Dolch mit großem Handschutz.
+
+Zur Führung in der linken Hand vorgesehen, um mit einem durchbohrenden Schwert oder einer gleichartigen Klinge in der rechten Hand einen unverwechselbaren Kampfstil zu ermöglichen.</text>
+<text id="1501100">Dolch mit großem Handschutz.
+
+Zur Führung in der linken Hand vorgesehen, um mit einem durchbohrenden Schwert oder einer gleichartigen Klinge in der rechten Hand einen unverwechselbaren Kampfstil zu ermöglichen.</text>
+<text id="1501200">Dolch mit großem Handschutz.
+
+Zur Führung in der linken Hand vorgesehen, um mit einem durchbohrenden Schwert oder einer gleichartigen Klinge in der rechten Hand einen unverwechselbaren Kampfstil zu ermöglichen.</text>
+<text id="1510000">Von den Feuerrittern genutzter Dolch.
+Eine schlanke Klinge, die wogt wie Feuer.
+
+Mit einer Flammenanrufung gesegnet. Weitere Flammenanrufungen verstärken den Effekt und erhöhen die Macht der Waffe deutlich.</text>
+<text id="1510100">Von den Feuerrittern genutzter Dolch.
+Eine schlanke Klinge, die wogt wie Feuer.
+
+Mit einer Flammenanrufung gesegnet. Weitere Flammenanrufungen verstärken den Effekt und erhöhen die Macht der Waffe deutlich.</text>
+<text id="1510200">Von den Feuerrittern genutzter Dolch.
+Eine schlanke Klinge, die wogt wie Feuer.
+
+Mit einer Flammenanrufung gesegnet. Weitere Flammenanrufungen verstärken den Effekt und erhöhen die Macht der Waffe deutlich.</text>
+<text id="1510300">Von den Feuerrittern genutzter Dolch.
+Eine schlanke Klinge, die wogt wie Feuer.
+
+Mit einer Flammenanrufung gesegnet. Weitere Flammenanrufungen verstärken den Effekt und erhöhen die Macht der Waffe deutlich.</text>
+<text id="1510400">Von den Feuerrittern genutzter Dolch.
+Eine schlanke Klinge, die wogt wie Feuer.
+
+Mit einer Flammenanrufung gesegnet. Weitere Flammenanrufungen verstärken den Effekt und erhöhen die Macht der Waffe deutlich.</text>
+<text id="1510500">Von den Feuerrittern genutzter Dolch.
+Eine schlanke Klinge, die wogt wie Feuer.
+
+Mit einer Flammenanrufung gesegnet. Weitere Flammenanrufungen verstärken den Effekt und erhöhen die Macht der Waffe deutlich.</text>
+<text id="1510600">Von den Feuerrittern genutzter Dolch.
+Eine schlanke Klinge, die wogt wie Feuer.
+
+Mit einer Flammenanrufung gesegnet. Weitere Flammenanrufungen verstärken den Effekt und erhöhen die Macht der Waffe deutlich.</text>
+<text id="1510700">Von den Feuerrittern genutzter Dolch.
+Eine schlanke Klinge, die wogt wie Feuer.
+
+Mit einer Flammenanrufung gesegnet. Weitere Flammenanrufungen verstärken den Effekt und erhöhen die Macht der Waffe deutlich.</text>
+<text id="1510800">Von den Feuerrittern genutzter Dolch.
+Eine schlanke Klinge, die wogt wie Feuer.
+
+Mit einer Flammenanrufung gesegnet. Weitere Flammenanrufungen verstärken den Effekt und erhöhen die Macht der Waffe deutlich.</text>
+<text id="1510900">Von den Feuerrittern genutzter Dolch.
+Eine schlanke Klinge, die wogt wie Feuer.
+
+Mit einer Flammenanrufung gesegnet. Weitere Flammenanrufungen verstärken den Effekt und erhöhen die Macht der Waffe deutlich.</text>
+<text id="1511000">Von den Feuerrittern genutzter Dolch.
+Eine schlanke Klinge, die wogt wie Feuer.
+
+Mit einer Flammenanrufung gesegnet. Weitere Flammenanrufungen verstärken den Effekt und erhöhen die Macht der Waffe deutlich.</text>
+<text id="1511100">Von den Feuerrittern genutzter Dolch.
+Eine schlanke Klinge, die wogt wie Feuer.
+
+Mit einer Flammenanrufung gesegnet. Weitere Flammenanrufungen verstärken den Effekt und erhöhen die Macht der Waffe deutlich.</text>
+<text id="1511200">Von den Feuerrittern genutzter Dolch.
+Eine schlanke Klinge, die wogt wie Feuer.
+
+Mit einer Flammenanrufung gesegnet. Weitere Flammenanrufungen verstärken den Effekt und erhöhen die Macht der Waffe deutlich.</text>
+<text id="2510000">Silbernes Schwert von St. Trina, das nun mit  tiefdunklem Purpur befleckt ist.
+Verursacht ewigen Schlaf.
+
+Als St. Trina verlassen wurde, wandelten die schwachen, leicht purpurfarbenen Nebel sich zu einer verlockenden Wolke aus tiefdunklem Purpur.</text>
+<text id="2520000">Ein Schwert, auf dem eine Reihe aus Schimmerstein gefertigter Sterne angebracht wurde.
+Waffe der Halbmenschen-Schwertkämpfer.
+
+Wenn die Schwertkämpfer von ihrer Königin mit dieser Waffe beschenkt werden, schwören sie, die Wahrheit zu finden, die am Ende der Prozession der Sterne liegt.</text>
+<text id="2530000">Schimmersteinschwert der königlichen Familie von Caria.
+Ein kleineres, durchbohrendes Schwert mit schlanker Klinge.
+
+Diese Waffe wurde früher von den carianischen Rittern genutzt, bevor sie ihre Zauberei für den Kampf verfeinern konnten, und fungiert bei der Ausführung von starken Angriffen als Katalysator für Schimmersteinzauberei. </text>
+<text id="2540000">Ein Schwert, das niemand aus seiner steinernen Scheide ziehen kann.
+
+Relikt einer längst vergangenen Zivilisation, das angeblich für rituelle Zwecke an Altären des Lichts und der Dunkelheit verwendet wurde.</text>
+<text id="2550000">Schwert des Lichts, das an einem Altar aus seiner steinernen Scheide gezogen wurde.
+
+Die scharfe Spitze kreuzt und reflektiert unerschütterliche Lichtstrahlen, die der silbernen Klinge Form verleihen.</text>
+<text id="2560000">Schwert der Finsternis, das an einem Altar aus seiner steinernen Scheide gezogen wurde.
+
+Der scharfen Spitze der Waffe entspringen düstere Spiralen, die sich verbinden und wieder lösen, während ihre Wirbel und Windungen der dunklen Klinge Form verleihen.</text>
+<text id="3500000">Eine einst von Kommandant Gaius geführte Waffe.
+Eine Kombination aus Großschwert und Lanze.
+
+Diese Waffe ist schwer und mit großer Kraft schwingbar, wodurch sie auf einem Reittier großes Potenzial innehält.
+Gaius selbst war nie ohne seinen Eber zu sehen.</text>
+<text id="3500100">Eine einst von Kommandant Gaius geführte Waffe.
+Eine Kombination aus Großschwert und Lanze.
+
+Diese Waffe ist schwer und mit großer Kraft schwingbar, wodurch sie auf einem Reittier großes Potenzial innehält.
+Gaius selbst war nie ohne seinen Eber zu sehen.</text>
+<text id="3500200">Eine einst von Kommandant Gaius geführte Waffe.
+Eine Kombination aus Großschwert und Lanze.
+
+Diese Waffe ist schwer und mit großer Kraft schwingbar, wodurch sie auf einem Reittier großes Potenzial innehält.
+Gaius selbst war nie ohne seinen Eber zu sehen.</text>
+<text id="3500300">Eine einst von Kommandant Gaius geführte Waffe.
+Eine Kombination aus Großschwert und Lanze.
+
+Diese Waffe ist schwer und mit großer Kraft schwingbar, wodurch sie auf einem Reittier großes Potenzial innehält.
+Gaius selbst war nie ohne seinen Eber zu sehen.</text>
+<text id="3500400">Eine einst von Kommandant Gaius geführte Waffe.
+Eine Kombination aus Großschwert und Lanze.
+
+Diese Waffe ist schwer und mit großer Kraft schwingbar, wodurch sie auf einem Reittier großes Potenzial innehält.
+Gaius selbst war nie ohne seinen Eber zu sehen.</text>
+<text id="3500500">Eine einst von Kommandant Gaius geführte Waffe.
+Eine Kombination aus Großschwert und Lanze.
+
+Diese Waffe ist schwer und mit großer Kraft schwingbar, wodurch sie auf einem Reittier großes Potenzial innehält.
+Gaius selbst war nie ohne seinen Eber zu sehen.</text>
+<text id="3500600">Eine einst von Kommandant Gaius geführte Waffe.
+Eine Kombination aus Großschwert und Lanze.
+
+Diese Waffe ist schwer und mit großer Kraft schwingbar, wodurch sie auf einem Reittier großes Potenzial innehält.
+Gaius selbst war nie ohne seinen Eber zu sehen.</text>
+<text id="3500700">Eine einst von Kommandant Gaius geführte Waffe.
+Eine Kombination aus Großschwert und Lanze.
+
+Diese Waffe ist schwer und mit großer Kraft schwingbar, wodurch sie auf einem Reittier großes Potenzial innehält.
+Gaius selbst war nie ohne seinen Eber zu sehen.</text>
+<text id="3500800">Eine einst von Kommandant Gaius geführte Waffe.
+Eine Kombination aus Großschwert und Lanze.
+
+Diese Waffe ist schwer und mit großer Kraft schwingbar, wodurch sie auf einem Reittier großes Potenzial innehält.
+Gaius selbst war nie ohne seinen Eber zu sehen.</text>
+<text id="3500900">Eine einst von Kommandant Gaius geführte Waffe.
+Eine Kombination aus Großschwert und Lanze.
+
+Diese Waffe ist schwer und mit großer Kraft schwingbar, wodurch sie auf einem Reittier großes Potenzial innehält.
+Gaius selbst war nie ohne seinen Eber zu sehen.</text>
+<text id="3501000">Eine einst von Kommandant Gaius geführte Waffe.
+Eine Kombination aus Großschwert und Lanze.
+
+Diese Waffe ist schwer und mit großer Kraft schwingbar, wodurch sie auf einem Reittier großes Potenzial innehält.
+Gaius selbst war nie ohne seinen Eber zu sehen.</text>
+<text id="3501100">Eine einst von Kommandant Gaius geführte Waffe.
+Eine Kombination aus Großschwert und Lanze.
+
+Diese Waffe ist schwer und mit großer Kraft schwingbar, wodurch sie auf einem Reittier großes Potenzial innehält.
+Gaius selbst war nie ohne seinen Eber zu sehen.</text>
+<text id="3501200">Eine einst von Kommandant Gaius geführte Waffe.
+Eine Kombination aus Großschwert und Lanze.
+
+Diese Waffe ist schwer und mit großer Kraft schwingbar, wodurch sie auf einem Reittier großes Potenzial innehält.
+Gaius selbst war nie ohne seinen Eber zu sehen.</text>
+<text id="3510000">Goldenes Großschwert, das einst den Körper Midras, des Meisters des Pfarrhauses durchbohrte.
+Wurde von den Hornherolden in einer Verdammnis genutzt, die ihresgleichen sucht.
+
+Die Stacheln, die die Klinge umgeben, verletzen das Opfer von innen.</text>
+<text id="3520000">Eine eingenartige Waffe der Wichte.
+Ein Großschwert in der Form einer Echse mit gespaltener Zunge.
+
+Mit starken Angriffen lässt sich die gespaltene Zunge aus der Waffe abfeuern.</text>
+<text id="3520100">Eine eingenartige Waffe der Wichte.
+Ein Großschwert in der Form einer Echse mit gespaltener Zunge.
+
+Mit starken Angriffen lässt sich die gespaltene Zunge aus der Waffe abfeuern.</text>
+<text id="3520200">Eine eingenartige Waffe der Wichte.
+Ein Großschwert in der Form einer Echse mit gespaltener Zunge.
+
+Mit starken Angriffen lässt sich die gespaltene Zunge aus der Waffe abfeuern.</text>
+<text id="3520300">Eine eingenartige Waffe der Wichte.
+Ein Großschwert in der Form einer Echse mit gespaltener Zunge.
+
+Mit starken Angriffen lässt sich die gespaltene Zunge aus der Waffe abfeuern.</text>
+<text id="3520400">Eine eingenartige Waffe der Wichte.
+Ein Großschwert in der Form einer Echse mit gespaltener Zunge.
+
+Mit starken Angriffen lässt sich die gespaltene Zunge aus der Waffe abfeuern.</text>
+<text id="3520500">Eine eingenartige Waffe der Wichte.
+Ein Großschwert in der Form einer Echse mit gespaltener Zunge.
+
+Mit starken Angriffen lässt sich die gespaltene Zunge aus der Waffe abfeuern.</text>
+<text id="3520600">Eine eingenartige Waffe der Wichte.
+Ein Großschwert in der Form einer Echse mit gespaltener Zunge.
+
+Mit starken Angriffen lässt sich die gespaltene Zunge aus der Waffe abfeuern.</text>
+<text id="3520700">Eine eingenartige Waffe der Wichte.
+Ein Großschwert in der Form einer Echse mit gespaltener Zunge.
+
+Mit starken Angriffen lässt sich die gespaltene Zunge aus der Waffe abfeuern.</text>
+<text id="3520800">Eine eingenartige Waffe der Wichte.
+Ein Großschwert in der Form einer Echse mit gespaltener Zunge.
+
+Mit starken Angriffen lässt sich die gespaltene Zunge aus der Waffe abfeuern.</text>
+<text id="3520900">Eine eingenartige Waffe der Wichte.
+Ein Großschwert in der Form einer Echse mit gespaltener Zunge.
+
+Mit starken Angriffen lässt sich die gespaltene Zunge aus der Waffe abfeuern.</text>
+<text id="3521000">Eine eingenartige Waffe der Wichte.
+Ein Großschwert in der Form einer Echse mit gespaltener Zunge.
+
+Mit starken Angriffen lässt sich die gespaltene Zunge aus der Waffe abfeuern.</text>
+<text id="3521100">Eine eingenartige Waffe der Wichte.
+Ein Großschwert in der Form einer Echse mit gespaltener Zunge.
+
+Mit starken Angriffen lässt sich die gespaltene Zunge aus der Waffe abfeuern.</text>
+<text id="3521200">Eine eingenartige Waffe der Wichte.
+Ein Großschwert in der Form einer Echse mit gespaltener Zunge.
+
+Mit starken Angriffen lässt sich die gespaltene Zunge aus der Waffe abfeuern.</text>
+<text id="3550000">Stahlgroßschwertder Ritter des Einsamen Kerker
+
+In einem geheimen Ritus verzichteten sie auf ihre Herzen, um ihre Kampffähigkeit zu erhöhen. Dann gravierten sie zwei Wappen in ihre Klingen: eine davon stellt das Licht der Geburt dar, die andere die Einsamkeit.</text>
+<text id="4500000">Ein Schatz aus den ruinierten Schmieden.
+Großschwert aus uraltem Meteoritenerz, das in einer scharfen Spitze endet.
+
+Gefertigt aus einer ausgegrabenen Scherbe einer Pfeilspitze, die einst zum Arsenal der alten Götter gehörte. Eine starke, durchbohrende Waffe mit herausragenden Stoßangriffen</text>
+<text id="4520000">Großschwert der Feuerritter.
+Eine lange, schlanke Klinge, die wogt wie Feuer.
+
+Mit einer Flammenanrufung gesegnet. Eine weitere Flammendurchflutung verstärkt den Effekt und erhöht die Macht der Waffe deutlich.</text>
+<text id="4520100">Großschwert der Feuerritter.
+Eine lange, schlanke Klinge, die wogt wie Feuer.
+
+Mit einer Flammenanrufung gesegnet. Eine weitere Flammendurchflutung verstärkt den Effekt und erhöht die Macht der Waffe deutlich.</text>
+<text id="4520200">Großschwert der Feuerritter.
+Eine lange, schlanke Klinge, die wogt wie Feuer.
+
+Mit einer Flammenanrufung gesegnet. Eine weitere Flammendurchflutung verstärkt den Effekt und erhöht die Macht der Waffe deutlich.</text>
+<text id="4520300">Großschwert der Feuerritter.
+Eine lange, schlanke Klinge, die wogt wie Feuer.
+
+Mit einer Flammenanrufung gesegnet. Eine weitere Flammendurchflutung verstärkt den Effekt und erhöht die Macht der Waffe deutlich.</text>
+<text id="4520400">Großschwert der Feuerritter.
+Eine lange, schlanke Klinge, die wogt wie Feuer.
+
+Mit einer Flammenanrufung gesegnet. Eine weitere Flammendurchflutung verstärkt den Effekt und erhöht die Macht der Waffe deutlich.</text>
+<text id="4520500">Großschwert der Feuerritter.
+Eine lange, schlanke Klinge, die wogt wie Feuer.
+
+Mit einer Flammenanrufung gesegnet. Eine weitere Flammendurchflutung verstärkt den Effekt und erhöht die Macht der Waffe deutlich.</text>
+<text id="4520600">Großschwert der Feuerritter.
+Eine lange, schlanke Klinge, die wogt wie Feuer.
+
+Mit einer Flammenanrufung gesegnet. Eine weitere Flammendurchflutung verstärkt den Effekt und erhöht die Macht der Waffe deutlich.</text>
+<text id="4520700">Großschwert der Feuerritter.
+Eine lange, schlanke Klinge, die wogt wie Feuer.
+
+Mit einer Flammenanrufung gesegnet. Eine weitere Flammendurchflutung verstärkt den Effekt und erhöht die Macht der Waffe deutlich.</text>
+<text id="4520800">Großschwert der Feuerritter.
+Eine lange, schlanke Klinge, die wogt wie Feuer.
+
+Mit einer Flammenanrufung gesegnet. Eine weitere Flammendurchflutung verstärkt den Effekt und erhöht die Macht der Waffe deutlich.</text>
+<text id="4520900">Großschwert der Feuerritter.
+Eine lange, schlanke Klinge, die wogt wie Feuer.
+
+Mit einer Flammenanrufung gesegnet. Eine weitere Flammendurchflutung verstärkt den Effekt und erhöht die Macht der Waffe deutlich.</text>
+<text id="4521000">Großschwert der Feuerritter.
+Eine lange, schlanke Klinge, die wogt wie Feuer.
+
+Mit einer Flammenanrufung gesegnet. Eine weitere Flammendurchflutung verstärkt den Effekt und erhöht die Macht der Waffe deutlich.</text>
+<text id="4521100">Großschwert der Feuerritter.
+Eine lange, schlanke Klinge, die wogt wie Feuer.
+
+Mit einer Flammenanrufung gesegnet. Eine weitere Flammendurchflutung verstärkt den Effekt und erhöht die Macht der Waffe deutlich.</text>
+<text id="4521200">Großschwert der Feuerritter.
+Eine lange, schlanke Klinge, die wogt wie Feuer.
+
+Mit einer Flammenanrufung gesegnet. Eine weitere Flammendurchflutung verstärkt den Effekt und erhöht die Macht der Waffe deutlich.</text>
+<text id="4530000">Großschwerter aus schwarzem Stahl, die Radahn in seiner Jugend führte.
+Ein mit dem Motiv einer Löwenmähne versehenes Waffenpaar.
+
+Diese führte er direkt vor seinem Sieg über die Sterne – die Schwerter eines Herrn, der sich nicht nur körperliche Stärke und Schwerkraft verlässt.</text>
+<text id="4540000">Ein mit blauem Schimmerstein versehenes Großschwert.
+Die Waffe der eisernen carianischen Ritterin namens Moonrithyll.
+
+Moonrithyll war die Kämmerin der Zwillings-Mondritterin. Sie war zudem Freundin der Trolle, die der königlichen Familie dienten, und führte deren Waffen stolz, als sie Arm in Arm mit ihren riesigen Kameraden kämpfte.</text>
+<text id="4550000">Großschwerter aus schwarzem Stahl, die Radahn in seiner Jugend führte.
+Ein mit dem Motiv einer Löwenmähne versehenes Waffenpaar.
+
+Diese führte er direkt vor seinem Sieg über die Sterne – die Schwerter eines Herrn, der sich nicht nur körperliche Stärke und Schwerkraft verlässt.</text>
+<text id="6500000">Großschwert des Feuerritters Queelign.
+Ein schweres und durchdringendes Schwert mit einer Klinge, die wogt wie Feuer.
+
+Queelign verschrieb sich voll und ganz dem Kreuzzug und formte sein Großschwert nach der Lanze, die sein Lehnsherr führte – alles, um zu einem zweiten Pfähler zu werden.</text>
+<text id="6500100">Großschwert des Feuerritters Queelign.
+Ein schweres und durchdringendes Schwert mit einer Klinge, die wogt wie Feuer.
+
+Queelign verschrieb sich voll und ganz dem Kreuzzug und formte sein Großschwert nach der Lanze, die sein Lehnsherr führte – alles, um zu einem zweiten Pfähler zu werden.</text>
+<text id="6500200">Großschwert des Feuerritters Queelign.
+Ein schweres und durchdringendes Schwert mit einer Klinge, die wogt wie Feuer.
+
+Queelign verschrieb sich voll und ganz dem Kreuzzug und formte sein Großschwert nach der Lanze, die sein Lehnsherr führte – alles, um zu einem zweiten Pfähler zu werden.</text>
+<text id="6500300">Großschwert des Feuerritters Queelign.
+Ein schweres und durchdringendes Schwert mit einer Klinge, die wogt wie Feuer.
+
+Queelign verschrieb sich voll und ganz dem Kreuzzug und formte sein Großschwert nach der Lanze, die sein Lehnsherr führte – alles, um zu einem zweiten Pfähler zu werden.</text>
+<text id="6500400">Großschwert des Feuerritters Queelign.
+Ein schweres und durchdringendes Schwert mit einer Klinge, die wogt wie Feuer.
+
+Queelign verschrieb sich voll und ganz dem Kreuzzug und formte sein Großschwert nach der Lanze, die sein Lehnsherr führte – alles, um zu einem zweiten Pfähler zu werden.</text>
+<text id="6500500">Großschwert des Feuerritters Queelign.
+Ein schweres und durchdringendes Schwert mit einer Klinge, die wogt wie Feuer.
+
+Queelign verschrieb sich voll und ganz dem Kreuzzug und formte sein Großschwert nach der Lanze, die sein Lehnsherr führte – alles, um zu einem zweiten Pfähler zu werden.</text>
+<text id="6500600">Großschwert des Feuerritters Queelign.
+Ein schweres und durchdringendes Schwert mit einer Klinge, die wogt wie Feuer.
+
+Queelign verschrieb sich voll und ganz dem Kreuzzug und formte sein Großschwert nach der Lanze, die sein Lehnsherr führte – alles, um zu einem zweiten Pfähler zu werden.</text>
+<text id="6500700">Großschwert des Feuerritters Queelign.
+Ein schweres und durchdringendes Schwert mit einer Klinge, die wogt wie Feuer.
+
+Queelign verschrieb sich voll und ganz dem Kreuzzug und formte sein Großschwert nach der Lanze, die sein Lehnsherr führte – alles, um zu einem zweiten Pfähler zu werden.</text>
+<text id="6500800">Großschwert des Feuerritters Queelign.
+Ein schweres und durchdringendes Schwert mit einer Klinge, die wogt wie Feuer.
+
+Queelign verschrieb sich voll und ganz dem Kreuzzug und formte sein Großschwert nach der Lanze, die sein Lehnsherr führte – alles, um zu einem zweiten Pfähler zu werden.</text>
+<text id="6500900">Großschwert des Feuerritters Queelign.
+Ein schweres und durchdringendes Schwert mit einer Klinge, die wogt wie Feuer.
+
+Queelign verschrieb sich voll und ganz dem Kreuzzug und formte sein Großschwert nach der Lanze, die sein Lehnsherr führte – alles, um zu einem zweiten Pfähler zu werden.</text>
+<text id="6501000">Großschwert des Feuerritters Queelign.
+Ein schweres und durchdringendes Schwert mit einer Klinge, die wogt wie Feuer.
+
+Queelign verschrieb sich voll und ganz dem Kreuzzug und formte sein Großschwert nach der Lanze, die sein Lehnsherr führte – alles, um zu einem zweiten Pfähler zu werden.</text>
+<text id="6501100">Großschwert des Feuerritters Queelign.
+Ein schweres und durchdringendes Schwert mit einer Klinge, die wogt wie Feuer.
+
+Queelign verschrieb sich voll und ganz dem Kreuzzug und formte sein Großschwert nach der Lanze, die sein Lehnsherr führte – alles, um zu einem zweiten Pfähler zu werden.</text>
+<text id="6501200">Großschwert des Feuerritters Queelign.
+Ein schweres und durchdringendes Schwert mit einer Klinge, die wogt wie Feuer.
+
+Queelign verschrieb sich voll und ganz dem Kreuzzug und formte sein Großschwert nach der Lanze, die sein Lehnsherr führte – alles, um zu einem zweiten Pfähler zu werden.</text>
+<text id="7500000">Scharfe, in eine verdrehte Form gearbeitete Klinge.
+Ein Schwert, das viele Jahre der Nutzung auf einer Grabesstätte erlebt hat.
+
+Es soll als Medium für den Austausch mit Geistern dienen.</text>
+<text id="7510000">Krummschwerter mit langen, sensenartigen Klingen.
+Ein Waffenpaar, das in beiden Händen geführt wird.
+
+Im Namen der Rache von einem Hornherold geschmiedet.
+"In Rache für die Flammen führe ich meine Klinge ..."</text>
+<text id="7520000">Dekorative Schwerter, die inbrünstig rot glühen.
+Ein Waffenpaar, das in beiden Händen geführt wird.
+
+Von den Tänzern Ranahs genutzt.
+Trifft Gegner beim Ausführen eines starken Angriffs mit einem tanzenden Überfall.</text>
+<text id="7530000">Krummschwert der Hornkrieger, Wächter des Turmes.
+
+Die verschlungenen Hörner, die die Klinge zieren, erlauben ihr, als Medium für den Hornruf zu dienen.</text>
+<text id="8500000">Waffe, die vom Fäulnisritter geführt wird.
+Ein großes Beil aus gehärteter Fäulnis, die an einem aus menschlichen Knochen gefertigten Bogen befestigt ist.
+
+Erhält seine Macht aus der Arkanenergie des Besitzers.</text>
+<text id="8510000">Waffe Freyjas, einer Rotmähne.
+Mit einer Mähne verziertes Großschwert, das den Waffen ihres Lehnsherren ähnelt.
+
+Der Geist von Freyjas Training verweilt in diesem Schwert und verstärkt die Macht der Rotmähnen-Kampfkünste.</text>
+<text id="8510100">Waffe Freyjas, einer Rotmähne.
+Mit einer Mähne verziertes Großschwert, das den Waffen ihres Lehnsherren ähnelt.
+
+Der Geist von Freyjas Training verweilt in diesem Schwert und verstärkt die Macht der Rotmähnen-Kampfkünste.</text>
+<text id="8510200">Waffe Freyjas, einer Rotmähne.
+Mit einer Mähne verziertes Großschwert, das den Waffen ihres Lehnsherren ähnelt.
+
+Der Geist von Freyjas Training verweilt in diesem Schwert und verstärkt die Macht der Rotmähnen-Kampfkünste.</text>
+<text id="8510300">Waffe Freyjas, einer Rotmähne.
+Mit einer Mähne verziertes Großschwert, das den Waffen ihres Lehnsherren ähnelt.
+
+Der Geist von Freyjas Training verweilt in diesem Schwert und verstärkt die Macht der Rotmähnen-Kampfkünste.</text>
+<text id="8510400">Waffe Freyjas, einer Rotmähne.
+Mit einer Mähne verziertes Großschwert, das den Waffen ihres Lehnsherren ähnelt.
+
+Der Geist von Freyjas Training verweilt in diesem Schwert und verstärkt die Macht der Rotmähnen-Kampfkünste.</text>
+<text id="8510500">Waffe Freyjas, einer Rotmähne.
+Mit einer Mähne verziertes Großschwert, das den Waffen ihres Lehnsherren ähnelt.
+
+Der Geist von Freyjas Training verweilt in diesem Schwert und verstärkt die Macht der Rotmähnen-Kampfkünste.</text>
+<text id="8510600">Waffe Freyjas, einer Rotmähne.
+Mit einer Mähne verziertes Großschwert, das den Waffen ihres Lehnsherren ähnelt.
+
+Der Geist von Freyjas Training verweilt in diesem Schwert und verstärkt die Macht der Rotmähnen-Kampfkünste.</text>
+<text id="8510700">Waffe Freyjas, einer Rotmähne.
+Mit einer Mähne verziertes Großschwert, das den Waffen ihres Lehnsherren ähnelt.
+
+Der Geist von Freyjas Training verweilt in diesem Schwert und verstärkt die Macht der Rotmähnen-Kampfkünste.</text>
+<text id="8510800">Waffe Freyjas, einer Rotmähne.
+Mit einer Mähne verziertes Großschwert, das den Waffen ihres Lehnsherren ähnelt.
+
+Der Geist von Freyjas Training verweilt in diesem Schwert und verstärkt die Macht der Rotmähnen-Kampfkünste.</text>
+<text id="8510900">Waffe Freyjas, einer Rotmähne.
+Mit einer Mähne verziertes Großschwert, das den Waffen ihres Lehnsherren ähnelt.
+
+Der Geist von Freyjas Training verweilt in diesem Schwert und verstärkt die Macht der Rotmähnen-Kampfkünste.</text>
+<text id="8511000">Waffe Freyjas, einer Rotmähne.
+Mit einer Mähne verziertes Großschwert, das den Waffen ihres Lehnsherren ähnelt.
+
+Der Geist von Freyjas Training verweilt in diesem Schwert und verstärkt die Macht der Rotmähnen-Kampfkünste.</text>
+<text id="8511100">Waffe Freyjas, einer Rotmähne.
+Mit einer Mähne verziertes Großschwert, das den Waffen ihres Lehnsherren ähnelt.
+
+Der Geist von Freyjas Training verweilt in diesem Schwert und verstärkt die Macht der Rotmähnen-Kampfkünste.</text>
+<text id="8511200">Waffe Freyjas, einer Rotmähne.
+Mit einer Mähne verziertes Großschwert, das den Waffen ihres Lehnsherren ähnelt.
+
+Der Geist von Freyjas Training verweilt in diesem Schwert und verstärkt die Macht der Rotmähnen-Kampfkünste.</text>
+<text id="8520000">Krummes Großschwert der Hornkrieger, Wächter des Turmes.
+Eine schwere Waffe, die die rohe Kraft der Krieger zum Vorschein bringen soll.
+
+Die verschlungenen Hörner, die die Klinge zieren, erlauben ihr, als Medium für den Hornruf zu dienen.</text>
+<text id="9500000">Schwert der alles verschlingenden Dunkelheit, die selbst das Licht auffrisst, das auf es fällt.
+Von Jolán, Schwerthand der Nacht geführt.
+
+Die Klinge ist semikörperlich, weshalb man sich nicht vollständig gegen sie verteidigen kann.</text>
+<text id="10500000">Doppelklinge als Symbol des Überflusses.
+Der geheime Schatz des Turms.
+
+Klingen aus goldenen Sprossen, sind verbraucht und dunkel, aber sie können wiederhergestellt werden, indem sie Feinden Schaden zufügen. Kein Effekt gegen die, die im Tode leben.</text>
+<text id="10510000">Waffe der Schwarzen Rittern, die Messmer dem Pfähler dienen. Doppelklinge aus schwarzem Stahl mit dekorativen Goldverzierungen.
+
+Mit einer Erdenbaum-Anrufung gesegnet. Weitere heilige Durchflutung verstärkt den Effekt und erhöht die Macht der Waffe deutlich.</text>
+<text id="10510100">Waffe der Schwarzen Rittern, die Messmer dem Pfähler dienen. Doppelklinge aus schwarzem Stahl mit dekorativen Goldverzierungen.
+
+Mit einer Erdenbaum-Anrufung gesegnet. Weitere heilige Durchflutung verstärkt den Effekt und erhöht die Macht der Waffe deutlich.</text>
+<text id="10510200">Waffe der Schwarzen Rittern, die Messmer dem Pfähler dienen. Doppelklinge aus schwarzem Stahl mit dekorativen Goldverzierungen.
+
+Mit einer Erdenbaum-Anrufung gesegnet. Weitere heilige Durchflutung verstärkt den Effekt und erhöht die Macht der Waffe deutlich.</text>
+<text id="10510300">Waffe der Schwarzen Rittern, die Messmer dem Pfähler dienen. Doppelklinge aus schwarzem Stahl mit dekorativen Goldverzierungen.
+
+Mit einer Erdenbaum-Anrufung gesegnet. Weitere heilige Durchflutung verstärkt den Effekt und erhöht die Macht der Waffe deutlich.</text>
+<text id="10510400">Waffe der Schwarzen Rittern, die Messmer dem Pfähler dienen. Doppelklinge aus schwarzem Stahl mit dekorativen Goldverzierungen.
+
+Mit einer Erdenbaum-Anrufung gesegnet. Weitere heilige Durchflutung verstärkt den Effekt und erhöht die Macht der Waffe deutlich.</text>
+<text id="10510500">Waffe der Schwarzen Rittern, die Messmer dem Pfähler dienen. Doppelklinge aus schwarzem Stahl mit dekorativen Goldverzierungen.
+
+Mit einer Erdenbaum-Anrufung gesegnet. Weitere heilige Durchflutung verstärkt den Effekt und erhöht die Macht der Waffe deutlich.</text>
+<text id="10510600">Waffe der Schwarzen Rittern, die Messmer dem Pfähler dienen. Doppelklinge aus schwarzem Stahl mit dekorativen Goldverzierungen.
+
+Mit einer Erdenbaum-Anrufung gesegnet. Weitere heilige Durchflutung verstärkt den Effekt und erhöht die Macht der Waffe deutlich.</text>
+<text id="10510700">Waffe der Schwarzen Rittern, die Messmer dem Pfähler dienen. Doppelklinge aus schwarzem Stahl mit dekorativen Goldverzierungen.
+
+Mit einer Erdenbaum-Anrufung gesegnet. Weitere heilige Durchflutung verstärkt den Effekt und erhöht die Macht der Waffe deutlich.</text>
+<text id="10510800">Waffe der Schwarzen Rittern, die Messmer dem Pfähler dienen. Doppelklinge aus schwarzem Stahl mit dekorativen Goldverzierungen.
+
+Mit einer Erdenbaum-Anrufung gesegnet. Weitere heilige Durchflutung verstärkt den Effekt und erhöht die Macht der Waffe deutlich.</text>
+<text id="10510900">Waffe der Schwarzen Rittern, die Messmer dem Pfähler dienen. Doppelklinge aus schwarzem Stahl mit dekorativen Goldverzierungen.
+
+Mit einer Erdenbaum-Anrufung gesegnet. Weitere heilige Durchflutung verstärkt den Effekt und erhöht die Macht der Waffe deutlich.</text>
+<text id="10511000">Waffe der Schwarzen Rittern, die Messmer dem Pfähler dienen. Doppelklinge aus schwarzem Stahl mit dekorativen Goldverzierungen.
+
+Mit einer Erdenbaum-Anrufung gesegnet. Weitere heilige Durchflutung verstärkt den Effekt und erhöht die Macht der Waffe deutlich.</text>
+<text id="10511100">Waffe der Schwarzen Rittern, die Messmer dem Pfähler dienen. Doppelklinge aus schwarzem Stahl mit dekorativen Goldverzierungen.
+
+Mit einer Erdenbaum-Anrufung gesegnet. Weitere heilige Durchflutung verstärkt den Effekt und erhöht die Macht der Waffe deutlich.</text>
+<text id="10511200">Waffe der Schwarzen Rittern, die Messmer dem Pfähler dienen. Doppelklinge aus schwarzem Stahl mit dekorativen Goldverzierungen.
+
+Mit einer Erdenbaum-Anrufung gesegnet. Weitere heilige Durchflutung verstärkt den Effekt und erhöht die Macht der Waffe deutlich.</text>
+<text id="11500000">Waffe der Priesterin der Drachenkommunion.
+Ein Drachensteinhammer, der eine uralte Blume darstellt.
+
+Die vier Blüten und der Kern der Blume sind scharf, haben spitze Enden und können schweren Schaden gegen Drachen verursachen.</text>
+<text id="12500000">Mit Schmiedeschrift gravierter Großhammer.
+Eine kunstvoll geschmiedete Wurfwaffe.
+
+Führt einen starken Angriff oder einen starken Sprintangriff aus, um den Großhammer zu drehen und zu werfen.</text>
+<text id="12500100">Mit Schmiedeschrift gravierter Großhammer.
+Eine kunstvoll geschmiedete Wurfwaffe.
+
+Führt einen starken Angriff oder einen starken Sprintangriff aus, um den Großhammer zu drehen und zu werfen.</text>
+<text id="12500200">Mit Schmiedeschrift gravierter Großhammer.
+Eine kunstvoll geschmiedete Wurfwaffe.
+
+Führt einen starken Angriff oder einen starken Sprintangriff aus, um den Großhammer zu drehen und zu werfen.</text>
+<text id="12500300">Mit Schmiedeschrift gravierter Großhammer.
+Eine kunstvoll geschmiedete Wurfwaffe.
+
+Führt einen starken Angriff oder einen starken Sprintangriff aus, um den Großhammer zu drehen und zu werfen.</text>
+<text id="12500400">Mit Schmiedeschrift gravierter Großhammer.
+Eine kunstvoll geschmiedete Wurfwaffe.
+
+Führt einen starken Angriff oder einen starken Sprintangriff aus, um den Großhammer zu drehen und zu werfen.</text>
+<text id="12500500">Mit Schmiedeschrift gravierter Großhammer.
+Eine kunstvoll geschmiedete Wurfwaffe.
+
+Führt einen starken Angriff oder einen starken Sprintangriff aus, um den Großhammer zu drehen und zu werfen.</text>
+<text id="12500600">Mit Schmiedeschrift gravierter Großhammer.
+Eine kunstvoll geschmiedete Wurfwaffe.
+
+Führt einen starken Angriff oder einen starken Sprintangriff aus, um den Großhammer zu drehen und zu werfen.</text>
+<text id="12500700">Mit Schmiedeschrift gravierter Großhammer.
+Eine kunstvoll geschmiedete Wurfwaffe.
+
+Führt einen starken Angriff oder einen starken Sprintangriff aus, um den Großhammer zu drehen und zu werfen.</text>
+<text id="12500800">Mit Schmiedeschrift gravierter Großhammer.
+Eine kunstvoll geschmiedete Wurfwaffe.
+
+Führt einen starken Angriff oder einen starken Sprintangriff aus, um den Großhammer zu drehen und zu werfen.</text>
+<text id="12500900">Mit Schmiedeschrift gravierter Großhammer.
+Eine kunstvoll geschmiedete Wurfwaffe.
+
+Führt einen starken Angriff oder einen starken Sprintangriff aus, um den Großhammer zu drehen und zu werfen.</text>
+<text id="12501000">Mit Schmiedeschrift gravierter Großhammer.
+Eine kunstvoll geschmiedete Wurfwaffe.
+
+Führt einen starken Angriff oder einen starken Sprintangriff aus, um den Großhammer zu drehen und zu werfen.</text>
+<text id="12501100">Mit Schmiedeschrift gravierter Großhammer.
+Eine kunstvoll geschmiedete Wurfwaffe.
+
+Führt einen starken Angriff oder einen starken Sprintangriff aus, um den Großhammer zu drehen und zu werfen.</text>
+<text id="12501200">Mit Schmiedeschrift gravierter Großhammer.
+Eine kunstvoll geschmiedete Wurfwaffe.
+
+Führt einen starken Angriff oder einen starken Sprintangriff aus, um den Großhammer zu drehen und zu werfen.</text>
+<text id="12510000">Einer der Schätze aus den ruinierten Schmieden.
+Ein imposanter Hammer, dessen Kopf den glühend heißen Amboss der Schmiede darstellt.
+
+Man sagt, die Form des Ambosses sei von der eines Altars inspiriert, und dass er vor langer Zeit tatsächlich in Riten und Ritualen als solcher verwendet wurde.</text>
+<text id="12520000">Waffe der Schwarzen Rittern, die Messmer dem Pfähler dienen. Großhammer aus schwarzem Stahl mit dekorativen Goldverzierungen.
+
+Mit einer Erdenbaum-Anrufung gesegnet. Weitere heilige Durchflutung verstärkt den Effekt und erhöht die Macht der Waffe deutlich. Abwehrkonter erhöhen die Kraft.</text>
+<text id="12520100">Waffe der Schwarzen Rittern, die Messmer dem Pfähler dienen. Großhammer aus schwarzem Stahl mit dekorativen Goldverzierungen.
+
+Mit einer Erdenbaum-Anrufung gesegnet. Weitere heilige Durchflutung verstärkt den Effekt und erhöht die Macht der Waffe deutlich. Abwehrkonter erhöhen die Kraft.</text>
+<text id="12520200">Waffe der Schwarzen Rittern, die Messmer dem Pfähler dienen. Großhammer aus schwarzem Stahl mit dekorativen Goldverzierungen.
+
+Mit einer Erdenbaum-Anrufung gesegnet. Weitere heilige Durchflutung verstärkt den Effekt und erhöht die Macht der Waffe deutlich. Abwehrkonter erhöhen die Kraft.</text>
+<text id="12520300">Waffe der Schwarzen Rittern, die Messmer dem Pfähler dienen. Großhammer aus schwarzem Stahl mit dekorativen Goldverzierungen.
+
+Mit einer Erdenbaum-Anrufung gesegnet. Weitere heilige Durchflutung verstärkt den Effekt und erhöht die Macht der Waffe deutlich. Abwehrkonter erhöhen die Kraft.</text>
+<text id="12520400">Waffe der Schwarzen Rittern, die Messmer dem Pfähler dienen. Großhammer aus schwarzem Stahl mit dekorativen Goldverzierungen.
+
+Mit einer Erdenbaum-Anrufung gesegnet. Weitere heilige Durchflutung verstärkt den Effekt und erhöht die Macht der Waffe deutlich. Abwehrkonter erhöhen die Kraft.</text>
+<text id="12520500">Waffe der Schwarzen Rittern, die Messmer dem Pfähler dienen. Großhammer aus schwarzem Stahl mit dekorativen Goldverzierungen.
+
+Mit einer Erdenbaum-Anrufung gesegnet. Weitere heilige Durchflutung verstärkt den Effekt und erhöht die Macht der Waffe deutlich. Abwehrkonter erhöhen die Kraft.</text>
+<text id="12520600">Waffe der Schwarzen Rittern, die Messmer dem Pfähler dienen. Großhammer aus schwarzem Stahl mit dekorativen Goldverzierungen.
+
+Mit einer Erdenbaum-Anrufung gesegnet. Weitere heilige Durchflutung verstärkt den Effekt und erhöht die Macht der Waffe deutlich. Abwehrkonter erhöhen die Kraft.</text>
+<text id="12520700">Waffe der Schwarzen Rittern, die Messmer dem Pfähler dienen. Großhammer aus schwarzem Stahl mit dekorativen Goldverzierungen.
+
+Mit einer Erdenbaum-Anrufung gesegnet. Weitere heilige Durchflutung verstärkt den Effekt und erhöht die Macht der Waffe deutlich. Abwehrkonter erhöhen die Kraft.</text>
+<text id="12520800">Waffe der Schwarzen Rittern, die Messmer dem Pfähler dienen. Großhammer aus schwarzem Stahl mit dekorativen Goldverzierungen.
+
+Mit einer Erdenbaum-Anrufung gesegnet. Weitere heilige Durchflutung verstärkt den Effekt und erhöht die Macht der Waffe deutlich. Abwehrkonter erhöhen die Kraft.</text>
+<text id="12520900">Waffe der Schwarzen Rittern, die Messmer dem Pfähler dienen. Großhammer aus schwarzem Stahl mit dekorativen Goldverzierungen.
+
+Mit einer Erdenbaum-Anrufung gesegnet. Weitere heilige Durchflutung verstärkt den Effekt und erhöht die Macht der Waffe deutlich. Abwehrkonter erhöhen die Kraft.</text>
+<text id="12521000">Waffe der Schwarzen Rittern, die Messmer dem Pfähler dienen. Großhammer aus schwarzem Stahl mit dekorativen Goldverzierungen.
+
+Mit einer Erdenbaum-Anrufung gesegnet. Weitere heilige Durchflutung verstärkt den Effekt und erhöht die Macht der Waffe deutlich. Abwehrkonter erhöhen die Kraft.</text>
+<text id="12521100">Waffe der Schwarzen Rittern, die Messmer dem Pfähler dienen. Großhammer aus schwarzem Stahl mit dekorativen Goldverzierungen.
+
+Mit einer Erdenbaum-Anrufung gesegnet. Weitere heilige Durchflutung verstärkt den Effekt und erhöht die Macht der Waffe deutlich. Abwehrkonter erhöhen die Kraft.</text>
+<text id="12521200">Waffe der Schwarzen Rittern, die Messmer dem Pfähler dienen. Großhammer aus schwarzem Stahl mit dekorativen Goldverzierungen.
+
+Mit einer Erdenbaum-Anrufung gesegnet. Weitere heilige Durchflutung verstärkt den Effekt und erhöht die Macht der Waffe deutlich. Abwehrkonter erhöhen die Kraft.</text>
+<text id="12530000">Von den Blutunholden genutzte Waffe.
+Ein Arm, den sie der Leiche eines ihrer Mitglieder abgerissen haben, der als improvisierte Waffe fungiert.
+
+Nachdem diese Waffe durch ein Blutritual gesegnet wurde, kann sie beim Ausführen starker Angriffe das Blut versprühen, das ihr innewohnt.</text>
+<text id="12530100">Von den Blutunholden genutzte Waffe.
+Ein Arm, den sie der Leiche eines ihrer Mitglieder abgerissen haben, der als improvisierte Waffe fungiert.
+
+Nachdem diese Waffe durch ein Blutritual gesegnet wurde, kann sie beim Ausführen starker Angriffe das Blut versprühen, das ihr innewohnt.</text>
+<text id="12530200">Von den Blutunholden genutzte Waffe.
+Ein Arm, den sie der Leiche eines ihrer Mitglieder abgerissen haben, der als improvisierte Waffe fungiert.
+
+Nachdem diese Waffe durch ein Blutritual gesegnet wurde, kann sie beim Ausführen starker Angriffe das Blut versprühen, das ihr innewohnt.</text>
+<text id="12530300">Von den Blutunholden genutzte Waffe.
+Ein Arm, den sie der Leiche eines ihrer Mitglieder abgerissen haben, der als improvisierte Waffe fungiert.
+
+Nachdem diese Waffe durch ein Blutritual gesegnet wurde, kann sie beim Ausführen starker Angriffe das Blut versprühen, das ihr innewohnt.</text>
+<text id="12530400">Von den Blutunholden genutzte Waffe.
+Ein Arm, den sie der Leiche eines ihrer Mitglieder abgerissen haben, der als improvisierte Waffe fungiert.
+
+Nachdem diese Waffe durch ein Blutritual gesegnet wurde, kann sie beim Ausführen starker Angriffe das Blut versprühen, das ihr innewohnt.</text>
+<text id="12530500">Von den Blutunholden genutzte Waffe.
+Ein Arm, den sie der Leiche eines ihrer Mitglieder abgerissen haben, der als improvisierte Waffe fungiert.
+
+Nachdem diese Waffe durch ein Blutritual gesegnet wurde, kann sie beim Ausführen starker Angriffe das Blut versprühen, das ihr innewohnt.</text>
+<text id="12530600">Von den Blutunholden genutzte Waffe.
+Ein Arm, den sie der Leiche eines ihrer Mitglieder abgerissen haben, der als improvisierte Waffe fungiert.
+
+Nachdem diese Waffe durch ein Blutritual gesegnet wurde, kann sie beim Ausführen starker Angriffe das Blut versprühen, das ihr innewohnt.</text>
+<text id="12530700">Von den Blutunholden genutzte Waffe.
+Ein Arm, den sie der Leiche eines ihrer Mitglieder abgerissen haben, der als improvisierte Waffe fungiert.
+
+Nachdem diese Waffe durch ein Blutritual gesegnet wurde, kann sie beim Ausführen starker Angriffe das Blut versprühen, das ihr innewohnt.</text>
+<text id="12530800">Von den Blutunholden genutzte Waffe.
+Ein Arm, den sie der Leiche eines ihrer Mitglieder abgerissen haben, der als improvisierte Waffe fungiert.
+
+Nachdem diese Waffe durch ein Blutritual gesegnet wurde, kann sie beim Ausführen starker Angriffe das Blut versprühen, das ihr innewohnt.</text>
+<text id="12530900">Von den Blutunholden genutzte Waffe.
+Ein Arm, den sie der Leiche eines ihrer Mitglieder abgerissen haben, der als improvisierte Waffe fungiert.
+
+Nachdem diese Waffe durch ein Blutritual gesegnet wurde, kann sie beim Ausführen starker Angriffe das Blut versprühen, das ihr innewohnt.</text>
+<text id="12531000">Von den Blutunholden genutzte Waffe.
+Ein Arm, den sie der Leiche eines ihrer Mitglieder abgerissen haben, der als improvisierte Waffe fungiert.
+
+Nachdem diese Waffe durch ein Blutritual gesegnet wurde, kann sie beim Ausführen starker Angriffe das Blut versprühen, das ihr innewohnt.</text>
+<text id="12531100">Von den Blutunholden genutzte Waffe.
+Ein Arm, den sie der Leiche eines ihrer Mitglieder abgerissen haben, der als improvisierte Waffe fungiert.
+
+Nachdem diese Waffe durch ein Blutritual gesegnet wurde, kann sie beim Ausführen starker Angriffe das Blut versprühen, das ihr innewohnt.</text>
+<text id="12531200">Von den Blutunholden genutzte Waffe.
+Ein Arm, den sie der Leiche eines ihrer Mitglieder abgerissen haben, der als improvisierte Waffe fungiert.
+
+Nachdem diese Waffe durch ein Blutritual gesegnet wurde, kann sie beim Ausführen starker Angriffe das Blut versprühen, das ihr innewohnt.</text>
+<text id="13500000">Ein Flegel mit aufgerollten Schlangen als Schlagköpfe.
+In den Schlangenkörpern lodert Feuer, das furchtbare Verbrennungen verursacht.
+
+Messmers Armee verbrannte die Hornherolde mit diesen Flegeln – um sie mit Qual und Furcht zu zeichnen.</text>
+<text id="14500000">Mit Schmiedeschrift gravierte Axt.
+Eine kunstvoll geschmiedete Wurfwaffe.
+
+Führt einen starken Angriff oder einen starken Sprungangriff aus, um die Axt zu werfen.</text>
+<text id="14500100">Mit Schmiedeschrift gravierte Axt.
+Eine kunstvoll geschmiedete Wurfwaffe.
+
+Führt einen starken Angriff oder einen starken Sprungangriff aus, um die Axt zu werfen.</text>
+<text id="14500200">Mit Schmiedeschrift gravierte Axt.
+Eine kunstvoll geschmiedete Wurfwaffe.
+
+Führt einen starken Angriff oder einen starken Sprungangriff aus, um die Axt zu werfen.</text>
+<text id="14500300">Mit Schmiedeschrift gravierte Axt.
+Eine kunstvoll geschmiedete Wurfwaffe.
+
+Führt einen starken Angriff oder einen starken Sprungangriff aus, um die Axt zu werfen.</text>
+<text id="14500400">Mit Schmiedeschrift gravierte Axt.
+Eine kunstvoll geschmiedete Wurfwaffe.
+
+Führt einen starken Angriff oder einen starken Sprungangriff aus, um die Axt zu werfen.</text>
+<text id="14500500">Mit Schmiedeschrift gravierte Axt.
+Eine kunstvoll geschmiedete Wurfwaffe.
+
+Führt einen starken Angriff oder einen starken Sprungangriff aus, um die Axt zu werfen.</text>
+<text id="14500600">Mit Schmiedeschrift gravierte Axt.
+Eine kunstvoll geschmiedete Wurfwaffe.
+
+Führt einen starken Angriff oder einen starken Sprungangriff aus, um die Axt zu werfen.</text>
+<text id="14500700">Mit Schmiedeschrift gravierte Axt.
+Eine kunstvoll geschmiedete Wurfwaffe.
+
+Führt einen starken Angriff oder einen starken Sprungangriff aus, um die Axt zu werfen.</text>
+<text id="14500800">Mit Schmiedeschrift gravierte Axt.
+Eine kunstvoll geschmiedete Wurfwaffe.
+
+Führt einen starken Angriff oder einen starken Sprungangriff aus, um die Axt zu werfen.</text>
+<text id="14500900">Mit Schmiedeschrift gravierte Axt.
+Eine kunstvoll geschmiedete Wurfwaffe.
+
+Führt einen starken Angriff oder einen starken Sprungangriff aus, um die Axt zu werfen.</text>
+<text id="14501000">Mit Schmiedeschrift gravierte Axt.
+Eine kunstvoll geschmiedete Wurfwaffe.
+
+Führt einen starken Angriff oder einen starken Sprungangriff aus, um die Axt zu werfen.</text>
+<text id="14501100">Mit Schmiedeschrift gravierte Axt.
+Eine kunstvoll geschmiedete Wurfwaffe.
+
+Führt einen starken Angriff oder einen starken Sprungangriff aus, um die Axt zu werfen.</text>
+<text id="14501200">Mit Schmiedeschrift gravierte Axt.
+Eine kunstvoll geschmiedete Wurfwaffe.
+
+Führt einen starken Angriff oder einen starken Sprungangriff aus, um die Axt zu werfen.</text>
+<text id="14510000">Goldene Kriegsäxte des Todesritters.
+Ein Waffenpaar, das mit beiden Händen geführt wird.
+Knistert vor Energie und der Macht des uralten Drachenkults der Hauptstadt.
+
+Der Ritter, einst Leibwache Godwyns, war außerdem Beschützer des Leichensurrogats des Prinzen des Todes.</text>
+<text id="14520000">Eine Waffe, die von den Soldaten genutzt wird, die Messmer dem Pfähler dienen.
+Eine doppelseitige Axt aus Stahl, die viel benutzt wurden.
+
+Ein Favorit derer, die sich vollständig im Krieg ihres Herrn verloren. Kann mächtige aufgeladene Angriffe ausführen.</text>
+<text id="14520100">Eine Waffe, die von den Soldaten genutzt wird, die Messmer dem Pfähler dienen.
+Eine doppelseitige Axt aus Stahl, die viel benutzt wurden.
+
+Ein Favorit derer, die sich vollständig im Krieg ihres Herrn verloren. Kann mächtige aufgeladene Angriffe ausführen.</text>
+<text id="14520200">Eine Waffe, die von den Soldaten genutzt wird, die Messmer dem Pfähler dienen.
+Eine doppelseitige Axt aus Stahl, die viel benutzt wurden.
+
+Ein Favorit derer, die sich vollständig im Krieg ihres Herrn verloren. Kann mächtige aufgeladene Angriffe ausführen.</text>
+<text id="14520300">Eine Waffe, die von den Soldaten genutzt wird, die Messmer dem Pfähler dienen.
+Eine doppelseitige Axt aus Stahl, die viel benutzt wurden.
+
+Ein Favorit derer, die sich vollständig im Krieg ihres Herrn verloren. Kann mächtige aufgeladene Angriffe ausführen.</text>
+<text id="14520400">Eine Waffe, die von den Soldaten genutzt wird, die Messmer dem Pfähler dienen.
+Eine doppelseitige Axt aus Stahl, die viel benutzt wurden.
+
+Ein Favorit derer, die sich vollständig im Krieg ihres Herrn verloren. Kann mächtige aufgeladene Angriffe ausführen.</text>
+<text id="14520500">Eine Waffe, die von den Soldaten genutzt wird, die Messmer dem Pfähler dienen.
+Eine doppelseitige Axt aus Stahl, die viel benutzt wurden.
+
+Ein Favorit derer, die sich vollständig im Krieg ihres Herrn verloren. Kann mächtige aufgeladene Angriffe ausführen.</text>
+<text id="14520600">Eine Waffe, die von den Soldaten genutzt wird, die Messmer dem Pfähler dienen.
+Eine doppelseitige Axt aus Stahl, die viel benutzt wurden.
+
+Ein Favorit derer, die sich vollständig im Krieg ihres Herrn verloren. Kann mächtige aufgeladene Angriffe ausführen.</text>
+<text id="14520700">Eine Waffe, die von den Soldaten genutzt wird, die Messmer dem Pfähler dienen.
+Eine doppelseitige Axt aus Stahl, die viel benutzt wurden.
+
+Ein Favorit derer, die sich vollständig im Krieg ihres Herrn verloren. Kann mächtige aufgeladene Angriffe ausführen.</text>
+<text id="14520800">Eine Waffe, die von den Soldaten genutzt wird, die Messmer dem Pfähler dienen.
+Eine doppelseitige Axt aus Stahl, die viel benutzt wurden.
+
+Ein Favorit derer, die sich vollständig im Krieg ihres Herrn verloren. Kann mächtige aufgeladene Angriffe ausführen.</text>
+<text id="14520900">Eine Waffe, die von den Soldaten genutzt wird, die Messmer dem Pfähler dienen.
+Eine doppelseitige Axt aus Stahl, die viel benutzt wurden.
+
+Ein Favorit derer, die sich vollständig im Krieg ihres Herrn verloren. Kann mächtige aufgeladene Angriffe ausführen.</text>
+<text id="14521000">Eine Waffe, die von den Soldaten genutzt wird, die Messmer dem Pfähler dienen.
+Eine doppelseitige Axt aus Stahl, die viel benutzt wurden.
+
+Ein Favorit derer, die sich vollständig im Krieg ihres Herrn verloren. Kann mächtige aufgeladene Angriffe ausführen.</text>
+<text id="14521100">Eine Waffe, die von den Soldaten genutzt wird, die Messmer dem Pfähler dienen.
+Eine doppelseitige Axt aus Stahl, die viel benutzt wurden.
+
+Ein Favorit derer, die sich vollständig im Krieg ihres Herrn verloren. Kann mächtige aufgeladene Angriffe ausführen.</text>
+<text id="14521200">Eine Waffe, die von den Soldaten genutzt wird, die Messmer dem Pfähler dienen.
+Eine doppelseitige Axt aus Stahl, die viel benutzt wurden.
+
+Ein Favorit derer, die sich vollständig im Krieg ihres Herrn verloren. Kann mächtige aufgeladene Angriffe ausführen.</text>
+<text id="14540000">Eine eigenartige Waffe der Wichte.
+Beil, das in der Form eines Drachen mit gespaltener Zunge geschmiedet wurde.
+
+Das geschwungene Gabelblatt ist auch als "Wichtzunge" bekannt und verursacht Blutungen.</text>
+<text id="15500000">Eine langstielige Axt, die vom Todesritter geführt wird.
+Trägt die Darstellung eines verrotteten Rings.
+Knistert vor Energie und der Macht des uralten Drachenkults der Hauptstadt.
+
+Der Ritter, einst Leibwache Godwyns, war außerdem Beschützer des Leichensurrogats des Prinzen des Todes.</text>
+<text id="15510000">Waffe der großen Herrscher des Bonny-Dorfes.
+Ein großes Metzgerbeil, mit dem aus menschlichen Körpern große Gefäße hergestellt werden.
+
+Stellt eine äußerst geringe Menge an LP wieder her, wenn sie einen Gegner trifft.</text>
+<text id="16500000">Mit Schmiedeschrift gravierter Speer.
+Eine kunstvoll geschmiedete Wurfwaffe.
+
+Führt einen starken Angriff, einen starken Sprintangriff oder einen starken Angriff zu Pferd aus, um den Speer zu werfen.</text>
+<text id="16500100">Mit Schmiedeschrift gravierter Speer.
+Eine kunstvoll geschmiedete Wurfwaffe.
+
+Führt einen starken Angriff, einen starken Sprintangriff oder einen starken Angriff zu Pferd aus, um den Speer zu werfen.</text>
+<text id="16500200">Mit Schmiedeschrift gravierter Speer.
+Eine kunstvoll geschmiedete Wurfwaffe.
+
+Führt einen starken Angriff, einen starken Sprintangriff oder einen starken Angriff zu Pferd aus, um den Speer zu werfen.</text>
+<text id="16500300">Mit Schmiedeschrift gravierter Speer.
+Eine kunstvoll geschmiedete Wurfwaffe.
+
+Führt einen starken Angriff, einen starken Sprintangriff oder einen starken Angriff zu Pferd aus, um den Speer zu werfen.</text>
+<text id="16500400">Mit Schmiedeschrift gravierter Speer.
+Eine kunstvoll geschmiedete Wurfwaffe.
+
+Führt einen starken Angriff, einen starken Sprintangriff oder einen starken Angriff zu Pferd aus, um den Speer zu werfen.</text>
+<text id="16500500">Mit Schmiedeschrift gravierter Speer.
+Eine kunstvoll geschmiedete Wurfwaffe.
+
+Führt einen starken Angriff, einen starken Sprintangriff oder einen starken Angriff zu Pferd aus, um den Speer zu werfen.</text>
+<text id="16500600">Mit Schmiedeschrift gravierter Speer.
+Eine kunstvoll geschmiedete Wurfwaffe.
+
+Führt einen starken Angriff, einen starken Sprintangriff oder einen starken Angriff zu Pferd aus, um den Speer zu werfen.</text>
+<text id="16500700">Mit Schmiedeschrift gravierter Speer.
+Eine kunstvoll geschmiedete Wurfwaffe.
+
+Führt einen starken Angriff, einen starken Sprintangriff oder einen starken Angriff zu Pferd aus, um den Speer zu werfen.</text>
+<text id="16500800">Mit Schmiedeschrift gravierter Speer.
+Eine kunstvoll geschmiedete Wurfwaffe.
+
+Führt einen starken Angriff, einen starken Sprintangriff oder einen starken Angriff zu Pferd aus, um den Speer zu werfen.</text>
+<text id="16500900">Mit Schmiedeschrift gravierter Speer.
+Eine kunstvoll geschmiedete Wurfwaffe.
+
+Führt einen starken Angriff, einen starken Sprintangriff oder einen starken Angriff zu Pferd aus, um den Speer zu werfen.</text>
+<text id="16501000">Mit Schmiedeschrift gravierter Speer.
+Eine kunstvoll geschmiedete Wurfwaffe.
+
+Führt einen starken Angriff, einen starken Sprintangriff oder einen starken Angriff zu Pferd aus, um den Speer zu werfen.</text>
+<text id="16501100">Mit Schmiedeschrift gravierter Speer.
+Eine kunstvoll geschmiedete Wurfwaffe.
+
+Führt einen starken Angriff, einen starken Sprintangriff oder einen starken Angriff zu Pferd aus, um den Speer zu werfen.</text>
+<text id="16501200">Mit Schmiedeschrift gravierter Speer.
+Eine kunstvoll geschmiedete Wurfwaffe.
+
+Führt einen starken Angriff, einen starken Sprintangriff oder einen starken Angriff zu Pferd aus, um den Speer zu werfen.</text>
+<text id="16520000">Ein extrem leichter Metallspeer, der von seiner fortgeschrittenen Gusstechnik profitiert.
+
+Kann schnell aufeinanderfolgende Angriffe ausführen.</text>
+<text id="16520100">Ein extrem leichter Metallspeer, der von seiner fortgeschrittenen Gusstechnik profitiert.
+
+Kann schnell aufeinanderfolgende Angriffe ausführen.</text>
+<text id="16520200">Ein extrem leichter Metallspeer, der von seiner fortgeschrittenen Gusstechnik profitiert.
+
+Kann schnell aufeinanderfolgende Angriffe ausführen.</text>
+<text id="16520300">Ein extrem leichter Metallspeer, der von seiner fortgeschrittenen Gusstechnik profitiert.
+
+Kann schnell aufeinanderfolgende Angriffe ausführen.</text>
+<text id="16520400">Ein extrem leichter Metallspeer, der von seiner fortgeschrittenen Gusstechnik profitiert.
+
+Kann schnell aufeinanderfolgende Angriffe ausführen.</text>
+<text id="16520500">Ein extrem leichter Metallspeer, der von seiner fortgeschrittenen Gusstechnik profitiert.
+
+Kann schnell aufeinanderfolgende Angriffe ausführen.</text>
+<text id="16520600">Ein extrem leichter Metallspeer, der von seiner fortgeschrittenen Gusstechnik profitiert.
+
+Kann schnell aufeinanderfolgende Angriffe ausführen.</text>
+<text id="16520700">Ein extrem leichter Metallspeer, der von seiner fortgeschrittenen Gusstechnik profitiert.
+
+Kann schnell aufeinanderfolgende Angriffe ausführen.</text>
+<text id="16520800">Ein extrem leichter Metallspeer, der von seiner fortgeschrittenen Gusstechnik profitiert.
+
+Kann schnell aufeinanderfolgende Angriffe ausführen.</text>
+<text id="16520900">Ein extrem leichter Metallspeer, der von seiner fortgeschrittenen Gusstechnik profitiert.
+
+Kann schnell aufeinanderfolgende Angriffe ausführen.</text>
+<text id="16521000">Ein extrem leichter Metallspeer, der von seiner fortgeschrittenen Gusstechnik profitiert.
+
+Kann schnell aufeinanderfolgende Angriffe ausführen.</text>
+<text id="16521100">Ein extrem leichter Metallspeer, der von seiner fortgeschrittenen Gusstechnik profitiert.
+
+Kann schnell aufeinanderfolgende Angriffe ausführen.</text>
+<text id="16521200">Ein extrem leichter Metallspeer, der von seiner fortgeschrittenen Gusstechnik profitiert.
+
+Kann schnell aufeinanderfolgende Angriffe ausführen.</text>
+<text id="16540000">Von den Blutunholden genutzte Waffe.
+Drei geschnitzte Knochenzinken fördern den Blutverlust des Opfers.
+
+Ein Ritualfetisch für Blutgaben an die Formlose Mutter.
+Hin und wieder vergießen die Blutunholde sogar ihr eigenes Blut mit diesen Forken.</text>
+<text id="16540100">Von den Blutunholden genutzte Waffe.
+Drei geschnitzte Knochenzinken fördern den Blutverlust des Opfers.
+
+Ein Ritualfetisch für Blutgaben an die Formlose Mutter.
+Hin und wieder vergießen die Blutunholde sogar ihr eigenes Blut mit diesen Forken.</text>
+<text id="16540200">Von den Blutunholden genutzte Waffe.
+Drei geschnitzte Knochenzinken fördern den Blutverlust des Opfers.
+
+Ein Ritualfetisch für Blutgaben an die Formlose Mutter.
+Hin und wieder vergießen die Blutunholde sogar ihr eigenes Blut mit diesen Forken.</text>
+<text id="16540300">Von den Blutunholden genutzte Waffe.
+Drei geschnitzte Knochenzinken fördern den Blutverlust des Opfers.
+
+Ein Ritualfetisch für Blutgaben an die Formlose Mutter.
+Hin und wieder vergießen die Blutunholde sogar ihr eigenes Blut mit diesen Forken.</text>
+<text id="16540400">Von den Blutunholden genutzte Waffe.
+Drei geschnitzte Knochenzinken fördern den Blutverlust des Opfers.
+
+Ein Ritualfetisch für Blutgaben an die Formlose Mutter.
+Hin und wieder vergießen die Blutunholde sogar ihr eigenes Blut mit diesen Forken.</text>
+<text id="16540500">Von den Blutunholden genutzte Waffe.
+Drei geschnitzte Knochenzinken fördern den Blutverlust des Opfers.
+
+Ein Ritualfetisch für Blutgaben an die Formlose Mutter.
+Hin und wieder vergießen die Blutunholde sogar ihr eigenes Blut mit diesen Forken.</text>
+<text id="16540600">Von den Blutunholden genutzte Waffe.
+Drei geschnitzte Knochenzinken fördern den Blutverlust des Opfers.
+
+Ein Ritualfetisch für Blutgaben an die Formlose Mutter.
+Hin und wieder vergießen die Blutunholde sogar ihr eigenes Blut mit diesen Forken.</text>
+<text id="16540700">Von den Blutunholden genutzte Waffe.
+Drei geschnitzte Knochenzinken fördern den Blutverlust des Opfers.
+
+Ein Ritualfetisch für Blutgaben an die Formlose Mutter.
+Hin und wieder vergießen die Blutunholde sogar ihr eigenes Blut mit diesen Forken.</text>
+<text id="16540800">Von den Blutunholden genutzte Waffe.
+Drei geschnitzte Knochenzinken fördern den Blutverlust des Opfers.
+
+Ein Ritualfetisch für Blutgaben an die Formlose Mutter.
+Hin und wieder vergießen die Blutunholde sogar ihr eigenes Blut mit diesen Forken.</text>
+<text id="16540900">Von den Blutunholden genutzte Waffe.
+Drei geschnitzte Knochenzinken fördern den Blutverlust des Opfers.
+
+Ein Ritualfetisch für Blutgaben an die Formlose Mutter.
+Hin und wieder vergießen die Blutunholde sogar ihr eigenes Blut mit diesen Forken.</text>
+<text id="16541000">Von den Blutunholden genutzte Waffe.
+Drei geschnitzte Knochenzinken fördern den Blutverlust des Opfers.
+
+Ein Ritualfetisch für Blutgaben an die Formlose Mutter.
+Hin und wieder vergießen die Blutunholde sogar ihr eigenes Blut mit diesen Forken.</text>
+<text id="16541100">Von den Blutunholden genutzte Waffe.
+Drei geschnitzte Knochenzinken fördern den Blutverlust des Opfers.
+
+Ein Ritualfetisch für Blutgaben an die Formlose Mutter.
+Hin und wieder vergießen die Blutunholde sogar ihr eigenes Blut mit diesen Forken.</text>
+<text id="16541200">Von den Blutunholden genutzte Waffe.
+Drei geschnitzte Knochenzinken fördern den Blutverlust des Opfers.
+
+Ein Ritualfetisch für Blutgaben an die Formlose Mutter.
+Hin und wieder vergießen die Blutunholde sogar ihr eigenes Blut mit diesen Forken.</text>
+<text id="16550000">Ein Großspeer, der von den Hexern der Blutunholde genutzt wird. Eines der wichtigsten Werkzeuge, die in ihren heiligsten Blutritualen verwendet werden.
+
+Heilige Blutspeere sind die Instrumente der Kommunion mit einer fremden Gottheit. Die Mutter der Wahrheit dürstet nach einer Wunde.</text>
+<text id="17500000">Waffe von Messmer dem Pfähler. Ein Großspeer mit gedrehter Klinge in Form einer wogenden Flamme.
+
+Diese Waffe wurde im Reich der Schatten erneut geschmiedet und kann mit einem starken Angriff, einem starken Sprintangriff oder einem starken Angriff zu Pferd geworfen werden. Ladet den Angriff auf, um beim Aufprall eine Flamme auszulösen.</text>
+<text id="17510000">Eine Waffe, die von den Soldaten genutzt wird, die Messmer dem Pfähler dienen.
+Ein Großspeer mit abgenutzter Stahlklinge.
+
+Diese Waffe wurde für überwältigende Schlachten gefertigt und ihre Angriffe können aufgeladen werden, um aufeinanderfolgende Treffer zu landen.</text>
+<text id="17510100">Eine Waffe, die von den Soldaten genutzt wird, die Messmer dem Pfähler dienen.
+Ein Großspeer mit abgenutzter Stahlklinge.
+
+Diese Waffe wurde für überwältigende Schlachten gefertigt und ihre Angriffe können aufgeladen werden, um aufeinanderfolgende Treffer zu landen.</text>
+<text id="17510200">Eine Waffe, die von den Soldaten genutzt wird, die Messmer dem Pfähler dienen.
+Ein Großspeer mit abgenutzter Stahlklinge.
+
+Diese Waffe wurde für überwältigende Schlachten gefertigt und ihre Angriffe können aufgeladen werden, um aufeinanderfolgende Treffer zu landen.</text>
+<text id="17510300">Eine Waffe, die von den Soldaten genutzt wird, die Messmer dem Pfähler dienen.
+Ein Großspeer mit abgenutzter Stahlklinge.
+
+Diese Waffe wurde für überwältigende Schlachten gefertigt und ihre Angriffe können aufgeladen werden, um aufeinanderfolgende Treffer zu landen.</text>
+<text id="17510400">Eine Waffe, die von den Soldaten genutzt wird, die Messmer dem Pfähler dienen.
+Ein Großspeer mit abgenutzter Stahlklinge.
+
+Diese Waffe wurde für überwältigende Schlachten gefertigt und ihre Angriffe können aufgeladen werden, um aufeinanderfolgende Treffer zu landen.</text>
+<text id="17510500">Eine Waffe, die von den Soldaten genutzt wird, die Messmer dem Pfähler dienen.
+Ein Großspeer mit abgenutzter Stahlklinge.
+
+Diese Waffe wurde für überwältigende Schlachten gefertigt und ihre Angriffe können aufgeladen werden, um aufeinanderfolgende Treffer zu landen.</text>
+<text id="17510600">Eine Waffe, die von den Soldaten genutzt wird, die Messmer dem Pfähler dienen.
+Ein Großspeer mit abgenutzter Stahlklinge.
+
+Diese Waffe wurde für überwältigende Schlachten gefertigt und ihre Angriffe können aufgeladen werden, um aufeinanderfolgende Treffer zu landen.</text>
+<text id="17510700">Eine Waffe, die von den Soldaten genutzt wird, die Messmer dem Pfähler dienen.
+Ein Großspeer mit abgenutzter Stahlklinge.
+
+Diese Waffe wurde für überwältigende Schlachten gefertigt und ihre Angriffe können aufgeladen werden, um aufeinanderfolgende Treffer zu landen.</text>
+<text id="17510800">Eine Waffe, die von den Soldaten genutzt wird, die Messmer dem Pfähler dienen.
+Ein Großspeer mit abgenutzter Stahlklinge.
+
+Diese Waffe wurde für überwältigende Schlachten gefertigt und ihre Angriffe können aufgeladen werden, um aufeinanderfolgende Treffer zu landen.</text>
+<text id="17510900">Eine Waffe, die von den Soldaten genutzt wird, die Messmer dem Pfähler dienen.
+Ein Großspeer mit abgenutzter Stahlklinge.
+
+Diese Waffe wurde für überwältigende Schlachten gefertigt und ihre Angriffe können aufgeladen werden, um aufeinanderfolgende Treffer zu landen.</text>
+<text id="17511000">Eine Waffe, die von den Soldaten genutzt wird, die Messmer dem Pfähler dienen.
+Ein Großspeer mit abgenutzter Stahlklinge.
+
+Diese Waffe wurde für überwältigende Schlachten gefertigt und ihre Angriffe können aufgeladen werden, um aufeinanderfolgende Treffer zu landen.</text>
+<text id="17511100">Eine Waffe, die von den Soldaten genutzt wird, die Messmer dem Pfähler dienen.
+Ein Großspeer mit abgenutzter Stahlklinge.
+
+Diese Waffe wurde für überwältigende Schlachten gefertigt und ihre Angriffe können aufgeladen werden, um aufeinanderfolgende Treffer zu landen.</text>
+<text id="17511200">Eine Waffe, die von den Soldaten genutzt wird, die Messmer dem Pfähler dienen.
+Ein Großspeer mit abgenutzter Stahlklinge.
+
+Diese Waffe wurde für überwältigende Schlachten gefertigt und ihre Angriffe können aufgeladen werden, um aufeinanderfolgende Treffer zu landen.</text>
+<text id="17520000">Großstab Joris, eines ältesten Inquisitors.
+Die Spitze ist mit goldenen Stacheln besetzt, die für die Qual des Inquisitors stehen, wodurch man den Stab als Großspeer führen kann.
+
+Angriffe verursachen Heiligschaden und die Kraft erhöht sich mit steigendem Glauben.</text>
+<text id="18500000">Scharfe, in eine verdrehte Form gearbeitete Klinge.
+Eine Gleve, die viele Jahre der Nutzung auf einer Grabesstätte erlebt hat.
+
+Sie soll als Medium für den Austausch mit Geistern dienen.</text>
+<text id="18510000">Waffe Rominas, der Heiligen der Knospe. Eine scharlachrote Gleve mit einer herunterhängenden, knospenähnlichen Klinge.
+Angriffe verursachen Fäule.
+
+Einst hielt Romina die Knospe inmitten der bröckelnden, brennenden Kirche in völliger Stille. Diese Knospe sollte zu ihrer Klinge werden.</text>
+<text id="19500000">Die bekannte Waffe des Reinblutritters Ansbach. Eine furchtbar solide und schlanke Sense, die zum Kampf gefertigt wurde.
+
+Die Obsidianklinge verlässt sich nicht auf Tricks, um ihren gewalttätigen Zweck zu erfüllen – nur durch Talent kann derjenige, der sie führt, sich durch seine Feinde jäten und das Schlachtfeld mit roten Blüten versehen.</text>
+<text id="20500000">Eine mit faulenden Zähnen besetzte Peitsche.
+Die unreinen Zähne strotzen vor Krankheiten, mit denen sie das Ziel bei jedem Schlag vergiften.
+
+Entzünden sich diese Wunden und beginnen zu eitern. Das Fleisch der Schamanen sollte sich harmonisch mit anderen vermischen.</text>
+<text id="21500000">Von Thiollier genutzte versteckte Waffe, die von Gift-Anwendern für düstere und hinterlistige Zwecke verwendet wird.
+
+Wie St. Trina, die im tiefvioletten Garten aufblühte, versprüht diese Waffe ein potentes Gift, das ihre Opfer in ewigen Schlaf entsendet.</text>
+<text id="21510000">Eine Waffe, die aus einer geradlinigen, doppelseitigen Klinge und einem soliden Schutz gefertigt wurde.
+Von den Eidesuchenden Rittern geführt.
+
+Diese vielseitige Waffe kann als Faustwaffe oder als Schwert geführt werden.</text>
+<text id="21510100">Eine Waffe, die aus einer geradlinigen, doppelseitigen Klinge und einem soliden Schutz gefertigt wurde.
+Von den Eidesuchenden Rittern geführt.
+
+Diese vielseitige Waffe kann als Faustwaffe oder als Schwert geführt werden.</text>
+<text id="21510200">Eine Waffe, die aus einer geradlinigen, doppelseitigen Klinge und einem soliden Schutz gefertigt wurde.
+Von den Eidesuchenden Rittern geführt.
+
+Diese vielseitige Waffe kann als Faustwaffe oder als Schwert geführt werden.</text>
+<text id="21510300">Eine Waffe, die aus einer geradlinigen, doppelseitigen Klinge und einem soliden Schutz gefertigt wurde.
+Von den Eidesuchenden Rittern geführt.
+
+Diese vielseitige Waffe kann als Faustwaffe oder als Schwert geführt werden.</text>
+<text id="21510400">Eine Waffe, die aus einer geradlinigen, doppelseitigen Klinge und einem soliden Schutz gefertigt wurde.
+Von den Eidesuchenden Rittern geführt.
+
+Diese vielseitige Waffe kann als Faustwaffe oder als Schwert geführt werden.</text>
+<text id="21510500">Eine Waffe, die aus einer geradlinigen, doppelseitigen Klinge und einem soliden Schutz gefertigt wurde.
+Von den Eidesuchenden Rittern geführt.
+
+Diese vielseitige Waffe kann als Faustwaffe oder als Schwert geführt werden.</text>
+<text id="21510600">Eine Waffe, die aus einer geradlinigen, doppelseitigen Klinge und einem soliden Schutz gefertigt wurde.
+Von den Eidesuchenden Rittern geführt.
+
+Diese vielseitige Waffe kann als Faustwaffe oder als Schwert geführt werden.</text>
+<text id="21510700">Eine Waffe, die aus einer geradlinigen, doppelseitigen Klinge und einem soliden Schutz gefertigt wurde.
+Von den Eidesuchenden Rittern geführt.
+
+Diese vielseitige Waffe kann als Faustwaffe oder als Schwert geführt werden.</text>
+<text id="21510800">Eine Waffe, die aus einer geradlinigen, doppelseitigen Klinge und einem soliden Schutz gefertigt wurde.
+Von den Eidesuchenden Rittern geführt.
+
+Diese vielseitige Waffe kann als Faustwaffe oder als Schwert geführt werden.</text>
+<text id="21510900">Eine Waffe, die aus einer geradlinigen, doppelseitigen Klinge und einem soliden Schutz gefertigt wurde.
+Von den Eidesuchenden Rittern geführt.
+
+Diese vielseitige Waffe kann als Faustwaffe oder als Schwert geführt werden.</text>
+<text id="21511000">Eine Waffe, die aus einer geradlinigen, doppelseitigen Klinge und einem soliden Schutz gefertigt wurde.
+Von den Eidesuchenden Rittern geführt.
+
+Diese vielseitige Waffe kann als Faustwaffe oder als Schwert geführt werden.</text>
+<text id="21511100">Eine Waffe, die aus einer geradlinigen, doppelseitigen Klinge und einem soliden Schutz gefertigt wurde.
+Von den Eidesuchenden Rittern geführt.
+
+Diese vielseitige Waffe kann als Faustwaffe oder als Schwert geführt werden.</text>
+<text id="21511200">Eine Waffe, die aus einer geradlinigen, doppelseitigen Klinge und einem soliden Schutz gefertigt wurde.
+Von den Eidesuchenden Rittern geführt.
+
+Diese vielseitige Waffe kann als Faustwaffe oder als Schwert geführt werden.</text>
+<text id="21520000">Ein Handschuh, der aus der abgezogenen Haut der Opfer eines reinen Blutbades genäht wurde. Fügt dem Ziel tödliches Gift zu. Erhöht die Angriffskraft, wenn in der Nähe eine Vergiftung auftritt.
+
+Dies sind die Waffen, die aus unnachgiebigen schwarzen Impulsen der Rache der völlig Niedergeschlagenen geschmiedet wurden.</text>
+<text id="21530000">Ein Handschuh, der aus der abgezogenen Haut der Opfer eines reinen Blutbades genäht wurde. Fügt dem Ziel Wahnsinn zu. Erhöht die Angriffskraft, wenn in der Nähe Wahnsinn ausgelöst wird.
+
+Dies sind die Waffen, die aus unnachgiebigen schwarzen Impulsen der Rache der völlig Niedergeschlagenen geschmiedet wurden.</text>
+<text id="21540000">Eine riesige Faust aus Felsbruchstücken. Sie wurde dem Körper eines Golems aus den ruinierten Schmieden genommen.
+
+Durch die eingravierte Schmiedeschrift kann die gesamte Faust in starken Angriffen nach vorn gefeuert werden.</text>
+<text id="21540100">Eine riesige Faust aus Felsbruchstücken. Sie wurde dem Körper eines Golems aus den ruinierten Schmieden genommen.
+
+Durch die eingravierte Schmiedeschrift kann die gesamte Faust in starken Angriffen nach vorn gefeuert werden.</text>
+<text id="21540200">Eine riesige Faust aus Felsbruchstücken. Sie wurde dem Körper eines Golems aus den ruinierten Schmieden genommen.
+
+Durch die eingravierte Schmiedeschrift kann die gesamte Faust in starken Angriffen nach vorn gefeuert werden.</text>
+<text id="21540300">Eine riesige Faust aus Felsbruchstücken. Sie wurde dem Körper eines Golems aus den ruinierten Schmieden genommen.
+
+Durch die eingravierte Schmiedeschrift kann die gesamte Faust in starken Angriffen nach vorn gefeuert werden.</text>
+<text id="21540400">Eine riesige Faust aus Felsbruchstücken. Sie wurde dem Körper eines Golems aus den ruinierten Schmieden genommen.
+
+Durch die eingravierte Schmiedeschrift kann die gesamte Faust in starken Angriffen nach vorn gefeuert werden.</text>
+<text id="21540500">Eine riesige Faust aus Felsbruchstücken. Sie wurde dem Körper eines Golems aus den ruinierten Schmieden genommen.
+
+Durch die eingravierte Schmiedeschrift kann die gesamte Faust in starken Angriffen nach vorn gefeuert werden.</text>
+<text id="21540600">Eine riesige Faust aus Felsbruchstücken. Sie wurde dem Körper eines Golems aus den ruinierten Schmieden genommen.
+
+Durch die eingravierte Schmiedeschrift kann die gesamte Faust in starken Angriffen nach vorn gefeuert werden.</text>
+<text id="21540700">Eine riesige Faust aus Felsbruchstücken. Sie wurde dem Körper eines Golems aus den ruinierten Schmieden genommen.
+
+Durch die eingravierte Schmiedeschrift kann die gesamte Faust in starken Angriffen nach vorn gefeuert werden.</text>
+<text id="21540800">Eine riesige Faust aus Felsbruchstücken. Sie wurde dem Körper eines Golems aus den ruinierten Schmieden genommen.
+
+Durch die eingravierte Schmiedeschrift kann die gesamte Faust in starken Angriffen nach vorn gefeuert werden.</text>
+<text id="21540900">Eine riesige Faust aus Felsbruchstücken. Sie wurde dem Körper eines Golems aus den ruinierten Schmieden genommen.
+
+Durch die eingravierte Schmiedeschrift kann die gesamte Faust in starken Angriffen nach vorn gefeuert werden.</text>
+<text id="21541000">Eine riesige Faust aus Felsbruchstücken. Sie wurde dem Körper eines Golems aus den ruinierten Schmieden genommen.
+
+Durch die eingravierte Schmiedeschrift kann die gesamte Faust in starken Angriffen nach vorn gefeuert werden.</text>
+<text id="21541100">Eine riesige Faust aus Felsbruchstücken. Sie wurde dem Körper eines Golems aus den ruinierten Schmieden genommen.
+
+Durch die eingravierte Schmiedeschrift kann die gesamte Faust in starken Angriffen nach vorn gefeuert werden.</text>
+<text id="21541200">Eine riesige Faust aus Felsbruchstücken. Sie wurde dem Körper eines Golems aus den ruinierten Schmieden genommen.
+
+Durch die eingravierte Schmiedeschrift kann die gesamte Faust in starken Angriffen nach vorn gefeuert werden.</text>
+<text id="21550000">Ein Schild, der Schwerthänden gewährt wurde, die einer jegliches Licht verschlingenden Nacht dienen.
+
+Die Außenfläche ist nur semikörperlich, wodurch er gegen alles außer körperliche Angriffe guten Schutz bietet.</text>
+<text id="22500000">Die Klauen einer jegliches Licht verschlingenden Nacht. Von Anna, Schwerthand der Nacht geführt.
+
+Mit Schmiedeschrift graviert, die es ermöglicht, die drei Klauen mit einem starken Angriff auf ein Ziel zu abfeuern. Da diese Waffen nur semikörperlich sind, kann man sich nicht vollständig gegen sie verteidigen.</text>
+<text id="23500000">Von Devonia, der am längsten dienenden Schmelztiegelritterin geschwungener Hammer.
+
+Waffe, die aus urzeitlichem Gold geschmiedet wurde, einen rötlichen Farbton besitzt und von uralter Heiligkeit erfüllt ist. Die Schlagseite ist mit einem Lebensstrom graviert.</text>
+<text id="23510000">Der Kopf einer monströsen Schatten-Sonnenblumenmanifestation des Scadubaums. Es könnte aber auch nur eine als Waffe geführte Blume sein.
+
+Wie auch beim Scadubaum windet sich eine zweite Ranke eng um die erste, als würden sie sich innig umarmen.</text>
+<text id="23520000">Der Kopf von Metyr, der Finger-Mutter, der ohne Veränderung als Waffe geführt wird.
+
+Aus der Mitte des Fingerabdrucks, der die vorderste Wölbung der Kreatur in Falten legt, starrt ein kleines, warzenartiges Auge ins Jenseits.</text>
+<text id="24500000">Eine Fackel, für die eine sterbende rasende Flamme an einem kleinen Stück Wirbelsäule befestigt wird.
+
+In einem weit entfernten Land wurde vor langer Zeit ein Mann geboren, der daran scheiterte, zum Herr der Rasenden Flamme zu werden. Alles, was von ihm übrig bleibt, wird sanft von Nanaya gehalten.</text>
+<text id="24510000">Eine Steinlaterne, die einen klagenden menschlichen Kopf darstellen soll, aus dessen Augen Licht erstrahlt. Kann in der linken Hand angehoben werden, um das Gebiet zu erleuchten.
+
+Der Gesichtsausdruck strahlt auf eine Weise gewisse Zufriedenheit aus. Den stillen Frieden derer, die kein Augenlicht benötigen.</text>
+<text id="30510000">Mit Schmiedeschrift gravierter Rundschild.
+Eine kunstvoll geschmiedete Wurfwaffe.
+
+Kann mithilfe der Waffenfertigkeit geworfen werden.</text>
+<text id="31500000">Abgenutzter Rundschild, der von Soldaten getragen wird, die Messmer dem Pfähler dienen.
+
+Der größte Metallschild in seiner Klasse.</text>
+<text id="31500100">Abgenutzter Rundschild, der von Soldaten getragen wird, die Messmer dem Pfähler dienen.
+
+Der größte Metallschild in seiner Klasse.</text>
+<text id="31500200">Abgenutzter Rundschild, der von Soldaten getragen wird, die Messmer dem Pfähler dienen.
+
+Der größte Metallschild in seiner Klasse.</text>
+<text id="31500300">Abgenutzter Rundschild, der von Soldaten getragen wird, die Messmer dem Pfähler dienen.
+
+Der größte Metallschild in seiner Klasse.</text>
+<text id="31500400">Abgenutzter Rundschild, der von Soldaten getragen wird, die Messmer dem Pfähler dienen.
+
+Der größte Metallschild in seiner Klasse.</text>
+<text id="31500500">Abgenutzter Rundschild, der von Soldaten getragen wird, die Messmer dem Pfähler dienen.
+
+Der größte Metallschild in seiner Klasse.</text>
+<text id="31500600">Abgenutzter Rundschild, der von Soldaten getragen wird, die Messmer dem Pfähler dienen.
+
+Der größte Metallschild in seiner Klasse.</text>
+<text id="31500700">Abgenutzter Rundschild, der von Soldaten getragen wird, die Messmer dem Pfähler dienen.
+
+Der größte Metallschild in seiner Klasse.</text>
+<text id="31500800">Abgenutzter Rundschild, der von Soldaten getragen wird, die Messmer dem Pfähler dienen.
+
+Der größte Metallschild in seiner Klasse.</text>
+<text id="31500900">Abgenutzter Rundschild, der von Soldaten getragen wird, die Messmer dem Pfähler dienen.
+
+Der größte Metallschild in seiner Klasse.</text>
+<text id="31501000">Abgenutzter Rundschild, der von Soldaten getragen wird, die Messmer dem Pfähler dienen.
+
+Der größte Metallschild in seiner Klasse.</text>
+<text id="31501100">Abgenutzter Rundschild, der von Soldaten getragen wird, die Messmer dem Pfähler dienen.
+
+Der größte Metallschild in seiner Klasse.</text>
+<text id="31501200">Abgenutzter Rundschild, der von Soldaten getragen wird, die Messmer dem Pfähler dienen.
+
+Der größte Metallschild in seiner Klasse.</text>
+<text id="31510000">Ein fein gearbeiteter "Blauschild", in den ein Wolf unter dem Mond eingraviert wurde. Perfekt zur Abwehr von Zauberei.
+
+Der Wolf ist das Tier des carianischen königlichen Paktes, ein Symbol für den Stolz des Mondes, das niemand vergessen kann, egal welche fernen Länder sie besuchen.</text>
+<text id="31510100">Ein fein gearbeiteter "Blauschild", in den ein Wolf unter dem Mond eingraviert wurde. Perfekt zur Abwehr von Zauberei.
+
+Der Wolf ist das Tier des carianischen königlichen Paktes, ein Symbol für den Stolz des Mondes, das niemand vergessen kann, egal welche fernen Länder sie besuchen.</text>
+<text id="31510200">Ein fein gearbeiteter "Blauschild", in den ein Wolf unter dem Mond eingraviert wurde. Perfekt zur Abwehr von Zauberei.
+
+Der Wolf ist das Tier des carianischen königlichen Paktes, ein Symbol für den Stolz des Mondes, das niemand vergessen kann, egal welche fernen Länder sie besuchen.</text>
+<text id="31510300">Ein fein gearbeiteter "Blauschild", in den ein Wolf unter dem Mond eingraviert wurde. Perfekt zur Abwehr von Zauberei.
+
+Der Wolf ist das Tier des carianischen königlichen Paktes, ein Symbol für den Stolz des Mondes, das niemand vergessen kann, egal welche fernen Länder sie besuchen.</text>
+<text id="31510400">Ein fein gearbeiteter "Blauschild", in den ein Wolf unter dem Mond eingraviert wurde. Perfekt zur Abwehr von Zauberei.
+
+Der Wolf ist das Tier des carianischen königlichen Paktes, ein Symbol für den Stolz des Mondes, das niemand vergessen kann, egal welche fernen Länder sie besuchen.</text>
+<text id="31510500">Ein fein gearbeiteter "Blauschild", in den ein Wolf unter dem Mond eingraviert wurde. Perfekt zur Abwehr von Zauberei.
+
+Der Wolf ist das Tier des carianischen königlichen Paktes, ein Symbol für den Stolz des Mondes, das niemand vergessen kann, egal welche fernen Länder sie besuchen.</text>
+<text id="31510600">Ein fein gearbeiteter "Blauschild", in den ein Wolf unter dem Mond eingraviert wurde. Perfekt zur Abwehr von Zauberei.
+
+Der Wolf ist das Tier des carianischen königlichen Paktes, ein Symbol für den Stolz des Mondes, das niemand vergessen kann, egal welche fernen Länder sie besuchen.</text>
+<text id="31510700">Ein fein gearbeiteter "Blauschild", in den ein Wolf unter dem Mond eingraviert wurde. Perfekt zur Abwehr von Zauberei.
+
+Der Wolf ist das Tier des carianischen königlichen Paktes, ein Symbol für den Stolz des Mondes, das niemand vergessen kann, egal welche fernen Länder sie besuchen.</text>
+<text id="31510800">Ein fein gearbeiteter "Blauschild", in den ein Wolf unter dem Mond eingraviert wurde. Perfekt zur Abwehr von Zauberei.
+
+Der Wolf ist das Tier des carianischen königlichen Paktes, ein Symbol für den Stolz des Mondes, das niemand vergessen kann, egal welche fernen Länder sie besuchen.</text>
+<text id="31510900">Ein fein gearbeiteter "Blauschild", in den ein Wolf unter dem Mond eingraviert wurde. Perfekt zur Abwehr von Zauberei.
+
+Der Wolf ist das Tier des carianischen königlichen Paktes, ein Symbol für den Stolz des Mondes, das niemand vergessen kann, egal welche fernen Länder sie besuchen.</text>
+<text id="31511000">Ein fein gearbeiteter "Blauschild", in den ein Wolf unter dem Mond eingraviert wurde. Perfekt zur Abwehr von Zauberei.
+
+Der Wolf ist das Tier des carianischen königlichen Paktes, ein Symbol für den Stolz des Mondes, das niemand vergessen kann, egal welche fernen Länder sie besuchen.</text>
+<text id="31511100">Ein fein gearbeiteter "Blauschild", in den ein Wolf unter dem Mond eingraviert wurde. Perfekt zur Abwehr von Zauberei.
+
+Der Wolf ist das Tier des carianischen königlichen Paktes, ein Symbol für den Stolz des Mondes, das niemand vergessen kann, egal welche fernen Länder sie besuchen.</text>
+<text id="31511200">Ein fein gearbeiteter "Blauschild", in den ein Wolf unter dem Mond eingraviert wurde. Perfekt zur Abwehr von Zauberei.
+
+Der Wolf ist das Tier des carianischen königlichen Paktes, ein Symbol für den Stolz des Mondes, das niemand vergessen kann, egal welche fernen Länder sie besuchen.</text>
+<text id="31520000">Ein fein gearbeiteter "Rotschild", in den eine geflügelte Schlange eingraviert wurde. Perfekt zur Abwehr von Feuer.
+
+Man besagt, er wurde geschmiedet, um Beginns des Kreuzzugs von  Messmer, Sohn von Marika, zu gedenken</text>
+<text id="31520100">Ein fein gearbeiteter "Rotschild", in den eine geflügelte Schlange eingraviert wurde. Perfekt zur Abwehr von Feuer.
+
+Man besagt, er wurde geschmiedet, um Beginns des Kreuzzugs von  Messmer, Sohn von Marika, zu gedenken</text>
+<text id="31520200">Ein fein gearbeiteter "Rotschild", in den eine geflügelte Schlange eingraviert wurde. Perfekt zur Abwehr von Feuer.
+
+Man besagt, er wurde geschmiedet, um Beginns des Kreuzzugs von  Messmer, Sohn von Marika, zu gedenken</text>
+<text id="31520300">Ein fein gearbeiteter "Rotschild", in den eine geflügelte Schlange eingraviert wurde. Perfekt zur Abwehr von Feuer.
+
+Man besagt, er wurde geschmiedet, um Beginns des Kreuzzugs von  Messmer, Sohn von Marika, zu gedenken</text>
+<text id="31520400">Ein fein gearbeiteter "Rotschild", in den eine geflügelte Schlange eingraviert wurde. Perfekt zur Abwehr von Feuer.
+
+Man besagt, er wurde geschmiedet, um Beginns des Kreuzzugs von  Messmer, Sohn von Marika, zu gedenken</text>
+<text id="31520500">Ein fein gearbeiteter "Rotschild", in den eine geflügelte Schlange eingraviert wurde. Perfekt zur Abwehr von Feuer.
+
+Man besagt, er wurde geschmiedet, um Beginns des Kreuzzugs von  Messmer, Sohn von Marika, zu gedenken</text>
+<text id="31520600">Ein fein gearbeiteter "Rotschild", in den eine geflügelte Schlange eingraviert wurde. Perfekt zur Abwehr von Feuer.
+
+Man besagt, er wurde geschmiedet, um Beginns des Kreuzzugs von  Messmer, Sohn von Marika, zu gedenken</text>
+<text id="31520700">Ein fein gearbeiteter "Rotschild", in den eine geflügelte Schlange eingraviert wurde. Perfekt zur Abwehr von Feuer.
+
+Man besagt, er wurde geschmiedet, um Beginns des Kreuzzugs von  Messmer, Sohn von Marika, zu gedenken</text>
+<text id="31520800">Ein fein gearbeiteter "Rotschild", in den eine geflügelte Schlange eingraviert wurde. Perfekt zur Abwehr von Feuer.
+
+Man besagt, er wurde geschmiedet, um Beginns des Kreuzzugs von  Messmer, Sohn von Marika, zu gedenken</text>
+<text id="31520900">Ein fein gearbeiteter "Rotschild", in den eine geflügelte Schlange eingraviert wurde. Perfekt zur Abwehr von Feuer.
+
+Man besagt, er wurde geschmiedet, um Beginns des Kreuzzugs von  Messmer, Sohn von Marika, zu gedenken</text>
+<text id="31521000">Ein fein gearbeiteter "Rotschild", in den eine geflügelte Schlange eingraviert wurde. Perfekt zur Abwehr von Feuer.
+
+Man besagt, er wurde geschmiedet, um Beginns des Kreuzzugs von  Messmer, Sohn von Marika, zu gedenken.</text>
+<text id="31521100">Ein fein gearbeiteter "Rotschild", in den eine geflügelte Schlange eingraviert wurde. Perfekt zur Abwehr von Feuer.
+
+Man besagt, er wurde geschmiedet, um Beginns des Kreuzzugs von  Messmer, Sohn von Marika, zu gedenken</text>
+<text id="31521200">Ein fein gearbeiteter "Rotschild", in den eine geflügelte Schlange eingraviert wurde. Perfekt zur Abwehr von Feuer.
+
+Man besagt, er wurde geschmiedet, um Beginns des Kreuzzugs von  Messmer, Sohn von Marika, zu gedenken</text>
+<text id="31530000">Ein Schild, der einen wilden goldenen Löwen mit luxuriöser Mähne darstellen soll.
+
+Wurde besonders tapferen Mitgliedern Radahns persönlicher Garde bei der Gründung verliehen.</text>
+<text id="32500000">Schwere Schilde, die von den Schwarzen Rittern geführt werden, die Messmer dem Pfähler dienen. Aus schwarzem Stahl mit Goldverzierungen.
+
+Symbolisch für ihre eiserne Überzeugung in ihrem Kreuzzug, den Schwarzen Ritter niemals aufgeben werden. Auch seinen Zweck werden sie niemals anzweifeln.</text>
+<text id="32500100">Schwere Schilde, die von den Schwarzen Rittern geführt werden, die Messmer dem Pfähler dienen. Aus schwarzem Stahl mit Goldverzierungen.
+
+Symbolisch für ihre eiserne Überzeugung in ihrem Kreuzzug, den Schwarzen Ritter niemals aufgeben werden. Auch seinen Zweck werden sie niemals anzweifeln.</text>
+<text id="32500200">Schwere Schilde, die von den Schwarzen Rittern geführt werden, die Messmer dem Pfähler dienen. Aus schwarzem Stahl mit Goldverzierungen.
+
+Symbolisch für ihre eiserne Überzeugung in ihrem Kreuzzug, den Schwarzen Ritter niemals aufgeben werden. Auch seinen Zweck werden sie niemals anzweifeln.</text>
+<text id="32500300">Schwere Schilde, die von den Schwarzen Rittern geführt werden, die Messmer dem Pfähler dienen. Aus schwarzem Stahl mit Goldverzierungen.
+
+Symbolisch für ihre eiserne Überzeugung in ihrem Kreuzzug, den Schwarzen Ritter niemals aufgeben werden. Auch seinen Zweck werden sie niemals anzweifeln.</text>
+<text id="32500400">Schwere Schilde, die von den Schwarzen Rittern geführt werden, die Messmer dem Pfähler dienen. Aus schwarzem Stahl mit Goldverzierungen.
+
+Symbolisch für ihre eiserne Überzeugung in ihrem Kreuzzug, den Schwarzen Ritter niemals aufgeben werden. Auch seinen Zweck werden sie niemals anzweifeln.</text>
+<text id="32500500">Schwere Schilde, die von den Schwarzen Rittern geführt werden, die Messmer dem Pfähler dienen. Aus schwarzem Stahl mit Goldverzierungen.
+
+Symbolisch für ihre eiserne Überzeugung in ihrem Kreuzzug, den Schwarzen Ritter niemals aufgeben werden. Auch seinen Zweck werden sie niemals anzweifeln.</text>
+<text id="32500600">Schwere Schilde, die von den Schwarzen Rittern geführt werden, die Messmer dem Pfähler dienen. Aus schwarzem Stahl mit Goldverzierungen.
+
+Symbolisch für ihre eiserne Überzeugung in ihrem Kreuzzug, den Schwarzen Ritter niemals aufgeben werden. Auch seinen Zweck werden sie niemals anzweifeln.</text>
+<text id="32500700">Schwere Schilde, die von den Schwarzen Rittern geführt werden, die Messmer dem Pfähler dienen. Aus schwarzem Stahl mit Goldverzierungen.
+
+Symbolisch für ihre eiserne Überzeugung in ihrem Kreuzzug, den Schwarzen Ritter niemals aufgeben werden. Auch seinen Zweck werden sie niemals anzweifeln.</text>
+<text id="32500800">Schwere Schilde, die von den Schwarzen Rittern geführt werden, die Messmer dem Pfähler dienen. Aus schwarzem Stahl mit Goldverzierungen.
+
+Symbolisch für ihre eiserne Überzeugung in ihrem Kreuzzug, den Schwarzen Ritter niemals aufgeben werden. Auch seinen Zweck werden sie niemals anzweifeln.</text>
+<text id="32500900">Schwere Schilde, die von den Schwarzen Rittern geführt werden, die Messmer dem Pfähler dienen. Aus schwarzem Stahl mit Goldverzierungen.
+
+Symbolisch für ihre eiserne Überzeugung in ihrem Kreuzzug, den Schwarzen Ritter niemals aufgeben werden. Auch seinen Zweck werden sie niemals anzweifeln.</text>
+<text id="32501000">Schwere Schilde, die von den Schwarzen Rittern geführt werden, die Messmer dem Pfähler dienen. Aus schwarzem Stahl mit Goldverzierungen.
+
+Symbolisch für ihre eiserne Überzeugung in ihrem Kreuzzug, den Schwarzen Ritter niemals aufgeben werden. Auch seinen Zweck werden sie niemals anzweifeln.</text>
+<text id="32501100">Schwere Schilde, die von den Schwarzen Rittern geführt werden, die Messmer dem Pfähler dienen. Aus schwarzem Stahl mit Goldverzierungen.
+
+Symbolisch für ihre eiserne Überzeugung in ihrem Kreuzzug, den Schwarzen Ritter niemals aufgeben werden. Auch seinen Zweck werden sie niemals anzweifeln.</text>
+<text id="32501200">Schwere Schilde, die von den Schwarzen Rittern geführt werden, die Messmer dem Pfähler dienen. Aus schwarzem Stahl mit Goldverzierungen.
+
+Symbolisch für ihre eiserne Überzeugung in ihrem Kreuzzug, den Schwarzen Ritter niemals aufgeben werden. Auch seinen Zweck werden sie niemals anzweifeln.</text>
+<text id="32520000">Ein aus dem ungewöhnlichen Metall Grünspan gefertigter Großschild.
+
+Verfügt über größere Schutzfähigkeit als Schadensresistenz. Dadurch beschützt er sein Ziel selbst dann, wenn sein Träger stirbt.</text>
+<text id="33510000">Stab aus den Schwanzfingern Metyrs, der Mutter der Finger, und Mikrokosmos, der sich über der Krux erhebt, die sie bilden.
+Katalysator zum Wirken von Zaubereien und Anrufungen.
+
+Die Mutter erhielt Zeichen des Höheren Willens aus dem Jenseits des Mikrokosmos. Selbst gebrochen und verlassen wartete sie noch auf eine weitere Nachricht.</text>
+<text id="33520000">Stab des Fürsten Ymir, der sich zu einer Mutter der Finger gemacht hat.
+Wurde aus Mangel an eigenen Schwanzfingern geführt.
+Verstärkt Fingerzaubereien.
+
+Obgleich die Kristallkugel einen Mikrokosmos repräsentiert, führte empfängt sie kein Zeichen.</text>
+<text id="34500000">Heiliges Siegel der als Trockenblatt-Sekte bekannten Sucher.
+Verstärkt die Anrufungen Miquellas.
+
+Diejenigen, die vor langer Zeit den Abbau des Erdenbaums in den gefallenen Blättern erkannten, machten sich für eine Schwächung der Ordnung bereit, und nahmen einen strikten Glauben an. Und dann begannen sie, einem neuen Gott zu dienen.</text>
+<text id="34510000">Heiliges Siegel der Feuerritter, die unter direktem Kommando von Messmer dem Pfähler standen.
+Verstärkt Feueranrufungen Messmers.
+
+Das Emblem von Messmers Armee zeigt einen goldenen Ring und das Feuer seines heiligen Siegels.</text>
+<text id="34520000">Heiliges Siegel aus verunreinigtem Bernstein mit einem Spiralbaummuster.
+Verstärkt Spiralanrufungen.
+
+Die Majestät des weißen Turms, der sich zu den Göttern erstreckte, inspirierte sogar einen geheimen Glauben in den Eindringlingen, dem Volk des Erdenbaums.</text>
+<text id="40500000">Ein primitiver Kurzbogen aus krankem Knochen.
+
+Ein Medium für den Geisterruf und Produkt der uralten Hexereien des Turms.</text>
+<text id="41510000">Waffe von Sir Ansbach.
+Ein Langbogen, der aus zwei Bögen und zwei Sehnen besteht.
+
+Ungewöhnlich für einen Langbogen, kann er ähnlich wie ein leichter Bogen gehandhabt werden und erfordert eine außerordentliche Geschicklichkeit.</text>
+<text id="42500000">Waffe von Igon, dem gebrochenen Drachlingkrieger.
+Ein Großbogen aus zwei Drachenknochen, die mit rauem Seil zusammengebunden wurden.
+Von Klauenspuren übersäht.
+
+Mit Igons Besessenheit erfüllt, verstärkt er die Macht seiner Harpune.</text>
+<text id="43500000">Eine mechanische Armbrust, die mit einer fächerartigen Gerätschaft versehen wurde.
+
+Dieses Metallteil fügt zur Ausübung einer einzigartigen Kampfkunst ein Nachladesystem hinzu.</text>
+<text id="43510000">Eine modifizierte Armbrust, für die zwei Armbrüste zu einer kombiniert wurden.
+
+Kann mehrere Bolzen gleichzeitig laden und abfeuern, um Streufeuer zu erzeugen.</text>
+<text id="44500000">Eine Art Gefäßkanone zum Abfeuern von Großbolzen.
+Ein Meisterwerk des Zuberkünstlers Rabbath.
+
+Die Macht der Schimmersteine, die den Lauf umgeben, erfüllt die Bolzen mit Magieschaden und führt Schüsse zum Ziel.</text>
+<text id="50540000">Ein aus Tierknochen geschnitzter Pfeil. Die Spitze ist in Fäulnis getränkt.
+
+Erzeugt am Einschlagsort weißen Rauch, der menschliche Feinde anlockt, die sich nicht im Kampf befinden, um ihre Aggression auf sich zu ziehen. Effektiv gegen Halbmenschen, auch wenn sie bereits im Kampfzustand sind.
+
+Herstellbares Objekt.
+Die Federn lassen den Pfeil weiter fliegen.</text>
+<text id="50550000">Ein aus Tierknochen geschnitzter Pfeil. Die Spitze ist in Fäulnis getränkt.
+
+Erzeugt am Einschlagsort weißen Rauch, der menschliche Feinde anlockt, die sich nicht im Kampf befinden, um ihre Aggression auf sich zu ziehen. Effektiv gegen Halbmenschen, auch wenn sie bereits im Kampfzustand sind.
+
+Herstellbares Objekt.</text>
+<text id="51500000">Großpfeil, der mit scharfen Schottersteinen übersäht ist.
+Verfügt über einen Anti-Drachen-Effekt.
+
+Der gebrochene Drachlingkrieger Igon stellte diese inmitten seiner Qual einzeln her – um Bayle den Schrecklichen das Fürchten zu lehren.</text>
+<text id="52520000">Ein aus Tierknochen geschnitzter Bolzen. Die Spitze ist in Fäulnis getränkt.
+
+Erzeugt am Einschlagsort weißen Rauch, der menschliche Feinde anlockt, die sich nicht im Kampf befinden, um ihre Aggression auf sich zu ziehen. Effektiv gegen Halbmenschen, auch wenn sie bereits im Kampfzustand sind. Herstellbares Objekt.</text>
+<text id="53500000">Ein Großbolzen mit Schimmerstein als Spitze. Einer der innovativen Entwürfe des Zauberkünstlers Rabbath.
+
+Beim Aufprall entsteht eine heftige Explosion, die Magieschaden verursacht.</text>
+<text id="60500000">Eine Technik für Nahkämpfe ohne Waffen.
+Diese Kampfkunst kombiniert Schläge und Tritte.
+
+Die Lehren einer Gruppe von Suchenden, die als Trockenblatt-Sekte bekannt sind, werden nur denen weitergegeben, deren Charakter und Mut als würdig empfunden wird. Die Ausübung dieser Kampfkunst markiert den Anfang der Reise eines Asketen.</text>
+<text id="60500100">Eine Technik für Nahkämpfe ohne Waffen.
+Diese Kampfkunst kombiniert Schläge und Tritte.
+
+Die Lehren einer Gruppe von Suchenden, die als Trockenblatt-Sekte bekannt sind, werden nur denen weitergegeben, deren Charakter und Mut als würdig empfunden wird. Die Ausübung dieser Kampfkunst markiert den Anfang der Reise eines Asketen.</text>
+<text id="60500200">Eine Technik für Nahkämpfe ohne Waffen.
+Diese Kampfkunst kombiniert Schläge und Tritte.
+
+Die Lehren einer Gruppe von Suchenden, die als Trockenblatt-Sekte bekannt sind, werden nur denen weitergegeben, deren Charakter und Mut als würdig empfunden wird. Die Ausübung dieser Kampfkunst markiert den Anfang der Reise eines Asketen.</text>
+<text id="60500300">Eine Technik für Nahkämpfe ohne Waffen.
+Diese Kampfkunst kombiniert Schläge und Tritte.
+
+Die Lehren einer Gruppe von Suchenden, die als Trockenblatt-Sekte bekannt sind, werden nur denen weitergegeben, deren Charakter und Mut als würdig empfunden wird. Die Ausübung dieser Kampfkunst markiert den Anfang der Reise eines Asketen.</text>
+<text id="60500400">Eine Technik für Nahkämpfe ohne Waffen.
+Diese Kampfkunst kombiniert Schläge und Tritte.
+
+Die Lehren einer Gruppe von Suchenden, die als Trockenblatt-Sekte bekannt sind, werden nur denen weitergegeben, deren Charakter und Mut als würdig empfunden wird. Die Ausübung dieser Kampfkunst markiert den Anfang der Reise eines Asketen.</text>
+<text id="60500500">Eine Technik für Nahkämpfe ohne Waffen.
+Diese Kampfkunst kombiniert Schläge und Tritte.
+
+Die Lehren einer Gruppe von Suchenden, die als Trockenblatt-Sekte bekannt sind, werden nur denen weitergegeben, deren Charakter und Mut als würdig empfunden wird. Die Ausübung dieser Kampfkunst markiert den Anfang der Reise eines Asketen.</text>
+<text id="60500600">Eine Technik für Nahkämpfe ohne Waffen.
+Diese Kampfkunst kombiniert Schläge und Tritte.
+
+Die Lehren einer Gruppe von Suchenden, die als Trockenblatt-Sekte bekannt sind, werden nur denen weitergegeben, deren Charakter und Mut als würdig empfunden wird. Die Ausübung dieser Kampfkunst markiert den Anfang der Reise eines Asketen.</text>
+<text id="60500700">Eine Technik für Nahkämpfe ohne Waffen.
+Diese Kampfkunst kombiniert Schläge und Tritte.
+
+Die Lehren einer Gruppe von Suchenden, die als Trockenblatt-Sekte bekannt sind, werden nur denen weitergegeben, deren Charakter und Mut als würdig empfunden wird. Die Ausübung dieser Kampfkunst markiert den Anfang der Reise eines Asketen.</text>
+<text id="60500800">Eine Technik für Nahkämpfe ohne Waffen.
+Diese Kampfkunst kombiniert Schläge und Tritte.
+
+Die Lehren einer Gruppe von Suchenden, die als Trockenblatt-Sekte bekannt sind, werden nur denen weitergegeben, deren Charakter und Mut als würdig empfunden wird. Die Ausübung dieser Kampfkunst markiert den Anfang der Reise eines Asketen.</text>
+<text id="60500900">Eine Technik für Nahkämpfe ohne Waffen.
+Diese Kampfkunst kombiniert Schläge und Tritte.
+
+Die Lehren einer Gruppe von Suchenden, die als Trockenblatt-Sekte bekannt sind, werden nur denen weitergegeben, deren Charakter und Mut als würdig empfunden wird. Die Ausübung dieser Kampfkunst markiert den Anfang der Reise eines Asketen.</text>
+<text id="60501000">Eine Technik für Nahkämpfe ohne Waffen.
+Diese Kampfkunst kombiniert Schläge und Tritte.
+
+Die Lehren einer Gruppe von Suchenden, die als Trockenblatt-Sekte bekannt sind, werden nur denen weitergegeben, deren Charakter und Mut als würdig empfunden wird. Die Ausübung dieser Kampfkunst markiert den Anfang der Reise eines Asketen.</text>
+<text id="60501100">Eine Technik für Nahkämpfe ohne Waffen.
+Diese Kampfkunst kombiniert Schläge und Tritte.
+
+Die Lehren einer Gruppe von Suchenden, die als Trockenblatt-Sekte bekannt sind, werden nur denen weitergegeben, deren Charakter und Mut als würdig empfunden wird. Die Ausübung dieser Kampfkunst markiert den Anfang der Reise eines Asketen.</text>
+<text id="60501200">Eine Technik für Nahkämpfe ohne Waffen.
+Diese Kampfkunst kombiniert Schläge und Tritte.
+
+Die Lehren einer Gruppe von Suchenden, die als Trockenblatt-Sekte bekannt sind, werden nur denen weitergegeben, deren Charakter und Mut als würdig empfunden wird. Die Ausübung dieser Kampfkunst markiert den Anfang der Reise eines Asketen.</text>
+<text id="60510000">Eine Technik für Nahkämpfe ohne Waffen.
+Diese Kampfkunst konzentriert sich auf Tritte.
+
+Diese auf Tritten basierende Kampfkunst wird nur von Dane genutzt, einem Trockenblatt und verschworenen Verbündeten Ledas. Diese Techniken hat er sich durch Training mit Hilfe eines Wasserfalls erworben. Das Wasser schlug seinen Körper und er warf sich in seinen Becken.</text>
+<text id="60510100">Eine Technik für Nahkämpfe ohne Waffen.
+Diese Kampfkunst konzentriert sich auf Tritte.
+
+Diese auf Tritten basierende Kampfkunst wird nur von Dane genutzt, einem Trockenblatt und verschworenen Verbündeten Ledas. Diese Techniken hat er sich durch Training mit Hilfe eines Wasserfalls erworben. Das Wasser schlug seinen Körper und er warf sich in seinen Becken.</text>
+<text id="60510200">Eine Technik für Nahkämpfe ohne Waffen.
+Diese Kampfkunst konzentriert sich auf Tritte.
+
+Diese auf Tritten basierende Kampfkunst wird nur von Dane genutzt, einem Trockenblatt und verschworenen Verbündeten Ledas. Diese Techniken hat er sich durch Training mit Hilfe eines Wasserfalls erworben. Das Wasser schlug seinen Körper und er warf sich in seinen Becken.</text>
+<text id="60510300">Eine Technik für Nahkämpfe ohne Waffen.
+Diese Kampfkunst konzentriert sich auf Tritte.
+
+Diese auf Tritten basierende Kampfkunst wird nur von Dane genutzt, einem Trockenblatt und verschworenen Verbündeten Ledas. Diese Techniken hat er sich durch Training mit Hilfe eines Wasserfalls erworben. Das Wasser schlug seinen Körper und er warf sich in seinen Becken.</text>
+<text id="60510400">Eine Technik für Nahkämpfe ohne Waffen.
+Diese Kampfkunst konzentriert sich auf Tritte.
+
+Diese auf Tritten basierende Kampfkunst wird nur von Dane genutzt, einem Trockenblatt und verschworenen Verbündeten Ledas. Diese Techniken hat er sich durch Training mit Hilfe eines Wasserfalls erworben. Das Wasser schlug seinen Körper und er warf sich in seinen Becken.</text>
+<text id="60510500">Eine Technik für Nahkämpfe ohne Waffen.
+Diese Kampfkunst konzentriert sich auf Tritte.
+
+Diese auf Tritten basierende Kampfkunst wird nur von Dane genutzt, einem Trockenblatt und verschworenen Verbündeten Ledas. Diese Techniken hat er sich durch Training mit Hilfe eines Wasserfalls erworben. Das Wasser schlug seinen Körper und er warf sich in seinen Becken.</text>
+<text id="60510600">Eine Technik für Nahkämpfe ohne Waffen.
+Diese Kampfkunst konzentriert sich auf Tritte.
+
+Diese auf Tritten basierende Kampfkunst wird nur von Dane genutzt, einem Trockenblatt und verschworenen Verbündeten Ledas. Diese Techniken hat er sich durch Training mit Hilfe eines Wasserfalls erworben. Das Wasser schlug seinen Körper und er warf sich in seinen Becken.</text>
+<text id="60510700">Eine Technik für Nahkämpfe ohne Waffen.
+Diese Kampfkunst konzentriert sich auf Tritte.
+
+Diese auf Tritten basierende Kampfkunst wird nur von Dane genutzt, einem Trockenblatt und verschworenen Verbündeten Ledas. Diese Techniken hat er sich durch Training mit Hilfe eines Wasserfalls erworben. Das Wasser schlug seinen Körper und er warf sich in seinen Becken.</text>
+<text id="60510800">Eine Technik für Nahkämpfe ohne Waffen.
+Diese Kampfkunst konzentriert sich auf Tritte.
+
+Diese auf Tritten basierende Kampfkunst wird nur von Dane genutzt, einem Trockenblatt und verschworenen Verbündeten Ledas. Diese Techniken hat er sich durch Training mit Hilfe eines Wasserfalls erworben. Das Wasser schlug seinen Körper und er warf sich in seinen Becken.</text>
+<text id="60510900">Eine Technik für Nahkämpfe ohne Waffen.
+Diese Kampfkunst konzentriert sich auf Tritte.
+
+Diese auf Tritten basierende Kampfkunst wird nur von Dane genutzt, einem Trockenblatt und verschworenen Verbündeten Ledas. Diese Techniken hat er sich durch Training mit Hilfe eines Wasserfalls erworben. Das Wasser schlug seinen Körper und er warf sich in seinen Becken.</text>
+<text id="60511000">Eine Technik für Nahkämpfe ohne Waffen.
+Diese Kampfkunst konzentriert sich auf Tritte.
+
+Diese auf Tritten basierende Kampfkunst wird nur von Dane genutzt, einem Trockenblatt und verschworenen Verbündeten Ledas. Diese Techniken hat er sich durch Training mit Hilfe eines Wasserfalls erworben. Das Wasser schlug seinen Körper und er warf sich in seinen Becken.</text>
+<text id="60511100">Eine Technik für Nahkämpfe ohne Waffen.
+Diese Kampfkunst konzentriert sich auf Tritte.
+
+Diese auf Tritten basierende Kampfkunst wird nur von Dane genutzt, einem Trockenblatt und verschworenen Verbündeten Ledas. Diese Techniken hat er sich durch Training mit Hilfe eines Wasserfalls erworben. Das Wasser schlug seinen Körper und er warf sich in seinen Becken.</text>
+<text id="60511200">Eine Technik für Nahkämpfe ohne Waffen.
+Diese Kampfkunst konzentriert sich auf Tritte.
+
+Diese auf Tritten basierende Kampfkunst wird nur von Dane genutzt, einem Trockenblatt und verschworenen Verbündeten Ledas. Diese Techniken hat er sich durch Training mit Hilfe eines Wasserfalls erworben. Das Wasser schlug seinen Körper und er warf sich in seinen Becken.</text>
+<text id="61500000">Von Parfümeuren des Reichs der Schatten zur Waffe umfunktionierte Parfümflasche.
+Angriffe entfesseln parfümiertes Pulver, das entzündliche Funken erzeugt.
+
+Der Kreuzzug war eine brutale Säuberung, für die die Parfümeure nicht zur Heilung gerufen wurden.</text>
+<text id="61510000">Von Parfümeuren des Reichs der Schatten zur Waffe umfunktionierte Parfümflasche.
+Angriffe entfesseln parfümiertes Pulver, das eisige Unterkühlung verursacht.
+
+Parfümeure reisten auf der Suche nach neuen Aromen und Blumengärten.</text>
+<text id="61520000">Von Parfümeuren des Reichs der Schatten zur Waffe umfunktionierte Parfümflasche.
+Angriffe entfesseln parfümiertes Pulver, das eine rasende Flamme erzeugt.
+
+Parfümeure reisten auf der Suche nach neuen Aromen und Blumengärten.</text>
+<text id="61530000">Von Parfümeuren des Reichs der Schatten zur Waffe umfunktionierte Parfümflasche.
+Angriffe entfesseln parfümiertes Pulver, das Blitze erzeugt.
+
+Parfümeure reisten auf der Suche nach neuen Aromen und Blumengärten.</text>
+<text id="61540000">Von Thiollier entworfene Parfümflasche.
+Angriffe entfesseln parfümiertes Pulver, das tödliches Gift erzeugt.
+
+In einigen Parfümerietechniken wird Gift angewandt. Als Thiollier davon erfuhr, machte er sich die Meisterung dieser Techniken zur Aufgabe und selbige zu eigen.</text>
+<text id="62500000">Eine Kombination aus Waffe und Schild, ein sogenannter "Stoßschild".
+Ermöglicht gleichzeitiges Angreifen und Verteidigen.
+
+Eine Waffe, die einst in einem Ritualkampf zu Ehren des Erdenbaums geführt wurde – einer Tradition, die irgendwie im Reich der Schatten verblieben war.</text>
+<text id="62500100">Eine Kombination aus Waffe und Schild, ein sogenannter "Stoßschild".
+Ermöglicht gleichzeitiges Angreifen und Verteidigen.
+
+Eine Waffe, die einst in einem Ritualkampf zu Ehren des Erdenbaums geführt wurde – einer Tradition, die irgendwie im Reich der Schatten verblieben war.</text>
+<text id="62500200">Eine Kombination aus Waffe und Schild, ein sogenannter "Stoßschild".
+Ermöglicht gleichzeitiges Angreifen und Verteidigen.
+
+Eine Waffe, die einst in einem Ritualkampf zu Ehren des Erdenbaums geführt wurde – einer Tradition, die irgendwie im Reich der Schatten verblieben war.</text>
+<text id="62500300">Eine Kombination aus Waffe und Schild, ein sogenannter "Stoßschild".
+Ermöglicht gleichzeitiges Angreifen und Verteidigen.
+
+Eine Waffe, die einst in einem Ritualkampf zu Ehren des Erdenbaums geführt wurde – einer Tradition, die irgendwie im Reich der Schatten verblieben war.</text>
+<text id="62500400">Eine Kombination aus Waffe und Schild, ein sogenannter "Stoßschild".
+Ermöglicht gleichzeitiges Angreifen und Verteidigen.
+
+Eine Waffe, die einst in einem Ritualkampf zu Ehren des Erdenbaums geführt wurde – einer Tradition, die irgendwie im Reich der Schatten verblieben war.</text>
+<text id="62500500">Eine Kombination aus Waffe und Schild, ein sogenannter "Stoßschild".
+Ermöglicht gleichzeitiges Angreifen und Verteidigen.
+
+Eine Waffe, die einst in einem Ritualkampf zu Ehren des Erdenbaums geführt wurde – einer Tradition, die irgendwie im Reich der Schatten verblieben war.</text>
+<text id="62500600">Eine Kombination aus Waffe und Schild, ein sogenannter "Stoßschild".
+Ermöglicht gleichzeitiges Angreifen und Verteidigen.
+
+Eine Waffe, die einst in einem Ritualkampf zu Ehren des Erdenbaums geführt wurde – einer Tradition, die irgendwie im Reich der Schatten verblieben war.</text>
+<text id="62500700">Eine Kombination aus Waffe und Schild, ein sogenannter "Stoßschild".
+Ermöglicht gleichzeitiges Angreifen und Verteidigen.
+
+Eine Waffe, die einst in einem Ritualkampf zu Ehren des Erdenbaums geführt wurde – einer Tradition, die irgendwie im Reich der Schatten verblieben war.</text>
+<text id="62500800">Eine Kombination aus Waffe und Schild, ein sogenannter "Stoßschild".
+Ermöglicht gleichzeitiges Angreifen und Verteidigen.
+
+Eine Waffe, die einst in einem Ritualkampf zu Ehren des Erdenbaums geführt wurde – einer Tradition, die irgendwie im Reich der Schatten verblieben war.</text>
+<text id="62500900">Eine Kombination aus Waffe und Schild, ein sogenannter "Stoßschild".
+Ermöglicht gleichzeitiges Angreifen und Verteidigen.
+
+Eine Waffe, die einst in einem Ritualkampf zu Ehren des Erdenbaums geführt wurde – einer Tradition, die irgendwie im Reich der Schatten verblieben war.</text>
+<text id="62501000">Eine Kombination aus Waffe und Schild, ein sogenannter "Stoßschild".
+Ermöglicht gleichzeitiges Angreifen und Verteidigen.
+
+Eine Waffe, die einst in einem Ritualkampf zu Ehren des Erdenbaums geführt wurde – einer Tradition, die irgendwie im Reich der Schatten verblieben war.</text>
+<text id="62501100">Eine Kombination aus Waffe und Schild, ein sogenannter "Stoßschild".
+Ermöglicht gleichzeitiges Angreifen und Verteidigen.
+
+Eine Waffe, die einst in einem Ritualkampf zu Ehren des Erdenbaums geführt wurde – einer Tradition, die irgendwie im Reich der Schatten verblieben war.</text>
+<text id="62501200">Eine Kombination aus Waffe und Schild, ein sogenannter "Stoßschild".
+Ermöglicht gleichzeitiges Angreifen und Verteidigen.
+
+Eine Waffe, die einst in einem Ritualkampf zu Ehren des Erdenbaums geführt wurde – einer Tradition, die irgendwie im Reich der Schatten verblieben war.</text>
+<text id="62510000">Mit Schimmersteinen versehener, silberner Stoßschild.
+Erlaubt dem Träger, gleichzeitig anzugreifen und zu blocken.
+
+Wurde einst von Rellana, der Zwillings-Mondritterin, während ihres einzigen Ritualkampfes geführt – eine Demonstration ihrer Treue zum Erdenbaum.</text>
+<text id="62510100">Mit Schimmersteinen versehener, silberner Stoßschild.
+Erlaubt dem Träger, gleichzeitig anzugreifen und zu blocken.
+
+Wurde einst von Rellana, der Zwillings-Mondritterin, während ihres einzigen Ritualkampfes geführt – eine Demonstration ihrer Treue zum Erdenbaum.</text>
+<text id="62510200">Mit Schimmersteinen versehener, silberner Stoßschild.
+Erlaubt dem Träger, gleichzeitig anzugreifen und zu blocken.
+
+Wurde einst von Rellana, der Zwillings-Mondritterin, während ihres einzigen Ritualkampfes geführt – eine Demonstration ihrer Treue zum Erdenbaum.</text>
+<text id="62510300">Mit Schimmersteinen versehener, silberner Stoßschild.
+Erlaubt dem Träger, gleichzeitig anzugreifen und zu blocken.
+
+Wurde einst von Rellana, der Zwillings-Mondritterin, während ihres einzigen Ritualkampfes geführt – eine Demonstration ihrer Treue zum Erdenbaum.</text>
+<text id="62510400">Mit Schimmersteinen versehener, silberner Stoßschild.
+Erlaubt dem Träger, gleichzeitig anzugreifen und zu blocken.
+
+Wurde einst von Rellana, der Zwillings-Mondritterin, während ihres einzigen Ritualkampfes geführt – eine Demonstration ihrer Treue zum Erdenbaum.</text>
+<text id="62510500">Mit Schimmersteinen versehener, silberner Stoßschild.
+Erlaubt dem Träger, gleichzeitig anzugreifen und zu blocken.
+
+Wurde einst von Rellana, der Zwillings-Mondritterin, während ihres einzigen Ritualkampfes geführt – eine Demonstration ihrer Treue zum Erdenbaum.</text>
+<text id="62510600">Mit Schimmersteinen versehener, silberner Stoßschild.
+Erlaubt dem Träger, gleichzeitig anzugreifen und zu blocken.
+
+Wurde einst von Rellana, der Zwillings-Mondritterin, während ihres einzigen Ritualkampfes geführt – eine Demonstration ihrer Treue zum Erdenbaum.</text>
+<text id="62510700">Mit Schimmersteinen versehener, silberner Stoßschild.
+Erlaubt dem Träger, gleichzeitig anzugreifen und zu blocken.
+
+Wurde einst von Rellana, der Zwillings-Mondritterin, während ihres einzigen Ritualkampfes geführt – eine Demonstration ihrer Treue zum Erdenbaum.</text>
+<text id="62510800">Mit Schimmersteinen versehener, silberner Stoßschild.
+Erlaubt dem Träger, gleichzeitig anzugreifen und zu blocken.
+
+Wurde einst von Rellana, der Zwillings-Mondritterin, während ihres einzigen Ritualkampfes geführt – eine Demonstration ihrer Treue zum Erdenbaum.</text>
+<text id="62510900">Mit Schimmersteinen versehener, silberner Stoßschild.
+Erlaubt dem Träger, gleichzeitig anzugreifen und zu blocken.
+
+Wurde einst von Rellana, der Zwillings-Mondritterin, während ihres einzigen Ritualkampfes geführt – eine Demonstration ihrer Treue zum Erdenbaum.</text>
+<text id="62511000">Mit Schimmersteinen versehener, silberner Stoßschild.
+Erlaubt dem Träger, gleichzeitig anzugreifen und zu blocken.
+
+Wurde einst von Rellana, der Zwillings-Mondritterin, während ihres einzigen Ritualkampfes geführt – eine Demonstration ihrer Treue zum Erdenbaum.</text>
+<text id="62511100">Mit Schimmersteinen versehener, silberner Stoßschild.
+Erlaubt dem Träger, gleichzeitig anzugreifen und zu blocken.
+
+Wurde einst von Rellana, der Zwillings-Mondritterin, während ihres einzigen Ritualkampfes geführt – eine Demonstration ihrer Treue zum Erdenbaum.</text>
+<text id="62511200">Mit Schimmersteinen versehener, silberner Stoßschild.
+Erlaubt dem Träger, gleichzeitig anzugreifen und zu blocken.
+
+Wurde einst von Rellana, der Zwillings-Mondritterin, während ihres einzigen Ritualkampfes geführt – eine Demonstration ihrer Treue zum Erdenbaum.</text>
+<text id="63500000">Mit Schmiedeschrift gravierter Dolch.
+Das verringerte Gewicht verstärkt die Schmiedeeffekte und ermöglicht der Waffe, als Wurfdolch für alle Angriffe zu fungieren.
+
+Wird der Dolch geworfen, erscheint er sofort wieder in der Hand der Person, die ihn führt.</text>
+<text id="63500100">Mit Schmiedeschrift gravierter Dolch.
+Das verringerte Gewicht verstärkt die Schmiedeeffekte und ermöglicht der Waffe, als Wurfdolch für alle Angriffe zu fungieren.
+
+Wird der Dolch geworfen, erscheint er sofort wieder in der Hand der Person, die ihn führt.</text>
+<text id="63500200">Mit Schmiedeschrift gravierter Dolch.
+Das verringerte Gewicht verstärkt die Schmiedeeffekte und ermöglicht der Waffe, als Wurfdolch für alle Angriffe zu fungieren.
+
+Wird der Dolch geworfen, erscheint er sofort wieder in der Hand der Person, die ihn führt.</text>
+<text id="63500300">Mit Schmiedeschrift gravierter Dolch.
+Das verringerte Gewicht verstärkt die Schmiedeeffekte und ermöglicht der Waffe, als Wurfdolch für alle Angriffe zu fungieren.
+
+Wird der Dolch geworfen, erscheint er sofort wieder in der Hand der Person, die ihn führt.</text>
+<text id="63500400">Mit Schmiedeschrift gravierter Dolch.
+Das verringerte Gewicht verstärkt die Schmiedeeffekte und ermöglicht der Waffe, als Wurfdolch für alle Angriffe zu fungieren.
+
+Wird der Dolch geworfen, erscheint er sofort wieder in der Hand der Person, die ihn führt.</text>
+<text id="63500500">Mit Schmiedeschrift gravierter Dolch.
+Das verringerte Gewicht verstärkt die Schmiedeeffekte und ermöglicht der Waffe, als Wurfdolch für alle Angriffe zu fungieren.
+
+Wird der Dolch geworfen, erscheint er sofort wieder in der Hand der Person, die ihn führt.</text>
+<text id="63500600">Mit Schmiedeschrift gravierter Dolch.
+Das verringerte Gewicht verstärkt die Schmiedeeffekte und ermöglicht der Waffe, als Wurfdolch für alle Angriffe zu fungieren.
+
+Wird der Dolch geworfen, erscheint er sofort wieder in der Hand der Person, die ihn führt.</text>
+<text id="63500700">Mit Schmiedeschrift gravierter Dolch.
+Das verringerte Gewicht verstärkt die Schmiedeeffekte und ermöglicht der Waffe, als Wurfdolch für alle Angriffe zu fungieren.
+
+Wird der Dolch geworfen, erscheint er sofort wieder in der Hand der Person, die ihn führt.</text>
+<text id="63500800">Mit Schmiedeschrift gravierter Dolch.
+Das verringerte Gewicht verstärkt die Schmiedeeffekte und ermöglicht der Waffe, als Wurfdolch für alle Angriffe zu fungieren.
+
+Wird der Dolch geworfen, erscheint er sofort wieder in der Hand der Person, die ihn führt.</text>
+<text id="63500900">Mit Schmiedeschrift gravierter Dolch.
+Das verringerte Gewicht verstärkt die Schmiedeeffekte und ermöglicht der Waffe, als Wurfdolch für alle Angriffe zu fungieren.
+
+Wird der Dolch geworfen, erscheint er sofort wieder in der Hand der Person, die ihn führt.</text>
+<text id="63501000">Mit Schmiedeschrift gravierter Dolch.
+Das verringerte Gewicht verstärkt die Schmiedeeffekte und ermöglicht der Waffe, als Wurfdolch für alle Angriffe zu fungieren.
+
+Wird der Dolch geworfen, erscheint er sofort wieder in der Hand der Person, die ihn führt.</text>
+<text id="63501100">Mit Schmiedeschrift gravierter Dolch.
+Das verringerte Gewicht verstärkt die Schmiedeeffekte und ermöglicht der Waffe, als Wurfdolch für alle Angriffe zu fungieren.
+
+Wird der Dolch geworfen, erscheint er sofort wieder in der Hand der Person, die ihn führt.</text>
+<text id="63501200">Mit Schmiedeschrift gravierter Dolch.
+Das verringerte Gewicht verstärkt die Schmiedeeffekte und ermöglicht der Waffe, als Wurfdolch für alle Angriffe zu fungieren.
+
+Wird der Dolch geworfen, erscheint er sofort wieder in der Hand der Person, die ihn führt.</text>
+<text id="64500000">Geschwungene Klinge mit Rückhandgriff.
+Eine Waffenart, die seit Generationen von Hornherolden geführt wird.
+
+Der Kampfstil, der mit dieser Waffe zusammenhängt, zeichnet sich durch Wirbelhiebe und furchtbare Stoßangriffe aus.</text>
+<text id="64500100">Geschwungene Klinge mit Rückhandgriff.
+Eine Waffenart, die seit Generationen von Hornherolden geführt wird.
+
+Der Kampfstil, der mit dieser Waffe zusammenhängt, zeichnet sich durch Wirbelhiebe und furchtbare Stoßangriffe aus.</text>
+<text id="64500200">Geschwungene Klinge mit Rückhandgriff.
+Eine Waffenart, die seit Generationen von Hornherolden geführt wird.
+
+Der Kampfstil, der mit dieser Waffe zusammenhängt, zeichnet sich durch Wirbelhiebe und furchtbare Stoßangriffe aus.</text>
+<text id="64500300">Geschwungene Klinge mit Rückhandgriff.
+Eine Waffenart, die seit Generationen von Hornherolden geführt wird.
+
+Der Kampfstil, der mit dieser Waffe zusammenhängt, zeichnet sich durch Wirbelhiebe und furchtbare Stoßangriffe aus.</text>
+<text id="64500400">Geschwungene Klinge mit Rückhandgriff.
+Eine Waffenart, die seit Generationen von Hornherolden geführt wird.
+
+Der Kampfstil, der mit dieser Waffe zusammenhängt, zeichnet sich durch Wirbelhiebe und furchtbare Stoßangriffe aus.</text>
+<text id="64500500">Geschwungene Klinge mit Rückhandgriff.
+Eine Waffenart, die seit Generationen von Hornherolden geführt wird.
+
+Der Kampfstil, der mit dieser Waffe zusammenhängt, zeichnet sich durch Wirbelhiebe und furchtbare Stoßangriffe aus.</text>
+<text id="64500600">Geschwungene Klinge mit Rückhandgriff.
+Eine Waffenart, die seit Generationen von Hornherolden geführt wird.
+
+Der Kampfstil, der mit dieser Waffe zusammenhängt, zeichnet sich durch Wirbelhiebe und furchtbare Stoßangriffe aus.</text>
+<text id="64500700">Geschwungene Klinge mit Rückhandgriff.
+Eine Waffenart, die seit Generationen von Hornherolden geführt wird.
+
+Der Kampfstil, der mit dieser Waffe zusammenhängt, zeichnet sich durch Wirbelhiebe und furchtbare Stoßangriffe aus.</text>
+<text id="64500800">Geschwungene Klinge mit Rückhandgriff.
+Eine Waffenart, die seit Generationen von Hornherolden geführt wird.
+
+Der Kampfstil, der mit dieser Waffe zusammenhängt, zeichnet sich durch Wirbelhiebe und furchtbare Stoßangriffe aus.</text>
+<text id="64500900">Geschwungene Klinge mit Rückhandgriff.
+Eine Waffenart, die seit Generationen von Hornherolden geführt wird.
+
+Der Kampfstil, der mit dieser Waffe zusammenhängt, zeichnet sich durch Wirbelhiebe und furchtbare Stoßangriffe aus.</text>
+<text id="64501000">Geschwungene Klinge mit Rückhandgriff.
+Eine Waffenart, die seit Generationen von Hornherolden geführt wird.
+
+Der Kampfstil, der mit dieser Waffe zusammenhängt, zeichnet sich durch Wirbelhiebe und furchtbare Stoßangriffe aus.</text>
+<text id="64501100">Geschwungene Klinge mit Rückhandgriff.
+Eine Waffenart, die seit Generationen von Hornherolden geführt wird.
+
+Der Kampfstil, der mit dieser Waffe zusammenhängt, zeichnet sich durch Wirbelhiebe und furchtbare Stoßangriffe aus.</text>
+<text id="64501200">Geschwungene Klinge mit Rückhandgriff.
+Eine Waffenart, die seit Generationen von Hornherolden geführt wird.
+
+Der Kampfstil, der mit dieser Waffe zusammenhängt, zeichnet sich durch Wirbelhiebe und furchtbare Stoßangriffe aus.</text>
+<text id="64510000">Runde Rückhandklinge, die mit Schmiedeschrift graviert wurde.
+Eine durch die Schmiedekunst erschaffene Wurfwaffe.
+
+Führt einen starken Angriff aus, um die Rückhandklinge in einem Bogen zu werfen.</text>
+<text id="64510100">Runde Rückhandklinge, die mit Schmiedeschrift graviert wurde.
+Eine durch die Schmiedekunst erschaffene Wurfwaffe.
+
+Führt einen starken Angriff aus, um die Rückhandklinge in einem Bogen zu werfen.</text>
+<text id="64510200">Runde Rückhandklinge, die mit Schmiedeschrift graviert wurde.
+Eine durch die Schmiedekunst erschaffene Wurfwaffe.
+
+Führt einen starken Angriff aus, um die Rückhandklinge in einem Bogen zu werfen.</text>
+<text id="64510300">Runde Rückhandklinge, die mit Schmiedeschrift graviert wurde.
+Eine durch die Schmiedekunst erschaffene Wurfwaffe.
+
+Führt einen starken Angriff aus, um die Rückhandklinge in einem Bogen zu werfen.</text>
+<text id="64510400">Runde Rückhandklinge, die mit Schmiedeschrift graviert wurde.
+Eine durch die Schmiedekunst erschaffene Wurfwaffe.
+
+Führt einen starken Angriff aus, um die Rückhandklinge in einem Bogen zu werfen.</text>
+<text id="64510500">Runde Rückhandklinge, die mit Schmiedeschrift graviert wurde.
+Eine durch die Schmiedekunst erschaffene Wurfwaffe.
+
+Führt einen starken Angriff aus, um die Rückhandklinge in einem Bogen zu werfen.</text>
+<text id="64510600">Runde Rückhandklinge, die mit Schmiedeschrift graviert wurde.
+Eine durch die Schmiedekunst erschaffene Wurfwaffe.
+
+Führt einen starken Angriff aus, um die Rückhandklinge in einem Bogen zu werfen.</text>
+<text id="64510700">Runde Rückhandklinge, die mit Schmiedeschrift graviert wurde.
+Eine durch die Schmiedekunst erschaffene Wurfwaffe.
+
+Führt einen starken Angriff aus, um die Rückhandklinge in einem Bogen zu werfen.</text>
+<text id="64510800">Runde Rückhandklinge, die mit Schmiedeschrift graviert wurde.
+Eine durch die Schmiedekunst erschaffene Wurfwaffe.
+
+Führt einen starken Angriff aus, um die Rückhandklinge in einem Bogen zu werfen.</text>
+<text id="64510900">Runde Rückhandklinge, die mit Schmiedeschrift graviert wurde.
+Eine durch die Schmiedekunst erschaffene Wurfwaffe.
+
+Führt einen starken Angriff aus, um die Rückhandklinge in einem Bogen zu werfen.</text>
+<text id="64511000">Runde Rückhandklinge, die mit Schmiedeschrift graviert wurde.
+Eine durch die Schmiedekunst erschaffene Wurfwaffe.
+
+Führt einen starken Angriff aus, um die Rückhandklinge in einem Bogen zu werfen.</text>
+<text id="64511100">Runde Rückhandklinge, die mit Schmiedeschrift graviert wurde.
+Eine durch die Schmiedekunst erschaffene Wurfwaffe.
+
+Führt einen starken Angriff aus, um die Rückhandklinge in einem Bogen zu werfen.</text>
+<text id="64511200">Runde Rückhandklinge, die mit Schmiedeschrift graviert wurde.
+Eine durch die Schmiedekunst erschaffene Wurfwaffe.
+
+Führt einen starken Angriff aus, um die Rückhandklinge in einem Bogen zu werfen.</text>
+<text id="64520000">Waffe der maskierten Fluchklingen.
+Runde Rückhandklinge mit wellenartigen Kanten, die zur Verursachung von Blutungen geschärft wurde.
+
+Vor langer Zeit wurde dies von den Asketen umgesetzt, die als zentrale Ritualobjekte ihrer Selbstgeißelungstänze zu Gottheiten werden wollten.</text>
+<text id="66500000">Großes Katana mit langer, schwerer Klinge.
+Eine einzigartige Waffe der Krieger aus dem Schilfland.
+
+Diese Waffe ist für Aggression geschaffen und erfordert das ganze Körpergewicht, um sie zu schwingen. Die Schnittangriffe ihrer scharfen Klinge verursachen Blutungen.</text>
+<text id="66500100">Großes Katana mit langer, schwerer Klinge.
+Eine einzigartige Waffe der Krieger aus dem Schilfland.
+
+Diese Waffe ist für Aggression geschaffen und erfordert das ganze Körpergewicht, um sie zu schwingen. Die Schnittangriffe ihrer scharfen Klinge verursachen Blutungen.</text>
+<text id="66500200">Großes Katana mit langer, schwerer Klinge.
+Eine einzigartige Waffe der Krieger aus dem Schilfland.
+
+Diese Waffe ist für Aggression geschaffen und erfordert das ganze Körpergewicht, um sie zu schwingen. Die Schnittangriffe ihrer scharfen Klinge verursachen Blutungen.</text>
+<text id="66500300">Großes Katana mit langer, schwerer Klinge.
+Eine einzigartige Waffe der Krieger aus dem Schilfland.
+
+Diese Waffe ist für Aggression geschaffen und erfordert das ganze Körpergewicht, um sie zu schwingen. Die Schnittangriffe ihrer scharfen Klinge verursachen Blutungen.</text>
+<text id="66500400">Großes Katana mit langer, schwerer Klinge.
+Eine einzigartige Waffe der Krieger aus dem Schilfland.
+
+Diese Waffe ist für Aggression geschaffen und erfordert das ganze Körpergewicht, um sie zu schwingen. Die Schnittangriffe ihrer scharfen Klinge verursachen Blutungen.</text>
+<text id="66500500">Großes Katana mit langer, schwerer Klinge.
+Eine einzigartige Waffe der Krieger aus dem Schilfland.
+
+Diese Waffe ist für Aggression geschaffen und erfordert das ganze Körpergewicht, um sie zu schwingen. Die Schnittangriffe ihrer scharfen Klinge verursachen Blutungen.</text>
+<text id="66500600">Großes Katana mit langer, schwerer Klinge.
+Eine einzigartige Waffe der Krieger aus dem Schilfland.
+
+Diese Waffe ist für Aggression geschaffen und erfordert das ganze Körpergewicht, um sie zu schwingen. Die Schnittangriffe ihrer scharfen Klinge verursachen Blutungen.</text>
+<text id="66500700">Großes Katana mit langer, schwerer Klinge.
+Eine einzigartige Waffe der Krieger aus dem Schilfland.
+
+Diese Waffe ist für Aggression geschaffen und erfordert das ganze Körpergewicht, um sie zu schwingen. Die Schnittangriffe ihrer scharfen Klinge verursachen Blutungen.</text>
+<text id="66500800">Großes Katana mit langer, schwerer Klinge.
+Eine einzigartige Waffe der Krieger aus dem Schilfland.
+
+Diese Waffe ist für Aggression geschaffen und erfordert das ganze Körpergewicht, um sie zu schwingen. Die Schnittangriffe ihrer scharfen Klinge verursachen Blutungen.</text>
+<text id="66500900">Großes Katana mit langer, schwerer Klinge.
+Eine einzigartige Waffe der Krieger aus dem Schilfland.
+
+Diese Waffe ist für Aggression geschaffen und erfordert das ganze Körpergewicht, um sie zu schwingen. Die Schnittangriffe ihrer scharfen Klinge verursachen Blutungen.</text>
+<text id="66501000">Großes Katana mit langer, schwerer Klinge.
+Eine einzigartige Waffe der Krieger aus dem Schilfland.
+
+Diese Waffe ist für Aggression geschaffen und erfordert das ganze Körpergewicht, um sie zu schwingen. Die Schnittangriffe ihrer scharfen Klinge verursachen Blutungen.</text>
+<text id="66501100">Großes Katana mit langer, schwerer Klinge.
+Eine einzigartige Waffe der Krieger aus dem Schilfland.
+
+Diese Waffe ist für Aggression geschaffen und erfordert das ganze Körpergewicht, um sie zu schwingen. Die Schnittangriffe ihrer scharfen Klinge verursachen Blutungen.</text>
+<text id="66501200">Großes Katana mit langer, schwerer Klinge.
+Eine einzigartige Waffe der Krieger aus dem Schilfland.
+
+Diese Waffe ist für Aggression geschaffen und erfordert das ganze Körpergewicht, um sie zu schwingen. Die Schnittangriffe ihrer scharfen Klinge verursachen Blutungen.</text>
+<text id="66510000">Vom Uralten Drachenmenschen der Drachengrube geführtes Großkatana, dessen Klinge mit Schottersteinen versehen ist.
+Hat einen Anti-Drachen-Effekt.
+
+Der Uralte Drachenmensch, ein ehemaliger Krieger der Drachenkommunion, war einst Vermittler derjenigen, die würdig waren, den Gefürchteten zu verschlingen.</text>
+<text id="66520000">Ein Großkatana mit für immer blutbefleckter Klinge. Waffe Rakshasas, der tötet und verschlingt.
+
+Die Waffe eines Berserkers, die gegnerische Angriffe aushält, um selbst mit vollem Zorn zurückzuschlagen. Beim Angriff sinkt die Wahrscheinlichkeit des Trägers, durch Abwehrkonter ins Taumeln zu geraten, er erleidet aber auch erhöhten Schaden.</text>
+<text id="67500000">Ein leichtes Großschwert; viel eher ein Schwert, dessen Klinge in ihrer Länge einem Großschwert ähnelt, obgleich sie auf minimales Gewicht reduziert wurde.
+Aufgrund des feinen Aussehens nach Adelsdamen benannt.
+
+Mit geübter Form lässt sich diese Waffe so geschmeidig führen wie ein gerades Schwert.</text>
+<text id="67500100">Ein leichtes Großschwert; viel eher ein Schwert, dessen Klinge in ihrer Länge einem Großschwert ähnelt, obgleich sie auf minimales Gewicht reduziert wurde.
+Aufgrund des feinen Aussehens nach Adelsdamen benannt.
+
+Mit geübter Form lässt sich diese Waffe so geschmeidig führen wie ein gerades Schwert.</text>
+<text id="67500200">Ein leichtes Großschwert; viel eher ein Schwert, dessen Klinge in ihrer Länge einem Großschwert ähnelt, obgleich sie auf minimales Gewicht reduziert wurde.
+Aufgrund des feinen Aussehens nach Adelsdamen benannt.
+
+Mit geübter Form lässt sich diese Waffe so geschmeidig führen wie ein gerades Schwert.</text>
+<text id="67500300">Ein leichtes Großschwert; viel eher ein Schwert, dessen Klinge in ihrer Länge einem Großschwert ähnelt, obgleich sie auf minimales Gewicht reduziert wurde.
+Aufgrund des feinen Aussehens nach Adelsdamen benannt.
+
+Mit geübter Form lässt sich diese Waffe so geschmeidig führen wie ein gerades Schwert.</text>
+<text id="67500400">Ein leichtes Großschwert; viel eher ein Schwert, dessen Klinge in ihrer Länge einem Großschwert ähnelt, obgleich sie auf minimales Gewicht reduziert wurde.
+Aufgrund des feinen Aussehens nach Adelsdamen benannt.
+
+Mit geübter Form lässt sich diese Waffe so geschmeidig führen wie ein gerades Schwert.</text>
+<text id="67500500">Ein leichtes Großschwert; viel eher ein Schwert, dessen Klinge in ihrer Länge einem Großschwert ähnelt, obgleich sie auf minimales Gewicht reduziert wurde.
+Aufgrund des feinen Aussehens nach Adelsdamen benannt.
+
+Mit geübter Form lässt sich diese Waffe so geschmeidig führen wie ein gerades Schwert.</text>
+<text id="67500600">Ein leichtes Großschwert; viel eher ein Schwert, dessen Klinge in ihrer Länge einem Großschwert ähnelt, obgleich sie auf minimales Gewicht reduziert wurde.
+Aufgrund des feinen Aussehens nach Adelsdamen benannt.
+
+Mit geübter Form lässt sich diese Waffe so geschmeidig führen wie ein gerades Schwert.</text>
+<text id="67500700">Ein leichtes Großschwert; viel eher ein Schwert, dessen Klinge in ihrer Länge einem Großschwert ähnelt, obgleich sie auf minimales Gewicht reduziert wurde.
+Aufgrund des feinen Aussehens nach Adelsdamen benannt.
+
+Mit geübter Form lässt sich diese Waffe so geschmeidig führen wie ein gerades Schwert.</text>
+<text id="67500800">Ein leichtes Großschwert; viel eher ein Schwert, dessen Klinge in ihrer Länge einem Großschwert ähnelt, obgleich sie auf minimales Gewicht reduziert wurde.
+Aufgrund des feinen Aussehens nach Adelsdamen benannt.
+
+Mit geübter Form lässt sich diese Waffe so geschmeidig führen wie ein gerades Schwert.</text>
+<text id="67500900">Ein leichtes Großschwert; viel eher ein Schwert, dessen Klinge in ihrer Länge einem Großschwert ähnelt, obgleich sie auf minimales Gewicht reduziert wurde.
+Aufgrund des feinen Aussehens nach Adelsdamen benannt.
+
+Mit geübter Form lässt sich diese Waffe so geschmeidig führen wie ein gerades Schwert.</text>
+<text id="67501000">Ein leichtes Großschwert; viel eher ein Schwert, dessen Klinge in ihrer Länge einem Großschwert ähnelt, obgleich sie auf minimales Gewicht reduziert wurde.
+Aufgrund des feinen Aussehens nach Adelsdamen benannt.
+
+Mit geübter Form lässt sich diese Waffe so geschmeidig führen wie ein gerades Schwert.</text>
+<text id="67501100">Ein leichtes Großschwert; viel eher ein Schwert, dessen Klinge in ihrer Länge einem Großschwert ähnelt, obgleich sie auf minimales Gewicht reduziert wurde.
+Aufgrund des feinen Aussehens nach Adelsdamen benannt.
+
+Mit geübter Form lässt sich diese Waffe so geschmeidig führen wie ein gerades Schwert.</text>
+<text id="67501200">Ein leichtes Großschwert; viel eher ein Schwert, dessen Klinge in ihrer Länge einem Großschwert ähnelt, obgleich sie auf minimales Gewicht reduziert wurde.
+Aufgrund des feinen Aussehens nach Adelsdamen benannt.
+
+Mit geübter Form lässt sich diese Waffe so geschmeidig führen wie ein gerades Schwert.</text>
+<text id="67510000">Leichtes Großschwert mit Goldverzierungen.
+Waffe Ledas, der Nadelritterin.
+Verursacht Heiligschaden.
+
+Obwohl sie auf Spiegelglanz poliert wurde, stinkt die Klinge, die Leda bei der Säuberung innerhalb ihrer ritterlichen Truppe vornahm, noch immer nach vertrocknetem Blut.</text>
+<text id="67520000">Carianisches leichtes Großschwert mit blauen Schimmersteinen.
+Waffe Rellanas, der Zwillings-Mondritterin.
+
+Zwei Schwerter, die als einzelne Waffe fungieren. Bei zweihändiger Führung wird ein gerades Schwert mit eingravierter goldener Flamme in der linken Hand getragen.
+
+Hier, und nur hier, waren Mond und Feuer je zusammen.</text>
+<text id="68500000">Waffe in Form der Klaue einer fleischfressenden Bestie.
+Entfesselt für die Menschheit nicht nachvollziehbare Schnittangriffe.
+
+Eine Nachahmung der esoterischen Technik der Turmkrieger. Diejenigen, die diese Waffe führen, tun es, als wären sie von einer wilden Bestie besessen.</text>
+<text id="68500100">Waffe in Form der Klaue einer fleischfressenden Bestie.
+Entfesselt für die Menschheit nicht nachvollziehbare Schnittangriffe.
+
+Eine Nachahmung der esoterischen Technik der Turmkrieger. Diejenigen, die diese Waffe führen, tun es, als wären sie von einer wilden Bestie besessen.</text>
+<text id="68500200">Waffe in Form der Klaue einer fleischfressenden Bestie.
+Entfesselt für die Menschheit nicht nachvollziehbare Schnittangriffe.
+
+Eine Nachahmung der esoterischen Technik der Turmkrieger. Diejenigen, die diese Waffe führen, tun es, als wären sie von einer wilden Bestie besessen.</text>
+<text id="68500300">Waffe in Form der Klaue einer fleischfressenden Bestie.
+Entfesselt für die Menschheit nicht nachvollziehbare Schnittangriffe.
+
+Eine Nachahmung der esoterischen Technik der Turmkrieger. Diejenigen, die diese Waffe führen, tun es, als wären sie von einer wilden Bestie besessen.</text>
+<text id="68500400">Waffe in Form der Klaue einer fleischfressenden Bestie.
+Entfesselt für die Menschheit nicht nachvollziehbare Schnittangriffe.
+
+Eine Nachahmung der esoterischen Technik der Turmkrieger. Diejenigen, die diese Waffe führen, tun es, als wären sie von einer wilden Bestie besessen.</text>
+<text id="68500500">Waffe in Form der Klaue einer fleischfressenden Bestie.
+Entfesselt für die Menschheit nicht nachvollziehbare Schnittangriffe.
+
+Eine Nachahmung der esoterischen Technik der Turmkrieger. Diejenigen, die diese Waffe führen, tun es, als wären sie von einer wilden Bestie besessen.</text>
+<text id="68500600">Waffe in Form der Klaue einer fleischfressenden Bestie.
+Entfesselt für die Menschheit nicht nachvollziehbare Schnittangriffe.
+
+Eine Nachahmung der esoterischen Technik der Turmkrieger. Diejenigen, die diese Waffe führen, tun es, als wären sie von einer wilden Bestie besessen.</text>
+<text id="68500700">Waffe in Form der Klaue einer fleischfressenden Bestie.
+Entfesselt für die Menschheit nicht nachvollziehbare Schnittangriffe.
+
+Eine Nachahmung der esoterischen Technik der Turmkrieger. Diejenigen, die diese Waffe führen, tun es, als wären sie von einer wilden Bestie besessen.</text>
+<text id="68500800">Waffe in Form der Klaue einer fleischfressenden Bestie.
+Entfesselt für die Menschheit nicht nachvollziehbare Schnittangriffe.
+
+Eine Nachahmung der esoterischen Technik der Turmkrieger. Diejenigen, die diese Waffe führen, tun es, als wären sie von einer wilden Bestie besessen.</text>
+<text id="68500900">Waffe in Form der Klaue einer fleischfressenden Bestie.
+Entfesselt für die Menschheit nicht nachvollziehbare Schnittangriffe.
+
+Eine Nachahmung der esoterischen Technik der Turmkrieger. Diejenigen, die diese Waffe führen, tun es, als wären sie von einer wilden Bestie besessen.</text>
+<text id="68501000">Waffe in Form der Klaue einer fleischfressenden Bestie.
+Entfesselt für die Menschheit nicht nachvollziehbare Schnittangriffe.
+
+Eine Nachahmung der esoterischen Technik der Turmkrieger. Diejenigen, die diese Waffe führen, tun es, als wären sie von einer wilden Bestie besessen.</text>
+<text id="68501100">Waffe in Form der Klaue einer fleischfressenden Bestie.
+Entfesselt für die Menschheit nicht nachvollziehbare Schnittangriffe.
+
+Eine Nachahmung der esoterischen Technik der Turmkrieger. Diejenigen, die diese Waffe führen, tun es, als wären sie von einer wilden Bestie besessen.</text>
+<text id="68501200">Waffe in Form der Klaue einer fleischfressenden Bestie.
+Entfesselt für die Menschheit nicht nachvollziehbare Schnittangriffe.
+
+Eine Nachahmung der esoterischen Technik der Turmkrieger. Diejenigen, die diese Waffe führen, tun es, als wären sie von einer wilden Bestie besessen.</text>
+<text id="68510000">Unveränderte Klaue eines großen roten Bären, dessen Name dem Wahnsinn zum Opfer fiel.
+
+Nachdem er den Bären in einem blutigen Kampf erlegte, wurde er von dem ungetrübten Ruhm seiner rohen Kraft fasziniert.
+"Ich wünsche mir ein Bär zu sein, nicht mehr und nicht weniger."</text>
+</entries>
+</fmg>

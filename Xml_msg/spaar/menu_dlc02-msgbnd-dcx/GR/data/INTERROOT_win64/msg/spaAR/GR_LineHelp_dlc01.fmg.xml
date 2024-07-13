@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="110601">Elige si marcar o no los objetos nuevos con un ícono.</text>
+<text id="110602">%null%</text>
+<text id="110603">Mostrar u ocultar la pestaña de objetos recientes en el menú de inventario.</text>
+<text id="111024">Configurar el movimiento del cursor en el menú de mapa.</text>
+<text id="111025">Cambiar valor de la sensibilidad del mouse al cambiar de objetivo</text>
+<text id="225001">Elige una habilidad de Bayle para hacerla tuya</text>
+<text id="241501">Configurar la visualización de estado del modo multijugador.</text>
+<text id="241502">Ver la lista de grupos de invocaciones y activar o desactivar grupos.</text>
+<text id="241503">Ver lista de controles</text>
+<text id="241504">Ver la explicación del menú de mapa.</text>
+<text id="241600">Seleccionar grupos de invocaciones para activar o desactivar.</text>
+<text id="280600">Mostrar el menú de mapa.</text>
+</entries>
+</fmg>

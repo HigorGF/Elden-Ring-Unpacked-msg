@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="280004">일부 조작은 메뉴 조작과 중복시킬 수 없습니다.
+설정을 확인해주십시오.</text>
+<text id="401130">필요한 DLC를 찾을 수 없습니다.
+
+&lt;?requiredDlcList?&gt;
+
+DLC를 다시 설치할 때까지
+이 프로필을 불러올 수 없습니다.</text>
+<text id="401131">Shadow of the Erdtree</text>
+<text id="401406">Steamworks와의 통신에 실패했습니다: &lt;?errcodeSteam?&gt;
+타이틀 화면으로 돌아갑니다.</text>
+</entries>
+</fmg>
