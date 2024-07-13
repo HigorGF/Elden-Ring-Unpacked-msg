@@ -40,9 +40,5 @@ def findfiles(root, source = True):
 
 
 if __name__ == "__main__":
-    # p = subprocess.Popen(["C:/Users/Higor/Desktop/Yabber 1.3.1/Yabber.exe","D:/Higor Freitas/Projetos/Elden Ring Extract DLC language/ext_msg/araae/item.msgbnd.dcx"])
-    # returncode = p.wait()
-
-    
     root = str(input("Name the folder that will be looped: "))
     findfiles(root)
