@@ -6,7 +6,6 @@ def findfiles(root, source = True):
     looplist = os.listdir(root)
     for i in looplist:
         path = root+ '/' + i
-        #print(path)
         if(os.path.isfile(path)):
             print(os.path.splitext(path))
             if not (os.path.splitext(path)[1] == ".dcx"):
@@ -30,9 +29,5 @@ def findfiles(root, source = True):
 
 
 if __name__ == "__main__":
-    # p = subprocess.Popen(["C:/Users/Higor/Desktop/Yabber 1.3.1/Yabber.exe","D:/Higor Freitas/Projetos/Elden Ring Extract DLC language/ext_msg/araae/item.msgbnd.dcx"])
-    # returncode = p.wait()
-
-    
     root = str(input("Name the folder that will be looped: "))
     findfiles(root)
