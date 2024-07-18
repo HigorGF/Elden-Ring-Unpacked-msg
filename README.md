@@ -1,7 +1,7 @@
 # elden-ring-data/msg
 
 Fork of elden-ring-data/msg from elden-ring-playground
-see [elden-ring-data](https://github.com/elden-ring-data](https://github.com/elden-ring-data/msg/graphs/contributors)
+see https://github.com/elden-ring-data/msg
 
 - Everything Reextracted
 - DLC Included
