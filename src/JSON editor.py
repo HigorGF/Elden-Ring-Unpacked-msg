@@ -63,12 +63,11 @@ def findfiles(root, source = True):
 
 
 if __name__ == "__main__":
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    os.chdir(script_dir)
+    os.chdir("../")
 
-    jp = {"fmg": {"compression": "None", "version": "DarkSouls3", "bigendian": "False", 
-                  "entries": {
-                      "text": {"@id": "9", "#text": "asd"}
-                      
-                      }}}
-    root = "json_ext_ext_msg"
+    #root = str(input("Name the folder that will be looped: "))
+    root = "Json_msg"
     findfiles(root)
 

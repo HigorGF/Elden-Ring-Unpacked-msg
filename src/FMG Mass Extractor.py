@@ -30,5 +30,10 @@ def findfiles(root, source = True):
 
 
 if __name__ == "__main__":
-    root = str(input("Name the folder that will be looped: "))
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    os.chdir(script_dir)
+    os.chdir("../")
+
+    #root = str(input("Name the folder that will be looped: "))
+    root = "Fmg_msg"
     findfiles(root)
